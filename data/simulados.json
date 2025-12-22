@@ -727,5 +727,317 @@
       "t": "A execução e coleta de dados da atividade de fiscalização deve ser padronizada com base nos Elementos de Fiscalização, e as condutas observadas devem ser orientadas e corrigidas utilizando as providências administrativas previstas.",
       "a": "C"
     }
+  ],
+  "CF ANAC 22-12": [
+    {
+      "n": 1,
+      "t": "Uma das competências da SFI é subsidiar, com a produção de conhecimentos, a elaboração da Política Nacional de Inteligência.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "Por se tratarem de atividades de naturezas distintas, não devem ocorrer interações entre as atividades de Ação Fiscal e Vigilância Continuada, a fim de preservar a isonomia do procedimento.",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "Os documentos necessários para o desenvolvimento da Ação Fiscal circunscrevem- se aos RBAC e suas Instruções Suplementares, que são os documentos específicos de aviação civil.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "O transporte aéreo clandestino coloca em risco a segurança dos passageiros, mas não afeta a integridade do setor aéreo, o qual já tem uma reputação consolidada no Brasil.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "Além do domínio das leis e regulamentos, os servidores que atuam na Ação Fiscal devem possuir conhecimento acerca das áreas de operações e de aeronavegabilidade, bem como possuir habilidades e técnicas de investigação.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "Na ação fiscal, há uma margem de tolerância para certas ações que comprometam a segurança, desde que analisadas a frequência e a severidade das consequências.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "Violar procedimentos de segurança e realizar manutenção clandestina são exemplos de ilícitos administrativos, que podem ser enquadrados criminalmente.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "Adulterar horas voo em um livro de registros de aeronave é considerado fraude na aviação e pode acarretar pena de reclusão de 1 a 5 anos e multa.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "Na ação fiscal, as medidas administrativas devem seguir a hierarquia de providências, aplicando-se primeiramente as medidas preventivas, mesmo para infrações de maior gravidade.",
+      "a": "E"
+    },
+    {
+      "n": 10,
+      "t": "As medidas cautelares, como detenção, interdição, suspensão e apreensão, devem aplicadas quando há risco iminente à segurança de voo, à integridade física de pessoas, à coletividade, à ordem pública, à continuidade dos serviços prestados ou ao interesse público.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "No caso de aplicação de medida cautelar, como suspensão das atividades, o regulado somente poderá voltar a exercer a atividade após o julgamento do processo administrativo sancionador por parte da autoridade competente.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "O Termo de Cessação de Conduta, emitido pela ANAC, é um documento fundamental para a resolução de situações em que a implementação de medidas corretivas ou mitigadoras não é suficiente para cessar a conduta irregular ou restaurar o nível de segurança aceitável.",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "A apresentação do TCC suspende a tramitação do processo administrativo em curso na ANAC e implica confissão quanto à matéria de fato ou reconhecimento da ilicitude da conduta.",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "A suspensão punitiva pode ser aplicada por um período de até 180 dias que poderão ser prorrogados por igual período.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "A multa é a medida administrativa mais severa porque pune o infrator de forma pecuniária.",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Caso o regulado descumpra o TCC, ou seja, repita a prática irregular em até dois anos da assinatura do termo, será adotada nova medida cautelar e instaurado processo administrativo sancionador, com sugestão de cassação ou suspensão punitiva.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Dentre os resultados esperados com as ações fiscais, pode-se levar em conta a integração com as áreas de fiscalização, a efetividade na repressão dos ilícitos aeronáuticos e a contribuição para a melhoria dos índices de segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "Além de contribuir com a segurança da aviação, a ação fiscal resulta em melhorias para os processos e procedimentos da ANAC, através do contínuo aperfeiçoamento do arcabouço regulatório e da estrutura de supervisão da Agência.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "O Plano Anual de Fiscalização é realizado com o objetivo de priorizar a ação em locais de maior risco, otimizando os recursos da agência.",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "A prioridade de ação da fiscalização pode ser redefinida com base em novas denúncias recebidas, após a realização da verificação de admissibilidade.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "A Responsividade relacionada à fiscalização busca equilibrar a aplicação de sanções com a conformidade voluntária, e com relação à normatização, procura incluir o regulado no processo decisório.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "Em um ambiente onde é aplicada a Regulação Responsiva, as técnicas de Comando e Controle devem ser abolidas, pois suas características são incompatíveis com uma regulação adaptativa.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Na Regulação Responsiva não se pode aplicar sanções punitivas pesadas, uma vez que esse tipo de punição é característica do regime de Comando e Controle.",
+      "a": "E"
+    },
+    {
+      "n": 24,
+      "t": "Baseada em princípios comportamentais, a Regulação Responsiva busca conciliar a aplicação de punições e incentivos de acordo com o histórico de comportamento de cada regulado, adaptando-se a cada situação.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Em relação ao regulador, espera-se a transparência e a accountability, que remetem, respectivamente, à clareza e à acessibilidade da informação e à responsabilidade do regulador na aplicação das normas.",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "Garantir a regulação efetiva para a aviação civil de forma a permitir a inovação e a competitividade é um dos objetivos do Plano Estratégico da ANAC, que orienta a construção de um modelo responsivo e inteligente.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "Conforme os estudos do PPRR, foi constatado que a Regulação Responsiva resultou em problemas como elevado volume de processos sancionadores, insegurança dos julgadores em tomar decisões mais razoáveis e pouca discricionariedade frente à diversidade de regulados.",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "A Regulação Responsiva está aliada ao desenvolvimento contínuo das ferramentas de qualidade regulatória, com o objetivo de incorporar a responsividade nos processos normativos da Agência.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "Os profissionais credenciados são profissionais componentes dos quadros da Agência para realizar tarefas em localidades onde não há quantidade de servidores suficiente para suprir a demanda das atividades de certificação.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "O Código Brasileiro de Aeronáutica prevê o credenciamento de profissionais pela ANAC para que realizem a emissão de relatórios, pareceres e laudos que irão subsidiar o processo de certificação.",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "Os documentos que estabelecem os processos de credenciamento que devem ser seguidos para demonstrar os requisitos técnicos estabelecidos em RBAC são as Instruções Suplementares – IS.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "Os credenciamentos dos profissionais podem ser transferidos, mas as atividades permitidas aos examinadores são exaustivamente listadas nos documentos de credenciamento.",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "Os próprios exames e laudos/pareceres/relatórios realizados pelos credenciados servem de objeto para o servidor da ANAC realizar a vigilância continuada sobre o credenciado.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Aeronave é todo equipamento que consegue alçar voo por meios próprios, desde que seja através de reações aerodinâmicas.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "O certificado de aeronavegabilidade identifica cada aeronave que pretenda voar internacionalmente com um conjunto alfanumérico, conhecido como marcas de nacionalidade e matrícula.",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "Para que uma aeronave possa ter o direito de sobrevoo e pouso técnico em países signatários da Convenção de Chicago, deve, minimamente, possuir um Certificado de Matrícula e um Certificado de Aeronavegabilidade válidos.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Para que uma aeronave possa ter o direito de sobrevoo e pouso técnico em países signatários da Convenção de Chicago, deve, minimamente, possuir um Certificado de Matrícula e um Certificado de Aeronavegabilidade válidos.",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "A ANAC atua diretamente em todos os casos que envolvam atividade aeronáutica, independente do nível de risco, fiscalizando rigorosamente para garantir que nenhum acidente ou incidente ocorra.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "A Certificação de Projeto é exigida pela Convenção de Chicago e recomendada pelo CBA, sendo tratada no RBAC 21.",
+      "a": "E"
+    },
+    {
+      "n": 40,
+      "t": "Os processos de certificação de projeto, produção e aeronavegabilidade são regidos pelo RBAC 21. C",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Toda e qualquer aeronave deve possuir certificado de tipo para poder receber autorização de operação aérea, independente da categoria em que se enquadra.",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "Para alguns segmentos da aviação civil, como a experimental, a desportiva e aeronaves de projeto militar para uso civil, que não possuem certificação de projeto, o foco da certificação passa a ser a análise das condições de operação segura.",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "O RAB possui a função cartorial de emitir os certificados de Matrícula e Aeronavegabilidade e constituir a propriedade e garantias reais sobre aeronaves.",
+      "a": "E"
+    },
+    {
+      "n": 44,
+      "t": "As diretrizes do RAB são previstas no CBA, ficando a cargo da ANAC a sua administração, através da SAR.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Cada Estado possui um registro de aeronaves, sendo a ICAO o agente soberano sobre os procedimentos de registro de aeronaves para cada um dos Estados signatários.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "O Registro Aeronáutico Brasileiro realiza todo registro de atos, contratos e instrumentos sobre aeronaves civis brasileiras e estrangeiras.",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "O Registro Aeronáutico Brasileiro mantém os registros de todas as aeronaves em livro próprio, desde que elas ainda estejam ativas.",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "O RAB foi criado em 1925, mas somente em 1927 foi oficialmente registrada a primeira aeronave brasileira.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "A matrícula é uma medida inicial, cujo único objetivo é possibilitar a pintura da aeronave para facilitar a vistoria técnica inicial, não gerando direitos ou prerrogativas.",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "O RAB atua internacionalmente como o ponto de entrada autorizador para a transmissão de informações ao Registro Internacional, o qual foi criado através da Convenção da Cidade do Cabo.",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "O processo de certificação de produção leva cerca de um a três anos e possui quatro etapas: Requerimento; Análise e adequação de documentos; Avaliação inicial; e Emissão do Certificado de Organização de Produção.",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "Artigo aeronáutico pode ser uma aeronave, motor ou hélice; enquanto Produto é um material, parte, componente, processo ou aparelho.",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "O produto aeronáutico, de maneira geral, deve passar pelo processo de certificação de projeto, de produção e de operação, ou aeronavegabilidade, devendo, para este último, estar de acordo com um projeto aprovado.",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Organizações que fornecem componentes apenas para um fabricante (e não diretamente ao mercado) devem possuir um Certificado de Organização de Produção.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "Para a fabricação de peças e partes, o COP é sempre emitido em conjunto com o certificado do projeto.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "Para a certificação de qualquer produto ou artigo aeronáutico é necessário evidênciar a implementação do Sistema da Qualidade e comprovar a conformidade do 1° produto de série com o Projeto de Tipo de certificado.",
+      "a": "E"
+    },
+    {
+      "n": 57,
+      "t": "O certificado de projeto e de organização de produção podem, ambos, serem transferidos de uma empresa para outra, desde que a interessada comprove ter um sistema de qualidade equivalente ao da certificada.",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "O detentor de COP que fabrica peças pode obter aprovação da ANAC para instalar os itens por ele fabricados em qualquer aeronave em que a peça for utilizável.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "Sob nenhuma hipótese, uma organização de produção poderá fabricar um produto aeronáutico sem possuir um certificado de organização de produção reconhecido pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "Conforme a subparte F do RBAC 21, uma organização de produção pode fabricar um produto somente sob o certificado de tipo, no entanto, é requerido que ela obtenha o COP em até um ano.",
+      "a": "E"
+    },
+    {
+      "n": 61,
+      "t": "A produção conforme especificado na subparte F permite que o requerente fabrique o primeiro produto e demonstre à ANAC que seu sistema de qualidade é capaz de produzir o produto conforme o projeto aprovado, etapa necessária para a obtenção do COP.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A validade do COP e a frequência de realização das auditorias em organizações de produção são definidas com base nas características do produto e o desempenho do fabricante, variando a validade de 12 a 36 meses e o intervalo das auditorias de 3 a 18 meses.",
+      "a": "C"
+    }
   ]
 }

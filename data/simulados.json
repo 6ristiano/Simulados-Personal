@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "CF ANAC 18-12": [
+=======
+  "CF/ANAC 18/12": [
+>>>>>>> 9fd673bf0e56a6ee0dbdc850aeccb50c335bfc22
     {
       "n": 1,
       "t": "A ANAC atua em diversas áreas, podendo-se destacar a regulação econômica, fiscalização de segurança operacional, certificação de aeronaves e aeroportos, formação e licenciamento de profissionais e o controle do espaço aéreo brasileiro.",
@@ -311,6 +315,7 @@
       "a": "E"
     }
   ],
+<<<<<<< HEAD
   "CF ANAC 19-12": [
     {
       "n": 1,
@@ -729,6 +734,9 @@
     }
   ],
   "CF ANAC 22-12": [
+=======
+  "CF/ANAC 19/12": [
+>>>>>>> 9fd673bf0e56a6ee0dbdc850aeccb50c335bfc22
     {
       "n": 1,
       "t": "Economia da regulação é o campo da economia que estuda “como” e “por que” os governos intervêm em mercados e setores específicos para corrigir falhas de mercado, promover justiça e melhorar a eficiência econômica.",

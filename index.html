@@ -136,7 +136,6 @@
 
       <div class="actions">
         <button id="checkBtn">Corrigir</button>
-        <button id="prevBtn">Voltar</button>
         <button id="nextBtn">Próxima</button>
         <button id="finishBtn">Finalizar</button>
         <button id="restartBtn" style="margin-left:auto;">Reiniciar</button>
@@ -185,7 +184,6 @@ const qNum = document.getElementById('qNum');
 const qText = document.getElementById('qText');
 
 const checkBtn = document.getElementById('checkBtn');
-const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
 const finishBtn = document.getElementById('finishBtn');
 const restartBtn = document.getElementById('restartBtn');
@@ -287,8 +285,6 @@ function isCurrentChecked(){
 function setButtons(){
   if(!simKey) return;
   const isLast = (idx === questions.length-1);
-
-  prevBtn.disabled = (idx === 0);
 
   if(mode === "simulado"){
     instantCheck.disabled = true;
@@ -428,14 +424,6 @@ function onAnswerChange(){
   saveState();
 }
 
-function prev(){
-  if(idx <= 0) return;
-  idx -= 1;
-  feedback.classList.add('hide');
-  render();
-  saveState();
-}
-
 function next(){
   if(idx === questions.length-1){
     finish();
@@ -525,7 +513,6 @@ function syncMode(){
 startBtn.addEventListener('click', startFresh);
 continueBtn.addEventListener('click', continueFromSaved);
 checkBtn.addEventListener('click', checkCurrent);
-prevBtn.addEventListener('click', prev);
 nextBtn.addEventListener('click', next);
 finishBtn.addEventListener('click', finish);
 restartBtn.addEventListener('click', restart);

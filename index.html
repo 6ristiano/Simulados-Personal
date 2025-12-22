@@ -1,0 +1,546 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simulados ANAC — C/E</title>
+  <style>
+    :root{
+      --bg:#0b0f17; --muted:#9fb0c7; --text:#eaf0ff;
+      --good:#18c37e; --bad:#ff5c7a; --line:rgba(255,255,255,.10);
+      --btn:#2a3b62; --btn2:#1d2a45;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background: radial-gradient(1200px 800px at 30% 0%, #132042 0%, var(--bg) 55%);
+      color:var(--text);
+      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial;
+    }
+    .wrap{max-width:1020px;margin:0 auto;padding:28px 18px 56px}
+    header{display:flex;gap:12px;justify-content:space-between;flex-wrap:wrap;align-items:flex-start;margin-bottom:14px}
+    h1{margin:0;font-size:22px}
+    .sub{margin:6px 0 0;color:var(--muted);font-size:14px;max-width:720px}
+    .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    select,button,input{font:inherit}
+    select{
+      background:var(--btn2);color:var(--text);
+      border:1px solid var(--line);border-radius:12px;
+      padding:10px 12px;outline:none;
+    }
+    button{
+      background:var(--btn);color:var(--text);
+      border:1px solid var(--line);border-radius:12px;
+      padding:10px 12px;cursor:pointer;
+    }
+    button:hover{filter:brightness(1.08)}
+    button:disabled{opacity:.45;cursor:not-allowed}
+    .ghost{background:transparent}
+    .card{
+      border:1px solid var(--line);border-radius:18px;
+      padding:18px;
+      background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.02));
+      box-shadow:0 10px 35px rgba(0,0,0,.25);
+    }
+    .meta{
+      display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between;
+      border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px;
+    }
+    .pill{
+      display:inline-flex;gap:8px;align-items:center;
+      padding:6px 10px;border-radius:999px;border:1px solid var(--line);
+      color:var(--muted);font-size:13px;background:rgba(0,0,0,.16);
+    }
+    .qnum{font-weight:800}
+    .qtext{white-space:pre-wrap}
+    .answers{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+    .opt{
+      border:1px solid var(--line);background:rgba(0,0,0,.18);
+      border-radius:14px;padding:10px 12px;cursor:pointer;user-select:none;
+      display:flex;gap:10px;align-items:center;
+    }
+    .opt input{width:18px;height:18px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+    .feedback{
+      margin-top:12px;padding:10px 12px;border-radius:14px;
+      border:1px solid var(--line);background:rgba(0,0,0,.22);
+    }
+    .feedback.good{border-color:rgba(24,195,126,.35)}
+    .feedback.bad{border-color:rgba(255,92,122,.35)}
+    .good{color:var(--good);font-weight:800}
+    .bad{color:var(--bad);font-weight:800}
+    .mini{font-size:13px;color:var(--muted)}
+    .review{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+    .chip{
+      border:1px solid var(--line);background:rgba(0,0,0,.18);
+      border-radius:999px;padding:6px 10px;cursor:pointer;font-size:13px;color:var(--text);
+    }
+    .chip:hover{filter:brightness(1.08)}
+    .hide{display:none}
+    .sep{height:1px;background:var(--line);margin:12px 0}
+    .loading{display:inline-flex; gap:8px; align-items:center}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Simulados ANAC — C/E</h1>
+      <div class="sub">
+        Escolha o simulado, responda <b>Certo</b> / <b>Errado</b> e veja a correção.
+        <br><span class="mini">Modo <b>Treino</b>: mostra gabarito na hora. Modo <b>Simulado</b>: só mostra no final. Progresso salvo automaticamente.</span>
+      </div>
+    </div>
+    <div class="row">
+      <select id="simSelect" disabled>
+        <option>Carregando…</option>
+      </select>
+
+      <select id="modeSelect" title="Modo">
+        <option value="treino">Treino (corrige na hora)</option>
+        <option value="simulado">Simulado (corrige no final)</option>
+      </select>
+
+      <button id="continueBtn" class="ghost" disabled>Continuar</button>
+      <button id="startBtn" disabled>Começar</button>
+    </div>
+  </header>
+
+  <div class="card">
+    <div class="meta">
+      <div class="row">
+        <span class="pill">📌 <span id="simTitle">—</span></span>
+        <span class="pill">🧾 <span id="progress">0/0</span></span>
+        <span class="pill">✅ <span id="score">Acertos: 0</span></span>
+      </div>
+
+      <div class="row">
+        <label class="pill" style="cursor:pointer;" title="No modo Treino, você pode exigir corrigir antes de avançar.">
+          <input type="checkbox" id="instantCheck" checked />
+          <span>Corrigir antes de avançar</span>
+        </label>
+        <span class="pill" id="saveStatus"><span class="loading">⏳ carregando banco…</span></span>
+      </div>
+    </div>
+
+    <div id="emptyArea" class="mini">Carregando simulados…</div>
+
+    <div id="questionArea" class="hide">
+      <div class="qnum" id="qNum"></div>
+      <div class="qtext" id="qText"></div>
+
+      <div class="answers">
+        <label class="opt"><input type="radio" name="ans" value="C"/>Certo (C)</label>
+        <label class="opt"><input type="radio" name="ans" value="E"/>Errado (E)</label>
+      </div>
+
+      <div class="actions">
+        <button id="checkBtn">Corrigir</button>
+        <button id="nextBtn">Próxima</button>
+        <button id="finishBtn">Finalizar</button>
+        <button id="restartBtn" style="margin-left:auto;">Reiniciar</button>
+      </div>
+
+      <div id="feedback" class="feedback hide"></div>
+      <div class="mini" style="margin-top:10px;">Dica: seu progresso é salvo automaticamente neste navegador.</div>
+    </div>
+
+    <div id="resultArea" class="hide">
+      <h2 style="margin:0 0 8px;font-size:18px;">Resultado</h2>
+      <div class="feedback" id="finalBox"></div>
+
+      <div class="sep"></div>
+
+      <div class="mini"><b>Erradas</b> (clique para revisar):</div>
+      <div class="review" id="wrongList"></div>
+
+      <div class="sep"></div>
+
+      <div class="mini"><b>Em branco</b> (não respondidas):</div>
+      <div class="review" id="blankList"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+let DB = null;
+
+const simSelect = document.getElementById('simSelect');
+const modeSelect = document.getElementById('modeSelect');
+const startBtn = document.getElementById('startBtn');
+const continueBtn = document.getElementById('continueBtn');
+
+const simTitle = document.getElementById('simTitle');
+const progress = document.getElementById('progress');
+const scoreEl = document.getElementById('score');
+const instantCheck = document.getElementById('instantCheck');
+const saveStatus = document.getElementById('saveStatus');
+
+const emptyArea = document.getElementById('emptyArea');
+const questionArea = document.getElementById('questionArea');
+const resultArea = document.getElementById('resultArea');
+
+const qNum = document.getElementById('qNum');
+const qText = document.getElementById('qText');
+
+const checkBtn = document.getElementById('checkBtn');
+const nextBtn = document.getElementById('nextBtn');
+const finishBtn = document.getElementById('finishBtn');
+const restartBtn = document.getElementById('restartBtn');
+const feedback = document.getElementById('feedback');
+
+const finalBox = document.getElementById('finalBox');
+const wrongList = document.getElementById('wrongList');
+const blankList = document.getElementById('blankList');
+
+let simKey=null;
+let questions=[];
+let idx=0;
+let answered=new Map(); // n -> {marked:"C"|"E", checked:bool}
+let mode="treino"; // treino|simulado
+
+function storageKey(k){ return "anac_simulados_v3::" + k; }
+function nowISO(){ return new Date().toISOString(); }
+
+function initSelect(){
+  simSelect.innerHTML="";
+  Object.keys(DB).forEach(k=>{
+    const opt=document.createElement('option');
+    opt.value=k;
+    opt.textContent = k + ` (${DB[k].length} questões)`;
+    simSelect.appendChild(opt);
+  });
+  simSelect.disabled = false;
+  startBtn.disabled = false;
+  saveStatus.textContent = "💾 sem progresso salvo";
+  emptyArea.textContent = "Escolha o simulado e clique em Começar. Se já estudou antes, clique em Continuar.";
+}
+
+function loadState(k){
+  try{
+    const raw = localStorage.getItem(storageKey(k));
+    if(!raw) return null;
+    return JSON.parse(raw);
+  } catch(e){ return null; }
+}
+
+function updateSaveStatus(){
+  if(!DB){ return; }
+  const st = loadState(simSelect.value);
+  if(st && st.savedAt){
+    const dt = new Date(st.savedAt);
+    saveStatus.textContent = "💾 salvo em " + dt.toLocaleString();
+    continueBtn.disabled = false;
+  } else {
+    saveStatus.textContent = "💾 sem progresso salvo";
+    continueBtn.disabled = true;
+  }
+}
+
+function saveState(){
+  if(!simKey) return;
+  const obj = {
+    simKey,
+    idx,
+    mode,
+    instant: !!instantCheck.checked,
+    answered: Array.from(answered.entries()),
+    savedAt: nowISO(),
+  };
+  try{
+    localStorage.setItem(storageKey(simKey), JSON.stringify(obj));
+  }catch(e){}
+  updateSaveStatus();
+}
+
+function clearRadios(){
+  document.querySelectorAll('input[name="ans"]').forEach(r=>r.checked=false);
+}
+function getMarked(){
+  const r=document.querySelector('input[name="ans"]:checked');
+  return r ? r.value : null;
+}
+function getCorrectCount(){
+  let c=0;
+  for(const q of questions){
+    const rec = answered.get(q.n);
+    if(rec && rec.marked && rec.marked === q.a) c++;
+  }
+  return c;
+}
+
+function updateMeta(){
+  simTitle.textContent = simKey || "—";
+  progress.textContent = simKey ? `${Math.min(idx+1, questions.length)}/${questions.length}` : "0/0";
+  const score = simKey ? getCorrectCount() : 0;
+  scoreEl.textContent = `Acertos: ${score}`;
+}
+
+function isCurrentChecked(){
+  const q=questions[idx];
+  const rec=answered.get(q.n);
+  return !!(rec && rec.checked);
+}
+
+function setButtons(){
+  if(!simKey) return;
+  const isLast = (idx === questions.length-1);
+
+  if(mode === "simulado"){
+    instantCheck.disabled = true;
+    checkBtn.disabled = true;
+    nextBtn.disabled = false;
+    nextBtn.textContent = isLast ? "Terminar" : "Próxima";
+    feedback.classList.add('hide');
+    return;
+  }
+
+  instantCheck.disabled = false;
+  checkBtn.disabled = isCurrentChecked();
+  nextBtn.disabled = instantCheck.checked ? !isCurrentChecked() : false;
+  nextBtn.textContent = isLast ? "Terminar" : "Próxima";
+}
+
+function showFeedback(){
+  if(mode === "simulado"){
+    feedback.classList.add('hide');
+    return;
+  }
+  const q=questions[idx];
+  const rec=answered.get(q.n);
+  if(!rec || !rec.checked){
+    feedback.classList.add('hide');
+    return;
+  }
+  const marked = rec.marked;
+  const correct = (marked === q.a);
+
+  feedback.classList.remove('hide');
+  feedback.classList.toggle('good', correct===true);
+  feedback.classList.toggle('bad', correct===false);
+
+  const label = correct ? "✅ Correto" : "❌ Errado";
+  const correctTxt = q.a==="C" ? "Certo (C)" : "Errado (E)";
+  const markedTxt  = marked==="C" ? "Certo (C)" : "Errado (E)";
+  feedback.innerHTML = `
+    <div><span class="${correct ? "good":"bad"}">${label}</span> — você marcou <b>${markedTxt}</b>. Gabarito: <b>${correctTxt}</b>.</div>
+    <div class="mini" style="margin-top:6px;">Você pode mudar a resposta: marque a outra opção e clique em Corrigir de novo.</div>
+  `;
+}
+
+function render(){
+  const q=questions[idx];
+  qNum.textContent = `Questão ${q.n}`;
+  qText.textContent = q.t;
+
+  clearRadios();
+  const rec=answered.get(q.n);
+  if(rec && rec.marked){
+    const el=document.querySelector(`input[name="ans"][value="${rec.marked}"]`);
+    if(el) el.checked=true;
+  }
+
+  updateMeta();
+  setButtons();
+  showFeedback();
+}
+
+function startFresh(){
+  simKey = simSelect.value;
+  questions = DB[simKey].slice();
+  idx=0;
+  answered=new Map();
+  mode = modeSelect.value;
+
+  emptyArea.classList.add('hide');
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  feedback.classList.add('hide');
+
+  instantCheck.checked = true;
+  saveState();
+  render();
+}
+
+function continueFromSaved(){
+  const k = simSelect.value;
+  const st = loadState(k);
+  if(!st) return;
+
+  simKey = st.simKey;
+  questions = DB[simKey].slice();
+  idx = Math.max(0, Math.min(st.idx || 0, questions.length-1));
+  mode = st.mode || "treino";
+  modeSelect.value = mode;
+
+  instantCheck.checked = (st.instant !== false);
+  answered = new Map((st.answered || []).map(([n,v]) => [parseInt(n,10), v]));
+
+  emptyArea.classList.add('hide');
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  feedback.classList.add('hide');
+
+  render();
+  updateSaveStatus();
+}
+
+function checkCurrent(){
+  if(mode === "simulado") return;
+
+  const q=questions[idx];
+  const marked=getMarked();
+  if(!marked){
+    feedback.classList.remove('hide');
+    feedback.classList.remove('good','bad');
+    feedback.innerHTML = `<span class="bad">Selecione</span> Certo (C) ou Errado (E) antes de corrigir.`;
+    return;
+  }
+
+  answered.set(q.n, {marked, checked: true});
+  updateMeta();
+  setButtons();
+  showFeedback();
+  saveState();
+}
+
+function onAnswerChange(){
+  if(!simKey) return;
+  const q=questions[idx];
+  const marked=getMarked();
+  if(!marked) return;
+
+  if(mode === "simulado"){
+    answered.set(q.n, {marked, checked: false});
+    updateMeta();
+    saveState();
+    return;
+  }
+
+  answered.set(q.n, {marked, checked: false});
+  feedback.classList.add('hide');
+  updateMeta();
+  setButtons();
+  saveState();
+}
+
+function next(){
+  if(idx === questions.length-1){
+    finish();
+    return;
+  }
+  idx += 1;
+  feedback.classList.add('hide');
+  render();
+  saveState();
+}
+
+function finish(){
+  questionArea.classList.add('hide');
+  resultArea.classList.remove('hide');
+
+  const total = questions.length;
+  const correct = getCorrectCount();
+  const pct = Math.round((correct/total)*100);
+
+  finalBox.classList.remove('good','bad');
+  finalBox.classList.add(pct >= 70 ? 'good' : 'bad');
+  finalBox.innerHTML = `
+    <div><b>${simKey}</b> — modo <b>${mode === "treino" ? "Treino" : "Simulado"}</b></div>
+    <div style="margin-top:6px;">Acertos: <b>${correct}</b> de <b>${total}</b> — <b>${pct}%</b></div>
+    <div class="mini" style="margin-top:6px;">Clique em uma questão abaixo para revisar.</div>
+  `;
+
+  wrongList.innerHTML = "";
+  blankList.innerHTML = "";
+
+  const wrong = [];
+  const blank = [];
+  for(const q of questions){
+    const rec = answered.get(q.n);
+    if(!rec || !rec.marked){ blank.push(q.n); continue; }
+    if(rec.marked !== q.a) wrong.push(q.n);
+  }
+
+  function makeChip(n, container){
+    const b=document.createElement('button');
+    b.className="chip";
+    b.textContent = `Revisar ${n}`;
+    b.onclick=()=>review(n);
+    container.appendChild(b);
+  }
+
+  if(wrong.length===0){
+    const d=document.createElement('div'); d.className="mini";
+    d.textContent="Nenhuma errada.";
+    wrongList.appendChild(d);
+  } else wrong.forEach(n=>makeChip(n, wrongList));
+
+  if(blank.length===0){
+    const d=document.createElement('div'); d.className="mini";
+    d.textContent="Nenhuma em branco.";
+    blankList.appendChild(d);
+  } else blank.forEach(n=>makeChip(n, blankList));
+
+  saveState();
+}
+
+function review(n){
+  const pos = questions.findIndex(q=>q.n===n);
+  if(pos<0) return;
+  idx = pos;
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  render();
+  saveState();
+}
+
+function restart(){
+  if(simKey){
+    localStorage.removeItem(storageKey(simKey));
+  }
+  startFresh();
+  updateSaveStatus();
+}
+
+function syncMode(){
+  mode = modeSelect.value;
+  setButtons();
+  showFeedback();
+  saveState();
+}
+
+startBtn.addEventListener('click', startFresh);
+continueBtn.addEventListener('click', continueFromSaved);
+checkBtn.addEventListener('click', checkCurrent);
+nextBtn.addEventListener('click', next);
+finishBtn.addEventListener('click', finish);
+restartBtn.addEventListener('click', restart);
+
+modeSelect.addEventListener('change', syncMode);
+instantCheck.addEventListener('change', ()=>{ setButtons(); saveState(); });
+
+document.querySelectorAll('input[name="ans"]').forEach(r=>{
+  r.addEventListener('change', onAnswerChange);
+});
+
+simSelect.addEventListener('change', updateSaveStatus);
+
+async function boot(){
+  try{
+    const res = await fetch("data/simulados.json", { cache: "no-store" });
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    DB = await res.json();
+    initSelect();
+    updateSaveStatus();
+    updateMeta();
+  }catch(e){
+    saveStatus.textContent = "⚠️ erro ao carregar data/simulados.json";
+    emptyArea.textContent = "Erro ao carregar simulados. Verifique se 'data/simulados.json' está no repo.";
+    console.error(e);
+  }
+}
+boot();
+</script>
+</body>
+</html>

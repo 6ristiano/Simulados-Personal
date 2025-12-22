@@ -1,0 +1,526 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simulados ANAC — C/E</title>
+  <style>
+    :root{
+      --bg:#0b0f17; --muted:#9fb0c7; --text:#eaf0ff;
+      --good:#18c37e; --bad:#ff5c7a; --line:rgba(255,255,255,.10);
+      --btn:#2a3b62; --btn2:#1d2a45;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background: radial-gradient(1200px 800px at 30% 0%, #132042 0%, var(--bg) 55%);
+      color:var(--text);
+      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial;
+    }
+    .wrap{max-width:1020px;margin:0 auto;padding:28px 18px 56px}
+    header{display:flex;gap:12px;justify-content:space-between;flex-wrap:wrap;align-items:flex-start;margin-bottom:14px}
+    h1{margin:0;font-size:22px}
+    .sub{margin:6px 0 0;color:var(--muted);font-size:14px;max-width:720px}
+    .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    select,button,input{font:inherit}
+    select{
+      background:var(--btn2);color:var(--text);
+      border:1px solid var(--line);border-radius:12px;
+      padding:10px 12px;outline:none;
+    }
+    button{
+      background:var(--btn);color:var(--text);
+      border:1px solid var(--line);border-radius:12px;
+      padding:10px 12px;cursor:pointer;
+    }
+    button:hover{filter:brightness(1.08)}
+    button:disabled{opacity:.45;cursor:not-allowed}
+    .ghost{background:transparent}
+    .card{
+      border:1px solid var(--line);border-radius:18px;
+      padding:18px;
+      background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.02));
+      box-shadow:0 10px 35px rgba(0,0,0,.25);
+    }
+    .meta{
+      display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between;
+      border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px;
+    }
+    .pill{
+      display:inline-flex;gap:8px;align-items:center;
+      padding:6px 10px;border-radius:999px;border:1px solid var(--line);
+      color:var(--muted);font-size:13px;background:rgba(0,0,0,.16);
+    }
+    .qnum{font-weight:800}
+    .qtext{white-space:pre-wrap}
+    .answers{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+    .opt{
+      border:1px solid var(--line);background:rgba(0,0,0,.18);
+      border-radius:14px;padding:10px 12px;cursor:pointer;user-select:none;
+      display:flex;gap:10px;align-items:center;
+    }
+    .opt input{width:18px;height:18px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+    .feedback{
+      margin-top:12px;padding:10px 12px;border-radius:14px;
+      border:1px solid var(--line);background:rgba(0,0,0,.22);
+    }
+    .feedback.good{border-color:rgba(24,195,126,.35)}
+    .feedback.bad{border-color:rgba(255,92,122,.35)}
+    .good{color:var(--good);font-weight:800}
+    .bad{color:var(--bad);font-weight:800}
+    .mini{font-size:13px;color:var(--muted)}
+    .review{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+    .chip{
+      border:1px solid var(--line);background:rgba(0,0,0,.18);
+      border-radius:999px;padding:6px 10px;cursor:pointer;font-size:13px;color:var(--text);
+    }
+    .chip:hover{filter:brightness(1.08)}
+    .hide{display:none}
+    .sep{height:1px;background:var(--line);margin:12px 0}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Simulados ANAC — C/E</h1>
+      <div class="sub">
+        Escolha o simulado, responda <b>Certo</b> / <b>Errado</b> e veja a correção.
+        <br><span class="mini">Modo <b>Treino</b>: mostra gabarito na hora. Modo <b>Simulado</b>: só mostra no final. Progresso salvo automaticamente.</span>
+      </div>
+    </div>
+    <div class="row">
+      <select id="simSelect"></select>
+
+      <select id="modeSelect" title="Modo">
+        <option value="treino">Treino (corrige na hora)</option>
+        <option value="simulado">Simulado (corrige no final)</option>
+      </select>
+
+      <button id="continueBtn" class="ghost">Continuar</button>
+      <button id="startBtn">Começar</button>
+    </div>
+  </header>
+
+  <div class="card">
+    <div class="meta">
+      <div class="row">
+        <span class="pill">📌 <span id="simTitle">Selecione um simulado</span></span>
+        <span class="pill">🧾 <span id="progress">0/0</span></span>
+        <span class="pill">✅ <span id="score">Acertos: 0</span></span>
+      </div>
+
+      <div class="row">
+        <label class="pill" style="cursor:pointer;" title="No modo Treino, você pode exigir corrigir antes de avançar.">
+          <input type="checkbox" id="instantCheck" checked />
+          <span>Corrigir antes de avançar</span>
+        </label>
+        <span class="pill" id="saveStatus">💾 sem progresso salvo</span>
+      </div>
+    </div>
+
+    <div id="emptyArea" class="mini">Escolha o simulado e clique em <b>Começar</b>. Se você já estudou antes, clique em <b>Continuar</b>.</div>
+
+    <div id="questionArea" class="hide">
+      <div class="qnum" id="qNum"></div>
+      <div class="qtext" id="qText"></div>
+
+      <div class="answers">
+        <label class="opt"><input type="radio" name="ans" value="C"/>Certo (C)</label>
+        <label class="opt"><input type="radio" name="ans" value="E"/>Errado (E)</label>
+      </div>
+
+      <div class="actions">
+        <button id="checkBtn">Corrigir</button>
+        <button id="nextBtn">Próxima</button>
+        <button id="finishBtn">Finalizar</button>
+        <button id="restartBtn" style="margin-left:auto;">Reiniciar</button>
+      </div>
+
+      <div id="feedback" class="feedback hide"></div>
+      <div class="mini" style="margin-top:10px;">Dica: seu progresso é salvo automaticamente neste navegador.</div>
+    </div>
+
+    <div id="resultArea" class="hide">
+      <h2 style="margin:0 0 8px;font-size:18px;">Resultado</h2>
+      <div class="feedback" id="finalBox"></div>
+
+      <div class="sep"></div>
+
+      <div class="mini"><b>Erradas</b> (clique para revisar):</div>
+      <div class="review" id="wrongList"></div>
+
+      <div class="sep"></div>
+
+      <div class="mini"><b>Em branco</b> (não respondidas):</div>
+      <div class="review" id="blankList"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const DB = {"CF/ANAC 18/12": [{"n": 1, "t": "A ANAC atua em diversas áreas, podendo-se destacar a regulação econômica, fiscalização de segurança operacional, certificação de aeronaves e aeroportos, formação e licenciamento de profissionais e o controle do espaço aéreo brasileiro.", "a": "E"}, {"n": 2, "t": "Até o fim da década de 80, a aviação vivia em regime de rígido controle das tarifas e oferta de serviços, no qual as empresas aéreas operavam em regime de monopólios, com a presença de quatro linhas aéreas nacionais e cinco regionais.", "a": "C"}, {"n": 3, "t": "No início dos anos 90 começaram a emergir os movimentos de desregulação da aviação civil, que teve seu ápice no início dos anos 2000, com a liberdade de ofertas e liberdade tarifária, bem como a criação do DAC, que passou a regular a aviação no Brasil.", "a": "E"}, {"n": 4, "t": "Com a pandemia de COVID-19, vários impactos foram registrados no setor de transporte aéreo, incluindo a queda de 65,9% no tráfego aéreo global em 2020, se comparado com 2019.", "a": "C"}, {"n": 5, "t": "A recuperação do setor aéreo no pós-pandemia só começou em 2023, ano em que a vacina começou a ser aplicada em massa, possibilitando a flexibilização das medidas contingenciais.", "a": "E"}, {"n": 6, "t": "No início dos anos 2010 a responsabilidade por gerir e explorar todos os aeroportos brasileiros passou a ser da INFRAERO, uma vez que o regime de concessões não obteve sucesso no setor aéreo.", "a": "E"}, {"n": 7, "t": "De acordo com o CBAER, o sistema aeroportuário é constituído pelo conjunto de aeródromos brasileiros, com as pistas de pouso, pistas de táxi, pátio de estacionamento de aeronaves, terminais de carga e passageiros e as respectivas facilidades.", "a": "C"}, {"n": 8, "t": "Aeródromo é toda área destinada a pouso, decolagem e movimentação de aeronaves, subdividindo-se em civis e militares, sendo os civis classificados em públicos e privados.", "a": "C"}, {"n": 9, "t": "Os aeródromos civis somente podem ser utilizados mediante um cadastro realizado perante a ANAC.", "a": "C"}, {"n": 10, "t": "Os aeródromos privados somente podem ser utilizados para fins comerciais se houver autorização formal do proprietário.", "a": "E"}, {"n": 11, "t": "O DECEA, além das atribuições de defesa do espaço aéreo, também tem a missão de prover segurança e fluidez ao tráfego aéreo.", "a": "C"}, {"n": 12, "t": "A ANAC tem por atribuição institucional o trato dos diversos aspectos da segurança de voo, inclusive os níveis relativos à formação, ao aperfeiçoamento e à especialização do pessoal aeronavegante.", "a": "C"}, {"n": 13, "t": "A Convenção Internacional de Aviação Civil (CACI) foi realizada por iniciativa dos EUA, com a participação de 59 Estados, após a Segunda Guerra Mundial.", "a": "E"}, {"n": 14, "t": "A razão principal para que a CACI ocorresse foi que as aeronaves, antes usadas para fins militares, passaram a ser usadas para o transporte civil, fazendo-se necessária uma ordenação desse transporte.", "a": "C"}, {"n": 15, "t": "Ao final, 52 Estados assinaram a CACI, sob a condição de que os acordos seriam unilaterais e somente os EUA tivessem todas as liberdades do ar.", "a": "E"}, {"n": 16, "t": "O processo de negociação de um Acordo de Serviços Aéreos ocorre através de consultas entre as partes, chamadas de rodadas de negociações ou conversações aeronáuticas, podendo ser na modalidade convencional ou não convencional.", "a": "C"}, {"n": 17, "t": "Os documentos básicos de uma consulta são o ASA e o MOU, sendo o primeiro firmado entre autoridades de aviação e o segundo entre Governos.", "a": "E"}, {"n": 18, "t": "Os Templates (TASA) são modelos de uso obrigatório pelos Estados-membros da ICAO, na modalidade Bilateral, Regional e Multilateral, seguindo apenas modelos tradicionais de Acordos.", "a": "E"}, {"n": 19, "t": "O modelo de ASA adotado pelo Brasil apresenta artigos que podem ser definidos como gerais ou operacionais.", "a": "C"}, {"n": 20, "t": "O Brasil permite até a quinta liberdade para serviços mistos e até a sétima liberdade para serviços exclusivamente cargueiros.", "a": "E"}, {"n": 21, "t": "Apenas o Brasil adota capacidade livre em seus acordos, tendo todos os demais países adotado a capacidade restrita.", "a": "E"}, {"n": 22, "t": "A Convenção Internacional de Aviação Civil ocorreu em Montreal, no Canadá, atual sede da ICAO.", "a": "E"}, {"n": 23, "t": "O mandato da ICAO é auxiliar os países a alcançarem o maior grau possível de harmonização e uniformidade nas regulações e procedimentos de aviação civil.", "a": "C"}, {"n": 24, "t": "O Conselho da ICAO é composto por 36 países, eleitos a cada 2 anos pelo Secretariado, divididos em 3 grupos.", "a": "E"}, {"n": 25, "t": "O Conselho atua por meio de Comitês, que atuam em temas específicos, levando ao Conselho propostas de decisões sobre os assuntos de que tratam.", "a": "C"}, {"n": 26, "t": "A Comissão de Navegação Aérea, na qual o Brasil participa, é uma espécie de Comitê formado por 19 membros, os Comissários, que trabalham para avaliar todos os temas referentes à Segurança Operacional (Safety).", "a": "C"}, {"n": 27, "t": "O Secretariado propõe os regulamentos, manuais, procedimentos e normas feitas pela OACI, contando com técnicos indicados pelos países membros.", "a": "E"}, {"n": 28, "t": "Os regulamentos propostos pelos Painéis são avaliados por Comitês e, posteriormente, levados à aprovação do Conselho.", "a": "C"}, {"n": 29, "t": "Os Painéis possuem diversos representantes da ANAC, sendo dois deles presididos por membros brasileiros.", "a": "C"}, {"n": 30, "t": "Por ser um membro do Conselho da ICAO, o Brasil possui uma delegação permanente em Chicago, a DELBRASMONT, sendo o Assessor de Transporte Aéreo e o Secondee, chefiados pelo Ministério das Relações Exteriores.", "a": "E"}, {"n": 31, "t": "As SARP, um dos pontos mais importantes da ICAO, servem para harmonizar as normas entre os países, gerar sustentabilidade ambiental, aumentar a segurança da aviação civil e segurança contra atos de interferência ilícita.", "a": "C"}, {"n": 32, "t": "A Assessoria de Relações Internacionais (ASINT) da Superintendência de Governança e Meio Ambiente (SGM) elabora mensalmente o Plano de Atuação Internacional, o qual define os parâmetros para participação nas missões internacionais e de representação internacional, dando transparência à atuação da Agência.", "a": "E"}, {"n": 33, "t": "As Políticas Públicas para o setor de aviação no Brasil ficam a cargo do MPOR, através da SAC e do Ministério da Defesa, através do DECEA, subordinado ao COMAER.", "a": "C"}, {"n": 34, "t": "O Conselho de Aviação Civil – CONAC – é um órgão de assessoramento do Presidente da República para a formulação da política de ordenação da aviação civil.", "a": "C"}, {"n": 35, "t": "Propor, apoiar e acompanhar as parcerias com a iniciativa privada, relativas às infraestruturas aeroportuária e aeronáutica civil, é uma das competências da SAC.", "a": "C"}, {"n": 36, "t": "Compete à SAC assessorar o Ministro de Estado na coordenação e na supervisão dos órgãos e das entidades do sistema de aviação civil, bem como acompanhar e monitorar a aplicação dos recursos do Fundo Nacional de Aviação Civil para investimentos em infraestruturas aeroportuária e aeronáutica civil.", "a": "C"}, {"n": 37, "t": "A PNT orienta as ações da SAC e a PNAC orienta as ações de toda a aviação civil brasileira.", "a": "C"}, {"n": 38, "t": "A promoção da segurança, proteção ao meio ambiente e o desenvolvimento da aviação civil são alguns dos objetivos da PNAC.", "a": "C"}, {"n": 39, "t": "A regulação é uma forma de intervenção estatal, com o objetivo de fazer com que o setor regulado funcione da maneira mais próxima possível da referência ideal.", "a": "C"}, {"n": 40, "t": "Dentre as motivações de natureza jurídica que justificam a regulação do setor aéreo estão a proteção a direitos como a universalização de acesso, a promoção da equidade e a existência de externalidades e a assimetria de informações.", "a": "E"}, {"n": 41, "t": "A regulação estatal da economia é o conjunto de medidas legislativas, administrativas, convencionais, materiais ou econômicas, abstratas ou concretas, pelas quais o Estado, de maneira restritiva da autonomia empresarial ou meramente indutiva, determina, controla ou influencia o comportamento dos agentes públicos.", "a": "E"}, {"n": 42, "t": "Na teoria regulatória do interesse privado, parte-se da ideia de que a regulação surge de ações dos indivíduos ou de grupos organizados, que atuam junto aos reguladores, motivados pela maximização de seus próprios interesses.", "a": "C"}, {"n": 43, "t": "O problema regulatório da captura é a situação em que o regulador age em prol dos interesses de grupos privados específicos, abandonando a busca por alcançar o interesse público.", "a": "C"}, {"n": 44, "t": "A partir da década de 1990, há a busca por regular de forma mais inteligente, através da Bad Regulation, deixando de lado as discussões sobre a necessidade de mais ou menos regulação.", "a": "E"}, {"n": 45, "t": "A partir dos anos 90, o Estado brasileiro abandona a prestação direta dos serviços públicos em diversos setores, concedendo a operação às empresas privadas.", "a": "C"}, {"n": 46, "t": "A Lei de Liberdade Econômica estabelece normas de proteção à livre iniciativa e ao livre exercício de atividade econômica e disposições sobre a atuação do Estado como agente normativo e regulador.", "a": "C"}, {"n": 47, "t": "A operação dos aeroportos no Brasil é realizada por entes privados (através de concessões públicas), pela Infraero (empresa pública), por estados ou municípios.", "a": "C"}, {"n": 48, "t": "Os serviços aéreos são considerados atividades econômicas de interesse privado, mas constituem um negócio de natureza pública.", "a": "E"}, {"n": 49, "t": "O sistema hub-and-spoke traz um efeito multiplicador para a conectividade da malha aérea, embora esse sistema possua algumas dificuldades associadas, como atrasos por congestionamentos nos hubs e necessidade de estrutura compatível com os horários de pico.", "a": "C"}, {"n": 50, "t": "As empresas aéreas possuem liberdade para escolherem as rotas em que vão operar e para definir os preços que serão praticados, sem que seja necessário registrar, junto à ANAC, os voos que planeja realizar.", "a": "E"}, {"n": 51, "t": "As companhias aéreas de baixo custo, ou low cost, costumam operar em aeroportos principais para poder aproveitar ao máximo a conectividade dos voos e gerar ganho de receitas com a grande movimentação de passageiros.", "a": "E"}, {"n": 52, "t": "Companhias aéreas regionais focam em voos de curta distância, muitas vezes operando como parceiros de companhias aéreas maiores, conectando passageiros de cidades menores a hubs maiores e combinam elementos de diferentes modelos de negócios, com características de companhias de baixo custo e de serviço completo.", "a": "E"}, {"n": 53, "t": "O controle econômico das empresas aéreas no Brasil pode ser feito com até 20% de capital estrangeiro, visando garantir a maior participação do capital nacional.", "a": "E"}, {"n": 54, "t": "Assim como na Nova Zelândia, no Brasil a medicina de aviação é uma especialização dentro da medicina ocupacional ou medicina do trabalho, sob as regras das NR’s elaboradas pelo Ministério do Trabalho e Emprego.", "a": "E"}, {"n": 55, "t": "A medicina ocupacional no Brasil se relaciona com o MTE, enquanto que a medicina na aviação fica a cargo da ANAC.", "a": "C"}, {"n": 56, "t": "O barotrauma advém de eventos decorrentes da baixa pressão atmosférica em que os gases no interior do corpo humano se expandem e podem causar traumas ou dor intensa, levando à incapacitação súbita em voo.", "a": "C"}, {"n": 57, "t": "Barossinusite é a dor que ocorre na testa ou na região ao redor do nariz, por causa do trauma decorrente do aumento de volume do gás aprisionado em um ou mais seios paranasais, o que ocorre geralmente na fase de aproximação e pouso.", "a": "E"}, {"n": 58, "t": "O sistema vestibular é comandado pelo labirinto, órgão responsável pelo equilíbrio, que fica na orelha externa e apresenta diversas estruturas denominadas sáculo, utrículo e os canais semicirculares, que detectam a aceleração linea e a aceleração angular do corpo e da cabeça.", "a": "E"}, {"n": 59, "t": "Mergulhadores que praticam mergulho do tipo SCUBA Diving costumam sofrer do estágio I da doença descompressiva, caracterizada por fortes dores de cabeça e alterações visuais.", "a": "E"}, {"n": 60, "t": "Após procedimento cirúrgico para retirada de parte do pulmão ou após pneumotórax é indicado esperar pelo menos 14 dias antes de voar.", "a": "E"}, {"n": 61, "t": "Autocinesi é a ilusão visual de deslocamento de ponto luminoso sobre um fundo escuro, principalmente quando há outras referências luminosas.", "a": "E"}, {"n": 62, "t": "O ruído é uma condição ambiental comum na atividade aérea pela presença do sistema motopropulsor da aeronave e, além do dano a longo prazo, pode causar incapacitação súbita no piloto e levar à perda de controle da aeronave.", "a": "E"}], "CF/ANAC 19/12": [{"n": 1, "t": "Economia da regulação é o campo da economia que estuda “como” e “por que” os governos intervêm em mercados e setores específicos para corrigir falhas de mercado, promover justiça e melhorar a eficiência econômica.", "a": "C"}, {"n": 2, "t": "A função da regulação econômica é promover o interesse público, viabilizando os investimentos públicos e garantindo o bem-estar dos consumidores por meio da disponibilidade e qualidade dos serviços, em condições adequadas de preço.", "a": "E"}, {"n": 3, "t": "São exemplos de falhas de governo os monopólios; oligopólios; externalidades, que são efeitos colaterais das atividades econômicas que afetam terceiros; bens públicos e informação assimétrica.", "a": "E"}, {"n": 4, "t": "As denominadas falhas de governo ocorrem devido às limitações de informação, aos interesses conflitantes e às restrições políticas.", "a": "C"}, {"n": 5, "t": "Em um mercado livre e competitivo, o preço de um bem tende a ser determinado pelo equilíbrio entre a oferta e a demanda.", "a": "C"}, {"n": 6, "t": "A rivalidade é um fator que ocorre exclusivamente entre produtores que desejam vender seus produtos ou serviços de mesma classe.", "a": "E"}, {"n": 7, "t": "No que diz respeito a modelos de negócio, as empresas brasileiras predominantes apresentam características de modelos tradicionais, com uso de hubs, programas de fidelidade, amenidades de voo, e de baixo custo, com cobrança de serviços adicionais, como assentos e bagagem despachada, e em alguns casos específicos similaridade de frota e uso de aeroportos secundários.", "a": "C"}, {"n": 8, "t": "Mesmo com suas peculiaridades, como grande necessidade de capital e economias de escala, é proibido haver oligopólios, duopólios ou monopólios atuando no setor aéreo.", "a": "E"}, {"n": 9, "t": "É defeso à ANAC, por ausência de competência legal, julgar ou aplicar qualquer tipo de sanção em função de supostas condutas anticompetitivas ou infrações contra a ordem econômica, devendo, caso identifique fato que configure ou possa configurar conduta anticompetitiva, encaminhar o caso para análise do CADE.", "a": "C"}, {"n": 10, "t": "São benefícios diretos trazidos pela concorrência a redução de preços, a melhoria na qualidade do serviço e a formação de monopólios regionais.", "a": "E"}, {"n": 11, "t": "Os maiores custos das companhias aéreas são relacionados a combustíveis e lubrificantes, que por sua vez, possuem preços sempre fixos devido às operações de hedge.", "a": "E"}, {"n": 12, "t": "O gerenciamento de receitas (Revenue management - RM) é a técnica que as empresas aéreas utilizam para gerenciar as vendas de assentos e a demanda de passagens pelos passageiros em busca de maior rentabilidade.", "a": "C"}, {"n": 13, "t": "A elasticidade-preço da demanda indica a sensibilidade do consumidor a variações no preço, como no caso dos viajantes a lazer, que seriam menos sensíveis a preço e teriam maior flexibilidade no planejamento de suas viagens.", "a": "E"}, {"n": 14, "t": "São distintas as situações de overbooking e preterição de embarque, uma vez que esta ocorre por venda de bilhetes além da capacidade da aeronave e aquela por outros fatores, como troca de aeronave por modelo de menor capacidade.", "a": "E"}, {"n": 15, "t": "O Yield é uma variável que considera o preço pago da tarifa por km rodado.", "a": "C"}, {"n": 16, "t": "De acordo com a teoria econômica da regulação, intervenções estatais somente devem ser aplicadas quando constatada uma falha de mercado e, em casos muito específicos, sob risco de representar uma falha de governo.", "a": "C"}, {"n": 17, "t": "As principais temáticas tratadas na ANAC são safety (segurança operacional), security (AVSEC), regulação econômica de aeroportos e acompanhamento do mercado de transporte aéreo, sendo os dois primeiros regulação econômica e os dois últimos são regulação técnica.", "a": "E"}, {"n": 18, "t": "No que tange à regulação econômica, cabe à ANAC monitorar e acompanhar o mercado, de forma a avaliar oportunidades de redução de entraves institucionais à promoção de mais concorrência, bem como punir eventuais desvios por parte dos operadores aéreos.", "a": "E"}, {"n": 19, "t": "A Agenda Regulatória da ANAC é um planejamento que promove a transparência e a participação da sociedade em relação aos temas prioritários para atuação da Agência, no que diz respeito ao desenvolvimento e atualização de normas do setor.", "a": "C"}, {"n": 20, "t": "Somente é permitido às empresas aéreas venderem seus serviços na modalidade unbundling, de forma que qualquer serviço acessório deve ser comercializado separado da tarifa da passagem aérea, como serviços de despacho de bagagem e marcação de assentos.", "a": "E"}, {"n": 21, "t": "Apenas a Administração Pública Direta tem competência para estabelecer regramentos que se reconduzem à atividade regulatória, através das Agências Reguladoras.", "a": "E"}, {"n": 22, "t": "Tal qual na prática legislativa e administrativa ordinárias, atividade regulatória é orientada pela busca de resultados eficientes, que compreendam o caso concreto e se atentam aos efeitos sinérgicos das decisões.", "a": "E"}, {"n": 23, "t": "Minimizar custos e distorções de mercado, promover inovações e compatibilizar-se com princípios que promovam o comércio e o investimento são aspectos da boa regulação, conforme a OCDE.", "a": "C"}, {"n": 24, "t": "A Avaliação de Impacto Regulatório (AIR) é a ferramenta elementar de qualidade regulatória, a qual compreende as dimensões antecedente e consequente quanto à elaboração e monitoramento de normas.", "a": "C"}, {"n": 25, "t": "A AIR somente é obrigatória quando o órgão regulador precisa avaliar os custos monetários da implementação da norma, sendo dispensada nos demais casos.", "a": "E"}, {"n": 26, "t": "A Lei nº 13.848/2019, conhecida como a Lei das Agências, obriga a realização de consulta pública no processo regulatório, pois o órgão regulador não detém a técnica e o conhecimento absolutos sobre o tema a ser tratado.", "a": "C"}, {"n": 27, "t": "A ARR fecha e recomeça o ciclo regulatório, pois é a partir de seus resultados que será analisada a necessidade de revisão, adequação, revogação ou manutenção da regulação vigente.", "a": "C"}, {"n": 28, "t": "A Agenda Regulatória é o instrumento de planejamento das agências reguladoras, com vigência anual, por meio da qual a agência planeja a atuação em áreas com maior necessidade de apoio regulatório.", "a": "E"}, {"n": 29, "t": "A regulação pode-se dizer que é uma ferramenta de indução de comportamento, em que o regulador induz o ente regulado a agir de acordo com o interesse público, ora utilizando mecanismos mais prescritivos, ora utilizando técnicas de indução de comportamento.", "a": "C"}, {"n": 30, "t": "O regulador deve avaliar qual abordagem utilizar, de acordo com o histórico de comportamento do ente regulado, sempre dando preferência para utilizar a abordagem de hard regulation, que é a mais importante devido ao seu caráter prescritivo.", "a": "E"}, {"n": 31, "t": "Através de parcerias realizadas com outras entidades, como o PPRR, realizado junta à UNB, a ANAC vem buscando inovar a sua abordagem regulatória, passando a incluir os entes regulados no processo regulatório, aproximando as entidades privadas das entidades públicas.", "a": "C"}, {"n": 32, "t": "É incontroverso afirmar que a regulação pelo contrato é amplamente utilizada pela ANAC nas concessões de aeroportos.", "a": "C"}, {"n": 33, "t": "A Administração Consensual é uma ferramenta regulatória estrita, na qual a Administração passa a ter um papel de mediadora, não executando atos de imposição, mas permitindo a colaboração dos indivíduos na busca pela resolução consensual de situações-problema.", "a": "E"}, {"n": 34, "t": "Tomar ações diretas sobre o mercado é uma forma de regulação, na qual o Estado insere-se no ambiente regulado, não com o poder normativo, mas também como um executor.", "a": "C"}, {"n": 35, "t": "Na escolha por qual instrumento regulatório se aplica melhor a cada caso, pode-se seguir uma sequência de cinco princípios, que definem a (1) utilização de um pacote de mecanismos que se completem, (2) optando por medidas menos interventivas, (3) utilizando instrumentos mais brandos, (4) incluindo e empoderando os participantes do mercado e (5) buscando por soluções ganha-ganha, alinhados a objetivos comuns.", "a": "C"}, {"n": 36, "t": "O conceito de Enforcement remete ao monitoramento por parte dos reguladores, que devem agir com foco exclusivo na detecção e punição de desrespeito às normas.", "a": "E"}, {"n": 37, "t": "As ações de enforcement envolvem os procedimentos relacionados à detecção e punição de desrespeito às normas regulamentares, enquanto compliance refere-se ao treinamento e conscientização, às advertências, persuasão e negociação.", "a": "E"}, {"n": 38, "t": "Compliance refere-se à disposição dos entes regulados em aderir às normas e às boas práticas de regulação.", "a": "C"}, {"n": 39, "t": "Do ponto de vista organizacional, as atividades de fiscalização recebem tratamento estratégico, sendo parte do macroprocesso da ANAC sob o título: “Gerir o arcabouço regulatório e promover o acesso a mercados internacionais”.", "a": "E"}, {"n": 40, "t": "A Lei Geral das Agências materializou mecanismos de governança regulatória, atribuindo às agências reguladoras diversas obrigações e procedimentos voltados a ampliar a transparência e participação, fortalecer a avaliação prévia das regulamentações e aprimorar o processo decisório.", "a": "C"}, {"n": 41, "t": "A AIR é uma etapa obrigatória do ciclo normativo para atos de interesse geral dos agentes econômicos, consumidores ou usuários dos serviços prestados, com obrigatoriedade, inclusive, de realização de consulta pública, não sendo obrigatório, no entanto, que a AIR em si seja disponibilizada para a sociedade.", "a": "E"}, {"n": 42, "t": "A IN 154 trata apenas das etapas 1 a 4 do ciclo normativo, que são a AIR, o Desenvolvimento da proposta, a Consulta Pública e a Deliberação final.", "a": "C"}, {"n": 43, "t": "O ciclo normativo começa com a AIR e termina com a ARR, que servirá de base para o recomeço do ciclo.", "a": "C"}, {"n": 44, "t": "A AIR é um instrumento de apoio à decisão da autoridade competente, mas não deve ser usada como ferramenta de roteirização para a construção da solução técnica.", "a": "E"}, {"n": 45, "t": "A AIR é a primeira etapa do ciclo regulatório, sendo o primeiro passo dessa etapa a proposição de possíveis alternativas para a solução do problema regulatório.", "a": "E"}, {"n": 46, "t": "Dentre as metodologias utilizadas para avaliar as alternativas propostas durante a realização de AIR, estão a Análise de custo, Análise Multicritério e Análise de Custo- benefício.", "a": "C"}, {"n": 47, "t": "A Análise de Resultado Regulatório é utilizada para medir os impactos de uma regulamentação antes de sua implementação.", "a": "E"}, {"n": 48, "t": "As ARR podem ser divididas em três tipos distintos: avaliação de processo, avaliação de impacto e avaliação econômica, devendo o regulador focar sua abordagem em apenas um tipo de avaliação para cada norma a ser analisada.", "a": "E"}, {"n": 49, "t": "As 4 principais categorias referentes à Participação Social são Construção, Compartilhamento, Coleta e Crítica.", "a": "C"}, {"n": 50, "t": "São incumbências da ANAC regular, autorizar, aprovar, conceder e fiscalizar produtos, aeronaves, serviços aéreos, operadores aéreos, organizações de instrução, manutenção, entre outros.", "a": "C"}, {"n": 51, "t": "A certificação tem como objetivo atestar o grau de confiança e o atendimento a requisitos estabelecidos em regulamentos internacionais de aviação.", "a": "C"}, {"n": 52, "t": "Tanto as superintendências finalísticas, quantos as que desempenham atividades- meio realizam atividades de certificação, como a Superintendência de Tecnologia da Informação, que certifica computadores para o uso nas unidades da Agência.", "a": "E"}, {"n": 53, "t": "As atividades de certificação e fiscalização da ANAC constituem o que a ICAO chama de \"Oversight Function\", que se traduz como supervisionar.", "a": "C"}, {"n": 54, "t": "O processo de certificação da ANAC, de modo geral, é composto por 5 fases e será concluído independente de haverem ou não pendências em qualquer de suas etapas.", "a": "E"}, {"n": 55, "t": "As etapas do processo de certificação na ANAC, de modo geral, são a Solicitação Prévia, a Solicitação Formal, a Avaliação de Documentos, Demonstrações e Inspeções e a fase de Certificação.", "a": "C"}, {"n": 56, "t": "A metodologia de Fiscalização Baseada em Risco é prevista pelo PSOE-ANAC e pelo CENIPA, órgão ao qual a SFI é subordinada.", "a": "E"}, {"n": 57, "t": "A duração padrão do ciclo de fiscalização é definida em função do perfil de risco do regulado, devendo cada ciclo ter a mesma duração para todos os tipos de perfis.", "a": "E"}, {"n": 58, "t": "O desempenho de segurança de um regulado muda continuamente ao longo do tempo, já o perfil de risco se mantém sempre o mesmo.", "a": "E"}, {"n": 59, "t": "Conforme suas competências, cada UDVD regula e fiscaliza atividades da aviação civil, estabelece o perfil de risco dos regulados e o respectivo agrupamento, bem como os indicadores que serão utilizados para monitorar o desempenho de segurança operacional.", "a": "C"}, {"n": 60, "t": "O perfil de risco serve de base para a definição das atividades de fiscalização e de seu intervalo, enquanto que o desempenho de segurança permite a customização das atividades, que é um dos principais componentes da Fiscalização Baseada em Risco.", "a": "C"}, {"n": 61, "t": "A customização das atividades somente levará em conta as características do regulado, independente de outros fatores externos.", "a": "E"}, {"n": 62, "t": "Na Fiscalização Baseada em Risco, uma das maneiras de se avaliar o nível de desempenho de segurança de uma organização é pela análise de seu SGSO.", "a": "C"}, {"n": 63, "t": "O ciclo da fiscalização baseada em risco começa com a análise do perfil de risco do regulado e termina com a interação entre os gestores dos regulados.", "a": "C"}, {"n": 64, "t": "Compete à ANAC regular e fiscalizar as atividades de aviação civil e de infraestrutura aeronáutica e aeroportuária, inclusive aquelas que tratam dos sistemas de controle do espaço aéreo e de investigação e prevenção de acidentes aeronáuticos.", "a": "E"}, {"n": 65, "t": "A ausência de subordinação hierárquica a outros órgãos da estrutura do Governo é um dos atributos conferidos às agências reguladoras pelo legislativo, a fim de que elas tenham independência para atuar de acordo com seu caráter técnico.", "a": "C"}, {"n": 66, "t": "O poder de polícia administrativa da ANAC se manifesta através da possibilidade de restringir liberdades individuais, sempre com vistas ao interesse público e segurança das operações aéreas.", "a": "C"}, {"n": 67, "t": "O ato de fiscalizar deve ser dividido em duas frentes: a de evitar transgressões e a de punir as transgressões.", "a": "C"}, {"n": 68, "t": "A fiscalização deve ser planejada para trazer benefícios positivos ao sistema de aviação e deve ter caráter arrecadatório, para gerar receita aos cofres públicos.", "a": "E"}, {"n": 69, "t": "O conceito de Regulação compreende três elementos fundamentais, os quais são a Regulamentação, a Certificação e a Fiscalização.", "a": "C"}, {"n": 70, "t": "A ANAC exerce a regulação nas áreas Técnica e Econômica, sendo a primeira ligada às questões de safety e security e a segunda diz respeito aos procedimentos que incentivam a eficiência e concorrência nos aeroportos e no transporte aéreo.", "a": "C"}, {"n": 71, "t": "A fiscalização na ANAC pode ser realizada somente pela SFI através da Ação Fiscal e da Vigilância Continuada.", "a": "E"}, {"n": 72, "t": "Dentre as sete superintendências finalísticas da ANAC, apenas a SFI tem como atribuição primária a realização de ação fiscal e inteligência, restringindo-se a essas atividades.", "a": "E"}, {"n": 73, "t": "No modelo de fiscalização descentralizado, as superintendências finalísticas da ANAC podem contar com a força de trabalho da SFI para executar seus planos de fiscalização, atuando nas atividades de Vigilância Continuada.", "a": "C"}, {"n": 74, "t": "O Compêndio de Elementos de Fiscalização – CEF é uma ferramenta de gestão da fiscalização, a qual serve como um guia orientativo para o agente da fiscalização.", "a": "C"}, {"n": 75, "t": "De acordo com a Instrução Normativa 101/2016, apenas os Especialistas em Regulação de Aviação Civil, Técnicos em Regulação de Aviação Civil, os ocupantes de cargos comissionados e os servidores do Quadro de Pessoal Específico podem realizar atividades de fiscalização.", "a": "C"}, {"n": 76, "t": "As atividades de lavratura de auto de infração; suspensão cautelar de certificados, licenças, concessões ou autorizações; detenção, interdição ou apreensão de aeronave, ou do material transportado são consideradas atividades de apoio à fiscalização, podendo ser realizadas por qualquer servidor da ANAC.", "a": "E"}, {"n": 77, "t": "Todos os servidores lotados na Agência podem participar de atividades de fiscalização, mas apenas os Especialistas podem adotar providências administrativas, cabendo aos outros servidores participar em atividades acessórias, que incluem o apoio técnico e a coleta de informações.", "a": "E"}, {"n": 78, "t": "As atividades acessórias da fiscalização incluem o apoio técnico e a coleta de informações, bem como a lavratura do auto de infração, que subsidiará o processo de apuração do processo sancionatório.", "a": "E"}, {"n": 79, "t": "A pirâmide regulatória é dividida em medidas preventivas (ACI e SRCI), sancionatórias (multa, suspensão e cassação) e acautelatórias (detenção, suspensão, apreensão), que são aplicadas quando há risco iminente.", "a": "C"}, {"n": 80, "t": "A SRCI se distingue do ACI pelo fato de exigir do regulado um prazo para a correção de conduta, o qual pode ser determinado pela ANAC ou ser sugerido pelo regulado, por meio de um Plano de Ação Corretiva (PAC), o qual tem de ser aprovado pela Agência, com a obrigatoriedade de o regulado comprovar a correção da conduta dentro do prazo “pactuado”.", "a": "C"}, {"n": 81, "t": "Caso o regulado descumpra o TCC, ou seja, repita a prática irregular em até dois anos da assinatura do termo, será adotada nova medida cautelar e instaurado processo administrativo sancionador, com sugestão de cassação ou suspensão punitiva.", "a": "C"}, {"n": 82, "t": "A aplicação de uma providência prevista já é suficiente e não poderá ser adotada outra medida para a coerção da prática infracional do regulado.", "a": "E"}, {"n": 83, "t": "A execução e coleta de dados da atividade de fiscalização deve ser padronizada com base nos Elementos de Fiscalização, e as condutas observadas devem ser orientadas e corrigidas utilizando as providências administrativas previstas.", "a": "C"}]};
+
+const simSelect = document.getElementById('simSelect');
+const modeSelect = document.getElementById('modeSelect');
+const startBtn = document.getElementById('startBtn');
+const continueBtn = document.getElementById('continueBtn');
+
+const simTitle = document.getElementById('simTitle');
+const progress = document.getElementById('progress');
+const scoreEl = document.getElementById('score');
+const instantCheck = document.getElementById('instantCheck');
+const saveStatus = document.getElementById('saveStatus');
+
+const emptyArea = document.getElementById('emptyArea');
+const questionArea = document.getElementById('questionArea');
+const resultArea = document.getElementById('resultArea');
+
+const qNum = document.getElementById('qNum');
+const qText = document.getElementById('qText');
+
+const checkBtn = document.getElementById('checkBtn');
+const nextBtn = document.getElementById('nextBtn');
+const finishBtn = document.getElementById('finishBtn');
+const restartBtn = document.getElementById('restartBtn');
+const feedback = document.getElementById('feedback');
+
+const finalBox = document.getElementById('finalBox');
+const wrongList = document.getElementById('wrongList');
+const blankList = document.getElementById('blankList');
+
+let simKey=null;
+let questions=[];
+let idx=0;
+let answered=new Map(); // n -> {marked:"C"|"E", checked:bool}
+let mode="treino"; // treino|simulado
+
+function storageKey(k){ return "anac_simulados_v2::" + k; }
+function nowISO(){ return new Date().toISOString(); }
+
+function initSelect(){
+  simSelect.innerHTML="";
+  Object.keys(DB).forEach(k=>{
+    const opt=document.createElement('option');
+    opt.value=k;
+    opt.textContent = k + ` (${DB[k].length} questões)`;
+    simSelect.appendChild(opt);
+  });
+}
+initSelect();
+
+function loadState(k){
+  try{
+    const raw = localStorage.getItem(storageKey(k));
+    if(!raw) return null;
+    return JSON.parse(raw);
+  } catch(e){ return null; }
+}
+
+function updateSaveStatus(){
+  const st = loadState(simSelect.value);
+  if(st && st.savedAt){
+    const dt = new Date(st.savedAt);
+    saveStatus.textContent = "💾 salvo em " + dt.toLocaleString();
+    continueBtn.disabled = false;
+  } else {
+    saveStatus.textContent = "💾 sem progresso salvo";
+    continueBtn.disabled = true;
+  }
+}
+
+function saveState(){
+  if(!simKey) return;
+  const obj = {
+    simKey,
+    idx,
+    mode,
+    instant: !!instantCheck.checked,
+    answered: Array.from(answered.entries()),
+    savedAt: nowISO(),
+  };
+  try{
+    localStorage.setItem(storageKey(simKey), JSON.stringify(obj));
+  }catch(e){}
+  updateSaveStatus();
+}
+
+function clearRadios(){
+  document.querySelectorAll('input[name="ans"]').forEach(r=>r.checked=false);
+}
+function getMarked(){
+  const r=document.querySelector('input[name="ans"]:checked');
+  return r ? r.value : null;
+}
+function getCorrectCount(){
+  let c=0;
+  for(const q of questions){
+    const rec = answered.get(q.n);
+    if(rec && rec.marked && rec.marked === q.a) c++;
+  }
+  return c;
+}
+
+function updateMeta(){
+  simTitle.textContent = simKey || "Selecione um simulado";
+  progress.textContent = simKey ? `${Math.min(idx+1, questions.length)}/${questions.length}` : "0/0";
+  const score = simKey ? getCorrectCount() : 0;
+  scoreEl.textContent = `Acertos: ${score}`;
+}
+
+function isCurrentChecked(){
+  const q=questions[idx];
+  const rec=answered.get(q.n);
+  return !!(rec && rec.checked);
+}
+
+function setButtons(){
+  if(!simKey) return;
+  const isLast = (idx === questions.length-1);
+
+  if(mode === "simulado"){
+    instantCheck.disabled = true;
+    checkBtn.disabled = true;
+    nextBtn.disabled = false;
+    nextBtn.textContent = isLast ? "Terminar" : "Próxima";
+    feedback.classList.add('hide');
+    return;
+  }
+
+  instantCheck.disabled = false;
+  checkBtn.disabled = isCurrentChecked();
+  nextBtn.disabled = instantCheck.checked ? !isCurrentChecked() : false;
+  nextBtn.textContent = isLast ? "Terminar" : "Próxima";
+}
+
+function showFeedback(){
+  if(mode === "simulado"){
+    feedback.classList.add('hide');
+    return;
+  }
+  const q=questions[idx];
+  const rec=answered.get(q.n);
+  if(!rec || !rec.checked){
+    feedback.classList.add('hide');
+    return;
+  }
+  const marked = rec.marked;
+  const correct = (marked === q.a);
+
+  feedback.classList.remove('hide');
+  feedback.classList.toggle('good', correct===true);
+  feedback.classList.toggle('bad', correct===false);
+
+  const label = correct ? "✅ Correto" : "❌ Errado";
+  const correctTxt = q.a==="C" ? "Certo (C)" : "Errado (E)";
+  const markedTxt  = marked==="C" ? "Certo (C)" : "Errado (E)";
+  feedback.innerHTML = `
+    <div><span class="${correct ? "good":"bad"}">${label}</span> — você marcou <b>${markedTxt}</b>. Gabarito: <b>${correctTxt}</b>.</div>
+    <div class="mini" style="margin-top:6px;">Você pode mudar a resposta: marque a outra opção e clique em Corrigir de novo.</div>
+  `;
+}
+
+function render(){
+  const q=questions[idx];
+  qNum.textContent = `Questão ${q.n}`;
+  qText.textContent = q.t;
+
+  clearRadios();
+  const rec=answered.get(q.n);
+  if(rec && rec.marked){
+    const el=document.querySelector(`input[name="ans"][value="${rec.marked}"]`);
+    if(el) el.checked=true;
+  }
+
+  updateMeta();
+  setButtons();
+  showFeedback();
+}
+
+function startFresh(){
+  simKey = simSelect.value;
+  questions = DB[simKey].slice();
+  idx=0;
+  answered=new Map();
+  mode = modeSelect.value;
+
+  emptyArea.classList.add('hide');
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  feedback.classList.add('hide');
+
+  instantCheck.checked = true;
+  saveState();
+  render();
+}
+
+function continueFromSaved(){
+  const k = simSelect.value;
+  const st = loadState(k);
+  if(!st) return;
+
+  simKey = st.simKey;
+  questions = DB[simKey].slice();
+  idx = Math.max(0, Math.min(st.idx || 0, questions.length-1));
+  mode = st.mode || "treino";
+  modeSelect.value = mode;
+
+  instantCheck.checked = (st.instant !== false);
+  answered = new Map((st.answered || []).map(([n,v]) => [parseInt(n,10), v]));
+
+  emptyArea.classList.add('hide');
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  feedback.classList.add('hide');
+
+  render();
+  updateSaveStatus();
+}
+
+function checkCurrent(){
+  if(mode === "simulado") return;
+
+  const q=questions[idx];
+  const marked=getMarked();
+  if(!marked){
+    feedback.classList.remove('hide');
+    feedback.classList.remove('good','bad');
+    feedback.innerHTML = `<span class="bad">Selecione</span> Certo (C) ou Errado (E) antes de corrigir.`;
+    return;
+  }
+
+  answered.set(q.n, {marked, checked: true});
+  updateMeta();
+  setButtons();
+  showFeedback();
+  saveState();
+}
+
+function onAnswerChange(){
+  if(!simKey) return;
+  const q=questions[idx];
+  const marked=getMarked();
+  if(!marked) return;
+
+  if(mode === "simulado"){
+    answered.set(q.n, {marked, checked: false});
+    updateMeta();
+    saveState();
+    return;
+  }
+
+  answered.set(q.n, {marked, checked: false}); // requires re-check
+  feedback.classList.add('hide');
+  updateMeta();
+  setButtons();
+  saveState();
+}
+
+function next(){
+  if(idx === questions.length-1){
+    finish();
+    return;
+  }
+  idx += 1;
+  feedback.classList.add('hide');
+  render();
+  saveState();
+}
+
+function finish(){
+  questionArea.classList.add('hide');
+  resultArea.classList.remove('hide');
+
+  const total = questions.length;
+  const correct = getCorrectCount();
+  const pct = Math.round((correct/total)*100);
+
+  finalBox.classList.remove('good','bad');
+  finalBox.classList.add(pct >= 70 ? 'good' : 'bad');
+  finalBox.innerHTML = `
+    <div><b>${simKey}</b> — modo <b>${mode === "treino" ? "Treino" : "Simulado"}</b></div>
+    <div style="margin-top:6px;">Acertos: <b>${correct}</b> de <b>${total}</b> — <b>${pct}%</b></div>
+    <div class="mini" style="margin-top:6px;">Clique em uma questão abaixo para revisar.</div>
+  `;
+
+  wrongList.innerHTML = "";
+  blankList.innerHTML = "";
+
+  const wrong = [];
+  const blank = [];
+  for(const q of questions){
+    const rec = answered.get(q.n);
+    if(!rec || !rec.marked){ blank.push(q.n); continue; }
+    if(rec.marked !== q.a) wrong.push(q.n);
+  }
+
+  function makeChip(n, container){
+    const b=document.createElement('button');
+    b.className="chip";
+    b.textContent = `Revisar ${n}`;
+    b.onclick=()=>review(n);
+    container.appendChild(b);
+  }
+
+  if(wrong.length===0){
+    const d=document.createElement('div'); d.className="mini";
+    d.textContent="Nenhuma errada.";
+    wrongList.appendChild(d);
+  } else wrong.forEach(n=>makeChip(n, wrongList));
+
+  if(blank.length===0){
+    const d=document.createElement('div'); d.className="mini";
+    d.textContent="Nenhuma em branco.";
+    blankList.appendChild(d);
+  } else blank.forEach(n=>makeChip(n, blankList));
+
+  saveState();
+}
+
+function review(n){
+  const pos = questions.findIndex(q=>q.n===n);
+  if(pos<0) return;
+  idx = pos;
+  resultArea.classList.add('hide');
+  questionArea.classList.remove('hide');
+  render();
+  saveState();
+}
+
+function restart(){
+  if(simKey){
+    localStorage.removeItem(storageKey(simKey));
+  }
+  startFresh();
+  updateSaveStatus();
+}
+
+function syncMode(){
+  mode = modeSelect.value;
+  setButtons();
+  showFeedback();
+  saveState();
+}
+
+startBtn.addEventListener('click', startFresh);
+continueBtn.addEventListener('click', continueFromSaved);
+checkBtn.addEventListener('click', checkCurrent);
+nextBtn.addEventListener('click', next);
+finishBtn.addEventListener('click', finish);
+restartBtn.addEventListener('click', restart);
+
+modeSelect.addEventListener('change', syncMode);
+instantCheck.addEventListener('change', ()=>{ setButtons(); saveState(); });
+
+document.querySelectorAll('input[name="ans"]').forEach(r=>{
+  r.addEventListener('change', onAnswerChange);
+});
+
+simSelect.addEventListener('change', updateSaveStatus);
+
+updateSaveStatus();
+updateMeta();
+</script>
+</body>
+</html>

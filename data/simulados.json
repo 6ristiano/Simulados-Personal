@@ -1040,7 +1040,7 @@
       "a": "C"
     }
   ],
-  "CF ANAC 23-12": [
+  "CF ANAC 23-12 corrigido": [
     {
       "n": 1,
       "t": "O termo “estar seguro” só pode ter um significado, que é a ausência de ameaças, sendo a certificação um meio disponível para garantir a segurança.",
@@ -1349,7 +1349,7 @@
     {
       "n": 62,
       "t": "A OM não pode subcontratar uma função de manutenção de uma pessoa não certificada, mesmo que ela siga um sistema de controle de qualidade equivalente ao seguido pela organização.",
-      "a": "C"
+      "a": "E"
     },
     {
       "n": 63,
@@ -1404,7 +1404,7 @@
     {
       "n": 73,
       "t": "Para IFR noturno, é requerida a iluminação dos instrumentos, assim como a disponibilização de lanternas para a tripulação e a presença de luzes externas (navegação, anticolisão e farol de pouso).",
-      "a": "E"
+      "a": "C"
     },
     {
       "n": 74,
@@ -1488,8 +1488,962 @@
     },
     {
       "n": 90,
-      "t": "O Plano de Trabalho Anual (PTA) é elaborado pela gerência responsável pela execução da fiscalização, a partir do Portfolio de Inspeções e do risco computado para os operadores. FELIZ NATAL!",
+      "t": "O Plano de Trabalho Anual (PTA) é elaborado pela gerência responsável pela execução da fiscalização, a partir do Portfolio de Inspeções e do risco computado para os operadores. GABARITO",
       "a": "C"
+    }
+  ],
+  "simulado pessoal CF ANAC 18-12": [
+    {
+      "n": 1,
+      "t": "O transporte aereo, como modalidade de transporte, destaca-se pela velocidade e pela capacidade de reduzir barreiras geograficas, mas costuma apresentar custo unitario maior do que modais terrestres para cargas de baixo valor. ( )",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "No transporte aereo, o custo marginal de um assento vazio e praticamente nulo apos a decolagem, o que explica a relevancia de gestao de receita e de ocupacao para companhias aereas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "O transporte aereo regular e aquele realizado com frequencia e horarios previamente publicados, enquanto o nao regular tende a ocorrer por demanda especifica, sem grade publica permanente. ( )",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Em rotas aereas, o modelo hub-and-spoke concentra fluxos em aeroportos concentradores para aumentar conectividade, ao passo que o ponto-a-ponto prioriza ligacoes diretas, reduzindo conexoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "No contexto economico do setor, aumento de taxa de ocupacao (load factor) sempre reduz a receita total, pois implica queda de tarifa media. ( )",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "A IATA e uma organizacao internacional intergovernamental com poder normativo equivalente ao da OACI, podendo impor obrigacoes diretamente aos Estados. ( )",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "A Convencao de Chicago (1944) estabeleceu bases para a aviacao civil internacional e originou o arranjo institucional que inclui a OACI como organizacao especializada do sistema ONU. ( )",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "Direitos de trafego (liberdades do ar) sao concedidos automaticamente a todas as empresas de todos os Estados signatarios da Convencao de Chicago, sem necessidade de acordos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "Primeira Liberdade corresponde ao direito de sobrevoar o territorio de outro Estado sem pousar. ( )",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "Segunda Liberdade corresponde ao direito de realizar escala tecnica (ex.: reabastecimento/manutencao) sem embarcar ou desembarcar passageiros ou carga. ( )",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Terceira e Quarta Liberdades tratam, respectivamente, de transportar passageiros/carga do Estado que designa a empresa para o outro Estado e do outro Estado para o Estado que designa a empresa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "Quinta Liberdade envolve transportar passageiros/carga entre o territorio do outro Estado e o territorio de um terceiro Estado, no ambito de um servico destinado ou proveniente do Estado que designa a empresa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "Oitava e Nona Liberdades sao formas de cabotagem (entre pontos no territorio do outro Estado), e a legislacao brasileira atual nao permite o exercicio de cabotagem (8a e 9a liberdades). ( )",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "A Sexta Liberdade e, em geral, interpretada como combinacao pratica de direitos associados a Terceira e Quarta Liberdades, envolvendo trafego via Estado intermediario. ( )",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "Acordos sobre servicos aereos (ASA) costumam tratar de temas como rotas, capacidade (frequencias/voos), designacao de empresas, tarifas, e clausulas de propriedade e controle das empresas designadas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "Em ASA, a clausula de designacao define o numero de empresas que um Estado pode designar e, em regra, condiciona a autorizacao ao cumprimento de requisitos do acordo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Acordos multilaterais sempre prevalecem sobre acordos bilaterais; por isso, os Estados, em regra, nao celebram ASA bilaterais. ( )",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "A negociacao de ASA tipicamente envolve intercambio de propostas, definicao de texto e anexos, e posterior assinatura, podendo incluir memorandos e atas de reuniao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "A OACI tem sede em Montreal (Canada) e, no sistema, a Assembleia e o orgao soberano, convocado ordinariamente a cada 3 anos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "O Conselho da OACI e o orgao executivo e, segundo o material, e composto por 36 Estados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "O Conselho supervisiona o trabalho do Secretariado e conduz os trabalhos da instituicao, incluindo a conducao de emendas aos Anexos e o trato de SARPs. ( )",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "A Assembleia da OACI e permanente e se reune semanalmente, enquanto o Conselho se reune a cada 3 anos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "A estrutura organizacional da OACI inclui, entre outros, Conselho, Secretariado, Comites e Comissoes, alem de escritorios regionais. ( )",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Politicas publicas podem ser gerais (ex.: politica nacional de transportes) e politicas especificas (ex.: politica nacional de aviacao civil), e planos tendem a detalhar a implementacao e investimentos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "O CONAC e citado como orgao ligado a formulacao/ordenacao da aviacao civil no Brasil, com funcoes de assessoramento e acompanhamento de diretrizes do setor. ( )",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "A PNAC e um exemplo de politica publica especifica do setor, enquanto a PNT e exemplo de politica generalista no campo dos transportes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "O Plano Aeroviario Nacional (PAN) e apresentado como instrumento de planejamento tatico da aviacao civil, e sua versao pode aparecer em consulta publica. ( )",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "A PNAC e um plano de investimentos com cronograma de obras e fontes de financiamento, enquanto o PAN e apenas um conjunto de principios abstratos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "Externalidades, assimetria de informacao, poder de mercado e bens publicos sao exemplos de falhas de mercado que podem justificar intervencao regulatoria. ( )",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "Motivacoes juridicas para regular podem incluir protecao de direitos fundamentais como universalizacao, equidade, privacidade, redistribuicao e nao discriminacao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "Pela definicao trabalhada no material, regulacao pode ocorrer por comandos restritivos, mas tambem por medidas indutivas e economicas; nao se limita a proibicoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "Teorias do interesse privado explicam a regulacao como sempre voltada ao interesse publico e imune a pressao de grupos organizados. ( )",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "A captura regulatoria descreve situacao em que o regulador passa a atuar por interesses privados especificos, afastando-se do interesse publico. ( )",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Abordagens institucionalistas enfatizam como desenho institucional, rotinas e interacoes influenciam decisoes regulatorias, alem de pressao social e economica. ( )",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "No Estado regulador brasileiro, agencias reguladoras surgem como arranjo institucional para regular setores, com caracteristicas como autonomia administrativa, financeira e decisoria, dentro dos limites legais. ( )",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "Em regra, agencias reguladoras no Brasil sao autarquias em regime especial, com dirigentes nomeados pelo chefe do Executivo e referendados pelo Legislativo, em modelo de diretoria colegiada. ( )",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "A independencia decisoria de uma agencia elimina qualquer forma de controle externo, inclusive controle judicial e controle por orgaos de fiscalizacao. ( )",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "Instrumentos como transparencia, participacao social e mecanismos de prestacao de contas aparecem como elementos de boas praticas de governanca regulatoria. ( )",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "A liberalizacao de oferta (rotas) e a liberdade tarifaria influenciam a atuacao das empresas aereas, afetando estrategias comerciais e concorrencia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Companhias aereas low-cost carriers (LCC) se caracterizam, em geral, por estrutura de custos reduzida e simplificacao de servicos, enquanto full-service carriers (FSC/legacy) tendem a oferecer maior escopo de servicos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "A classificacao de companhias (carga, regionais, nicho, hibridas) ajuda a compreender estrategias e posicionamentos, mas nao altera o fato de todas operarem em ambiente sem regulacao alguma. ( )",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "Fatores como combustivel, cambio, custos aeroportuarios, regulacao e demanda influenciam a atuacao das empresas aereas e o nivel de oferta de voos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "No contexto medico-aeronautico, o hipobarismo (reduzida pressao atmosferica) esta associado a riscos como hipoxia e transtornos por variacao de pressao em cavidades, como barotite. ( )",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Barotite e um transtorno tipico de hipobarismo e pode ocorrer por dificuldade de equalizacao de pressao no ouvido medio. ( )",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "A doenca descompressiva pode se manifestar com dor articular e sintomas neurologicos e esta associada a reducao de pressao, sobretudo quando ha nitrogenio dissolvido nos tecidos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "O ruido e condicao ambiental comum na atividade aerea e pode afetar audicao e desempenho, motivo pelo qual limites e protecao sao relevantes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "A variacao de aceleracao (G) pode afetar sistema circulatorio e nervoso, alterando irrigacao e podendo comprometer visao e consciencia, dependendo do eixo e intensidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "A desorientacao espacial e sempre resolvida apenas pela percepcao vestibular; por isso, instrumentos sao secundarios e pouco relevantes em voo por instrumentos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "O RBAC 67 trata de requisitos de certificacao medica aeronautica e busca harmonizacao com referencia internacional (ex.: Anexo 1 da OACI). ( )",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "O exame medico aeronautico e unicamente um procedimento clinico geral, sem relacao com riscos especificos do voo, como hipoxia, aceleracao, fadiga e ruido. ( )",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "Em acordos de servicos aereos, a clausula de propriedade e controle (substantial ownership and effective control) costuma exigir que a empresa designada seja de propriedade substancial e sob controle efetivo do Estado que a designa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "A existencia de clausula de propriedade e controle em um ASA impede, por definicao, qualquer forma de codeshare entre empresas de Estados distintos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "Em ASA, a clausula de capacidade pode adotar abordagem de capacidade predeterminada (controle) ou de livre determinacao pelo mercado (liberal), dependendo do modelo negociado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "A chamada liberdade tarifaria, quando prevista em acordo, significa que tarifas deixam de ser assunto do Estado e passam a ser definidas pelas empresas, com possiveis mecanismos de notificacao e intervencao excepcional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "O open skies e sempre um tratado multilateral universal, com aplicacao automatica a todos os Estados signatarios da Convencao de Chicago. ( )",
+      "a": "E"
+    },
+    {
+      "n": 56,
+      "t": "O direito de trafego e uma permissao estatal: mesmo quando uma liberdade do ar esta prevista, a empresa so opera se houver designacao e autorizacao conforme o acordo e regras domesticas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "A Convencao de Chicago consagra a soberania completa e exclusiva do Estado sobre o espaco aereo acima de seu territorio. ( )",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "A Convencao de Chicago proibe qualquer cobranca de taxas aeroportuarias e de navegacao aerea, por serem consideradas restricoes ao comercio. ( )",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "Os Anexos a Convencao de Chicago contem SARPs (normas e praticas recomendadas) e, em geral, sao atualizados por processo tecnico e decisorio no ambito da OACI. ( )",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "Diferentemente do texto da Convencao, os Anexos sao ratificados individualmente por cada Parlamento nacional antes de produzir qualquer efeito interno. ( )",
+      "a": "E"
+    },
+    {
+      "n": 61,
+      "t": "O Sistema de Aviacao Civil Internacional inclui, alem da OACI, atores como Estados, autoridades de aviacao civil, organismos regionais e entidades da industria, com diferentes papeis e niveis de influencia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A OACI emite SARPs, mas nao fiscaliza diretamente todas as companhias aereas do mundo; a responsabilidade primaria de cumprimento e supervisao e dos Estados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "O uso de diferencas (differences) permite ao Estado comunicar a OACI divergencias entre sua regulamentacao/pratica e os SARPs, preservando transparencia e harmonizacao possivel. ( )",
+      "a": "C"
+    },
+    {
+      "n": 64,
+      "t": "A existencia de uma difference comunicada a OACI torna automaticamente ilegal qualquer operacao internacional envolvendo o Estado que a comunicou. ( )",
+      "a": "E"
+    },
+    {
+      "n": 65,
+      "t": "A Politica Nacional de Aviacao Civil (PNAC) tende a orientar principios e diretrizes do setor, enquanto planos e programas costumam detalhar metas, medidas e implementacao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 66,
+      "t": "Em politica publica setorial, e comum haver articulacao entre objetivos economicos (conectividade, competitividade) e objetivos sociais (acesso, integracao territorial). ( )",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "A PNAC, por ser politica setorial, exclui completamente temas ambientais e de sustentabilidade. ( )",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "O transporte aereo pode ser instrumento de integracao nacional e desenvolvimento regional, mas enfrenta limitacoes como infraestrutura aeroportuaria, custo e elasticidade de demanda. ( )",
+      "a": "C"
+    },
+    {
+      "n": 69,
+      "t": "Na teoria regulatoria de interesse publico, a regulacao e vista como resposta a falhas de mercado, visando maximizar bem-estar social, embora na pratica haja limitacoes de informacao e implementacao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "Na teoria do interesse privado, a regulacao pode ser entendida como resultado de pressao e barganha de grupos organizados, podendo gerar beneficios concentrados e custos difusos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "A afirmacao toda regulacao e necessariamente boa para o consumidor e compativel com a visao de captura regulatoria. ( )",
+      "a": "E"
+    },
+    {
+      "n": 72,
+      "t": "O conceito de mercado por regulacao associa-se a ideia de que grupos competem por regras e beneficios, e grupos mais organizados tendem a obter vantagens. ( )",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Abordagens institucionalistas ajudam a explicar por que a mesma falha de mercado pode produzir respostas regulatorias distintas, dependendo do arranjo institucional, incentivos e rotinas do regulador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "Dizer que institucionalismo ignora completamente interesses privados e publicos e uma generalizacao correta. ( )",
+      "a": "E"
+    },
+    {
+      "n": 75,
+      "t": "Governanca regulatoria pode ser entendida como o conjunto de mecanismos de direcao, controle e prestacao de contas da regulacao, incluindo transparencia, participacao e avaliacao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "Demanda por regulacao pode surgir de crises, falhas de mercado, pressao social e politica, enquanto oferta de regulacao depende de capacidade estatal, desenho institucional e instrumentos disponiveis. ( )",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "A existencia de consulta publica e audiencias elimina o risco de captura, pois garante que todos os grupos tenham o mesmo poder de influencia. ( )",
+      "a": "E"
+    },
+    {
+      "n": 78,
+      "t": "Instrumentos como AIR (analise de impacto regulatorio) e avaliacao ex post tendem a melhorar qualidade regulatoria ao explicitar problema, alternativas, custos, beneficios e riscos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "O principal-agente e relevante na governanca regulatoria: sociedade e governo (principal) delegam a agencia (agente), o que cria desafios de alinhamento, monitoramento e accountability. ( )",
+      "a": "C"
+    },
+    {
+      "n": 80,
+      "t": "A autonomia das agencias reguladoras implica ausencia de coordenacao com politicas governamentais amplas, sob pena de violar independencia. ( )",
+      "a": "E"
+    },
+    {
+      "n": 81,
+      "t": "Em medicina aeronautica, hipoxia hipobarica ocorre por reducao da pressao parcial de oxigenio em altitude, podendo afetar julgamento e desempenho antes de sinais evidentes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "A hiperventilacao pode simular ou agravar sintomas de hipoxia; diferenciar ambas e relevante no manejo em voo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 83,
+      "t": "Intoxicacao por monoxido de carbono tende a piorar a capacidade de transporte de oxigenio no sangue e pode ser confundida com fadiga ou hipoxia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "O tempo de consciencia util (TUC) aumenta quanto maior a altitude, pois o corpo acelera a compensacao ventilatoria. ( )",
+      "a": "E"
+    },
+    {
+      "n": 85,
+      "t": "A descompressao rapida pode causar barotrauma e aumentar risco de doenca descompressiva, sendo a descida e oxigenio medidas classicas de resposta operacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 86,
+      "t": "A visao noturna depende fortemente de bastonetes; por isso, hipoxia e fumo podem degradar significativamente desempenho noturno. ( )",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "A ilusao somatogravica pode levar o piloto a perceber atitude diferente da real durante aceleracao, aumentando risco de comando inadequado, especialmente sem referencia visual externa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "A ilusao coriolis ocorre quando movimentos de cabeca durante curva prolongada geram sensacao intensa de giro, podendo causar vertigem e desorientacao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "Em aceleracao positiva (+Gz), o sangue tende a descer para membros inferiores, reduzindo perfusao cerebral; isso pode causar visao cinzenta, blackout e G-LOC. ( )",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "A tolerancia a +Gz independe de condicionamento fisico e de tecnicas como manobra anti-G, pois e puramente genetica. ( )",
+      "a": "E"
+    },
+    {
+      "n": 91,
+      "t": "Fadiga e risco relevante para desempenho humano e pode ser agravada por horario biologico, longas jornadas, carga de trabalho e privacao de sono. ( )",
+      "a": "C"
+    },
+    {
+      "n": 92,
+      "t": "O jet lag resulta apenas de privacao de sono; mudancas de fuso horario nao interferem no ritmo circadiano. ( )",
+      "a": "E"
+    },
+    {
+      "n": 93,
+      "t": "Cinetose (enjoo por movimento) pode ser precipitada por conflitos sensoriais e tende a piorar a capacidade de executar tarefas e manter atencao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 94,
+      "t": "O uso de alcool, mesmo em pequenas quantidades, pode degradar desempenho, julgamento e visao noturna; alem disso, pode piorar hipoxia em altitude. ( )",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Medicamentos com efeito sedativo podem comprometer seguranca operacional; por isso, avaliacao de efeitos colaterais e orientacao aeromedica sao relevantes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 96,
+      "t": "A avaliacao medica aeronautica se relaciona a riscos especificos do voo e nao se limita a check-up geral, considerando fatores como visao, audicao, cardiovascular, neurologico e saude mental. ( )",
+      "a": "C"
+    },
+    {
+      "n": 97,
+      "t": "A perda auditiva induzida por ruido e irreversivel em muitos casos; a prevencao envolve protecao, controle de exposicao e monitoramento. ( )",
+      "a": "C"
+    },
+    {
+      "n": 98,
+      "t": "A hipotermia e o calor excessivo sao irrelevantes na aviacao, pois aeronaves sempre mantem temperatura padrao e constante para todos os perfis de voo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 99,
+      "t": "Stress, ansiedade e fatores psicossociais podem influenciar atencao e tomada de decisao, e por isso aspectos psicologicos aparecem como parte do enfoque de medicina aeronautica. ( )",
+      "a": "C"
+    },
+    {
+      "n": 100,
+      "t": "Dizer que instrumentos nunca devem prevalecer sobre sensacoes corporais e uma regra segura para evitar desorientacao espacial em voo IMC. ( ) GABARITO",
+      "a": "E"
+    }
+  ],
+  "simulado pessoal CF ANAC 19-12": [
+    {
+      "n": 1,
+      "t": "No transporte aereo, a existencia de custos fixos elevados e capacidade perecivel favorece a pratica de gestao de receitas, com diferenciacao de tarifas por perfil de demanda. ( )",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "Se ha economias de densidade e de rede, a concentracao de operacoes em hubs pode reduzir custo medio por passageiro, ainda que aumente o tempo de viagem para parte dos usuarios. ( )",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "Em mercados aereos, barreiras de entrada baixas implicam que o numero de empresas sera sempre grande e os precos serao necessariamente iguais ao custo marginal. ( )",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "Em aviacao, concorrencia potencial (contestabilidade) pode disciplinar precos mesmo com poucas empresas, desde que entrada e saida sejam viaveis e a retaliação nao seja decisiva. ( )",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "Precos predatorios sao impossiveis no transporte aereo, porque combustivel e o principal custo e varia de forma identica para todas as empresas. ( )",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "A discriminacao de precos por classes tarifarias pode aumentar ocupacao e receita total sem exigir aumento proporcional de custos operacionais. ( )",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "A liberalizacao de rotas e tarifas elimina a necessidade de qualquer regulacao economica, inclusive em temas como abusos de poder de mercado ou transparência ao consumidor. ( )",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "A regulacao economica pode buscar corrigir falhas de mercado, mas tambem pode gerar falhas de governo quando cria incentivos distorcidos, custos excessivos ou captura. ( )",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "Em transporte aereo, custos aeroportuarios e de navegacao podem influenciar estrutura de custos e decisoes de oferta, afetando frequencias e malha. ( )",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "A existencia de assimetria de informacao entre empresa aerea e passageiro nao justifica intervencao estatal, pois o consumidor sempre consegue comparar todas as alternativas com custo zero. ( )",
+      "a": "E"
+    },
+    {
+      "n": 11,
+      "t": "O conceito de bem publico, no sentido economico, envolve nao rivalidade e nao exclusao, o que dificulta provimento puramente pelo mercado em alguns casos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "Externalidades negativas associadas ao transporte aereo, como ruido e emissao, podem justificar instrumentos economicos ou limites operacionais, mesmo em mercados competitivos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "A relacao entre autoridade antitruste e regulador setorial pode exigir coordenacao, sobretudo quando condutas concorrenciais e requisitos setoriais se sobrepoem. ( )",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "Se uma empresa controla infraestrutura essencial e impede acesso de concorrentes, trata-se de situacao tipica em que instrumentos concorrenciais podem ser relevantes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "A demanda por viagens aereas e totalmente inelastica ao preco; portanto, variacao tarifaria nao altera quantidade demandada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "A funcao estatal de regulacao pode ser compreendida como influencia deliberada do Estado sobre atividades privadas, por meio de comandos, incentivos e arranjos institucionais. ( )",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "O poder de policia e sempre ilimitado e dispensa previsao legal, pois decorre diretamente da soberania estatal. ( )",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "A legalidade e fundamento central da atuacao administrativa: a administracao publica atua vinculada a lei, especialmente ao criar deveres e impor sancoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "Atos discricionarios sao aqueles em que a administracao decide livremente sem qualquer limite, inclusive sem finalidade publica e sem motivacao. ( )",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "A motivacao e relevante para controle de atos administrativos, especialmente quando ha juizos tecnicos e escolhas regulatórias. ( )",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "O devido processo no ambito sancionador inclui contraditorio e ampla defesa, mesmo em processos administrativos, sem que isso dependa de autorizacao judicial previa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "A participacao social na regulacao e mera faculdade politica sem impacto na legitimidade, transparencia ou qualidade regulatoria. ( )",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "A AIR e instrumento de apoio a decisao e de organizacao do raciocinio regulatorio, ajudando a definir problema, alternativas e impactos esperados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "A ARR busca avaliar resultados de uma intervencao regulatoria ja implementada, verificando se objetivos foram atingidos e se ajustes sao necessarios. ( )",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "A regra da autotutela significa que a administracao pode revisar seus proprios atos, inclusive anulando atos ilegais e revogando atos inconvenientes, respeitados limites. ( )",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "O controle judicial sobre atos de agencia reguladora e vedado, pois violaria a independencia tecnica do regulador. ( )",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "A razao de existir de uma agencia reguladora e apenas arrecadar taxas e multas, nao tendo compromisso com resultados setoriais. ( )",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "Compliance se relaciona a conformidade do regulado com regras e expectativas; enforcement envolve deteccao, resposta e, quando cabivel, sancao por descumprimento. ( )",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "Uma estrategia regulatoria baseada somente em persuasao e autorregulacao elimina a necessidade de mecanismos de deteccao e sancao. ( )",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "Uma estrategia baseada apenas em punicao pode minar cooperacao e boa vontade, elevando custos de fiscalizacao e litigiosidade, motivo pelo qual combinacoes graduais podem ser mais efetivas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "Ferramentas de negociacao e consenso com regulados sao sempre ilegais no Brasil, pois administracao nao pode dialogar com particulares. ( )",
+      "a": "E"
+    },
+    {
+      "n": 32,
+      "t": "Consultas publicas e tomadas de subsidios ampliam informacao e permitem que diferentes atores contribuam com dados, argumentos e alternativas antes de decisoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "Ferramentas de incentivo podem ser usadas para aumentar conformidade, por exemplo, criando beneficios para quem adota boas praticas verificaveis. ( )",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "A regulacao responsiva, em linhas gerais, propõe escalonamento de respostas, com medidas mais brandas no inicio e mais severas se houver persistencia no descumprimento. ( )",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "Enforcement responsivo significa que a sancao maxima deve ser aplicada como primeira resposta, para sinalizar rigor e evitar reincidencia. ( )",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "A existencia de compendios e guias internos pode padronizar respostas e reduzir arbitrariedade, desde que respeitados limites legais e o caso concreto. ( )",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Em regulacao, o desenho de instrumentos deve considerar incentivos, custos de implementacao, risco de oportunismo e capacidade do Estado de monitorar e agir. ( )",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "No ciclo regulatorio, a AIR aparece como etapa inicial voltada a estruturar diagnostico do problema e comparar alternativas antes da decisao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "A AIR deve ser elaborada apenas apos a decisao ja tomada, para justificar publicamente a escolha feita. ( )",
+      "a": "E"
+    },
+    {
+      "n": 40,
+      "t": "A definicao adequada do problema regulatorio e diferente de propor solucao; confundir problema com solucao tende a enviesar a analise. ( )",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Uma boa AIR tende a considerar opcao de nao agir (status quo), avaliando custos e riscos de manter a situacao atual. ( )",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "A participacao social e restrita a agentes economicos diretamente regulados; usuarios e sociedade civil nao tem legitimidade para contribuir. ( )",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "Tomada de subsidios pode ser utilizada para coletar informacoes tecnicas antes da proposta normativa, reduzindo assimetria de informacao do regulador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Consulta publica e mecanismo de participacao que permite comentar minuta e documentos de suporte; seu resultado pode levar a ajustes na proposta. ( )",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Audiencia publica e sempre obrigatoria para qualquer norma, independentemente de impacto e relevancia. ( )",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "A analise de alternativas pode incluir instrumentos de comando e controle, instrumentos economicos, autorregulacao supervisionada e solucoes de informacao ao consumidor, conforme o caso. ( )",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "A estimativa de impactos em AIR deve abranger, quando viavel, custos e beneficios, efeitos distributivos e riscos, evitando conclusoes baseadas apenas em intuicao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "A ARR, como avaliacao ex post, pode indicar necessidade de revisao, simplificacao ou revogacao de normas, se resultados nao forem alcançados ou se custos superarem beneficios. ( )",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "A ARR substitui o monitoramento e a coleta de indicadores; como e um estudo pontual, dispensa acompanhamento continuo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "Transparencia e elemento de governanca regulatoria: publicar racional, dados e justificativas facilita controle social e aprendizado institucional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "A participacao social pode reduzir risco de captura ao diversificar fontes de informacao, mas nao elimina automaticamente assimetrias de poder entre grupos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "A existencia de contribuições na consulta publica obriga o regulador a aceitar todas as sugestoes recebidas. ( )",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "O ciclo regulatorio pode incluir implementacao, comunicacao, fiscalizacao e avaliacao, pois norma sem implementacao efetiva tende a nao produzir resultado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Racionalizar estoque regulatorio envolve revisar normas acumuladas, buscando coerencia, clareza e reducao de sobreposicoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "AIR e ARR sao ferramentas meramente formais e, por definicao, nao influenciam qualidade das decisoes. ( )",
+      "a": "E"
+    },
+    {
+      "n": 56,
+      "t": "A certificacao, no modelo de gestao, busca atestar grau de confianca no atendimento a requisitos regulamentares, permitindo operar com nivel aceitavel de seguranca e qualidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "Certificacao e um evento unico e definitivo; uma vez certificado, o regulado nao pode ter autorizacao suspensa ou cassada por descumprimento. ( )",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "O processo de certificacao tende a envolver etapas como solicitacao, analise documental, demonstracoes/inspecoes e decisao, com interacao entre requerente e agencia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "Em certificacao, o requerente deve demonstrar capacidade de cumprir requisitos; nao cabe a agencia provar previamente que o requerente falhara. ( )",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "A cadeia de valor da agencia inclui regular, autorizar, aprovar, conceder e fiscalizar diferentes objetos, como produtos, aeronaves, servicos e organizacoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "Regulamentos de certificacao podem prever requisitos para empresas de transporte aereo, organizacoes de manutencao, instrucao, aerodromos e profissionais, conforme escopo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A autorizacao para operar implica liberdade ilimitada de alterar processos internos sem comunicar a agencia, pois a certificacao e baseada apenas em confianca inicial. ( )",
+      "a": "E"
+    },
+    {
+      "n": 63,
+      "t": "A manutencao da conformidade envolve vigilancia continuada, e a fiscalizacao pode ser orientada por risco e desempenho, alem de resposta a eventos e denuncias. ( )",
+      "a": "C"
+    },
+    {
+      "n": 64,
+      "t": "O descumprimento de regras e requisitos pode levar a medidas administrativas como suspensao ou cassacao, alem de processos sancionadores quando cabivel. ( )",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "Uma organizacao pode ser certificada mesmo sem qualquer demonstracao pratica, desde que apresente declaracao simples de conformidade. ( )",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "A aprovacao de alteracoes relevantes pode exigir avaliacao e aceitacao pela agencia, dependendo do regulamento aplicavel e do impacto na seguranca. ( )",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "A certificacao e uma forma de regulacao ex ante; ja a fiscalizacao e instrumento ex post, embora ambas se complementem no ciclo de supervisao. ( )",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "Certificacao e fiscalizacao sao atividades identicas: ambas ocorrem apenas depois que uma violacao ja foi constatada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "A documentacao e os registros de conformidade sao importantes porque sustentam rastreabilidade, evidencias e capacidade de verificacao pela agencia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "O foco de certificacao e apenas economico; seguranca operacional nao se relaciona com certificacao. ( )",
+      "a": "E"
+    },
+    {
+      "n": 71,
+      "t": "A fiscalizacao baseada em risco busca aprimorar alocacao de recursos de supervisao, direcionando esforcos para areas, operadores e atividades com maior risco ou pior desempenho. ( )",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "Fiscalizacao baseada em risco significa fiscalizar apenas quem ja foi punido, porque risco so existe apos sancao aplicada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 73,
+      "t": "A metodologia pode se apoiar em dados, indicadores e historico, combinando risco inerente e capacidade de controle/mitigacao do regulado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "Em fiscalizacao baseada em risco, o plano de supervisao pode ser ajustado ao longo do tempo conforme mudam indicadores, eventos e informacoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "Programas de seguranca operacional podem orientar a fiscalizacao baseada em risco, conectando objetivos de seguranca a priorizacao de acoes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "Uma vez calculado o risco, a metodologia dispensa julgamento profissional; decisoes devem ser sempre automaticas e invariaveis. ( )",
+      "a": "E"
+    },
+    {
+      "n": 77,
+      "t": "Fiscalizacao baseada em risco nao elimina a necessidade de fiscalizacoes reativas, por exemplo, diante de acidentes, incidentes e denuncias relevantes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 78,
+      "t": "O objetivo principal da fiscalizacao e apenas arrecadar multas; contribuicao para seguranca e qualidade e efeito colateral irrelevante. ( )",
+      "a": "E"
+    },
+    {
+      "n": 79,
+      "t": "A fiscalizacao baseada em risco pode reduzir carga regulatoria desnecessaria, evitando fiscalizacao intensa onde risco e baixo e desempenho e satisfatorio. ( )",
+      "a": "C"
+    },
+    {
+      "n": 80,
+      "t": "Priorizar por risco equivale a tratar todos os regulados da mesma forma, independentemente de historico e contexto operacional. ( )",
+      "a": "E"
+    },
+    {
+      "n": 81,
+      "t": "Fiscalizacao pode ser entendida como funcao de verificacao de conformidade e de inducao de comportamento, contribuindo para seguranca operacional e cumprimento normativo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "A fiscalizacao descentralizada implica ausencia de padronizacao; cada unidade decide criterios sem diretrizes, pois coordenacao e sempre proibida. ( )",
+      "a": "E"
+    },
+    {
+      "n": 83,
+      "t": "A gestao da fiscalizacao envolve planejamento, execucao, registro, qualidade da evidencia e acompanhamento de providencias, nao apenas ida a campo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "Medidas cautelares podem ser adotadas para mitigar risco imediato, antes do encerramento do processo sancionador, desde que observados requisitos e competencia. ( )",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "Aplicada uma medida cautelar, o regulado so pode retomar atividade apos o julgamento final do processo sancionador, sem qualquer possibilidade de reversao antecipada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 86,
+      "t": "Providencias administrativas podem incluir orientacao, notificacao, determinacao de correcoes e, quando necessario, instauracao de processo sancionador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "O processo administrativo sancionador exige motivacao e observancia de garantias; sancao nao pode ser aplicada apenas por presuncao, sem prova. ( )",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "A fiscalizacao e atividade exclusivamente documental; inspecoes e vistorias in loco sao vedadas por violar a liberdade economica. ( )",
+      "a": "E"
+    },
+    {
+      "n": 89,
+      "t": "A divisao interna da fiscalizacao pode incluir diferentes tipos de acao, como monitoramento, auditorias, inspecoes e investigacoes, dependendo do objeto e do risco. ( )",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "O objetivo da fiscalizacao e garantir risco zero; qualquer ocorrencia significa necessariamente falha do fiscal e torna a operacao ilegal. ( ) GABARITO",
+      "a": "E"
     }
   ],
   "simulado pessoal CF ANAC 22-12": [

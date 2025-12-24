@@ -1039,5 +1039,357 @@
       "t": "A validade do COP e a frequência de realização das auditorias em organizações de produção são definidas com base nas características do produto e o desempenho do fabricante, variando a validade de 12 a 36 meses e o intervalo das auditorias de 3 a 18 meses.",
       "a": "C"
     }
+  ],
+  "simulado pessoal CF ANAC 23-12": [
+    {
+      "n": 1,
+      "t": "A certificação de projeto tem por objetivo principal aprovar o desenho e as especificações do produto aeronáutico, de modo que o projeto possa ser reproduzido e operado com segurança na categoria pretendida. ( )",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "A certificação de aeronavegabilidade é equivalente à certificação de projeto, pois ambas avaliam o mesmo objeto, apenas em momentos diferentes do processo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "O Certificado de Tipo é emitido após a demonstração de cumprimento pelo requerente e a verificação, pela ANAC, de que o produto atende aos requisitos aplicáveis e não possui característica que o torne inseguro na categoria pretendida. ( )",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Na certificação de projeto, o ônus de comprovar o cumprimento dos requisitos recai sobre a ANAC, cabendo ao requerente apenas fornecer informações quando solicitado. ( )",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "O RBAC 21 funciona como regulamento guarda-chuva dos procedimentos e certificações de produtos aeronáuticos, incluindo certificação de tipo e aprovações relacionadas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "Requisitos técnicos de aeronavegabilidade para aviões e helicópteros variam conforme a categoria do produto, razão pela qual não se utiliza um único RBAC para todas as aeronaves. ( )",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "A certificação ambiental do projeto pode ser exigida, envolvendo regulamentos específicos de emissões e ruído, além dos requisitos de aeronavegabilidade clássicos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "A base de certificação é composta apenas pelo RBAC aplicável, sendo vedada a utilização de condições especiais, níveis equivalentes de segurança ou isenções. ( )",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "Métodos de demonstração de cumprimento podem incluir ensaios, inspeções, simuladores e análises, e a escolha do método varia conforme o requisito em questão. ( )",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "Uma modificação minor é aquela que não tem efeito apreciável em peso, balanceamento, resistência estrutural, confiabilidade, características operacionais ou outras características que afetem a aeronavegabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Modificações minor dispensam qualquer controle interno do requerente, pois podem ser aprovadas sem apresentação prévia de dados à ANAC. ( )",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "Modificações major, por afetarem significativamente a aeronavegabilidade, exigem aprovação da ANAC antes de serem incorporadas ao produto. ( )",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "A emenda ao Certificado de Tipo é o caminho típico quando o requerente é o detentor do CT, enquanto o Certificado Suplementar de Tipo costuma ser utilizado quando o requerente é um terceiro. ( )",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "Diretriz de Aeronavegabilidade pode exigir ações obrigatórias como inspeções, substituições, limitações operacionais e incorporação de medidas corretivas, em prazos definidos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "Uma DA é meramente recomendatória e só deve ser cumprida se o operador concordar com seu conteúdo técnico. ( )",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Diretrizes emitidas pela autoridade do Estado de Projeto não produzem efeitos no Brasil, salvo se reemitidas formalmente pela ANAC com novo número. ( )",
+      "a": "E"
+    },
+    {
+      "n": 17,
+      "t": "A validação de projeto estrangeiro é o processo pelo qual a ANAC concede Certificado de Tipo a produto previamente certificado por autoridade primária, buscando honrar esse trabalho tanto quanto possível. ( )",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "A existência de acordo bilateral é condição indispensável para a validação de produto estrangeiro no Brasil. ( )",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "Entre os objetivos da validação estão a reciprocidade, o conhecimento da base de certificação e a verificação sumária do cumprimento, além de possíveis requisitos do importador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "Certificação de projeto e vida em serviço se conectam porque requisitos aprovados no projeto geram obrigações continuadas, como limitações de aeronavegabilidade e possíveis DAs ao longo do uso. ( )",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "Aeronavegabilidade, para aeronave com projeto de tipo aprovado, exige simultaneamente conformidade com o projeto aprovado e condição de operação segura. ( )",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "Se a aeronave estiver conforme o projeto de tipo, ela será considerada aeronavegável independentemente do seu estado de manutenção e de segurança operacional. ( )",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Limitações de aeronavegabilidade são tempos obrigatórios de substituição, intervalos de inspeção e procedimentos específicos definidos como obrigatórios no processo de certificação e identificados como tal nas ICA ou no manual de manutenção. ( )",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Caso o manual de manutenção ou as ICA contenham seção de limitações de aeronavegabilidade, o operador pode ajustar esses prazos por conveniência, desde que registre a justificativa no diário de bordo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 25,
+      "t": "Grande alteração tende a ser aquela capaz de afetar significativamente aspectos como peso, balanceamento, resistência estrutural, desempenho, grupo motopropulsor, características de voo ou outras características ligadas à aeronavegabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "Grandes alterações e grandes reparos podem gerar ICA adicionais ao programa básico do fabricante, e essas ICA devem ser seguidas para manter a aeronavegabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "O MSG-3 representa evolução metodológica para definir manutenção programada, com abordagem orientada a tarefas e foco em evitar manutenção desnecessária, preservando a confiabilidade inerente. ( )",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "O MRB é um grupo que, no início da certificação, desenvolve um relatório de requisitos iniciais mínimos de manutenção programada, servindo de base para documento de planejamento de manutenção. ( )",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "O CVA é um documento exigido periodicamente para demonstrar aeronavegabilidade, com periodicidade diferente conforme o tipo de operação, podendo ser trienal para certos operadores e anual para outros. ( )",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "Aeronaves experimentais com CAVE devem remeter CVA à ANAC pelo sistema eletrônico, sob pena de cancelamento do certificado. ( )",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "O RBAC 01 definemanutenção de modo a incluir, de forma expressa, a manutenção preventiva. ( )",
+      "a": null
+    },
+    {
+      "n": 32,
+      "t": "O RBAC 01 distingue manutenção preventiva como preservação simples ou de pequena monta e troca de pequenas partes padronizadas, sem montagem ou desmontagem complexa. ( )",
+      "a": null
+    },
+    {
+      "n": 33,
+      "t": "O RBAC 43 distingue executar manutenção de aprovar retorno ao serviço, e essa separação é relevante para fiscalização e responsabilização. ( )",
+      "a": null
+    },
+    {
+      "n": 34,
+      "t": "Uma pessoa sob supervisão direta de mecânico pode executar manutenção, mas isso não significa autorização irrestrita para executar quaisquer inspeções requeridas, especialmente em casos sensíveis como inspeções específicas ou após grandes alterações e grandes reparos. ( )",
+      "a": null
+    },
+    {
+      "n": 35,
+      "t": "Organizações certificadas segundo o RBAC 145 podem executar manutenção e aprovar retorno ao serviço apenas dentro do escopo para o qual foram certificadas. ( )",
+      "a": null
+    },
+    {
+      "n": 36,
+      "t": "O COM emitido para OM no Brasil possui validade fixa de 2 anos, devendo ser renovado sob pena de expiração automática. ( )",
+      "a": null
+    },
+    {
+      "n": 37,
+      "t": "Para OM no exterior, o COM pode ter validade de 2 anos, diferentemente do que ocorre no Brasil, onde o certificado não traz prazo, embora possa ser suspenso, cassado ou devolvido. ( )",
+      "a": null
+    },
+    {
+      "n": 38,
+      "t": "As Especificações Operativas complementam o COM, detalhando autorizações, limitações e, quando aplicável, o escopo por base, enquanto o certificado é único da organização. ( )",
+      "a": null
+    },
+    {
+      "n": 39,
+      "t": "A Lista de Capacidade é especialmente útil quando há grande variedade de modelos para uma mesma funcionalidade, permitindo maior agilidade sem perder controle do escopo autorizado. ( )",
+      "a": null
+    },
+    {
+      "n": 40,
+      "t": "O processo de certificação de OM pode ser compreendido como fluxo que inclui contato inicial, reunião inicial e abertura, análise documental, demonstrações e auditorias, e emissão do certificado e especificações. ( )",
+      "a": null
+    },
+    {
+      "n": 41,
+      "t": "A auditoria prática pode ocorrer mesmo quando a documentação e os manuais ainda apresentam não conformidades significativas, pois a auditoria é justamente o instrumento para corrigir manuais. ( )",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "No controle de ferramental, contratos de uso de ferramental de terceiros podem precisar ser mantidos por período mínimo após a última utilização, como exigência de rastreabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "Uma OM pode subcontratar serviços, mas permanece responsável pelo controle da qualidade do que foi subcontratado, e não deve se limitar a carimbar retorno ao serviço de um produto completo subcontratando integralmente sua manutenção. ( )",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "A exigência de SGSO em OM envolve adequação ao porte e complexidade e inclui elementos como identificação de perigos, gerenciamento de riscos, supervisão, indicadores, gestão de mudanças e estímulo a relatos voluntários, inclusive anônimos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "O RBAC 91 funciona como regulamento base de regras gerais de operação e se aplica amplamente, podendo ser complementado por regulamentos específicos conforme o tipo de operador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "Empresas regidas por RBAC 121 ou RBAC 135 podem tratar o RBAC 91 como opcional, pois seu regulamento específico substitui integralmente as regras gerais.( )",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "A Subparte C do RBAC 91 se relaciona com aeronavegabilidade continuada ao tratar de certificados e requisitos de equipamentos e instrumentos, enquanto a Subparte E se conecta com manutenção, manutenção preventiva e alterações. ( )",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "Em fiscalização de rampa, a verificação de documentos obrigatórios a bordo é uma forma direta de avaliar legalidade e conformidade operacional, e o RBAC 91 traz seção específica para isso. ( )",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "O RBAC 91 admite operação com item inoperante desde que exista MEL aprovada, construída pelo operador com base em MMEL, e respeitados prazos, restrições e procedimentos associados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "A MEL permite que qualquer item não essencial fique inoperante por tempo indeterminado, desde que o piloto julgue seguro. ( )",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "ELT e PLB se conectam a requisitos de busca e salvamento, podendo ser exigidos conforme tipo de operação e condições, com regras sobre inspeção e exceções. ( )",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "O operador ou proprietário permanece como responsável final pela aeronavegabilidade, mesmo que contrate terceiros para executar manutenção. ( )",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "Se não houver programa de manutenção do fabricante aplicável, a aeronave pode seguir inspeção anual e, conforme o caso, inspeções de 100 horas, além de alternativas previstas em seção específica do RBAC 91 mediante aprovação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Registros de manutenção devem ser mantidos por prazos definidos, e certos registros podem precisar ser conservados permanentemente, por razões de rastreabilidade e segurança. ( )",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "Para iniciar transporte aéreo, o operador deve obter COA e Especificações Operativas, e esses documentos definem autorizações, limitações e procedimentos aplicáveis à operação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "O RBAC 121 tende a se aplicar a aviões maiores em termos de assentos ou carga paga, enquanto o RBAC 135 se aplica a aviões menores e helicópteros, podendo ainda subdividir operadores por faixa de assentos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "No processo de certificação de operador, o tema aeronavegabilidade interage com a área de operações, e certos cargos e manuais de manutenção são exigidos conforme o tipo de operação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "O PMAC é um programa voltado a assegurar alto nível de segurança no transporte aéreo, buscando que cada aeronave liberada esteja aeronavegável e que manutenção e alterações sigam os manuais do operador, com pessoal, instalações e equipamentos adequados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "O PMAC é aplicável a todo e qualquer operador do RBAC 135, independentemente da quantidade de assentos da aeronave utilizada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "A fiscalização continuada pode ser planejada com base em risco, usando classificação dinâmica e portfólios de inspeções, e se materializa em plano anual de trabalho que organiza cronogramas e missões. ( )",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "A existência de Instruções Suplementares ligadas ao RBAC 91 reforça que, em muitos temas, o RBAC define o dever e a IS descreve o caminho prático de demonstração de conformidade e obtenção de autorização. ( )",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A autorização RVSM está associada a requisitos de aeronave e tripulação e permite separação vertical mínima reduzida em determinadas altitudes, sendo um exemplo típico de tema RBAC mais IS. ( )",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "Operar aeronave com certificado de aeronavegabilidade vencido ésempre permitido se o operador estiver com o CVA em dia, pois o CVA substitui o certificado de aeronavegabilidade. ( )",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "A manutenção preventiva executada por piloto, quando permitida, pode gerar retorno ao serviço assinado pelo próprio piloto dentro dos limites e critérios definidos, sem transferir a responsabilidade final do operador pelo estado da aeronave. ( )",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "A aprovação de retorno ao serviço independe de registros formais: basta que o serviço tenha sido executado por pessoa autorizada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "A lógica de vida em serviço exige atenção a obrigações compulsórias como limitações de aeronavegabilidade e diretrizes, que não podem ser relativizadas por conveniência operacional, ainda que a aeronave esteja desempenhando bem. ( )",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "A validação de projeto estrangeiro pode envolver desde troca de correspondência e análise documental até inspeções, ensaios e visitas técnicas, conforme o nível de confiança e as particularidades do caso. ( )",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "O sistema de qualidade de uma OM deve cobrir inspeções e controles do processo, incluindo recebimento, preliminar e final, além de proficiência e controle de dados técnicos, pois a conformidade precisa ser sustentada continuamente e não apenas na auditoria inicial. ( )",
+      "a": "C"
+    },
+    {
+      "n": 69,
+      "t": "Em operações reguladas, o checklist e as publicações aeronáuticas apropriadas e atualizadas são tratados como parte essencial da conformidade operacional, não como itens de conveniência. ( )",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "A aeronavegabilidade continuada depende de documentação e processos, mas não envolve gestão de risco e, portanto, não se relaciona com abordagens como fiscalização baseada em risco. ( ) GABARITO",
+      "a": "E"
+    }
   ]
 }

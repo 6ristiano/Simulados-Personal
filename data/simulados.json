@@ -1040,6 +1040,298 @@
       "a": "C"
     }
   ],
+  "simulado pessoal CF ANAC 22-12": [
+    {
+      "n": 1,
+      "t": "Na Ação Fiscal, por se tratar de fiscalização mais rigorosa, geralmente iniciada por denúncias ou informações de inteligência, as providências preventivas não são, em regra, as mais adequadas, sendo a cautelar e a sancionatória as mais aplicáveis. ( )",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "Em Ação Fiscal, a hierarquia de providências impõe que a ANAC aplique primeiro medidas preventivas, mesmo quando há infrações de maior gravidade, sob pena de nulidade do ato. ( )",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "As medidas cautelares, como detenção, interdição, suspensão e apreensão, são aplicadas quando há risco iminente à segurança de voo, à integridade física de pessoas, à coletividade, à ordem pública, à continuidade dos serviços prestados ou ao interesse público. ( )",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Na aplicação de medida cautelar, como suspensão das atividades, o acautelado somente poderá voltar a exercer a atividade após o julgamento do processo administrativo sancionador pela autoridade competente. ( )",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "O procedimento para aplicação de medida cautelar inclui a emissão de Auto de Medida Acautelatória, sua geração no Sistema de Medidas Administrativas (SMA) e a autuação de processo no Sistema Eletrônico de Informações (SEI). ( )",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "Após a notificação do acautelado, a análise do cumprimento das condições resolutivas pode levar à revogação da medida cautelar, mesmo antes do julgamento de eventual processo sancionador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "O Termo de Cessação de Conduta (TCC) representa compromisso de cessar a prática irregular e não repeti-la, mas sua apresentação suspende a tramitação do processo administrativo em curso e implica confissão dos fatos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "O descumprimento do TCC pode resultar em novas medidas acautelatórias e na abertura de Processo Administrativo Sancionador (PAS), com possibilidade de cassação ou suspensão punitiva. ( )",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "No processo sancionador, o Auto de Infração formaliza a constatação da infração, descrevendo fatos e normas infringidas, e serve para instaurar o PAS. ( )",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "No âmbito das sanções administrativas aplicáveis pela ANAC, multa, suspensão punitiva e cassação são medidas previstas, sendo a cassação a mais severa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "A suspensão punitiva pode ser aplicada por até 180 dias, com possibilidade de prorrogação por igual período, consistindo na interrupção temporária do exercício de licença, habilitação, certificado, autorização, permissão ou concessão. ( )",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "A multa é a medida administrativa mais severa, pois afeta o patrimônio do infrator, enquanto a cassação possui caráter apenas educativo e não impede o exercício de atividades. ( )",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "A Ação Fiscal busca, entre outros resultados, efetividade na repressão de ilícitos aeronáuticos, contribuição para melhoria dos índices de segurança operacional e aumento da confiança do público na aviação civil. ( )",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "É incompatível com a Ação Fiscal a integração com instituições de segurança pública, pois a atuação fiscalizatória da ANAC é exclusivamente administrativa e não admite apoio externo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "Adulterar horas de voo em livro de registros de aeronave, por constituir fraude na aviação, pode acarretar pena de reclusão de 1 a 5 anos e multa, associada à falsidade ideológica. ( )",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "Expor a perigo a segurança da aviação, como pilotar sob efeito de álcool ou drogas ou realizar manobras perigosas, pode ser enquadrado no art. 261 do Código Penal, com pena de reclusão de 6 meses a 2 anos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Sequestrar aeronaves ou sabotar equipamentos aeronáuticos pode configurar, respectivamente, os arts. 129 e 315 do Código Penal, com pena de reclusão de 2 a 8 anos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "Homicídio culposo em acidentes aéreos causados por negligência ou imprudência na operação ou manutenção pode ser enquadrado no art. 121, §3º do Código Penal, com pena de detenção de 1 a 3 anos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "A abordagem de Responsividade na fiscalização busca equilibrar a aplicação de sanções com a conformidade voluntária, e, na normatização, procura incluir o regulado no processo decisório. ( )",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "Em ambiente de Regulação Responsiva, técnicas de Comando e Controle devem ser abolidas, por serem incompatíveis com uma regulação adaptativa. ( )",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "Na Regulação Responsiva, é vedada a aplicação de sanções punitivas pesadas, pois esse tipo de punição é exclusivo do regime de Comando e Controle. ( )",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "Baseada em princípios comportamentais, a Regulação Responsiva busca conciliar punições e incentivos de acordo com o histórico de comportamento de cada regulado, adaptando-se a cada situação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "Transparência e accountability, exigidas do regulador em modelo responsivo, remetem, respectivamente, à clareza e acessibilidade da informação e à responsabilidade do regulador na aplicação das normas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Segundo os estudos do PPRR, o problema regulatório identificado envolveu elevado volume de processos sancionadores, baixa efetividade das sanções na mudança de comportamento e dosimetria com carência de proporcionalidade e razoabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Na revisão da Resolução ANAC 472/2018, busca-se aprimorar a pirâmide de enforcement e otimizar o fluxo do processo sancionador e do modelo de tomada de decisão, fortalecendo capacidade administrativa para lidar com falhas de risco significativo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "A responsividade, no material, é tratada como algo restrito à etapa de implementação inicial de uma norma, não abrangendo avaliação contínua de resultados e revisão de instrumentos. ( )",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "Ferramentas de qualidade regulatória, como AIR e diretrizes de qualidade, podem ser usadas para incorporar responsividade nos processos normativos da Agência. ( )",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "Conforme o material, a implementação da Regulação Responsiva na ANAC foi fortalecida por parcerias estratégicas, incluindo cooperação com instituições acadêmicas, a exemplo da UnB. ( )",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "O Código Brasileiro de Aeronáutica prevê o credenciamento de profissionais pela ANAC para emissão de relatórios, pareceres e laudos que subsidiam processos de certificação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "Profissionais credenciados são necessariamente servidores integrantes do quadro da ANAC, alocados apenas em localidades com falta de pessoal para atividades de certificação. ( )",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "O credenciamento de profissionais, por si só, transfere ao credenciado a competência regulatória da ANAC, permitindo que ele edite normas e aplique sanções em nome da Agência. ( )",
+      "a": "E"
+    },
+    {
+      "n": 32,
+      "t": "Relatórios e laudos produzidos por profissionais credenciados podem subsidiar decisões técnicas em processos de certificação, mas não eliminam a responsabilidade da autoridade competente pela decisão final. ( )",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "Em regra, o credenciamento serve para ampliar capacidade de avaliação técnica, mas não substitui obrigações de conformidade do regulado nem o dever de supervisão da ANAC sobre o processo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Se um profissional credenciado emitir laudo com inconsistências, o processo de certificação deve ser automaticamente indeferido, sem possibilidade de complementação, sob pena de violar a isonomia. ( )",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "Certificação de aeronavegabilidade, no caso de aeronave certificada, busca verificar se o produto está de acordo com o projeto aprovado e em condições de operação segura. ( )",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "As seções 21.175 e 21.183 do RBAC 21 refletem requisitos que sintetizam os conceitos de aeronavegabilidade discutidos no material. ( )",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Aprovação de retorno ao serviço é o aval final após manutenção que reconhece conformidade com projeto aprovado e condições de operação segura, e nem toda pessoa pode concedê-la, sendo restrita a pessoas certificadas pela ANAC. ( )",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "Aeronavegabilidade continuada é o acompanhamento da “saúde” da frota de um determinado produto aeronáutico, e, quando ocorrências degradam o nível de segurança, pode-se emitir Diretriz de Aeronavegabilidade (DA) para tornar a ação corretiva obrigatória. ( )",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "O RBAC 39 é referência para Diretriz de Aeronavegabilidade (DA), instrumento usado para tornar obrigatória ação corretiva quando necessário. ( )",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Para aeronave cujo modelo não tenha sido certificado, a certificação de aeronavegabilidade passa a focar apenas condições de operação segura, e não conformidade com projeto aprovado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "A Convenção de Chicago, especialmente seus Anexos 6 e 8, é citada no material como base relevante para certificação de organizações de manutenção e para manutenção da aeronavegabilidade continuada. ( )",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "Ocorrências relevantes de falhas e mau funcionamento em produtos aeronáuticos não devem ser comunicadas à ANAC, para evitar viés de notificação, cabendo ao operador apenas arquivar internamente. ( )",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "O Registro Aeronáutico Brasileiro (RAB) possui função cartorial, emitindo certificados de Matrícula e de Aeronavegabilidade e constituindo propriedade e garantias reais sobre aeronaves. ( )",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "A ICAO é o agente soberano sobre os procedimentos de registro de aeronaves, cabendo a cada Estado signatário apenas executar o que a ICAO determinar. ( )",
+      "a": "E"
+    },
+    {
+      "n": 45,
+      "t": "Cada Estado possui seu registro de aeronaves; a ICAO atua definindo padrões e práticas recomendadas, mas não substitui a soberania estatal sobre o registro nacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "No contexto do RAB, o registro e a documentação associada têm relevância para atos de propriedade e garantias reais, aproximando-se de uma função de cartório público. ( )",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "Certificados de matrícula e aeronavegabilidade são suficientes, por si só, para autorizar qualquer operação de manutenção em aeronave, dispensando certificação de organização de manutenção ou licenças individuais. ( )",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "A emissão e gestão de certificados e registros, no âmbito do RAB, relaciona-se ao controle documental e registral; já o retorno ao serviço após manutenção decorre de regras específicas de manutenção e pessoas autorizadas, não do registro cartorial. ( )",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "O objetivo da certificação de uma organização de produção é assegurar que a organização esteja apta a produzir produtos aeronáuticos em conformidade com o projeto aprovado e, assim, apoiar a emissão de certificados de aeronavegabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "Detentores de Certificado de Organização de Produção (COP) podem solicitar à ANAC aprovação para instalar itens por eles fabricados em aeronaves em que a peça seja aplicável, conforme a estrutura normativa aplicável. ( )",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "O detentor de COP que fabrica peças está automaticamente autorizado a instalar qualquer item por ele fabricado em qualquer aeronave, sem necessidade de aprovação específica da ANAC. ( )",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "Quando uma aeronave é produzida conforme certificado de tipo, em Subparte F do RBAC 21, é possível produzir sob esse arranjo, mas a organização deve obter COP em até 6 meses a partir da primeira emissão de certificado de aeronavegabilidade. ( )",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "O COP é transferível para outra empresa mediante venda do parque fabril e notificação à ANAC, desde que o sistema de qualidade permaneça o mesmo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "Em geral, fornecedores que produzem componentes apenas para um único fabricante de produto final não são obrigados a possuir COP próprio, desde que atendam requisitos de controle e aceitação do fabricante responsável. ( )",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "Na vigilância continuada da organização de produção, auditorias podem ocorrer em intervalos variáveis, e auditorias não programadas podem ser motivadas por acidentes, incidentes ou eventos relevantes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "A Lista de Produtos (RLP) associada ao COP pode apresentar período de validade definido, podendo variar, por exemplo, entre 12 e 36 meses, conforme estabelecido. ( )",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "Não conformidades identificadas em auditorias são tratadas de forma uniforme, sem distinção de criticidade, e sempre possuem o mesmo prazo de correção. ( )",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "Na lógica de conformidade de produção, a responsabilidade pela aeronavegabilidade inclui o controle sobre partes e processos, e não se resume à inspeção final do produto acabado. ( ) GABARITO",
+      "a": "C"
+    }
+  ],
   "simulado pessoal CF ANAC 23-12": [
     {
       "n": 1,

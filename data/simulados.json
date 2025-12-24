@@ -1040,6 +1040,458 @@
       "a": "C"
     }
   ],
+  "CF ANAC 23-12": [
+    {
+      "n": 1,
+      "t": "O termo “estar seguro” só pode ter um significado, que é a ausência de ameaças, sendo a certificação um meio disponível para garantir a segurança.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "O processo de certificação pode ocorrer para um novo projeto ou para uma modificação em um projeto já existente.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "Em sentido amplo, a certificação deve abranger quatro aspectos distintos e complementares, quais sejam o projeto, a fabricação, a operação e a manutenção de produtos aeronáuticos.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "A certificação de produto refere-se apenas ao projeto do produto e, de certa forma, precede as outras certificações.",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "A certificação de projeto e de aeronavegabilidade são equivalentes e se confundem, pois ambas se aplicam tanto ao projeto quanto ao produto final individual.",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "Cabe à ANAC estabelecer requisitos mínimos de segurança no processo de certificação de projeto, mas nunca haverá o estabelecimento de desempenho mínimo para o produto, ficando a garantia deste a cargo do fabricante.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "Determinados artigos aeronáuticos tem o seu desempenho mínimo estipulado pela ANAC através de uma Ordem Técnica Padrão.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "Ordem Técnica Padrão (OTP) é uma norma adotada pela ANAC que contém os requisitos mínimos de desempenho para todos artigos usados em aeronaves civis.",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "O proprietário de qualquer aeronave registrada no RAB pode solicitar um certificado de aeronavegabilidade para essa aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "As peças padronizadas não necessitam de aprovação específica pela autoridade aeronáutica, desde que sejam reconhecidas as normas de engenharia aplicadas ao projeto e à produção dessas peças.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "A certificação de produtos aeronáuticos não leva em consideração as questões ambientais, como emissão de gases poluentes e ruído de motores, devendo esses fatores serem regulados por autoridade específica da área ambiental.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "Todos os itens, inclusive as peças padronizadas, como parafusos, porcas e arruelas, precisam de aprovação específica por parte da Autoridade, mesmo que sejam reconhecidas as normas de engenharia aplicadas ao projeto e produção.",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "O RBAC 36 trata dos limites de ruído emitido pelas aeronaves, fazendo parte do processo de certificação do projeto da aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "O processo de certificação pode ser tipicamente dividido em 4 grandes fases, sendo o Projeto conceitual ou pré-requerimento, Definição dos requisitos aplicáveis e Planejamento do Programa, Implementação/execução e Atividades pós-emissão do Certificado.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "Na fase da certificação referente ao Projeto Conceitual, o requerente deve apresentar uma versão preliminar do planejamento, além de incluir um cronograma de atividades, previsão de data para finalização do processo, e previsão de certos dados e atividades- macro de certificação.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "A base de certificação de um projeto geralmente é composta por um RBAC, acrescida de adaptações, que podem ser uma Condição Especial, um Nível Equivalente de Segurança ou uma Isenção.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "No plano de certificação, são métodos propostos de comprovação: os Ensaios em laboratórios; Inspeções físicas; Ensaios na aeronave em solo; Ensaios na aeronave em voo; Simuladores; e Comprovações analíticas, como, a similaridade.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "É na terceira etapa, ou fase de planejamento, em que ocorrem as inspeções de conformidade nos protótipos, a aprovação, pela Autoridade, das Propostas de Ensaio e os ensaios em voo de certificação.",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "A participação dos tripulantes da ANAC é definida a partir da Reunião pré-voo e da Autorização para Inspeção de Tipo (AIT), marcando uma etapa importante do processo de certificação.",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "Sempre que o cumprimento com algum requisito de certificação de tipo envolver a realização de ensaios, o requerente deverá elaborar uma Proposta de Ensaio, a qual deverá ser aprovada pela ANAC ou por seus representantes credenciados.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "O processo de certificação não termina com a emissão do certificado, havendo ainda a elaboração do Relatório de Inspeção de Tipo, que é a memória da ANAC em relação ao processo, além de poder ocorrer a aprovação de modificações, emissão de Diretrizes de Aeronavegabilidade e Revisão das Limitações de Aeronavegabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "A ANAC deve realizar análise para a aprovação de grandes ou pequenas modificações relacionadas a um projeto.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Sempre que for verificada a existência de uma condição insegura em um produto aeronáutico, que possa se estender para outros produtos sob o mesmo CT, a Autoridade deve emitir uma Diretriz de Aeronavegabilidade, que pode ser cumprida a critério do operador.",
+      "a": "E"
+    },
+    {
+      "n": 24,
+      "t": "O Plano de Certificação consiste na base de certificação e na aceitação de seus métodos de comprovação de cumprimento, no macro cronograma e na forma de atuação da ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Uma Condição Especial consiste em requisitos adicionais aplicados a um RBAC que esteja sendo usado como base de certificação de um projeto de tipo.",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "Evidências de projeto, cálculos, análises de engenharia, ensaios em solo e em voo constituem exemplos de maneiras por meio das quais pode ser determinado o cumprimento de requisitos no processo de certificação de aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "Apesar de não exigir aprovação direta pela ANAC, a execução de pequenas modificações exige que se desenvolva um processo interno, aceitável pela ANAC, para a aprovação dos dados que substanciam as modificações, além do registro adequadamente dessas modificações.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "Todas as grandes modificações devem ser submetidas para a aprovação da ANAC antes de sua incorporação no produto, que se dará por meio de uma emenda ao CT, quando o requerente for detentor do CT ou por um CST, quando o requerente for um terceiro.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "No caso de modificações obrigatórias, como as Diretrizes de Aeronavegabilidade, não é necessário projetar a modificação e submeter à aprovação da ANAC, apenas realizando sua implementação tão rápido quanto possível.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "O CBA não exige que a exportação de aeronave para o Brasil implique na existência de um Acordo Bilateral entre os dois países envolvidos, porém, quando tal Acordo existe, é maior a confiança nos procedimentos de certificação adotados no país de origem.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "O CBA não exige que a exportação de aeronave para o Brasil implique na existência de um Acordo Bilateral entre os dois países envolvidos, porém, quando tal Acordo existe, é maior a confiança nos procedimentos de certificação adotados no país de origem.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "No processo de validação de aeronave estrangeira, a ANAC deve conhecer o projeto da aeronave, mas não precisa conhecer a base de certificação usada pela Autoridade Primária.",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "O termo aeronavegabilidade quer dizer que, para aeronave que requer projeto de Tipo Aprovado, significa que a mesma está aeronavegável por se encontrar de acordo com o projeto de Tipo Aplicável e em condições de operação segura.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Aeronave que não possui certificado de tipo aprovado não pode ser considerada aeronavegável, mesmo quando se encontra segura para operação aérea.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "O Certificado de Tipo, além do certificado em si, é composto por outros documentos, como o Projeto de tipo, limitações operacionais e base de certificação.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "As limitações de aeronavegabilidade definem os tempos obrigatórios para substituição de componentes, os intervalos de inspeção e os procedimentos específicos estabelecidos como obrigatórios durante o processo de certificação do produto aeronáutico.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "As Instruções de aeronavegabilidade continuada são ações de manutenção ou manutenção preventiva aditivas às previstas no programa de manutenção do equipamento (aeronave, motor ou hélice), as quais devem ser executadas após grande alteração ou grande reparo, e são de cumprimento facultativo.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "As Diretrizes de Aeronavegabilidade se aplicam somente às aeronaves, para motores e hélices aplicam-se as instruções para aeronavegabilidade continuada.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "O Maintenance Steering Groups é formado por fabricantes de aeronaves e participantes da indústria, com o objetivo de determinar um tempo recomendado para a realização de manutenção em componentes e sistemas de aeronaves.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "O MSG-2 foi desenvolvido na década de 1980 e foi orientado para o processo, cuja ideia era reconhecer a confiabilidade inerente aos sistemas e componentes da aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 41,
+      "t": "Maintenance Review Board (MRB) é um grupo formado por representantes dos fabricantes, dos futuros operadores e Autoridades de Aviação Civil, no início do processo de certificação de uma aeronave, com a incumbência de desenvolver um documento contendo os requisitos iniciais mínimos de manutenção programada.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "O documento produzido pelo MRB é o Maintenance Review Board Report (MRBR), aprovado pela Autoridade de Aviação Civil do país de origem e usado como base para o desenvolvimento do Maintenance Planning Data (MPD).",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "Para que uma aeronave possa ser operada, é necessário que seja apresentado à ANAC um Certificado de Verificação de Aeronavegabilidade (CVA), que deve ser apresentado anualmente para aeronaves operadas de acordo com os RBAC 121 e 135 e, a cada 3 anos, para as demais aeronaves.",
+      "a": "E"
+    },
+    {
+      "n": 44,
+      "t": "O envio do CVA é feito pelo sistema eletrônico e-CVA, exceto para os casos em que o Certificado de Aeronavegabilidade esteja vencido ou cancelado.",
+      "a": "E"
+    },
+    {
+      "n": 45,
+      "t": "O CVA das aeronaves experimentais com Certificado de Autorização de Voo Experimental (CAVE) deve ser remetido à ANAC e apresentado a ela sempre que solicitado, bem como deve ser mantido a bordo da aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "Os anos que se decorreram entre a Primeira Guerra Mundial e a Segunda Guerra Mundial ficaram conhecidos como a era de ouro da aviação, devido ao notável desenvolvimento que ocorreu na tecnologia das aeronaves e ao crescente impacto socioeconômico da aviação no mundo.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "O CBA estabelece que qualquer organização que queira se habilitar para manutenção aeronáutica deve passar por um processo de certificação pela autoridade aeronáutica, no caso a ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "De modo simplificado, um operador aéreo pode se enquadrar em quatro tipos de categorias: Aviação geral, Empresas de serviço aéreo especializado, Táxi aéreo e Linha aérea.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "Manutenção é qualquer atividade de inspeção, revisão, reparo, limpeza, conservação ou substituição de partes de uma aeronave e seus componentes, excluindo-se a manutenção preventiva.",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "Manutenção preventiva é uma operação de preservação complexa ou de grande monta, assim como a substituição de pequenas partes padronizadas que não envolva operações complexas de montagem e desmontagem.",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "São exemplos de serviços relacionados à manutenção preventiva a substituição de pneus, reabastecimento de fluido hidráulico no reservatório e substituição do motor de uma aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "O RBAC 43 separa o serviço de manutenção em duas etapas principais, a execução da manutenção em si e a aprovação para o retorno ao serviço.",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "Um piloto de aeronave jamais poderá executar qualquer atividade de manutenção, a menos que seja habilitado para trabalhar como mecânico de manutenção aeronáutica.",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "O detentor de uma licença de mecânico de manutenção aeronáutica habilitado pela ANAC, em célula e grupo motopropulsor, pode aprovar o retorno ao serviço de aeronaves submetidas a inspeções de até 50 ou 100 horas, dependendo do tipo de aeronave e de operação em que a aeronave é utilizada.",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "O COM não possui um prazo de validade quando é emitido para uma organização de manutenção localizada no Brasil, mas quando é emitido para organização de manutenção estrangeira, o certificado possui validade de 2 anos.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "Quando uma organização de manutenção possui bases de manutenção em diferentes localidades, cada base deve ter seu próprio COM e as respectivas EO.",
+      "a": "E"
+    },
+    {
+      "n": 57,
+      "t": "O processo de certificação de uma OM começa com o requerente realizando o contato com a SPO através da GTOM.",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "Ao final da auditoria, se forem identificadas discrepâncias, a ANAC entrega um resumo das não conformidades encontradas, para que o requerente faça as correções necessárias, não sendo necessária outra demonstração de cumprimento dos requisitos, devendo o requerente apenas informar à ANAC o cumprimento das correções.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "É defeso à organização de manutenção certificada executar manutenção, manutenção preventiva ou alteração, em áreas externas às suas edificações, mesmo se ela prover recursos adequados, conforme o manual da organização de manutenção aceitável pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "Toda OM deve ter um sistema de qualidade, o qual tem como documentos fundamentais o Manual de Organização de Manutenção (MOM), o Manual de Controle de Qualidade e o Programa de Treinamento.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "Cada organização de manutenção certificada pode subcontratar uma função de manutenção de uma pessoa não certificada, desde que garanta que a pessoa não certificada siga um sistema de controle da qualidade equivalente ao sistema seguido pela organização de manutenção certificada.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A OM não pode subcontratar uma função de manutenção de uma pessoa não certificada, mesmo que ela siga um sistema de controle de qualidade equivalente ao seguido pela organização.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "A OM pode fornecer apenas a aprovação para o retorno ao serviço, desde que o serviço tenha sido executado por uma organização certificada pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Um aluno-piloto pode aprovar para o retorno ao serviço aeronave em que tenha realizado serviço de manutenção preventiva, desde que o serviço tenha sido supervisionado por um instrutor.",
+      "a": "E"
+    },
+    {
+      "n": 65,
+      "t": "Uma organização de manutenção, certificada pela ANAC, pode executar manutenção, manutenção preventiva e alteração, conforme previsto no RBAC 143.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "O detentor de uma licença de mecânico de manutenção aeronáutica habilitado pela ANAC pode aprovar o retorno ao serviço de uma aeronave após execução de manutenção preventiva, desde que essa aeronave esteja vinculada a uma empresa que opere segundo o RBAC 121 ou 135.",
+      "a": "E"
+    },
+    {
+      "n": 67,
+      "t": "Durante o processo de certificação, o Gestor Responsável, o Responsável Técnico e o Presidente da OM devem, obrigatoriamente, participar da reunião inicial realizada entre os representantes da organização e a ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "O RBAC 91 é o principal regulamento exclusivo para aeronaves civis de operação privadas, enquanto o RBAC 121 aplica-se aos operadores públicos.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "As subpartes do RBAC 91 são identificadas por letras de A a N, ficando a subparte K responsável por tratar dos aspectos referentes à operação de aeronaves sob propriedade compartilhada.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "A subparte C do RBAC 91 trata dos documentos que devem estar a bordo das aeronaves civis .",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "A instrução sobre os procedimentos para a aprovação de operações no Espaço Aéreo NAT - HLA (North Atlantic High Level Airspace) é um dos itens abordados nas IS que fazem parte do RBAC 91.",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "O RBAC 91 cobre uma ampla gama de aspectos operacionais, desde a condução de voos, manutenção e inspeção de aeronaves, até requisitos de equipamentos e procedimentos de emergência.",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Para IFR noturno, é requerida a iluminação dos instrumentos, assim como a disponibilização de lanternas para a tripulação e a presença de luzes externas (navegação, anticolisão e farol de pouso).",
+      "a": "E"
+    },
+    {
+      "n": 74,
+      "t": "A MEL (minimum equipment list) de uma aeronave específica é elaborada pelo fabricante da aeronave e indica os equipamentos que podem estar inoperantes, por um período limitado, durante a operação da aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 75,
+      "t": "O ELT (Emergency Locator Transmitter) e o PLB (Personal Locator Beacon) destinam-se a fornecer aos serviços de busca e salvamento uma indicação da localização da aeronave, em caso de acidente.",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "Um provedor de serviços de manutenção, contratado pelo operador, tem responsabilidade pelas suas intervenções, mas, em última instância, o operador/proprietário é o responsável pela aeronavegabilidade de sua aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "Caso o fabricante não tenha determinado o programa de manutenção, a aeronave deve passar por uma inspeção anual, ou a cada 100 horas de operação, dependendo da situação.",
+      "a": "C"
+    },
+    {
+      "n": 78,
+      "t": "Um operador de aeronaves pode, como alternativa ao programa de inspeções do fabricante, adotar um programa de manutenção alternativo aprovado pela ANAC, dependendo das configurações da aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "As aeronaves civis brasileiras e estrangeiras devem passar periodicamente por procedimento de verificação de aeronavegabilidade, ao fim do qual é emitido o Certificado de Verificação de Aeronavegabilidade (CVA), que deve ser portado a bordo da aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 80,
+      "t": "O RBAC 121 se aplica a operações com aviões com mais de 19 assentos para passageiros ou carga paga acima de 4.300 kg.",
+      "a": "E"
+    },
+    {
+      "n": 81,
+      "t": "RBAC 135 se aplica a operações de aviões com até 19 assentos e carga paga de até 3.400 kg , ou helicópteros.",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "O processo de certificação do operador aéreo envolve duas áreas: Operações (OPS) e Aeronavegabilidade (AIR).",
+      "a": "C"
+    },
+    {
+      "n": 83,
+      "t": "RBAC 121 divide os operadores em dois grupos: os que operam aeronaves com configuração para passageiros de 9 assentos ou menos e outros com 10 assentos ou mais.",
+      "a": "E"
+    },
+    {
+      "n": 84,
+      "t": "Conforme o RBAC 119, o Inspetor Chefe é um cargo requerido, no âmbito da aeronavegabilidade, para a certificação de operador aéreo sob o RBAC 135.",
+      "a": "E"
+    },
+    {
+      "n": 85,
+      "t": "No processo de certificação, o operador aéreo deve apresentar um conjunto de manuais, sendo os principais: Manual Geral de Manutenção (MGM), Programa de Manutenção de Aeronaves (PMA), Programa de Treinamento de Manutenção (PTM) e, Sistema de Análise e Supervisão Continuada (SASC).",
+      "a": "C"
+    },
+    {
+      "n": 86,
+      "t": "O Programa de Manutenção de Aeronavegabilidade Continuada (PMAC) é um programa abrangente de manutenção de aeronaves, que deve assegurar três objetivos: aeronave aeronavegável; manutenção realizada de acordo com os manuais; e manutenção realizada por pessoal competente, em instalações adequadas e com equipamentos adequados.",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "O PMAC é aplicável aos operadores aéreos RBAC 121 e aos operadores aéreos RBAC 135 que operam aeronaves com configuração para passageiros de 10 ou menos assentos.",
+      "a": "E"
+    },
+    {
+      "n": 88,
+      "t": "A SPO executa as atividades de inspeções dos processos de certificação e vigilância continuada, utilizando para tal o Portfólio de Inspeções e Exames da SPO, que é dividido em dois capítulos: o Programa de Certificação e o Programa de Vigilância Continuada.",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "Vistoria Técnica Especial de aeronaves, Inspeção de Vigilância de Profissional Credenciado de Aeronavegabilidade e Inspeção de Vigilância de Voo de Acompanhamento são algumas das atividades desempenhadas pela SPO no âmbito da vigilância continuada dos operadores de aeródromos.",
+      "a": "E"
+    },
+    {
+      "n": 90,
+      "t": "O Plano de Trabalho Anual (PTA) é elaborado pela gerência responsável pela execução da fiscalização, a partir do Portfolio de Inspeções e do risco computado para os operadores. FELIZ NATAL!",
+      "a": "C"
+    }
+  ],
   "simulado pessoal CF ANAC 22-12": [
     {
       "n": 1,

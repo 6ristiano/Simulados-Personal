@@ -3089,5 +3089,457 @@
       "t": "A aeronavegabilidade continuada depende de documentação e processos, mas não envolve gestão de risco e, portanto, não se relaciona com abordagens como fiscalização baseada em risco. ( ) GABARITO",
       "a": "E"
     }
+  ],
+  "simulado pessoal CF ANAC 26-12": [
+    {
+      "n": 1,
+      "t": "O RBAC 135 se aplica ao transporte aéreo público com aviões com configuração máxima de 19 assentos de passageiros e carga útil máxima de 3.400 kg (7.500 lb), além de helicópteros. ( )",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "Quando a operação com avião excede 19 assentos de passageiros ou ultrapassa 3.400 kg (7.500 lb) de carga útil máxima, a regência passa a ser, em regra, o RBAC 121. ( )",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "O RBAC 135 brasileiro foi estruturado com base no FAR 135, da Federal Aviation Administration (FAA). ( )",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "No contexto do RBAC 135, táxi-aéreo pode contemplar atividades como voo panorâmico e deslocamento para eventos, e pode incluir transporte aeromédico, desde que haja autorização e a aeronave esteja adequadamente equipada. ( )",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "No processo de certificação previsto no RBAC 119 e detalhado na IS 119-004, o resultado típico é a emissão do Certificado de Operador Aéreo (COA) e das Especificações Operativas (EO). ( )",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "O COA autoriza o detentor a conduzir operações segundo os requisitos aplicáveis do RBAC 135 ou do RBAC 121, e as EO detalham autorizações, limitações e procedimentos associados à operação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "Enquanto o operador mantiver COA válido e ativo, as suas Especificações Operativas (EO) ficam disponíveis ao público no site da ANAC. ( )",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "As exigências do RBAC 135 tendem a ser mais rigorosas que as da aviação geral, pois o passageiro não tem como, antes do voo, avaliar plenamente as condições de aeronavegabilidade e o nível de segurança operacional do operador. ( )",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "As seções 135.21 e 135.23, citadas no material, tratam de obrigações relacionadas ao sistema de manuais e programas, voltadas a políticas e procedimentos para segurança operacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "A lista completa de manuais e programas usualmente exigidos no processo de certificação é referenciada no item 5.2.6 da IS 119-004. ( )",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Para operador que utiliza apenas aeronaves com configuração máxima de 9 assentos de passageiros, o Manual Geral de Manutenção (MGM) é elaborado conforme a IS 135.21-001A. ( )",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "Para aeronaves certificadas com configuração máxima de 10 ou mais assentos de passageiros, são citados, entre outros documentos, a Programação de Manutenção de Aeronaves (PMA) e o Manual do Sistema de Análise e Supervisão Continuada (SASC), conforme a IS 120-016B. ( )",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "No contexto apresentado, o Manual do SASC pode ser estruturado como um capítulo dentro do MGM. ( )",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "O material menciona que, para aeronaves com 10 ou mais assentos, podem existir manuais de suporte associados à PMA, como prevenção e controle de corrosão. ( )",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "O programa de treinamento operacional do operador, indicado no material (PrTrnOP), é analisado pela ANAC e, quando aceito, passa a orientar a execução e o controle dos treinamentos de tripulantes e pessoal envolvido. ( )",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "O material exemplifica como pessoal de administração, entre outros, o Diretor ou Gerente de Manutenção e o Diretor de Segurança Operacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "O RBAC 135 se aplica automaticamente a qualquer operação de aviação geral com aeronave de até 9 assentos, mesmo quando não há transporte aéreo público envolvido. ( )",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "O transporte aeromédico, por estar associado à urgência, dispensa autorização específica no RBAC 135, bastando que o operador possua COA válido. ( )",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "COA e EO são documentos sigilosos e, por isso, não podem ser divulgados ao público pela ANAC. ( )",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "A seção 135.1(a), citada no material, é utilizada para caracterizar a aplicabilidade do RBAC 135 a aviões com até 19 assentos e até 3.400 kg de carga útil máxima, além de helicópteros. ( )",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "Segundo o material, a certificação e a revisão de manuais e programas podem impactar diretamente a capacidade do operador de ampliar serviços e, portanto, a oferta comercial de operações. ( )",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "As Especificações Operativas (EO) são o documento que lista as aeronaves e atividades autorizadas e, por isso, permanecem válidas mesmo quando o COA é suspenso. ( )",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Para fins de transparência regulatória, a consulta pública às EO auxilia a verificar o escopo de autorização do operador, reduzindo assimetria informacional do usuário do serviço. ( )",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Artigos perigosos são substâncias ou objetos que podem representar risco significativo à saúde, à segurança, à propriedade e ao meio ambiente quando transportados por via aérea. ( )",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "O material aponta o RBAC 175 como base normativa para artigos perigosos, complementado por Instruções Suplementares (IS) numeradas de 175-000 a 175-013. ( )",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "No transporte aéreo de artigos perigosos, o expedidor é responsável por identificar, classificar, embalar, marcar, etiquetar e documentar corretamente o item. ( )",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "Na etapa de identificação, o expedidor deve verificar se o artigo perigoso está listado na Tabela 3-1 do Doc. 9284 (OACI) ou na Tabela C-1 da IS 175-001 (ANAC), ou se atende aos critérios de classificação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "A classificação enquadra o artigo perigoso em uma das nove classes de perigo, conforme propriedades físicas e químicas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "A embalagem deve seguir especificações do RBAC 175 e da IS 175-001, garantindo robustez e resistência compatíveis com o transporte aéreo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "A marcação da embalagem deve identificar o artigo perigoso e também trazer informações do remetente e do destinatário, conforme exigências aplicáveis. ( )",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "A documentação inclui a Declaração do Expedidor para Artigos Perigosos, que atesta o cumprimento das regulamentações pertinentes. ( )",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "Se o expedidor entregar uma declaração assinada, o operador pode aceitar artigos perigosos sem verificar mais nenhum requisito, pois a responsabilidade deixa de ser compartilhada. ( )",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "Antes da aceitação, o operador deve verificar a documentação do expedidor com uso de checklists, para assegurar que os requisitos foram cumpridos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "No carregamento, os artigos perigosos devem respeitar tabela de segregação, evitando proximidade de itens incompatíveis que possam reagir. ( )",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "O operador deve inspecionar regularmente áreas de armazenamento para detectar danos, vazamentos ou derramamentos, e adotar medidas imediatas de descontaminação quando necessário. ( )",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "NOTOC (Notification to Captain) é o documento citado para informar a tripulação sobre a presença de artigos perigosos a bordo. ( )",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Além de informar a tripulação, o operador deve orientar funcionários e passageiros sobre procedimentos de manuseio e sobre itens proibidos na bagagem de mão ou despachada. ( )",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "Qualquer incidente ou ocorrência envolvendo artigos perigosos deve ser relatado à ANAC. ( )",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "O material menciona a exigência de envio de fluxo mensal de artigos perigosos transportados. ( )",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Serviço Aéreo Especializado (SAE) é apresentado como operação comercial em que aeronaves são utilizadas para prestar serviços distintos do transporte de passageiros e carga como finalidade principal. ( )",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "A ANAC autoriza a realização de operações comerciais de SAE, segundo o RBAC 91, após processo administrativo baseado na IS 91-007, citada no material na revisão D. ( )",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "No material, a autorização para SAE é descrita como decorrente de verificação mais simples do que a certificação exigida pelo RBAC 119. ( )",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "Segundo o material, a IS 91-007D requer, inicialmente, informações sobre a empresa, o pessoal de administração e as aeronaves envolvidas na operação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "A Resolução 106/2009 é citada como exigindo, para SAE, a elaboração de um único manual, o Manual de Gerenciamento Operacional (MGSO), visando implementar um Sistema de Gerenciamento de Segurança Operacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Após inspeções e demonstrações satisfatórias, a ANAC emite COA e EO descrevendo atividades e aeronaves autorizadas ao operador SAE. ( )",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "Reboque de planadores, quando realizado no âmbito de associações e clubes por pessoal próprio e com divisão de custos entre praticantes, não é considerado SAE. ( )",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "Lançamento de paraquedistas, quando realizado no âmbito de associações e clubes por pessoal próprio e com divisão de custos entre praticantes, não é considerado SAE. ( )",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "Atividade de ensino e adestramento é listada como SAE quando prestada por entidade certificada para formação de pessoal de aviação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "Em SAE, a existência de COA e EO é incompatível com a ideia de autorização simplificada; por isso, o operador SAE não recebe nenhum documento equivalente a COA. ( )",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "O MGSO é facultativo: o operador pode substituí-lo por qualquer manual de sua preferência, desde que possua um setor de qualidade. ( )",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "A autorização para SAE é mais complexa do que a certificação RBAC 119, pois exige sempre auditoria completa de todos os processos de manutenção do operador. ( )",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "O RBAC 133 trata de operação de aeronaves de asas rotativas com carga externa e prevê elaboração de manual específico denominado Manual de Voo da Combinação Aeronave-Carga Externa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "No RBAC 133, \"Classe A\" é a combinação em que a carga externa fica fixa à aeronave, não pode ser alijada e não se prolonga abaixo do trem de pouso. ( )",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "No RBAC 133, \"Classe B\" é a combinação em que a carga externa é alijável e livra o solo ou a água durante a operação da aeronave. ( )",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "No RBAC 133, \"Classe C\" é a combinação em que a carga externa é alijável e permanece em contato com o solo ou a água durante a operação da aeronave. ( )",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "No RBAC 133, \"Classe D\" é a combinação distinta das classes A, B ou C, aprovada especificamente pela autoridade para uma determinada operação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "No Brasil, a operação de helicóptero com carga externa é regulamentada pelo RBAC 133 e depende de autorização formal da ANAC. ( )",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "Operação aeroagrícola, segundo a seção 137.3 do RBAC 137, é a operação aérea que aplica em voo fertilizantes, sementes, inseticidas, herbicidas e outros defensivos, para proteger ou fomentar a agricultura. ( )",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "O RBAC 137 inclui como aeroagrícola também atividades como povoamento de águas, combate a incêndios em campos e florestas, provocação artificial de chuvas e modificação artificial do clima. ( )",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "O material aponta que o RBAC 136 foi concebido em 2020 para propiciar a certificação de operadores de voos panorâmicos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "Na Subparte K do RBAC 91 (propriedade compartilhada), a assimetria de informação foi apontada como motivo para criar um arcabouço específico de regras, já que o cotista, sem especialização, não consegue exercer pleno controle operacional. ( )",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A Subparte K é descrita como menos restritiva que RBAC 135 e RBAC 119 em conjunto, não se justificando impor certificação RBAC 119 apenas para compartilhar aeronaves em um programa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "No programa de propriedade compartilhada, a cota mínima para aeronave subsônica de asa fixa (ou sustentação por potência) é igual ou maior que 1/16 (1/16) de pelo menos uma aeronave do programa. ( )",
+      "a": "C"
+    },
+    {
+      "n": 64,
+      "t": "Para aeronave de asas rotativas em programa de propriedade compartilhada, a cota mínima é igual ou maior que 1/32 (1/32). ( )",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "O operador Subparte K recebe Especificações Administrativas (EA), citadas como documentos públicos disponíveis no site da ANAC enquanto o operador atende aos requisitos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 66,
+      "t": "A Subparte K exige, como regra, que o operador seja certificado pelo RBAC 135, independentemente de haver transporte aéreo público. ( )",
+      "a": "E"
+    },
+    {
+      "n": 67,
+      "t": "A teoria econômica da regulação, conforme apresentada, enfatiza a criação de incentivos para alinhar o comportamento do regulado às metas públicas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "O material associa a Anthony Ogus (2004) a ideia de que regulação eficaz deve equilibrar custos e benefícios ao calibrar incentivos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 69,
+      "t": "Regulação por comando e controle é apresentada como modelo eficaz para conformidade básica, mas potencialmente inflexível e pouco indutor de inovação. ( )",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "Incentivos baseados em performance estabelecem metas de desempenho a serem alcançadas, mas permitem que o regulado escolha como cumprir essas metas. ( )",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "O material menciona incentivos via divulgação de informações e reputação, em que a pressão por boa imagem pode induzir melhora de desempenho. ( )",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "Autoregulação e coregulação são descritas como modelos em que as próprias entidades reguladas desenvolvem e implementam normas, com ou sem supervisão governamental. ( )",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Tarifas aeroportuárias ajustadas conforme nível de ruído ou emissões são citadas como exemplo de incentivo regulatório aplicado à infraestrutura aeroportuária. ( )",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "Incentivos regulatórios são irrelevantes para infraestrutura aeroportuária, pois segurança operacional depende apenas de fiscalização punitiva. ( )",
+      "a": "E"
+    },
+    {
+      "n": 75,
+      "t": "Como Estado signatário da Convenção de Aviação Civil Internacional de 1944, o Brasil segue diretrizes da OACI, e a fonte normativa primária de infraestrutura aeroportuária é indicada no Anexo 14. ( )",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "O principal documento nacional citado para infraestrutura aeroportuária é o RBAC 154 (Projeto de Aeródromos), mencionado como estando na Emenda 8. ( )",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "O material lista documentos OACI de apoio ao tema, como Doc 9157 (Airport Design Manual) e Doc 9184 (Airport Planning Manual). ( )",
+      "a": "C"
+    },
+    {
+      "n": 78,
+      "t": "O material indica o Doc 9870 como referência sobre prevenção de incursões em pista. ( )",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "A lógica apresentada associa infraestrutura aeroportuária apenas a pistas; taxiways, pátios e auxílios visuais não fazem parte do escopo. ( )",
+      "a": "E"
+    },
+    {
+      "n": 80,
+      "t": "Segundo o material, os requisitos de infraestrutura podem ser agrupados em características físicas, auxílios visuais e requisitos de sistemas elétricos e monitoramento. ( )",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "IS e alertas aos operadores são citados como instrumentos complementares, incluindo orientações para método ACN-PCN e para critérios de prevenção de incursão em pista em projetos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "O material cita, como exemplo, a IS 153-109 sobre Sistema de Orientação e Controle da Movimentação no Solo (SOCMS). ( )",
+      "a": "C"
+    },
+    {
+      "n": 83,
+      "t": "O RBAC 153 estabelece requisitos e parâmetros mínimos de segurança operacional para planejamento, execução, monitoramento e melhoria contínua das operações aeroportuárias, além de manutenção, resposta à emergência e gerenciamento do risco da fauna. ( )",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "Os requisitos do RBAC 153 são definidos por classe de aeródromo, com critérios de classificação na seção 153.7 e detalhamento de exigências no Apêndice A. ( )",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "Todo aeródromo civil brasileiro, compartilhado ou não, é classificado para definir quais requisitos do RBAC 153 lhe são obrigatórios. ( )",
+      "a": "C"
+    },
+    {
+      "n": 86,
+      "t": "O RBAC 153 não se aplica a heliportos e helipontos. ( )",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "Em aeródromos localizados em área de fronteira internacional, o material indica que podem existir restrições adicionais, impostas por acordos com países limítrofes, além do RBAC 153. ( )",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "Área operacional, também chamada de lado ar, é o conjunto formado pela área de movimento e áreas adjacentes cujo acesso é controlado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "O operador de aeródromo deve implantar e manter sistema de proteção da área operacional, com infraestrutura e procedimentos adequados, para prevenir entrada de animais ou objetos perigosos e conter acesso não autorizado. ( )",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "A prevenção de incursão em pista depende exclusivamente do controle de tráfego aéreo; não há requisitos de conscientização, supervisão ou controle de acesso pelo operador do aeródromo. ( ) Gabarito",
+      "a": "E"
+    }
   ]
 }

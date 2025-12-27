@@ -1492,6 +1492,693 @@
       "a": "C"
     }
   ],
+  "CF ANAC 26-12": [
+    {
+      "n": 1,
+      "t": "O RBAC 135 se aplica a operações de aviões com até 29 assentos ou carga paga de até 3.400 kg, ou helicópteros.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "Operadores sob o RBAC 135 podem realizar voos panorâmicos, atender deslocamentos em eventos e, se autorizados e devidamente equipados, podem realizar transporte aeromédico.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "Por se tratar de operação de táxi áereo, as empresas sob o RBAC 135 somente podem operar voos não-regulares, sem reserva e marcação de assentos antecipada.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "As empresas de táxi aéreo devem seguir as regras previstas somente no RBAC 135, que trata especificamente deste tipo de serviço.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "Os operadores sob o RBAC 135 passam por um processo de certificação com base nos requisitos do RBAC 119, que trata das operações de transporte aéreo.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "Os operadores sob o RBAC 135 devem possuir uma estrutura composta por um Gestor Responsável, um Piloto Chefe e Diretores ou Gestores de Operações, Manutenção e Segurança Operacional.",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "Táxi aéreo operando, exclusivamente, aeronaves com configuração máxima para passageiros igual ou inferior a nove assentos deve elaborar e manter um Manual Geral de Manutenção (MGM).",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "Operadores que possuam aeronaves certificadas com configuração para doze ou mais assentos para passageiros devem possuir uma Programação de Manutenção de Aeronaves (PMA) e um Manual do Sistema de Análise e Supervisão Continuada (SASC).",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "O PTO é o manual que estabelece os treinamentos para a tripulação de voo e deve ser aprovado pela ANAC, sendo um de seus principais focos durante a vigilância continuada do operador aéreo sob o RBAC 135.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O Manual Geral de Operações é o norteador da empresa em relação aos procedimentos operacionais e deve conter, entre outros, as políticas da empresa, as obrigações dos cargos de gestão, organograma e ordem de comando e os procedimentos para preparação e acompanhamento dos voos.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Os operadores sob o RBAC 135 podem realizar operações off-shore, operações regulares e operações aeromédicas, desde que passem por processo de certificação para cada operação adicional, com a emissão de Especificação Operativa ao fim do processo.",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "Para a realização de operação regular, o operador sob o RBAC 135 deve passar por uma grande revisão de manuais e procedimentos, bem como prover treinamento adicional para os tripulantes.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "Para realizar operação aeromédica, o operador necessita de autorização específica na E.O, com um processo de alteração de manuais e treinamento específico, mas não necessita de demonstrações práticas.",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "Para a realização de voos off-shore, basta a autorização para operação de helicópteros, sem quaisquer outros requisitos e comprovações adicionais.",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "A compreensão do desempenho humano no contexto operacional é recomendada pela Organização de Aviação Civil Internacional visando a promoção da segurança.",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Desempenho humano diz respeito às capacidades e limitações do ser humano, as quais têm impacto na segurança e eficiência de operações aeronáuticas.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Fatores humanos são princípios aplicáveis ao projeto, certificação, treinamento, operação e manutenção aeronáuticos para prover uma interface segura entre o componente humano e os outros componentes de um sistema, considerando o desempenho humano.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "O CRM visa facilitar a comunicação e a coordenação de equipes e garantir operações seguras que resultam do uso eficiente de todos os recursos disponíveis (humanos, materiais, tecnológicos e da informação).",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "O CRM não se concentra nas habilidades cognitivas e interpessoais necessárias para gerenciar ameaças e erros e garantir um voo seguro e eficiente, em vez disso, se concentra nas habilidades e conhecimentos técnicos necessários para voar e operar uma aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "A fadiga, física ou mental, é uma sensação de cansaço que pode afetar a saúde, o bem-estar e a capacidade de realizar um trabalho de forma eficaz, ela se segue a débito de sono, vigília estendida ou alterações dos ciclos corporais.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "A fadiga é mensurada numericamente através do teste de fadigômetro, no entanto, não há evidências de que um alto grau de fadiga possa levar a declínio de funções cognitivas, desempenho deteriorado, aumento da quantidade de erros e segurança operacional reduzida, sem efeitos impactantes nas funções mentais e na saúde e bem- estar.",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "O RBAC 117 (Requisitos para Gerenciamento de Risco de Fadiga Humana) é o principal documento da ANAC sobre o tema da fadiga, aplicando-se a operadores regidos pelos RBAC 121 e RBAC 135, dentre outros.",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "O uso de substâncias psicoativas para fins medicinais é considerado indevido para os propósitos da aviação civil, devendo ser tratado como uma prática ilegal.",
+      "a": "E"
+    },
+    {
+      "n": 24,
+      "t": "Substâncias psicoativas são substâncias que agem no cérebro e alteram a forma como a pessoa pensa, sente e se comporta, sendo divididas em três grandes conjuntos, conforme o tipo de efeito primário no cérebro: depressoras, estimulantes e perturbadoras.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Algumas substâncias psicoativas estimulantes são a cocaína, o ecstasy e as metanfetaminas.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "O álcool é uma droga depressora, sedativa e hipnótica, mas em pequenas quantidades não compromete as funções cognitivas e as habilidades psicomotoras e, por ser uma droga lícita, não traz riscos frente a outras drogas ilícitas.",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "O regulamento que trata do uso de substâncias psicoativas é o RBAC 120 - Programa de Prevenção do Risco Associado ao Uso Indevido de Substâncias Psicoativas na Aviação Civil (PPSP), sendo aplicável exclusivamente aos operadores sob os RBAC 121 e 135.",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "No subprograma de exames toxicológicos, o empregado deve ser conduzido ao exame toxicológico (ETSP) por escolha aleatória ou sob suspeita justificada, não tendo o direito de recusar o exame.",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "Somente os empregados que tiverem um resultado positivo no ETSP serão incluídos no subprograma de resposta a evento impeditivo, sendo avaliado e acompanhado por um profissional especialista na área.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "Após liberação pelo especialista, o empregado poderá realizar ETSP de retorno ao serviço e, se o resultado for negativo, pode retornar à atividade, mas deve permanecer sob o regime de ETSP de acompanhamento, a critério do especialista, com mínimo de 6 exames ao longo de 12 meses.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "Artigos perigosos são substâncias ou objetos que podem representar um risco significativo à saúde, à segurança, à propriedade e ao meio ambiente, quando transportados por via aérea, assunto que é abordado no RBAC 175.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "As responsabilidades relacionadas ao transporte aéreo de artigos perigosos são conferidas exclusivamente ao operador aéreo.",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "O expedidor tem o dever de identificar, classificar, embalar, marcar, etiquetar e documentar os artigos perigosos corretamente.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "O operador aéreo deve fornecer toda a documentação necessária, incluindo a Declaração do Operador para Artigos Perigosos, que atesta o cumprimento de todas as regulamentações aplicáveis.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "O operador aéreo tem a responsabilidade de aceitar, armazenar, carregar e transportar os artigos perigosos com segurança.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "Antes de aceitar artigos perigosos para transporte, o operador deve verificar toda a documentação fornecida pelo expedidor, utilizando checklists para assegurar que todos os requisitos foram cumpridos.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "São exemplos de artigos perigosos classificados dentro das 9 classes de perigosos os explosivos, gases tóxicos, peróxidos orgânicos e alimentos perecíveis.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "O operador deve informar à tripulação sobre a presença de artigos perigosos a bordo por meio do documento conhecido como NOTOC (Notification to Captain, além de informar os funcionários e passageiros sobre os procedimentos de manuseio e os artigos proibidos na bagagem de mão ou despachada.",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "As embalagens utilizadas no transporte de artigos perigosos devem ser testadas e certificadas para garantir que atendam aos padrões de segurança, passando por ensaios de queda, ensaios de resistência ao empilhamento, ensaios de resistência à pressão e testes de explosão.",
+      "a": "E"
+    },
+    {
+      "n": 40,
+      "t": "Qualquer incidente ou ocorrência envolvendo artigos perigosos deve ser relatado à ANAC, e um fluxo anual de artigos perigosos transportados deve ser mantido.",
+      "a": "E"
+    },
+    {
+      "n": 41,
+      "t": "Somente é permitido transportar baterias de lítio individuais ou sobressalentes no compartimento de cargas da aeronave, enquanto que o transporte de baterias danificadas ou defeituosas é restrito.",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "Os passageiros não podem transportar artigos perigosos em nenhuma hipótese, mesmo que para uso pessoal, seja como bagagem de mão ou despachada.",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "Quanto ao transporte de artigos perigosos, a ANAC realiza a Certificação de Operadores Aéreos, a Análise de Manuais e Programas de Treinamento, o Credenciamento de Instrutores, a Investigação de Ocorrências, a Vigilância Continuada de Operadores Aéreos e Representação Institucional em Reuniões Internacionais.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "O Serviço Aéreo Especializado é uma operação aérea comercial, na qual uma aeronave é utilizada para outros serviços que não um transporte de passageiros ou cargas.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Geralmente, operações SAE são regidas diretamente pelo RBAC 91, com exceção das atividades de voo panorâmico, uso de helicóptero para transporte de carga externa e operações aeroagrícolas.",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "O operador interessado em realizar voos panorâmicos deve se adequar ao RBAC 136 e obter um COA com a EO, bem como passar por uma verificação das condições para operação segundo IS do RBAC 91.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "O operador de helicóptero para transporte de carga externa, particular ou comercial, deve seguir os requisitos do RBAC 133 e possuir uma autorização específica para esse tipo de operação, a qual deve ser renovada a cada 12 meses.",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "Os serviços aéreos especializados são operações mais simples e requerem menos aprovações e verificações antes de iniciar suas operações comerciais.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "Os operadores aéreos que realizam atividades de aerocinematografia, aeropublicidade e aerolevantamento devem, além de seguir as diretrizes do RBAC 91, se adequar aos requisitos de seus respectivos RBAC específicos.",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "As operações de reboque de planador e lançamento de paraquedistas, realizadas no âmbito das associações e clubes por pessoal próprio, onde os praticantes dividem os custos da operação para viabilização da prática, não são consideradas serviço aéreo especializado.",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "As operações aeroagrícolas circunscrevem-se às atividades de proteger ou fomentar o desenvolvimento da agricultura em qualquer de seus aspectos, mediante a aplicação, em voo, de fertilizantes, sementes, inseticidas, herbicidas e outros defensivos.",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "O RBAC 137 exige dos operadores apenas um cadastro perante a ANAC, ficando no foco da agência os operadores comerciais, em virtude dos serviços prestados.",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "Uma das características distintas do operador aeroagrícola é a possibilidade de operar em pistas de pouso e decolagem não homologadas, liberdade concedida pelo RBAC 137.",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Por se tratar de uma operação com alto risco e alto índice de acidentes, a operação aeroagrícola deve passar por um complexo processo de certificação pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "A realização de voos panorâmicos, conforme o RBAC 136, exige a emissão de COA e EO, enquanto operações com helicópteros transportando carga externa, RBAC 133 e operações aeroagrícolas, RBAC 137, exigem, respectivamente, uma autorização específica para operação e um cadastro perante a ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "Para a realização de operações SAE sob o RBAC 91, é necessário que o operador desenvolva um MGSO, com a finalidade de implantar um SGSO.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "As empresas SAE-Panorâmico somente podem operar nas bases operacionais previstas em suas EO, mediante a obtenção de um COA e EO, vedado a elas operar passeios em eventos e feiras, sendo esse tipo de operação previsto aos táxis aéreos.",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "Escolas e aeroclubes podem obter autorização para realizar operações de SAE- Panorâmico, desde que cumpram as exigências do RBAC 136.",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "O operador SAE-Panorâmico deve elaborar um Manual de Operações (MO), contendo procedimentos de capacitação dos pilotos, bem como procedimentos para registro e controle de licenças; um MGSO, além de designar um Gestor Responsável e um Gestor de Segurança Operacional.",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "O operador sob o RBAC 133 deve elaborar um Manual de Voo da Combinação Aeronave-Carga Externa e demonstrar à ANAC o treinamento dos pilotos.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "A cota mínima da propriedade compartilhada é igual ou maior do que um dezesseis avos (1/16) de, pelo menos, uma aeronave subsônica de asa fixa, ou uma aeronave de sustentação por potência do programa; igual ou maior do que um trinta e dois avos (1/32) de, pelo menos, uma aeronave de asas rotativas do programa.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "A Subparte K do RBAC 91 versa sobre a propriedade compartilhada de aeronaves e prevê os cargos administrativos de Gestor Responsável, Diretor de Operações, Diretor de Manutenção e Diretor de Segurança Operacional.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "Os operadores de aeronaves em regime de propriedade compartilhada recebem Especificações Administrativas (EA) e devem formalizar sua estrutura através de manuais, não sendo necessário passar por um processo de certificação sob o RBAC 119.",
+      "a": "C"
+    },
+    {
+      "n": 64,
+      "t": "A regulação da infraestrutura aeroportuária é essencial para garantir a segurança, a eficiência operacional e a interoperabilidade no setor de aviação civil, além de ser vital para o alinhamento dos incentivos econômicos.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "A obtenção de receitas é a principal razão para a regulação da infraestrutura aeroportuária, pois aeroportos são pontos críticos onde erros podem ter consequências severas.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "Um dos aspectos fundamentais da regulação é promover a interoperabilidade, através da padronização das normas e procedimentos, o que assegura que a infraestrutura aeroportuária seja consistente em todo o país, garantindo os mesmos padrões em diferentes regiões, facilitando a coordenação e aumentando a segurança.",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "Incentivos regulatórios são mecanismos estabelecidos por autoridades reguladoras para alinhar os comportamentos dos agentes regulados com os objetivos de políticas públicas.",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "Os incentivos regulatórios desempenham um papel crucial na economia da regulação, atuando como ferramentas para corrigir falhas e promover o bem-estar do mercado.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "Os Incentivos Baseados em Performance estabelecem metas ou padrões de desempenho que os regulados devem alcançar, mas permite que eles decidam a melhor maneira de cumprir essas metas.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "Na Autoregulação e Coregulação, as próprias entidades reguladas desenvolvem e implementam normas, com ou sem supervisão governamental, demonstrando ser eficaz quando as entidades tem um forte compromisso com os objetivos regulatórios e um entendimento profundo das operações do setor.",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "Multas são consideradas incentivo regulatório de natureza financeira.",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "Normas de desempenho, requisitos de conformidade e padrões operacionais são incentivos regulatórios não-financeiros.",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Para alcançar objetivos regulatórios é necessário criar incentivos que motivem os agentes regulados a atuarem em conformidade com os seus próprios interesses, equilibrando custos e benefícios.",
+      "a": "E"
+    },
+    {
+      "n": 74,
+      "t": "A Indução de comportamento, chamada de Nudge, trata-se de influenciar o comportamento dos agentes para dentro da margem esperada, a exemplo das listas de aeroportos não certificados.",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "A adaptação da regulação às rápidas mudanças tecnológicas é um desafio importante, podendo o regulador adotar uma abordagem mais flexível e adaptativa, permitindo ajustes às normas.",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "Ao tratar de infraestrutura aeroportuária, o Brasil segue o disposto no Anexo 14 da ICAO e o RBAC 154 - Projeto de Aeródromos como documentos base para esse tema.",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "No RBAC 154 é possível identificar os principais grupos de requisitos de infraestrutura aeroportuária, que são Características Físicas, Auxílios Visuais à Navegação e Sistemas Elétricos.",
+      "a": "C"
+    },
+    {
+      "n": 78,
+      "t": "Conforme o RBAC 154, Sistemas elétricos referem-se aos Sistemas de suprimento de energia elétrica para facilidades de navegação aérea, Projetos de sistemas elétricos, Monitoramento e Proteção contra raios.",
+      "a": "E"
+    },
+    {
+      "n": 79,
+      "t": "O Código de Referência de Aeródromos é composto por um número e uma letra, sendo que o primeiro é um número baseado no comprimento básico de pista para operação da aeronave crítica e o segundo é uma letra baseada na envergadura da aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 80,
+      "t": "Um aeródromo com Código de Referência 4E tem sua pista de pouso e decolagem com medidas de 1800m ou mais e aeronave crítica com envergadura igual ou maior que 52m e menor que 65m.",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "OMGWS (Outter Main Gear Wheel Spam) é a largura entre as bordas internas do trem de pouso principal da aeronave e tem relação com requisitos e largura de pistas, distância entre linhas de eixo e linhas de borda, entre outros.",
+      "a": "E"
+    },
+    {
+      "n": 82,
+      "t": "O tipo de operação para o qual a pista se destina (aproximação visual ou por instrumentos) não é um parâmetro que pode determinar especificações de requisitos de infraestrutura.",
+      "a": "E"
+    },
+    {
+      "n": 83,
+      "t": "Envergadura, ou wingspam, é a dimensão entre as pontas de asa de uma aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "Pistas de pouso e decolagem, Áreas de Segurança de Fim de Pista (RESA), Zonas de parada (stopways) e Pátios de aeronaves são exemplos de itens que fazem parte da Subparte C (Características Físicas) do RBAC 154.",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "O RBAC nº 153 é de cumprimento obrigatório pelo operador de aeródromo civil brasileiro, compartilhado ou não, aplicando-se também a helipontos e heliportos.",
+      "a": "E"
+    },
+    {
+      "n": 86,
+      "t": "A classe do aeródromo é definida em função do tipo de uso dado à infraestrutura aeroportuária, do número de passageiros processados, considerando a média aritmética de movimento anual de passageiros processados no período de 3 anos anteriores e do tipo de transporte aéreo que o aeródromo está apto a processar no ano corrente.",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "Os requisitos e parâmetros mínimos de segurança operacional são estabelecidos por classe de aeródromo, que é definida em função do tipo de uso dado à infraestrutura aeroportuária, do número de passageiros processados e do tipo de transporte aéreo que o aeródromo está apto a processar no ano corrente.",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "Um aeródromo de Classe II é aquele que processou entre 1 milhão e 3 milhões de passageiros no último ano corrente.",
+      "a": "E"
+    },
+    {
+      "n": 89,
+      "t": "A ANAC pode exigir de qualquer aeródromo os requisitos de classe superior àquela em que este seria classificado, quando previamente justificado, em função da complexidade da operação aeroportuária, da frequência de pousos ou do risco à segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "O operador de aeródromo pode, eventualmente, operar transporte aéreo mais exigente ou dar uso diferente ao que está classificado, desde que este não acarrete em comprometimento da segurança operacional.",
+      "a": "E"
+    },
+    {
+      "n": 91,
+      "t": "O operador de aeródromo deve garantir que nenhum equipamento ou instalação permaneça na faixa de pista, na RESA, na faixa de pista de táxi ou em uma zona desimpedida, a menos que sua localização seja necessária para o desempenho de suas funções de navegação aérea ou de segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 92,
+      "t": "O operador de aeródromo pode permitir que até 5% do movimento em seu sistema de pistas seja realizado por aeronaves que sobrecarreguem o pavimento, tomando, como base, o número de movimento de aeronaves registrado nos últimos 12 meses, inclusive o movimento de pequenas aeronaves.",
+      "a": "E"
+    },
+    {
+      "n": 93,
+      "t": "Para aproximação do tipo precisão CAT II/III, é previsto que, no máximo, um total de 5% das luzes de fim de pista estejam inoperantes, desde que não sejam 2 luzes consecutivas.",
+      "a": "E"
+    },
+    {
+      "n": 94,
+      "t": "Nos casos de inscrição ou atualização do cadastro, obra ou serviço de manutenção na área operacional ou alteração de especificações operativas, o operador do aeródromo deve solicitar a atualização das informações do aeródromo no AIS, mediante anuência da ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Área Operacional, ou Lado AR, é o conjunto formado pela área de movimento de um aeródromo, terrenos e edificações adjacentes, ou parte delas, cujo acesso é controlado.",
+      "a": "C"
+    },
+    {
+      "n": 96,
+      "t": "O sistema de proteção da área operacional deve prevenir a entrada de animais terrestres ou objetos que constituam perigo às operações aéreas e conter o acesso não autorizado, premeditado ou inadvertido, de veículos e pessoas.",
+      "a": "C"
+    },
+    {
+      "n": 97,
+      "t": "O operador de aeródromo deve manter um Sistema de Orientação e Controle da Movimentação no Solo (SOCMS), composto de infraestrutura e procedimentos, que seja capaz de auxiliar os passageiros e veículos na incursão em pista.",
+      "a": "E"
+    },
+    {
+      "n": 98,
+      "t": "O SOCMS deve possuir ao menos 6 elementos mínimos, dentre os quais estão a movimentação de aeronaves, veículos, equipamentos e pessoas na área operacional e a prevenção de incursão em pista.",
+      "a": "C"
+    },
+    {
+      "n": 99,
+      "t": "Os procedimentos necessários para um fluxo ordenado de aeronaves, veículos, equipamentos e pessoas na área de movimento deverão ser estabelecidos em acordo entre o operador do aeródromo e o órgão ATS.",
+      "a": "C"
+    },
+    {
+      "n": 100,
+      "t": "O ingresso na área operacional de equipamento ou veículo que produza faísca, fogo ou fenômeno de combustão, e que não contenha procedimentos PESO, será autorizado pelo operador quando da necessidade da operação.",
+      "a": "E"
+    },
+    {
+      "n": 101,
+      "t": "Quanto à ordem de prioridade de tráfego na área operacional, os veículos em atividade de resposta à emergência tem prioridade, exceto quando houver aeronave taxiando.",
+      "a": "E"
+    },
+    {
+      "n": 102,
+      "t": "Em nenhuma hipótese será permitido que pessoas, veículos e equipamentos transitem sobre mangueiras ou cabos durante o abastecimento de aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 103,
+      "t": "Área de manobras significa a parte do aeródromo utilizada para decolagem, pouso e táxi de aeronaves, excluindo-se o pátio de aeronaves.",
+      "a": "C"
+    },
+    {
+      "n": 104,
+      "t": "O operador de aeródromo deve assegurar que a velocidade de exaustão de gases dos motores das aeronaves posicionadas em direção a edificações, equipamentos, veículos e pessoas, durante operações aéreas, não ultrapasse 65 km/h quando atingir estes elementos.",
+      "a": "E"
+    },
+    {
+      "n": 105,
+      "t": "O operador de aeródromo deve assegurar que pessoa sem qualificação e treinamento exigidos jamais transite ou permaneça na área de manobras com ou sem o acompanhamento e supervisão.",
+      "a": "E"
+    },
+    {
+      "n": 106,
+      "t": "Para ter acesso e permanência na área de manobras, pessoas, equipamentos e veículos devem ter acesso à equipamento de comunicação operante, com alcance em toda a área operacional do aeródromo e clareza de áudio.",
+      "a": "C"
+    },
+    {
+      "n": 107,
+      "t": "A presença incorreta de pessoa na área protegida de uma superfície designada para pouso e decolagem de aeronaves é considerada incursão em pista.",
+      "a": "C"
+    },
+    {
+      "n": 108,
+      "t": "Pátio de Aeronaves é a área definida em um aeródromo em terra, com o propósito de acomodar aeronaves para fins de embarque e desembarque de passageiros, carregamento ou descarregamento de cargas, correio, reabastecimento de combustível, estacionamento ou manutenção.",
+      "a": "C"
+    },
+    {
+      "n": 109,
+      "t": "O operador de aeródromo deve manter o controle e o registro de movimentos quanto ao processamento de aeronaves, passageiros, carga aérea e mala postal.",
+      "a": "C"
+    },
+    {
+      "n": 110,
+      "t": "Todas as atividades de abordagem à aeronave, antes de seu início, devem aguardar a parada completa dos motores, o apagamento das luzes anticolisão e a colocação dos calços na aeronave, sem que haja qualquer exceção.",
+      "a": "E"
+    },
+    {
+      "n": 111,
+      "t": "Em situações de chuva e/ou tempestade elétricas, o abastecimento e transferência de combustível de aeronaves deve ser realizado, em segurança, dentro de hangares ou em áreas fechadas.",
+      "a": "E"
+    },
+    {
+      "n": 112,
+      "t": "Os profissionais que desempenham procedimento de abastecimento ou transferência de combustível de aeronave devem acionar a equipe contraincêndio do aeródromo somente quando não houver sucesso na intervenção inicial no local da emergência.",
+      "a": "E"
+    },
+    {
+      "n": 113,
+      "t": "O operador de aeródromo e as unidades de abastecimento de aeronaves devem disponibilizar material para contenção imediata de derramamentos de combustível em operações de abastecimento ou transferência de combustível de aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 114,
+      "t": "Passageiros somente devem atravessar pistas de táxi e vias de serviço quando não houver outro modo de realizar o deslocamento, e o trajeto utilizado deve estar claramente estabelecido, visível, sinalizado e com a superfície livre de qualquer obstáculo.",
+      "a": "C"
+    },
+    {
+      "n": 115,
+      "t": "O operador de aeródromo deve submeter o SOCMS com procedimentos específicos para operação em baixa visibilidade, antes de sua entrada em operação, à aceitação e autorização do DECEA.",
+      "a": "E"
+    },
+    {
+      "n": 116,
+      "t": "O operador de aeródromo deve estabelecer e implementar um sistema de manutenção de toda a infraestrutura aeroportuária, que seja capaz de manter as condições físicas e operacionais do aeródromo, dos veículos e equipamentos, bem como permitir a continuidade das operações aeroportuárias.",
+      "a": "C"
+    },
+    {
+      "n": 117,
+      "t": "O sistema de manutenção aeroportuária deve visar o monitoramento e manutenção preventiva e corretiva de diversas áreas e sistemas, tais como as áreas pavimentadas, equipamentos, veículos e sinalização viária da área operacional, e áreas verdes.",
+      "a": "C"
+    },
+    {
+      "n": 118,
+      "t": "O operador de aeródromo deve manter as áreas pavimentadas em condições operacionais, visando à adequada operação e à proteção de aeronaves, veículos, pessoas e equipamentos aeronáuticos e aeroportuários.",
+      "a": "C"
+    },
+    {
+      "n": 119,
+      "t": "A medição do índice de serventia do pavimento de pista de pouso e decolagem de aeroporto de Classe III deve ser realizada a cada 12 meses e deve ser representada por um valor numérico.",
+      "a": "E"
+    },
+    {
+      "n": 120,
+      "t": "Em face da frequência anual de pousos, de condições operacionais específicas, do risco à segurança operacional ou da necessidade de garantia da segurança operacional, a ANAC pode requisitar medições adicionais do índice de serventia, da irregularidade longitudinal, do coeficiente de atrito e da macrotextura do pavimento.",
+      "a": "C"
+    },
+    {
+      "n": 121,
+      "t": "O operador de aeródromo deve manter a diferença de nível entre áreas pavimentadas e não pavimentadas inferior a 10 cm e 30º de inclinação, além de manter a área pavimentada livre de desníveis, depressões ou deformações que alterem suas declividades transversais e longitudinais originais.",
+      "a": "E"
+    },
+    {
+      "n": 122,
+      "t": "O operador de aeródromo deve manter a pista de pouso e decolagem em condições operacionais, visando a resistência à derrapagem, o controle direcional das aeronaves e a integridade dos equipamentos aeronáuticos.",
+      "a": "C"
+    },
+    {
+      "n": 123,
+      "t": "As medidas máximas para acúmulo de água nas pistas de pouso e decolagem são 3mm de profundidade numa região de 180m de comprimento por 12m de largura, na porção central em relação ao eixo da pista.",
+      "a": "E"
+    },
+    {
+      "n": 124,
+      "t": "O operador de aeródromo deve monitorar o coeficiente de atrito do pavimento por meio de medições dinâmicas que representem, numericamente, o coeficiente de atrito entre pneu e pavimento, que deve ser documentado em relatório e enviado à ANAC no prazo máximo de 15 dias após a conclusão da referida medição.",
+      "a": "C"
+    },
+    {
+      "n": 125,
+      "t": "Para pavimentos com camada porosa de atrito, quando a classificação de algum dos terços da pista de pouso e decolagem deixar de ser muito fechada, o operador de aeródromo deve solicitar divulgação de informação aeronáutica de indisponibilidade da camada porosa de atrito.",
+      "a": "E"
+    },
+    {
+      "n": 126,
+      "t": "Para aeroportos com média de pousos diários de aeronaves de asa fixa com motor à reação, na cabeceira predominante, no último ano, maior ou igual a 31 e menor que 91, a medição de macrotextura do pavimento deve ser realizada a cada 90 dias.",
+      "a": "C"
+    },
+    {
+      "n": 127,
+      "t": "Para pavimentos com ranhuras transversais (grooving), quando a profundidade média da macrotextura de algum dos terços da pista for inferior a 3,0mm, o operador de aeródromo deve solicitar divulgação de informação aeronáutica de indisponibilidade das ranhuras transversais (grooving).",
+      "a": "E"
+    },
+    {
+      "n": 128,
+      "t": "Os auxílios visuais do aeródromo compreendem os indicadores e dispositivos de sinalização, sinalização horizontal, luzes, sinalização vertical, balizas e indicadores de áreas de uso restrito.",
+      "a": "C"
+    },
+    {
+      "n": 129,
+      "t": "O operador de aeródromo deve, quanto aos indicadores e dispositivos de sinalização, manter a integridade física do equipamento, de forma a permitir sua visualização por aeronave em voo a uma distância mínima de 500m e manter o sistema de iluminação do equipamento em funcionamento e em consonância com o manual do fabricante.",
+      "a": "E"
+    },
+    {
+      "n": 130,
+      "t": "O operador do aeródromo deve propiciar integridade da sinalização horizontal de forma a evitar que ocorra em 20m consecutivos longitudinais às linhas ou faixas a desagregação total da sinalização, de forma a não permitir sua perfeita visualização.",
+      "a": "E"
+    },
+    {
+      "n": 131,
+      "t": "Todos os requisitos de sinalização horizontal definidos para as vias pavimentadas devem ser seguidos também para a sinalização das vias não-pavimentadas.",
+      "a": "E"
+    },
+    {
+      "n": 132,
+      "t": "O planejamento da obra ou serviço de manutenção na área operacional deve contemplar os aspectos do gerenciamento de risco, que devem ser consolidados em Procedimentos Específicos de Segurança Operacional (PESO).",
+      "a": "C"
+    },
+    {
+      "n": 133,
+      "t": "Quando o aeródromo estiver operando em condição de baixa visibilidade, somente é permitido realizar obra ou serviço de manutenção próximo a sistemas elétricos se o responsável pelo serviço se responsabilizar pelas atividades.",
+      "a": "E"
+    },
+    {
+      "n": 134,
+      "t": "A distância de segurança em relação aos sistemas elétricos, para a realização de obras ou serviço de manutenção, quando o aeródromo estiver operando em baixa visibilidade, deve ser definida pelo operador do aeródromo.",
+      "a": "C"
+    },
+    {
+      "n": 135,
+      "t": "Quando a obra ou serviço de manutenção ocorrer dentro da área operacional ou afetar a normalidade das operações aéreas, o operador do aeródromo deve estabelecer e documentar ações por meio de AISO e PESO.",
+      "a": "C"
+    },
+    {
+      "n": 136,
+      "t": "O conjunto AISO/PESO deve ser enviado à ANAC antes da execução da obra ou serviço de manutenção quando ocorrer o fechamento total ou parcial de pista de pouso e decolagem ou em caso de obra ou serviço de manutenção localizado na faixa de pista, da pista de pouso e decolagem ou na RESA.",
+      "a": "C"
+    },
+    {
+      "n": 137,
+      "t": "Em caso de necessidade de execução de qualquer tipo de obra ou serviço de manutenção emergencial, a ANAC deve ser informada até o segundo dia útil após a data de início.",
+      "a": "E"
+    }
+  ],
   "simulado pessoal CF ANAC 18-12": [
     {
       "n": 1,

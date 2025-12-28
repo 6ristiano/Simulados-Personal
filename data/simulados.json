@@ -2052,302 +2052,302 @@
   "extra modulo 1": [
     {
       "n": 1,
-      "t": "O Codigo de Etica Profissional do Servidor Publico Civil do Poder Executivo Federal foi instituido pelo Decreto 1.117/1994 e se aplica apenas a servidores de ministerios. ( )",
+      "t": "A aceitação de presente de parte interessada em decisão do servidor é compatível com integridade pública se não houver pedido explícito de contrapartida. ( )",
       "a": "E"
     },
     {
       "n": 2,
-      "t": "O Decreto 1.171/1994 preve Comissoes de Etica apenas nos orgaos da administracao direta, nao se aplicando a entidades da administracao indireta. ( )",
-      "a": "E"
+      "t": "Mesmo quando não há pedido explícito, aceitar vantagem oferecida por interessado pode comprometer a imparcialidade percebida e enfraquecer a confiança institucional. ( )",
+      "a": "C"
     },
     {
       "n": 3,
-      "t": "Segundo o Codigo de Etica, o servidor nao pode omitir ou falsear a verdade, ainda que contraria a interesses da propria pessoa interessada ou da Administracao. ( )",
-      "a": "C"
-    },
-    {
-      "n": 4,
-      "t": "O Codigo de Etica permite que simpatias e antipatias pessoais influenciem o trato com o publico, desde que nao haja prejuizo material. ( )",
+      "t": "Brindes e hospitalidades são sempre equiparados a presentes e, portanto, sempre proibidos, independentemente do contexto e do normativo aplicável. ( )",
       "a": "E"
     },
     {
-      "n": 5,
-      "t": "O Codigo de Etica estabelece que o servidor deve abster-se, de forma absoluta, de exercer funcao, poder ou autoridade com finalidade estranha ao interesse publico, mesmo que observando as formalidades legais. ( )",
+      "n": 4,
+      "t": "A avaliação ética do caso não depende apenas de “intenção” do servidor, mas também de aparência de imparcialidade e risco de influência. ( )",
       "a": "C"
     },
     {
+      "n": 5,
+      "t": "Se o servidor recusar a oferta, mas agir com grosseria, estará automaticamente cometendo falta ética mais grave do que aceitar o brinde. ( )",
+      "a": "E"
+    },
+    {
       "n": 6,
-      "t": "As Comissoes de Etica previstas no Decreto 1.171/1994 se limitam a orgaos da ANAC, nao alcançando outros orgaos federais. ( )",
+      "t": "A justificativa “isso não muda meu julgamento” elimina o risco ético, pois o problema ético só existe quando há efetiva alteração da decisão. ( ) TEXTO BASE 2 Durante atendimento ao público, uma usuária solicita prioridade por “ser conhecida do servidor”. O servidor diz que “vai agilizar”, mas pede que ela “não comente com ninguém” para evitar reclamações.",
       "a": "E"
     },
     {
       "n": 7,
-      "t": "O codigo de etica e conduta dos agentes publicos da ANAC foi publicado pela Resoluçao 569, de 25/06/2021. ( )",
-      "a": "E"
-    },
-    {
-      "n": 8,
-      "t": "A previsao de regras escritas pode aumentar clareza e padronizaçao de condutas, o que e coerente com a existencia de codigos de etica no setor publico. ( )",
+      "t": "Atender com prioridade alguém por vínculo pessoal, sem critério impessoal, afronta a ética do serviço público, ainda que o pedido seja “apenas para agilizar”. ( )",
       "a": "C"
     },
     {
-      "n": 9,
-      "t": "A etica do servidor publico se limita ao ambiente de trabalho, nao alcançando condutas fora do horario de expediente. ( )",
+      "n": 8,
+      "t": "O pedido de sigilo (“não comente com ninguém”) é elemento neutro e não influencia a análise ética, pois o servidor está apenas evitando conflito com colegas. ( )",
       "a": "E"
     },
     {
+      "n": 9,
+      "t": "A impessoalidade no atendimento busca reduzir favoritismos e assegurar tratamento isonômico aos usuários. ( )",
+      "a": "C"
+    },
+    {
       "n": 10,
-      "t": "O interesse publico pode ser relativizado sempre que o servidor tiver motivo pessoal, pois etica e sempre subjetiva. ( )",
+      "t": "Se o servidor prestar a informação correta e completa, ele pode omitir a razão real da prioridade sem violar a ética, porque “o resultado foi bom”. ( ) TEXTO BASE 3 Um servidor usa conhecimento obtido no cargo (informação ainda não pública sobre mudança regulatória) para orientar um amigo empresário a se antecipar no mercado.",
       "a": "E"
     },
     {
       "n": 11,
-      "t": "Impessoalidade pressupoe tratamento isonomico e evita favorecimentos por simpatia pessoal. ( )",
-      "a": "C"
+      "t": "Usar informação privilegiada obtida no cargo para gerar vantagem a terceiros é compatível com o interesse público quando “ajuda o setor a se preparar”. ( )",
+      "a": "E"
     },
     {
       "n": 12,
-      "t": "O trecho do Codigo de Etica que veda interferencia de paixoes e interesses pessoais no trato alcança usuarios, jurisdicionados e colegas, independentemente da posicao hierarquica. ( )",
+      "t": "A conduta é problemática porque explora assimetria de informação e pode gerar vantagem privada indevida a partir do exercício da função pública. ( )",
       "a": "C"
     },
     {
       "n": 13,
-      "t": "A expressao \"abster-se, de forma absoluta\" reforça que o desvio de finalidade pode ser eticamente reprovavel mesmo sem ilegalidade formal. ( )",
-      "a": "C"
-    },
-    {
-      "n": 14,
-      "t": "Codigos de etica sao meras pecas de comunicacao e nao tratam de deveres ou vedacoes. ( )",
+      "t": "Se o servidor não receber dinheiro, não existe conflito de interesses. ( )",
       "a": "E"
     },
     {
+      "n": 14,
+      "t": "A ausência de benefício financeiro direto ao servidor não elimina o problema ético se houver favorecimento indevido a particular. ( ) TEXTO BASE 4 Dois servidores realizam a mesma atividade. Um deles decide “pegar mais leve” com um regulado, pois “é uma empresa pequena e simpática”, enquanto endurece com outro regulado “mais antipático”.",
+      "a": "C"
+    },
+    {
       "n": 15,
-      "t": "O Codigo de Etica federal, por ser decreto aplicavel ao Poder Executivo Federal, tem alcance geral e nao se limita a um orgao especifico. ( )",
+      "t": "A atuação seletiva com base em simpatia/antipatia pessoal afronta a ética e a imparcialidade exigida na atuação pública. ( )",
       "a": "C"
     },
     {
       "n": 16,
-      "t": "O Codigo de Etica do servidor publico federal e um decreto (nao uma lei ordinaria) e organiza parametros de conduta no Poder Executivo Federal. ( )",
-      "a": "C"
-    },
-    {
-      "n": 17,
-      "t": "O Codigo de Etica afirma que a mentira pode ser aceitavel quando evita desgaste institucional, pois preserva a imagem do Estado. ( )",
+      "t": "É aceitável flexibilizar exigências técnicas para empresas pequenas, mesmo sem base normativa, pois isso promove equidade. ( )",
       "a": "E"
     },
     {
+      "n": 17,
+      "t": "“Equidade” no sentido de política pública não autoriza o servidor a agir fora de critérios legais e técnicos definidos. ( )",
+      "a": "C"
+    },
+    {
       "n": 18,
-      "t": "No contexto da ANAC, a atividade regulatoria nao envolve decisoes que afetem direitos de particulares, por isso a conduta etica individual e irrelevante. ( )",
+      "t": "Se não houver reclamação formal, a conduta deixa de ser antiética. ( ) TEXTO BASE 5 Um servidor afirma: “Na ética pública, o que importa é não violar a lei; se tudo estiver formalmente correto, não existe problema.”",
       "a": "E"
     },
     {
       "n": 19,
-      "t": "A existencia de comissoes de etica e um elemento de governanca de integridade que complementa mecanismos disciplinares e de correcao. ( )",
+      "t": "Mesmo com formalidades legais observadas, o uso da função pública para finalidade estranha ao interesse público pode ser eticamente reprovável. ( )",
       "a": "C"
     },
     {
       "n": 20,
-      "t": "O material menciona um codigo de etica e conduta da ANAC publicado em 2020, como guia adaptado ao ambiente institucional da Agencia. ( )",
-      "a": "C"
-    },
-    {
-      "n": 21,
-      "t": "A Lei 8.112/1990 regula exclusivamente empregados celetistas de empresas estatais. ( )",
+      "t": "Ética pública se limita à legalidade estrita; portanto, condutas moralmente questionáveis, mas legais, são eticamente neutras. ( )",
       "a": "E"
     },
     {
+      "n": 21,
+      "t": "A exigência de “verdade” no trato com o cidadão inclui evitar omissões e distorções, ainda que isso gere desconforto institucional. ( )",
+      "a": "C"
+    },
+    {
       "n": 22,
-      "t": "O material indica ser permitido ao servidor administrar sociedade privada desde que fora do horario de expediente. ( )",
+      "t": "O dever de veracidade admite exceção ampla quando a verdade “prejudica a imagem do órgão”. ( ) TEXTO BASE 6 Um servidor falta ao serviço repetidamente, em dias alternados, sem justificativa, alegando “problemas pessoais” mas sem formalizar.",
       "a": "E"
     },
     {
       "n": 23,
-      "t": "O material proibe qualquer participacao societaria, inclusive como acionista, por configurar exercicio de comercio. ( )",
-      "a": "E"
-    },
-    {
-      "n": 24,
-      "t": "O material indica que o servidor pode participar de associacoes e fundacoes, nao se confundindo com exercicio de comercio. ( )",
+      "t": "Ausências repetidas e sem justificativa formal podem caracterizar inassiduidade habitual, por se tratar de faltas interpoladas. ( )",
       "a": "C"
     },
     {
+      "n": 24,
+      "t": "Inassiduidade habitual e abandono de cargo são sinônimos e descrevem a mesma infração. ( )",
+      "a": "E"
+    },
+    {
       "n": 25,
-      "t": "Receber presentes oferecidos por quem tenha interesse em decisao do servidor e conduta proibida no material. ( )",
+      "t": "O abandono de cargo pressupõe ausência prolongada e intencional, em regra por período consecutivo. ( )",
       "a": "C"
     },
     {
       "n": 26,
-      "t": "O material trata brindes e hospitalidades como presentes e, por isso, sempre proibe seu recebimento. ( )",
+      "t": "Ausência frequente “picada” nunca gera consequência administrativa, porque não há um período contínuo sem comparecimento. ( ) TEXTO BASE 7 Um servidor participa da administração de uma empresa privada, assinando contratos e conduzindo decisões, mas diz que “é só para ajudar a família” e “fora do horário”.",
       "a": "E"
     },
     {
       "n": 27,
-      "t": "O abandono de cargo ocorre apenas quando a ausencia supera 90 dias consecutivos, independentemente de intencionalidade. ( )",
-      "a": "E"
+      "t": "A participação em gerência/administração de sociedade privada pode ser vedada ao servidor, ainda que fora do horário de trabalho. ( )",
+      "a": "C"
     },
     {
       "n": 28,
-      "t": "A inassiduidade habitual se caracteriza por mais de 60 dias corridos, no periodo de 12 meses. ( )",
-      "a": "E"
+      "t": "Ser sócio na condição de acionista/cotista, sem gestão, pode ser tratado de forma diferente de administrar/gerir a empresa. ( )",
+      "a": "C"
     },
     {
       "n": 29,
-      "t": "A Lei 12.813/2013, citada no material, trata de conflito de interesses e pode vedar o uso de informacao privilegiada do cargo para obter vantagem privada. ( )",
-      "a": "C"
+      "t": "A simples alegação de que “não atrapalha o serviço” transforma a conduta em lícita e eticamente aceitável. ( )",
+      "a": "E"
     },
     {
       "n": 30,
-      "t": "O material permite usar informacoes privilegiadas do cargo para vantagem privada, desde que nao gere dano financeiro ao Estado. ( )",
-      "a": "E"
-    },
-    {
-      "n": 31,
-      "t": "A lista de condutas proibidas no material e apresentada como \"dentre outras\", indicando que nao e exaustiva. ( )",
+      "t": "A vedação existe porque há risco de conflito de interesses e de comprometimento da dedicação ao interesse público. ( ) TEXTO BASE 8 Uma equipe recebe cobrança pública após incidente. Um servidor, irritado, decide “esconder” parte das informações para evitar críticas, dizendo que “é para proteger a instituição”.",
       "a": "C"
     },
     {
-      "n": 32,
-      "t": "O material afirma que a Corregedoria atua apenas na fase de punicao, sem atividades investigativas. ( )",
+      "n": 31,
+      "t": "A proteção da imagem institucional justifica ocultar informação relevante do cidadão, pois o interesse público inclui preservar a autoridade do órgão. ( )",
       "a": "E"
     },
     {
+      "n": 32,
+      "t": "A transparência e a veracidade tendem a ser parâmetros éticos relevantes na relação com o público, inclusive em situações de crise. ( )",
+      "a": "C"
+    },
+    {
       "n": 33,
-      "t": "O material define abandono e inassiduidade com os mesmos limites de dias e no mesmo formato. ( )",
+      "t": "O direito à informação pode ser restringido livremente por decisão do servidor, desde que ele considere “conveniente”. ( )",
       "a": "E"
     },
     {
       "n": 34,
-      "t": "O material aponta como proibicao a participacao em gerencia ou administracao de sociedade privada, mas admite excecao para acionista, cotista ou comanditario. ( )",
+      "t": "O dever de lealdade institucional não é o mesmo que “blindar” o órgão por omissão de fatos relevantes. ( ) TEXTO BASE 9 Uma norma ambiental internacional define metas para a aviação internacional. Um gestor afirma: “Logo, o Brasil é obrigado a aplicar exatamente as mesmas metas para a aviação doméstica”.",
       "a": "C"
     },
     {
       "n": 35,
-      "t": "Abandono de cargo e inassiduidade habitual sao institutos distintos, com criterios diferentes de caracterizacao. ( )",
+      "t": "Compromissos para aviação internacional e doméstica podem ser tratados em esferas diferentes, considerando soberania e instrumentos nacionais. ( )",
       "a": "C"
     },
     {
       "n": 36,
-      "t": "A disciplina conclui que foram abordadas atividades da Corregedoria, deveres e condutas proibidas, em linha com a perspectiva correcional no ambito da ANAC. ( )",
-      "a": "C"
-    },
-    {
-      "n": 37,
-      "t": "O material afirma que presentes sao permitidos quando nao ha expectativa de contrapartida, dispensando regra formal. ( )",
+      "t": "Se a OACI define compromissos internacionais, isso elimina completamente a possibilidade de políticas nacionais para emissões domésticas. ( )",
       "a": "E"
     },
     {
+      "n": 37,
+      "t": "A distinção entre internacional e doméstico é relevante porque os mecanismos e obrigações podem variar. ( )",
+      "a": "C"
+    },
+    {
       "n": 38,
-      "t": "O material equipara participacao em associacao ao exercicio de comercio, por isso proibe. ( )",
+      "t": "Em sustentabilidade, só existe um caminho: compensar emissões por compra de créditos, sendo irrelevantes medidas operacionais e tecnológicas. ( ) TEXTO BASE 10 Uma política de sustentabilidade menciona CAEP e CORSIA. Um servidor conclui que “são órgãos nacionais brasileiros”.",
       "a": "E"
     },
     {
       "n": 39,
-      "t": "O material evidencia que condutas proibidas e deveres podem ser objeto de apuracao, em especial quando envolvem abandono, inassiduidade ou conflito de interesses. ( )",
+      "t": "CAEP é estrutura associada ao âmbito internacional (OACI), relacionada à proteção ambiental da aviação. ( )",
       "a": "C"
     },
     {
       "n": 40,
-      "t": "O material afirma que o uso de informacao privilegiada e aceitavel quando beneficia o servidor sem prejudicar terceiros. ( )",
-      "a": "E"
-    },
-    {
-      "n": 41,
-      "t": "O material aponta que, na agenda climatica ambiental, a OACI estabelece compromissos de reducao de emissoes de carbono do transporte aereo internacional. ( )",
+      "t": "CORSIA é associado a esquema global de compensação de emissões ligado à aviação internacional. ( )",
       "a": "C"
     },
     {
-      "n": 42,
-      "t": "O material afirma que emissoes domesticas sao definidas pela OACI e nao podem ser tratadas em politicas nacionais. ( )",
+      "n": 41,
+      "t": "Se um tema é internacional, a ANAC não tem papel técnico em fóruns internacionais, atuando apenas como executora interna. ( )",
       "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "Participar de fóruns técnicos pode influenciar padrões e diretrizes que impactam a regulação nacional e internacional. ( ) TEXTO BASE 11 Sobre combustíveis sustentáveis, um servidor diz: “SAF já é a maior parte do combustível de aviação no mundo, então o problema está praticamente resolvido”.",
+      "a": "C"
     },
     {
       "n": 43,
-      "t": "O material lista objetivos ambientais com crescimento neutro a partir de 2030 e descarbonizacao completa ate 2040. ( )",
-      "a": "E"
+      "t": "É incorreto afirmar que SAF já domina a matriz global; sua participação ainda é pequena e a transição envolve desafios tecnológicos e de escala. ( )",
+      "a": "C"
     },
     {
       "n": 44,
-      "t": "O material aponta como terceiro objetivo a reducao de 50% das emissoes ate 2030 por SAF. ( )",
+      "t": "Se SAF reduz emissões, então sua adoção elimina a necessidade de outras medidas (eficiência operacional, tecnologia, compensação), pois basta trocar o combustível. ( )",
       "a": "E"
     },
     {
       "n": 45,
-      "t": "O material afirma que a ANAC atua, junto com outros orgaos do governo, no Comite de Protecao Ambiental da Aviacao (CAEP) da OACI. ( )",
+      "t": "Ao discutir sustentabilidade, confundir metas, escopo e instrumentos é erro típico de prova e muda o sentido do item. ( ) TEXTO BASE 12 Um servidor afirma: “Se eu trato bem o público e entrego resultado, não preciso seguir padrões éticos formais; ética é só bom senso.”",
       "a": "C"
     },
     {
       "n": 46,
-      "t": "O material cita que regras de certificacao ambiental sao estabelecidas pelo Anexo 6, Volumes I, II e III, da Convencao de Chicago. ( )",
-      "a": "E"
-    },
-    {
-      "n": 47,
-      "t": "O CAEP e citado como comite da OACI ligado a protecao ambiental da aviacao, nao sendo um orgao nacional brasileiro. ( )",
+      "t": "Códigos e padrões escritos ajudam a tornar expectativas de conduta mais claras e controláveis, não substituindo o bom senso, mas orientando-o. ( )",
       "a": "C"
     },
     {
-      "n": 48,
-      "t": "O material menciona que o SAF ja supera 3% da demanda global de combustiveis de aviacao. ( )",
+      "n": 47,
+      "t": "Ética pública é irrelevante para agências reguladoras, pois decisões técnicas não afetam direitos nem o mercado. ( )",
       "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "A ética pública busca orientar a atuação para o interesse coletivo, reduzindo arbitrariedades e favoritismos. ( ) TEXTO BASE 13 Em reunião, um gestor diz: “Conflito de interesses só existe quando há dinheiro envolvido; se for favor a amigo, está liberado”.",
+      "a": "C"
     },
     {
       "n": 49,
-      "t": "O CORSIA e apresentado como mecanismo exclusivo para emissoes domesticas, sem relacao com voos internacionais. ( )",
-      "a": "E"
+      "t": "Conflito de interesses pode ocorrer mesmo sem pagamento, se houver favorecimento indevido, uso de informação privilegiada ou influência do cargo. ( )",
+      "a": "C"
     },
     {
       "n": 50,
-      "t": "A politica de sustentabilidade ambiental da ANAC se limita a gestao de residuos, sem tratar de emissoes de carbono. ( )",
+      "t": "Favorecer amigo com base em posição no órgão é irrelevante se não houver ganho econômico, pois a Administração não perdeu dinheiro. ( ) TEXTO BASE 14 Um servidor diz: “Se a conduta é comum no ambiente, então não pode ser antiética”.",
       "a": "E"
     },
     {
       "n": 51,
-      "t": "O material diferencia compromissos internacionais no ambito da OACI de compromissos domesticos, que podem ser tratados como questao soberana e em politicas nacionais. ( )",
+      "t": "A normalização social de uma conduta não é critério suficiente para torná-la ética, especialmente no serviço público. ( )",
       "a": "C"
     },
     {
       "n": 52,
-      "t": "O material menciona a descarbonizacao completa ate 2050 como meta de 2030. ( )",
-      "a": "E"
-    },
-    {
-      "n": 53,
-      "t": "O material afirma que metas so podem ser atingidas por compra de creditos, sem melhorias operacionais ou tecnologicas. ( )",
-      "a": "E"
-    },
-    {
-      "n": 54,
-      "t": "O material usa a sigla SAF (Sustainable Aviation Fuels) e associa seu uso a reducao de emissoes. ( )",
+      "t": "A ética pública pode exigir padrões mais altos do que costumes informais, porque envolve poder, confiança e interesse coletivo. ( ) TEXTO BASE 15 Uma usuária pede orientação. O servidor sabe a resposta, mas decide “resumir demais” para terminar rápido, omitindo condicionantes importantes.",
       "a": "C"
     },
     {
+      "n": 53,
+      "t": "O dever de prestar informação adequada inclui evitar omissão de condicionantes relevantes que possam induzir o cidadão a erro. ( )",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Desde que o servidor não minta explicitamente, omitir pontos essenciais é eticamente indiferente. ( ) TEXTO BASE 16 Um servidor se recusa a cumprir um procedimento padronizado, alegando que “é burocracia”, e decide criar uma regra própria para “ganhar eficiência”.",
+      "a": "E"
+    },
+    {
       "n": 55,
-      "t": "O material reconhece a soberania dos Estados quanto a emissoes domesticas, situando compromissos no escopo do Acordo de Paris. ( )",
+      "t": "A busca por eficiência não autoriza o servidor a substituir critérios impessoais por critérios pessoais sem base institucional. ( )",
       "a": "C"
     },
     {
       "n": 56,
-      "t": "O material descreve a ANAC apenas como executora de politicas de outros orgaos, sem participacao em foruns internacionais. ( )",
-      "a": "E"
+      "t": "Procedimentos e padrões podem existir para reduzir arbitrariedade e garantir previsibilidade e justiça no tratamento do público. ( ) TEXTO BASE 17 Em sustentabilidade, um servidor confunde “bem-estar social” com “bem-estar do mercado” e afirma que “é a mesma coisa”.",
+      "a": "C"
     },
     {
       "n": 57,
-      "t": "O material apresenta objetivos ambientais da OACI e indica adesao do Brasil a esses objetivos. ( )",
+      "t": "Em regulação e políticas públicas, “bem-estar social” e “bem-estar do mercado” não são termos equivalentes; confundi-los pode distorcer o sentido do item. ( )",
       "a": "C"
     },
     {
       "n": 58,
-      "t": "O material afirma que o primeiro objetivo ambiental e crescimento neutro de emissoes de carbono a partir de 2021. ( )",
+      "t": "A expressão “bem-estar do mercado” é sinônimo técnico universal de “bem-estar social” em economia da regulação. ( ) TEXTO BASE 18 Um servidor é gentil com todos, mas toma decisões com base em preferências pessoais, sem critérios.",
       "a": "E"
     },
     {
       "n": 59,
-      "t": "O material limita politica ambiental a assuntos locais e nao menciona Anexo 16 ou descarbonizacao. ( )",
-      "a": "E"
+      "t": "Cordialidade não substitui impessoalidade: decisões devem seguir critérios públicos e não preferências pessoais. ( )",
+      "a": "C"
     },
     {
       "n": 60,
-      "t": "O material afirma que emissoes internacionais sao soberanas de cada Estado e que a OACI nao tem papel no tema. ( ) GABARITO",
+      "t": "Se a intenção do servidor é boa, decisões por preferências pessoais são aceitáveis, pois o fim justifica os meios. ( ) GABARITO",
       "a": "E"
     }
   ],

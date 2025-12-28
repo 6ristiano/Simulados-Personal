@@ -504,452 +504,452 @@
   "extra 19-12": [
     {
       "n": 1,
-      "t": "No transporte aereo, a existencia de custos fixos elevados e capacidade perecivel favorece a pratica de gestao de receitas, com diferenciacao de tarifas por perfil de demanda. ( )",
+      "t": "A presença de poder de mercado pode justificar intervenção regulatória voltada a reduzir barreiras à entrada e aumentar a contestabilidade, sem que isso signifique “fixar preços” como única solução possível. ( )",
       "a": "C"
     },
     {
       "n": 2,
-      "t": "Se ha economias de densidade e de rede, a concentracao de operacoes em hubs pode reduzir custo medio por passageiro, ainda que aumente o tempo de viagem para parte dos usuarios. ( )",
-      "a": "C"
+      "t": "Se há poucas empresas, então sempre existe monopólio natural, e a regulação econômica deve necessariamente impor tarifa administrada em todas as rotas. ( )",
+      "a": "E"
     },
     {
       "n": 3,
-      "t": "Em mercados aereos, barreiras de entrada baixas implicam que o numero de empresas sera sempre grande e os precos serao necessariamente iguais ao custo marginal. ( )",
-      "a": "E"
+      "t": "A existência de slots escassos pode se tornar barreira à entrada, e a forma de alocação desses slots afeta competição e eficiência do mercado. ( )",
+      "a": "C"
     },
     {
       "n": 4,
-      "t": "Em aviacao, concorrencia potencial (contestabilidade) pode disciplinar precos mesmo com poucas empresas, desde que entrada e saida sejam viaveis e a retaliação nao seja decisiva. ( )",
-      "a": "C"
+      "t": "Em mercados contestáveis, o simples fato de haver poucas empresas é suficiente para concluir, com certeza, que a competição é inexistente. ( )",
+      "a": "E"
     },
     {
       "n": 5,
-      "t": "Precos predatorios sao impossiveis no transporte aereo, porque combustivel e o principal custo e varia de forma identica para todas as empresas. ( )",
-      "a": "E"
+      "t": "Uma política que aumente transparência de tarifas e regras de remarcação pode atuar sobre assimetrias informacionais, mesmo sem mexer diretamente na estrutura de mercado. ( )",
+      "a": "C"
     },
     {
       "n": 6,
-      "t": "A discriminacao de precos por classes tarifarias pode aumentar ocupacao e receita total sem exigir aumento proporcional de custos operacionais. ( )",
-      "a": "C"
-    },
-    {
-      "n": 7,
-      "t": "A liberalizacao de rotas e tarifas elimina a necessidade de qualquer regulacao economica, inclusive em temas como abusos de poder de mercado ou transparência ao consumidor. ( )",
+      "t": "Se o regulador adotar qualquer intervenção, elimina-se por completo o risco de falha de governo. ( ) TEXTO BASE 2 Em determinada rota, uma empresa usa gerenciamento de receitas (yield management), ofertando diferentes tarifas para assentos equivalentes. Passageiros percebem que pagam valores diferentes pelo mesmo voo.",
       "a": "E"
     },
     {
-      "n": 8,
-      "t": "A regulacao economica pode buscar corrigir falhas de mercado, mas tambem pode gerar falhas de governo quando cria incentivos distorcidos, custos excessivos ou captura. ( )",
+      "n": 7,
+      "t": "A discriminação de preços por diferentes perfis de demanda pode ocorrer mesmo quando o serviço é essencialmente o mesmo, sem que isso seja, por si só, ilegal ou anticompetitivo. ( )",
       "a": "C"
     },
     {
+      "n": 8,
+      "t": "Se dois passageiros pagam preços diferentes pelo mesmo assento, isso prova, necessariamente, que houve prática abusiva e ilícita. ( )",
+      "a": "E"
+    },
+    {
       "n": 9,
-      "t": "Em transporte aereo, custos aeroportuarios e de navegacao podem influenciar estrutura de custos e decisoes de oferta, afetando frequencias e malha. ( )",
+      "t": "A elasticidade-preço tende a diferir entre passageiros a lazer e a negócios, o que ajuda a explicar práticas de precificação diferenciada. ( )",
       "a": "C"
     },
     {
       "n": 10,
-      "t": "A existencia de assimetria de informacao entre empresa aerea e passageiro nao justifica intervencao estatal, pois o consumidor sempre consegue comparar todas as alternativas com custo zero. ( )",
-      "a": "E"
-    },
-    {
-      "n": 11,
-      "t": "O conceito de bem publico, no sentido economico, envolve nao rivalidade e nao exclusao, o que dificulta provimento puramente pelo mercado em alguns casos. ( )",
+      "t": "A existência de custos fixos relevantes e capacidade limitada pode incentivar políticas de preço que busquem maximizar receita por voo. ( )",
       "a": "C"
     },
     {
+      "n": 11,
+      "t": "A discriminação de preços é incompatível com qualquer noção de bem-estar social, pois sempre reduz o excedente do consumidor. ( )",
+      "a": "E"
+    },
+    {
       "n": 12,
-      "t": "Externalidades negativas associadas ao transporte aereo, como ruido e emissao, podem justificar instrumentos economicos ou limites operacionais, mesmo em mercados competitivos. ( )",
+      "t": "A regulação econômica pode avaliar efeitos concorrenciais e distributivos de práticas tarifárias sem confundir, automaticamente, preço alto com infração. ( ) TEXTO BASE 3 Uma autoridade pretende intervir em um setor alegando falhas de mercado, mas recebe críticas de que a intervenção pode gerar custos, distorções e incentivos ruins.",
       "a": "C"
     },
     {
       "n": 13,
-      "t": "A relacao entre autoridade antitruste e regulador setorial pode exigir coordenacao, sobretudo quando condutas concorrenciais e requisitos setoriais se sobrepoem. ( )",
+      "t": "Falhas de mercado incluem, entre outras, poder de mercado, externalidades e assimetrias informacionais, podendo justificar intervenção estatal. ( )",
       "a": "C"
     },
     {
       "n": 14,
-      "t": "Se uma empresa controla infraestrutura essencial e impede acesso de concorrentes, trata-se de situacao tipica em que instrumentos concorrenciais podem ser relevantes. ( )",
+      "t": "Falhas de governo podem ocorrer quando a intervenção cria incentivos inadequados, aumenta custos de conformidade ou é capturada por interesses privados. ( )",
       "a": "C"
     },
     {
       "n": 15,
-      "t": "A demanda por viagens aereas e totalmente inelastica ao preco; portanto, variacao tarifaria nao altera quantidade demandada. ( )",
+      "t": "A simples existência de falhas de mercado garante que toda intervenção será eficiente e superior ao arranjo anterior. ( )",
       "a": "E"
     },
     {
       "n": 16,
-      "t": "A funcao estatal de regulacao pode ser compreendida como influencia deliberada do Estado sobre atividades privadas, por meio de comandos, incentivos e arranjos institucionais. ( )",
+      "t": "A análise regulatória madura considera custos e benefícios esperados, incluindo riscos de efeitos não pretendidos. ( )",
       "a": "C"
     },
     {
       "n": 17,
-      "t": "O poder de policia e sempre ilimitado e dispensa previsao legal, pois decorre diretamente da soberania estatal. ( )",
+      "t": "Captura regulatória é impossível quando há participação social, pois a consulta pública elimina assimetrias de poder entre os atores. ( )",
       "a": "E"
     },
     {
       "n": 18,
-      "t": "A legalidade e fundamento central da atuacao administrativa: a administracao publica atua vinculada a lei, especialmente ao criar deveres e impor sancoes. ( )",
+      "t": "A regulação pode buscar objetivos econômicos e jurídicos, e confundir “bem-estar social” com “bem-estar do mercado” pode distorcer o diagnóstico. ( ) TEXTO BASE 4 No processo de edição de um regulamento, a equipe técnica compara alternativas, estima custos, identifica riscos e define indicadores para acompanhar resultados ao longo do tempo.",
       "a": "C"
     },
     {
       "n": 19,
-      "t": "Atos discricionarios sao aqueles em que a administracao decide livremente sem qualquer limite, inclusive sem finalidade publica e sem motivacao. ( )",
-      "a": "E"
-    },
-    {
-      "n": 20,
-      "t": "A motivacao e relevante para controle de atos administrativos, especialmente quando ha juizos tecnicos e escolhas regulatórias. ( )",
+      "t": "A análise ex ante (AIR) tende a estruturar o problema, objetivos e alternativas, incluindo estimativas de impactos antes da decisão final. ( )",
       "a": "C"
     },
     {
+      "n": 20,
+      "t": "A avaliação ex post (ARR) é, em regra, incompatível com gestão por desempenho, pois ocorre somente quando a norma já foi revogada. ( )",
+      "a": "E"
+    },
+    {
       "n": 21,
-      "t": "O devido processo no ambito sancionador inclui contraditorio e ampla defesa, mesmo em processos administrativos, sem que isso dependa de autorizacao judicial previa. ( )",
+      "t": "Definir indicadores desde o início pode facilitar monitoramento e avaliação posterior, reduzindo improviso na ARR. ( )",
       "a": "C"
     },
     {
       "n": 22,
-      "t": "A participacao social na regulacao e mera faculdade politica sem impacto na legitimidade, transparencia ou qualidade regulatoria. ( )",
+      "t": "Se uma alternativa é tecnicamente desejável, a AIR dispensa análise de custos e de viabilidade de implementação. ( )",
       "a": "E"
     },
     {
       "n": 23,
-      "t": "A AIR e instrumento de apoio a decisao e de organizacao do raciocinio regulatorio, ajudando a definir problema, alternativas e impactos esperados. ( )",
+      "t": "A ARR pode verificar se os objetivos foram atingidos e se efeitos colaterais superaram benefícios esperados. ( )",
       "a": "C"
     },
     {
       "n": 24,
-      "t": "A ARR busca avaliar resultados de uma intervencao regulatoria ja implementada, verificando se objetivos foram atingidos e se ajustes sao necessarios. ( )",
-      "a": "C"
+      "t": "Uma ARR bem feita sempre conclui que a norma deve ser mantida, porque sua existência já prova necessidade regulatória. ( ) TEXTO BASE 5 Na construção da agenda regulatória, há pressão para “resolver rápido” um problema. Um gestor afirma que participação social atrasa e deve ser evitada, mantendo o processo apenas interno.",
+      "a": "E"
     },
     {
       "n": 25,
-      "t": "A regra da autotutela significa que a administracao pode revisar seus proprios atos, inclusive anulando atos ilegais e revogando atos inconvenientes, respeitados limites. ( )",
+      "t": "Mecanismos de participação social podem aprimorar qualidade da decisão ao revelar informações práticas do setor e do usuário, sem transferir a competência decisória para os participantes. ( )",
       "a": "C"
     },
     {
       "n": 26,
-      "t": "O controle judicial sobre atos de agencia reguladora e vedado, pois violaria a independencia tecnica do regulador. ( )",
+      "t": "Consulta pública e audiência pública são instrumentos equivalentes em finalidade e formato, ocorrendo sempre da mesma maneira. ( )",
       "a": "E"
     },
     {
       "n": 27,
-      "t": "A razao de existir de uma agencia reguladora e apenas arrecadar taxas e multas, nao tendo compromisso com resultados setoriais. ( )",
-      "a": "E"
+      "t": "A participação social não elimina decisão técnica, mas pode reduzir assimetria de informação entre regulador e regulados. ( )",
+      "a": "C"
     },
     {
       "n": 28,
-      "t": "Compliance se relaciona a conformidade do regulado com regras e expectativas; enforcement envolve deteccao, resposta e, quando cabivel, sancao por descumprimento. ( )",
-      "a": "C"
+      "t": "Evitar participação social tende a reduzir risco de judicialização, porque decisões fechadas são menos contestadas. ( )",
+      "a": "E"
     },
     {
       "n": 29,
-      "t": "Uma estrategia regulatoria baseada somente em persuasao e autorregulacao elimina a necessidade de mecanismos de deteccao e sancao. ( )",
-      "a": "E"
+      "t": "Tomada de subsídios pode ser útil em fase inicial para mapear alternativas e impactos antes de uma minuta final. ( )",
+      "a": "C"
     },
     {
       "n": 30,
-      "t": "Uma estrategia baseada apenas em punicao pode minar cooperacao e boa vontade, elevando custos de fiscalizacao e litigiosidade, motivo pelo qual combinacoes graduais podem ser mais efetivas. ( )",
-      "a": "C"
-    },
-    {
-      "n": 31,
-      "t": "Ferramentas de negociacao e consenso com regulados sao sempre ilegais no Brasil, pois administracao nao pode dialogar com particulares. ( )",
+      "t": "O regulador deve aceitar todas as contribuições recebidas, sob pena de nulidade automática do ato. ( ) TEXTO BASE 6 Uma unidade reguladora discute instrumentos: comando e controle, incentivos econômicos, autorregulação, monitoramento, sanções graduais e acordos de conformidade.",
       "a": "E"
     },
     {
-      "n": 32,
-      "t": "Consultas publicas e tomadas de subsidios ampliam informacao e permitem que diferentes atores contribuam com dados, argumentos e alternativas antes de decisoes. ( )",
+      "n": 31,
+      "t": "A escolha de instrumento regulatório pode depender do comportamento esperado do regulado, capacidade de fiscalização e custos de monitoramento. ( )",
       "a": "C"
     },
     {
+      "n": 32,
+      "t": "Comando e controle é sempre superior a instrumentos baseados em incentivos, pois garante obediência perfeita. ( )",
+      "a": "E"
+    },
+    {
       "n": 33,
-      "t": "Ferramentas de incentivo podem ser usadas para aumentar conformidade, por exemplo, criando beneficios para quem adota boas praticas verificaveis. ( )",
+      "t": "Regulação responsiva busca combinar persuasão e escalonamento de sanções, ajustando o enforcement à conduta do regulado. ( )",
       "a": "C"
     },
     {
       "n": 34,
-      "t": "A regulacao responsiva, em linhas gerais, propõe escalonamento de respostas, com medidas mais brandas no inicio e mais severas se houver persistencia no descumprimento. ( )",
+      "t": "Um desenho “puramente punitivo” pode falhar quando a probabilidade de detecção é baixa e a punição não é tempestiva. ( )",
       "a": "C"
     },
     {
       "n": 35,
-      "t": "Enforcement responsivo significa que a sancao maxima deve ser aplicada como primeira resposta, para sinalizar rigor e evitar reincidencia. ( )",
+      "t": "Autorregulação nunca é admissível em setores complexos, pois necessariamente substitui o Estado e elimina accountability. ( )",
       "a": "E"
     },
     {
       "n": 36,
-      "t": "A existencia de compendios e guias internos pode padronizar respostas e reduzir arbitrariedade, desde que respeitados limites legais e o caso concreto. ( )",
+      "t": "Confundir “meio” (instrumento) com “fim” (objetivo regulatório) é pegadinha comum e pode tornar um item incorreto. ( ) TEXTO BASE 7 Em um processo administrativo, um servidor afirma: “Se a decisão é discricionária, não precisa ser motivada; basta a assinatura da autoridade”.",
       "a": "C"
     },
     {
       "n": 37,
-      "t": "Em regulacao, o desenho de instrumentos deve considerar incentivos, custos de implementacao, risco de oportunismo e capacidade do Estado de monitorar e agir. ( )",
+      "t": "A motivação é elemento relevante para controle e transparência, inclusive quando há margem de discricionariedade administrativa. ( )",
       "a": "C"
     },
     {
       "n": 38,
-      "t": "No ciclo regulatorio, a AIR aparece como etapa inicial voltada a estruturar diagnostico do problema e comparar alternativas antes da decisao. ( )",
-      "a": "C"
-    },
-    {
-      "n": 39,
-      "t": "A AIR deve ser elaborada apenas apos a decisao ja tomada, para justificar publicamente a escolha feita. ( )",
+      "t": "Discricionariedade significa liberdade total para decidir sem critérios, desde que a autoridade queira. ( )",
       "a": "E"
     },
     {
-      "n": 40,
-      "t": "A definicao adequada do problema regulatorio e diferente de propor solucao; confundir problema com solucao tende a enviesar a analise. ( )",
+      "n": 39,
+      "t": "Mesmo quando há discricionariedade, persistem limites como legalidade, finalidade e proporcionalidade. ( )",
       "a": "C"
     },
     {
+      "n": 40,
+      "t": "A ausência de motivação jamais gera problema jurídico, pois o mérito administrativo não pode ser controlado. ( )",
+      "a": "E"
+    },
+    {
       "n": 41,
-      "t": "Uma boa AIR tende a considerar opcao de nao agir (status quo), avaliando custos e riscos de manter a situacao atual. ( )",
+      "t": "No direito administrativo contemporâneo, cresce a exigência de justificar escolhas, inclusive por participação e racionalidade procedimental. ( )",
       "a": "C"
     },
     {
       "n": 42,
-      "t": "A participacao social e restrita a agentes economicos diretamente regulados; usuarios e sociedade civil nao tem legitimidade para contribuir. ( )",
+      "t": "A motivação é dispensável sempre que a decisão favoreça o administrado. ( ) TEXTO BASE 8 Uma diretoria decide editar norma técnica de alto impacto. Parte do setor pede que a agência “negocie” a exigência, substituindo obrigação por compromisso de melhoria gradual.",
       "a": "E"
     },
     {
       "n": 43,
-      "t": "Tomada de subsidios pode ser utilizada para coletar informacoes tecnicas antes da proposta normativa, reduzindo assimetria de informacao do regulador. ( )",
+      "t": "Instrumentos consensuais podem existir, mas não podem suprimir competências nem afastar requisitos essenciais quando a segurança exigir padrão mínimo. ( )",
       "a": "C"
     },
     {
       "n": 44,
-      "t": "Consulta publica e mecanismo de participacao que permite comentar minuta e documentos de suporte; seu resultado pode levar a ajustes na proposta. ( )",
-      "a": "C"
-    },
-    {
-      "n": 45,
-      "t": "Audiencia publica e sempre obrigatoria para qualquer norma, independentemente de impacto e relevancia. ( )",
+      "t": "Se a agência optar por compromisso voluntário, então não haverá mais dever de fiscalização, pois a autorregulação resolve o problema. ( )",
       "a": "E"
     },
     {
+      "n": 45,
+      "t": "Exigências graduais podem ser compatíveis com gestão por risco, desde que metas e monitoramento sejam verificáveis. ( )",
+      "a": "C"
+    },
+    {
       "n": 46,
-      "t": "A analise de alternativas pode incluir instrumentos de comando e controle, instrumentos economicos, autorregulacao supervisionada e solucoes de informacao ao consumidor, conforme o caso. ( )",
+      "t": "A adoção de abordagem por desempenho pode exigir indicadores e mecanismos de verificação para evitar “cumprimento de fachada”. ( )",
       "a": "C"
     },
     {
       "n": 47,
-      "t": "A estimativa de impactos em AIR deve abranger, quando viavel, custos e beneficios, efeitos distributivos e riscos, evitando conclusoes baseadas apenas em intuicao. ( )",
-      "a": "C"
+      "t": "Negociar requisitos significa necessariamente captura, pois qualquer diálogo com regulado é proibido em governança regulatória. ( )",
+      "a": "E"
     },
     {
       "n": 48,
-      "t": "A ARR, como avaliacao ex post, pode indicar necessidade de revisao, simplificacao ou revogacao de normas, se resultados nao forem alcançados ou se custos superarem beneficios. ( )",
+      "t": "Uma ARR pode reavaliar, após implantação, se a alternativa consensual atingiu o objetivo com menor custo e sem piora de segurança. ( ) TEXTO BASE 9 Na fiscalização baseada em risco, a equipe quer priorizar ações em operadores com pior histórico, maior exposição e menor maturidade de gestão da segurança.",
       "a": "C"
     },
     {
       "n": 49,
-      "t": "A ARR substitui o monitoramento e a coleta de indicadores; como e um estudo pontual, dispensa acompanhamento continuo. ( )",
-      "a": "E"
-    },
-    {
-      "n": 50,
-      "t": "Transparencia e elemento de governanca regulatoria: publicar racional, dados e justificativas facilita controle social e aprendizado institucional. ( )",
+      "t": "Fiscalização baseada em risco tende a usar informação para direcionar recursos escassos a onde o risco residual é maior. ( )",
       "a": "C"
     },
     {
+      "n": 50,
+      "t": "Uma fiscalização baseada em risco dispensa totalmente o cumprimento de requisitos prescritivos, pois só importa resultado final. ( )",
+      "a": "E"
+    },
+    {
       "n": 51,
-      "t": "A participacao social pode reduzir risco de captura ao diversificar fontes de informacao, mas nao elimina automaticamente assimetrias de poder entre grupos. ( )",
+      "t": "Indicadores de desempenho de segurança podem apoiar planejamento, mas precisam ser interpretados com cautela para evitar decisões enviesadas. ( )",
       "a": "C"
     },
     {
       "n": 52,
-      "t": "A existencia de contribuições na consulta publica obriga o regulador a aceitar todas as sugestoes recebidas. ( )",
-      "a": "E"
-    },
-    {
-      "n": 53,
-      "t": "O ciclo regulatorio pode incluir implementacao, comunicacao, fiscalizacao e avaliacao, pois norma sem implementacao efetiva tende a nao produzir resultado. ( )",
+      "t": "A maturidade do SGSO (Sistema de Gerenciamento da Segurança Operacional) pode influenciar o nível de confiança e a intensidade de supervisão. ( )",
       "a": "C"
     },
     {
+      "n": 53,
+      "t": "Se um operador tem poucos eventos reportados, isso prova, necessariamente, que ele é mais seguro. ( )",
+      "a": "E"
+    },
+    {
       "n": 54,
-      "t": "Racionalizar estoque regulatorio envolve revisar normas acumuladas, buscando coerencia, clareza e reducao de sobreposicoes. ( )",
+      "t": "Na gestão por risco, confundir “risco” com “perigo” (hazard) pode levar a itens incorretos: risco envolve probabilidade e severidade. ( ) TEXTO BASE 10 Um fiscal encontra evidências de não conformidade grave e avalia medidas imediatas para reduzir risco enquanto o processo sancionador ainda tramita.",
       "a": "C"
     },
     {
       "n": 55,
-      "t": "AIR e ARR sao ferramentas meramente formais e, por definicao, nao influenciam qualidade das decisoes. ( )",
-      "a": "E"
-    },
-    {
-      "n": 56,
-      "t": "A certificacao, no modelo de gestao, busca atestar grau de confianca no atendimento a requisitos regulamentares, permitindo operar com nivel aceitavel de seguranca e qualidade. ( )",
+      "t": "Medidas acautelatórias podem ser usadas para mitigar risco imediato, independentemente da conclusão final do processo punitivo, desde que observados fundamentos e devido processo. ( )",
       "a": "C"
     },
     {
-      "n": 57,
-      "t": "Certificacao e um evento unico e definitivo; uma vez certificado, o regulado nao pode ter autorizacao suspensa ou cassada por descumprimento. ( )",
+      "n": 56,
+      "t": "Se uma medida é cautelar, então ela é sempre punitiva e pressupõe decisão definitiva sobre culpa. ( )",
       "a": "E"
     },
     {
+      "n": 57,
+      "t": "A lógica de tempestividade sugere que punição tardia pode ter menor efeito dissuasório, mesmo que a multa seja alta. ( )",
+      "a": "C"
+    },
+    {
       "n": 58,
-      "t": "O processo de certificacao tende a envolver etapas como solicitacao, analise documental, demonstracoes/inspecoes e decisao, com interacao entre requerente e agencia. ( )",
+      "t": "A adoção de orientação e correção pode coexistir com enforcement, e não significa “renúncia” automática à responsabilização. ( )",
       "a": "C"
     },
     {
       "n": 59,
-      "t": "Em certificacao, o requerente deve demonstrar capacidade de cumprir requisitos; nao cabe a agencia provar previamente que o requerente falhara. ( )",
-      "a": "C"
+      "t": "Ao aplicar medidas, o fiscal pode ignorar proporcionalidade, pois segurança operacional justifica qualquer meio. ( )",
+      "a": "E"
     },
     {
       "n": 60,
-      "t": "A cadeia de valor da agencia inclui regular, autorizar, aprovar, conceder e fiscalizar diferentes objetos, como produtos, aeronaves, servicos e organizacoes. ( )",
+      "t": "A escolha entre orientação, correção, cautelar e sanção deve considerar gravidade, risco, recorrência e comportamento do regulado. ( ) TEXTO BASE 11 Em um aeroporto congestionado, há discussão sobre política de slots e sobre como ampliar eficiência sem degradar competição.",
       "a": "C"
     },
     {
       "n": 61,
-      "t": "Regulamentos de certificacao podem prever requisitos para empresas de transporte aereo, organizacoes de manutencao, instrucao, aerodromos e profissionais, conforme escopo. ( )",
+      "t": "Uma alocação de slots que favoreça incumbentes pode reforçar barreiras à entrada e reduzir contestabilidade. ( )",
       "a": "C"
     },
     {
       "n": 62,
-      "t": "A autorizacao para operar implica liberdade ilimitada de alterar processos internos sem comunicar a agencia, pois a certificacao e baseada apenas em confianca inicial. ( )",
+      "t": "Se a infraestrutura é escassa, a única solução possível é construir um novo aeroporto; políticas de gestão da capacidade não têm efeito. ( )",
       "a": "E"
     },
     {
       "n": 63,
-      "t": "A manutencao da conformidade envolve vigilancia continuada, e a fiscalizacao pode ser orientada por risco e desempenho, alem de resposta a eventos e denuncias. ( )",
+      "t": "Medidas de eficiência operacional e coordenação podem aumentar capacidade efetiva sem expansão física imediata, dependendo do contexto. ( )",
       "a": "C"
     },
     {
       "n": 64,
-      "t": "O descumprimento de regras e requisitos pode levar a medidas administrativas como suspensao ou cassacao, alem de processos sancionadores quando cabivel. ( )",
+      "t": "Ao tratar de infraestrutura, confundir “capacidade declarada” com “capacidade efetivamente utilizada” pode gerar erro de interpretação. ( )",
       "a": "C"
     },
     {
       "n": 65,
-      "t": "Uma organizacao pode ser certificada mesmo sem qualquer demonstracao pratica, desde que apresente declaracao simples de conformidade. ( )",
-      "a": "E"
-    },
-    {
-      "n": 66,
-      "t": "A aprovacao de alteracoes relevantes pode exigir avaliacao e aceitacao pela agencia, dependendo do regulamento aplicavel e do impacto na seguranca. ( )",
+      "t": "Incentivos regulatórios podem ser desenhados para alinhar decisões do operador com objetivos públicos, evitando soluções puramente coercitivas. ( )",
       "a": "C"
     },
     {
+      "n": 66,
+      "t": "Incentivos regulatórios jamais devem ser usados em infraestrutura, pois só cabem em mercados competitivos. ( ) TEXTO BASE 12 Um servidor afirma: “RBAC é sempre mais detalhado do que IS e, por isso, só o RBAC serve como base para fiscalização”.",
+      "a": "E"
+    },
+    {
       "n": 67,
-      "t": "A certificacao e uma forma de regulacao ex ante; ja a fiscalizacao e instrumento ex post, embora ambas se complementem no ciclo de supervisao. ( )",
+      "t": "Regulamentos (RBAC) e instrumentos complementares podem ter papéis distintos, e confundir hierarquia/escopo pode ser pegadinha. ( )",
       "a": "C"
     },
     {
       "n": 68,
-      "t": "Certificacao e fiscalizacao sao atividades identicas: ambas ocorrem apenas depois que uma violacao ja foi constatada. ( )",
+      "t": "É correto afirmar que somente o RBAC, isoladamente, é suficiente para orientar toda a fiscalização, dispensando orientações e material suplementar. ( )",
       "a": "E"
     },
     {
       "n": 69,
-      "t": "A documentacao e os registros de conformidade sao importantes porque sustentam rastreabilidade, evidencias e capacidade de verificacao pela agencia. ( )",
+      "t": "A fiscalização normalmente se baseia em requisitos aplicáveis e também em evidências objetivas do sistema do regulado (manuais, programas, registros). ( )",
       "a": "C"
     },
     {
       "n": 70,
-      "t": "O foco de certificacao e apenas economico; seguranca operacional nao se relaciona com certificacao. ( )",
-      "a": "E"
+      "t": "Em processos de certificação, requisitos e meios de comprovação podem envolver demonstrações, inspeções, análises e testes, conforme a natureza do item. ( )",
+      "a": "C"
     },
     {
       "n": 71,
-      "t": "A fiscalizacao baseada em risco busca aprimorar alocacao de recursos de supervisao, direcionando esforcos para areas, operadores e atividades com maior risco ou pior desempenho. ( )",
+      "t": "A padronização de critérios pode reduzir variabilidade entre equipes e reforçar previsibilidade regulatória. ( )",
       "a": "C"
     },
     {
       "n": 72,
-      "t": "Fiscalizacao baseada em risco significa fiscalizar apenas quem ja foi punido, porque risco so existe apos sancao aplicada. ( )",
+      "t": "Se há padronização, então não existe necessidade de julgamento técnico, pois a fiscalização vira atividade automática. ( ) TEXTO BASE 13 Uma proposta normativa é criticada por impor alto custo para pequeno ganho de segurança, enquanto outra alternativa tem menor custo e ganho semelhante.",
       "a": "E"
     },
     {
       "n": 73,
-      "t": "A metodologia pode se apoiar em dados, indicadores e historico, combinando risco inerente e capacidade de controle/mitigacao do regulado. ( )",
+      "t": "Uma AIR bem estruturada tende a comparar alternativas e seus trade-offs, inclusive custos de conformidade e impactos sobre diferentes perfis de regulados. ( )",
       "a": "C"
     },
     {
       "n": 74,
-      "t": "Em fiscalizacao baseada em risco, o plano de supervisao pode ser ajustado ao longo do tempo conforme mudam indicadores, eventos e informacoes. ( )",
-      "a": "C"
+      "t": "Se uma alternativa é “mais barata”, ela é necessariamente melhor e deve ser escolhida, mesmo que reduza segurança. ( )",
+      "a": "E"
     },
     {
       "n": 75,
-      "t": "Programas de seguranca operacional podem orientar a fiscalizacao baseada em risco, conectando objetivos de seguranca a priorizacao de acoes. ( )",
+      "t": "Em economia da regulação, pode haver trade-off entre eficiência, equidade e objetivos de segurança, exigindo decisões justificadas. ( )",
       "a": "C"
     },
     {
       "n": 76,
-      "t": "Uma vez calculado o risco, a metodologia dispensa julgamento profissional; decisoes devem ser sempre automaticas e invariaveis. ( )",
-      "a": "E"
+      "t": "A análise pode considerar custos de implementação e de fiscalização; ignorá-los pode inviabilizar a política na prática. ( )",
+      "a": "C"
     },
     {
       "n": 77,
-      "t": "Fiscalizacao baseada em risco nao elimina a necessidade de fiscalizacoes reativas, por exemplo, diante de acidentes, incidentes e denuncias relevantes. ( )",
+      "t": "Quando há incerteza, o uso de cenários e sensibilidade pode tornar a análise mais honesta e menos “certeira” do que a realidade permite. ( )",
       "a": "C"
     },
     {
       "n": 78,
-      "t": "O objetivo principal da fiscalizacao e apenas arrecadar multas; contribuicao para seguranca e qualidade e efeito colateral irrelevante. ( )",
+      "t": "Incerteza é irrelevante em regulação, pois o regulador sempre conhece o resultado final antes de implementar. ( ) TEXTO BASE 14 Após alguns anos, percebe-se que uma norma gerou efeitos colaterais: deslocou o problema para outro ponto do sistema e aumentou custos para usuários sem ganhos proporcionais.",
       "a": "E"
     },
     {
       "n": 79,
-      "t": "A fiscalizacao baseada em risco pode reduzir carga regulatoria desnecessaria, evitando fiscalizacao intensa onde risco e baixo e desempenho e satisfatorio. ( )",
+      "t": "ARR pode identificar efeitos não pretendidos e subsidiar revisão, simplificação ou substituição da norma, mantendo o foco no objetivo público. ( )",
       "a": "C"
     },
     {
       "n": 80,
-      "t": "Priorizar por risco equivale a tratar todos os regulados da mesma forma, independentemente de historico e contexto operacional. ( )",
+      "t": "Se uma norma tem efeitos colaterais, então ela deve ser imediatamente anulada, pois qualquer efeito não previsto torna o ato inválido. ( )",
       "a": "E"
     },
     {
       "n": 81,
-      "t": "Fiscalizacao pode ser entendida como funcao de verificacao de conformidade e de inducao de comportamento, contribuindo para seguranca operacional e cumprimento normativo. ( )",
+      "t": "Revisão regulatória pode incluir ajustar requisitos, melhorar clareza, reduzir burocracia e aumentar efetividade do enforcement. ( )",
       "a": "C"
     },
     {
       "n": 82,
-      "t": "A fiscalizacao descentralizada implica ausencia de padronizacao; cada unidade decide criterios sem diretrizes, pois coordenacao e sempre proibida. ( )",
-      "a": "E"
-    },
-    {
-      "n": 83,
-      "t": "A gestao da fiscalizacao envolve planejamento, execucao, registro, qualidade da evidencia e acompanhamento de providencias, nao apenas ida a campo. ( )",
+      "t": "A existência de indicadores ruins pode refletir tanto piora real quanto melhoria de reporte; interpretar dados exige cuidado metodológico. ( )",
       "a": "C"
     },
     {
+      "n": 83,
+      "t": "A ARR é inútil quando a norma é técnica, pois técnicos não erram em previsão de impactos. ( )",
+      "a": "E"
+    },
+    {
       "n": 84,
-      "t": "Medidas cautelares podem ser adotadas para mitigar risco imediato, antes do encerramento do processo sancionador, desde que observados requisitos e competencia. ( )",
+      "t": "Em avaliação, confundir “correlação” com “causalidade” pode gerar conclusões apressadas e itens incorretos. ( ) TEXTO BASE 15 Em uma auditoria interna, identifica-se que certas punições são aplicadas de forma tardia e desigual. O órgão quer fortalecer governança e coerência de atuação.",
       "a": "C"
     },
     {
       "n": 85,
-      "t": "Aplicada uma medida cautelar, o regulado so pode retomar atividade apos o julgamento final do processo sancionador, sem qualquer possibilidade de reversao antecipada. ( )",
-      "a": "E"
+      "t": "Coerência e previsibilidade no enforcement tendem a aumentar percepção de legitimidade e a capacidade de induzir conformidade. ( )",
+      "a": "C"
     },
     {
       "n": 86,
-      "t": "Providencias administrativas podem incluir orientacao, notificacao, determinacao de correcoes e, quando necessario, instauracao de processo sancionador. ( )",
+      "t": "Tempestividade pode importar tanto quanto severidade, pois sanção tardia reduz capacidade de dissuasão e aprendizado do sistema. ( )",
       "a": "C"
     },
     {
       "n": 87,
-      "t": "O processo administrativo sancionador exige motivacao e observancia de garantias; sancao nao pode ser aplicada apenas por presuncao, sem prova. ( )",
+      "t": "A dosimetria da sanção pode considerar gravidade, risco, reincidência e cooperação, evitando tratamento arbitrário. ( )",
       "a": "C"
     },
     {
       "n": 88,
-      "t": "A fiscalizacao e atividade exclusivamente documental; inspecoes e vistorias in loco sao vedadas por violar a liberdade economica. ( )",
+      "t": "Se existe poder sancionador, então não há espaço para orientação ou medidas preventivas, sob pena de “fraqueza” regulatória. ( )",
       "a": "E"
     },
     {
       "n": 89,
-      "t": "A divisao interna da fiscalizacao pode incluir diferentes tipos de acao, como monitoramento, auditorias, inspecoes e investigacoes, dependendo do objeto e do risco. ( )",
+      "t": "Governança regulatória inclui planejamento, participação, monitoramento e melhoria contínua, e não apenas publicar normas. ( )",
       "a": "C"
     },
     {
       "n": 90,
-      "t": "O objetivo da fiscalizacao e garantir risco zero; qualquer ocorrencia significa necessariamente falha do fiscal e torna a operacao ilegal. ( ) GABARITO",
+      "t": "Para reduzir variabilidade, basta elevar todas as multas ao máximo, pois isso automaticamente melhora segurança operacional. ( ) GABARITO",
       "a": "E"
     }
   ],
@@ -1600,453 +1600,453 @@
   "extra 26-12": [
     {
       "n": 1,
-      "t": "O RBAC 135 se aplica ao transporte aéreo público com aviões com configuração máxima de 19 assentos de passageiros e carga útil máxima de 3.400 kg (7.500 lb), além de helicópteros. ( )",
+      "t": "Considerando a aplicabilidade dos regulamentos, a operação descrita no Texto Base 1 se enquadra, em regra, no RBAC 135, por envolver aviões com configuração máxima certificada de até 19 assentos para passageiros e capacidade máxima de carga paga de até 3.400 kg, ou helicópteros. ( )",
       "a": "C"
     },
     {
       "n": 2,
-      "t": "Quando a operação com avião excede 19 assentos de passageiros ou ultrapassa 3.400 kg (7.500 lb) de carga útil máxima, a regência passa a ser, em regra, o RBAC 121. ( )",
+      "t": "Caso a empresa do Texto Base 1 passe a operar aviões com capacidade acima daquelas características do RBAC 135, a operação deverá ser realizada sob a ótica do RBAC 121. ( )",
       "a": "C"
     },
     {
       "n": 3,
-      "t": "O RBAC 135 brasileiro foi estruturado com base no FAR 135, da Federal Aviation Administration (FAA). ( )",
+      "t": "No processo de certificação do operador aéreo, ao final são emitidos o Certificado de Operador Aéreo (COA) e as Especificações Operativas (E.O), que reúnem autorizações, limitações e procedimentos aplicáveis à operação. ( )",
       "a": "C"
     },
     {
       "n": 4,
-      "t": "No contexto do RBAC 135, táxi-aéreo pode contemplar atividades como voo panorâmico e deslocamento para eventos, e pode incluir transporte aeromédico, desde que haja autorização e a aeronave esteja adequadamente equipada. ( )",
-      "a": "C"
+      "t": "O COA, por si só, substitui integralmente as Especificações Operativas, tornando desnecessário que o operador mantenha documento acessório com autorizações e limitações específicas. ( )",
+      "a": "E"
     },
     {
       "n": 5,
-      "t": "No processo de certificação previsto no RBAC 119 e detalhado na IS 119-004, o resultado típico é a emissão do Certificado de Operador Aéreo (COA) e das Especificações Operativas (EO). ( )",
-      "a": "C"
+      "t": "O RBAC 135 é aplicável apenas a transporte regular de passageiros em aeronaves de grande porte, razão pela qual táxi-aéreo não pode ser regido por esse regulamento. ( )",
+      "a": "E"
     },
     {
       "n": 6,
-      "t": "O COA autoriza o detentor a conduzir operações segundo os requisitos aplicáveis do RBAC 135 ou do RBAC 121, e as EO detalham autorizações, limitações e procedimentos associados à operação. ( )",
-      "a": "C"
+      "t": "Para fins de aplicabilidade, a expressão 'configuração máxima certificada de assentos' refere-se ao número efetivamente ocupado em determinado voo, e não à configuração aprovada para a aeronave. ( )",
+      "a": "E"
     },
     {
       "n": 7,
-      "t": "Enquanto o operador mantiver COA válido e ativo, as suas Especificações Operativas (EO) ficam disponíveis ao público no site da ANAC. ( )",
+      "t": "As operações conduzidas sob o RBAC 135 podem envolver transporte de passageiros e de carga, desde que dentro das características de aplicabilidade do regulamento. ( )",
       "a": "C"
     },
     {
       "n": 8,
-      "t": "As exigências do RBAC 135 tendem a ser mais rigorosas que as da aviação geral, pois o passageiro não tem como, antes do voo, avaliar plenamente as condições de aeronavegabilidade e o nível de segurança operacional do operador. ( )",
-      "a": "C"
+      "t": "Uma empresa que ainda não concluiu sua certificação pode operar comercialmente, desde que apresente um plano de ação à ANAC e informe que está em processo de obtenção do COA. ( )",
+      "a": "E"
     },
     {
       "n": 9,
-      "t": "As seções 135.21 e 135.23, citadas no material, tratam de obrigações relacionadas ao sistema de manuais e programas, voltadas a políticas e procedimentos para segurança operacional. ( )",
+      "t": "No transporte de passageiros, a assimetria de informação sobre condições de segurança da empresa e o número relevante de pessoas transportadas são elementos que justificam maior estrutura regulatória, como COA e especificações. ( ) TEXTO BASE 2 Durante a fiscalização, um inspetor avalia a aderência de um operador às regras de transporte aéreo público, incluindo limites de aplicabilidade dos regulamentos, estrutura de certificação, e o papel de documentos acessórios como especificações operativas. O inspetor também verifica se a empresa está operando dentro das autorizações e limitações emitidas.",
       "a": "C"
     },
     {
       "n": 10,
-      "t": "A lista completa de manuais e programas usualmente exigidos no processo de certificação é referenciada no item 5.2.6 da IS 119-004. ( )",
+      "t": "No âmbito da certificação e vigilância, as autorizações, limitações e procedimentos do operador são materializados, de forma detalhada, nas Especificações Operativas (E.O), que devem ser observadas durante a fiscalização. ( )",
       "a": "C"
     },
     {
       "n": 11,
-      "t": "Para operador que utiliza apenas aeronaves com configuração máxima de 9 assentos de passageiros, o Manual Geral de Manutenção (MGM) é elaborado conforme a IS 135.21-001A. ( )",
-      "a": "C"
+      "t": "Uma vez emitidas as Especificações Operativas, o operador pode alterar suas autorizações e limitações por decisão interna, comunicando a ANAC apenas após a mudança já implementada. ( )",
+      "a": "E"
     },
     {
       "n": 12,
-      "t": "Para aeronaves certificadas com configuração máxima de 10 ou mais assentos de passageiros, são citados, entre outros documentos, a Programação de Manutenção de Aeronaves (PMA) e o Manual do Sistema de Análise e Supervisão Continuada (SASC), conforme a IS 120-016B. ( )",
+      "t": "O enquadramento regulatório do operador (RBAC 121 ou RBAC 135) está relacionado, entre outros aspectos, à capacidade da aeronave em termos de assentos e de carga paga. ( )",
       "a": "C"
     },
     {
       "n": 13,
-      "t": "No contexto apresentado, o Manual do SASC pode ser estruturado como um capítulo dentro do MGM. ( )",
+      "t": "Em fiscalização, é compatível concluir que operar avião de 25 assentos sob regras do RBAC 135 constitui não conformidade de aplicabilidade regulatória. ( )",
       "a": "C"
     },
     {
       "n": 14,
-      "t": "O material menciona que, para aeronaves com 10 ou mais assentos, podem existir manuais de suporte associados à PMA, como prevenção e controle de corrosão. ( )",
-      "a": "C"
+      "t": "O RBAC 121 se aplica apenas a operações com helicópteros, enquanto o RBAC 135 se aplica apenas a aviões, sem exceções. ( )",
+      "a": "E"
     },
     {
       "n": 15,
-      "t": "O programa de treinamento operacional do operador, indicado no material (PrTrnOP), é analisado pela ANAC e, quando aceito, passa a orientar a execução e o controle dos treinamentos de tripulantes e pessoal envolvido. ( )",
-      "a": "C"
+      "t": "Para fins de fiscalização, é inadequado exigir aderência ao que consta nas Especificações Operativas, pois elas têm caráter apenas informativo e não vinculante. ( )",
+      "a": "E"
     },
     {
       "n": 16,
-      "t": "O material exemplifica como pessoal de administração, entre outros, o Diretor ou Gerente de Manutenção e o Diretor de Segurança Operacional. ( )",
+      "t": "A certificação de operador aéreo prevista no RBAC 119 envolve emissão de COA e a vinculação a documentos acessórios que detalham como a operação pode ser conduzida. ( )",
       "a": "C"
     },
     {
       "n": 17,
-      "t": "O RBAC 135 se aplica automaticamente a qualquer operação de aviação geral com aeronave de até 9 assentos, mesmo quando não há transporte aéreo público envolvido. ( )",
-      "a": "E"
+      "t": "A ausência de aderência do operador ao que foi autorizado e limitado em suas especificações caracteriza desvio operacional, ainda que o voo tenha sido concluído sem incidentes. ( )",
+      "a": "C"
     },
     {
       "n": 18,
-      "t": "O transporte aeromédico, por estar associado à urgência, dispensa autorização específica no RBAC 135, bastando que o operador possua COA válido. ( )",
+      "t": "A emissão de COA e E.O elimina a necessidade de vigilância continuada, pois a segurança operacional passa a depender apenas do operador certificado. ( ) TEXTO BASE 3 Em um voo comercial, a empresa transporta carga contendo artigos perigosos e também realiza embarque de passageiros com itens de uso pessoal. O operador mantém procedimentos internos, treinamento e comunicação com a tripulação. O cenário inclui o transporte de baterias de lítio, exigências de documentação e a necessidade de reporte de ocorrências.",
       "a": "E"
     },
     {
       "n": 19,
-      "t": "COA e EO são documentos sigilosos e, por isso, não podem ser divulgados ao público pela ANAC. ( )",
-      "a": "E"
+      "t": "No transporte de artigos perigosos, o operador deve informar a tripulação sobre a presença desses itens a bordo por meio do NOTOC (Notification to Captain). ( )",
+      "a": "C"
     },
     {
       "n": 20,
-      "t": "A seção 135.1(a), citada no material, é utilizada para caracterizar a aplicabilidade do RBAC 135 a aviões com até 19 assentos e até 3.400 kg de carga útil máxima, além de helicópteros. ( )",
-      "a": "C"
+      "t": "Somente ocorrências com artigos perigosos que resultem em lesão ou dano à aeronave devem ser relatadas à ANAC. ( )",
+      "a": "E"
     },
     {
       "n": 21,
-      "t": "Segundo o material, a certificação e a revisão de manuais e programas podem impactar diretamente a capacidade do operador de ampliar serviços e, portanto, a oferta comercial de operações. ( )",
-      "a": "C"
+      "t": "É suficiente manter um fluxo anual de artigos perigosos transportados, não sendo necessário controle mensal. ( )",
+      "a": "E"
     },
     {
       "n": 22,
-      "t": "As Especificações Operativas (EO) são o documento que lista as aeronaves e atividades autorizadas e, por isso, permanecem válidas mesmo quando o COA é suspenso. ( )",
+      "t": "A Declaração do Expedidor para Artigos Perigosos é opcional quando a carga estiver em embalagem homologada e rotulada. ( )",
       "a": "E"
     },
     {
       "n": 23,
-      "t": "Para fins de transparência regulatória, a consulta pública às EO auxilia a verificar o escopo de autorização do operador, reduzindo assimetria informacional do usuário do serviço. ( )",
-      "a": "C"
+      "t": "Como regra absoluta, passageiros e tripulantes não podem transportar artigos perigosos em nenhuma hipótese, seja em bagagem de mão ou despachada. ( )",
+      "a": "E"
     },
     {
       "n": 24,
-      "t": "Artigos perigosos são substâncias ou objetos que podem representar risco significativo à saúde, à segurança, à propriedade e ao meio ambiente quando transportados por via aérea. ( )",
+      "t": "Certos artigos perigosos podem ser transportados pelo passageiro em quantidades limitadas para uso pessoal, sob condições específicas descritas em instrução suplementar. ( )",
       "a": "C"
     },
     {
       "n": 25,
-      "t": "O material aponta o RBAC 175 como base normativa para artigos perigosos, complementado por Instruções Suplementares (IS) numeradas de 175-000 a 175-013. ( )",
-      "a": "C"
+      "t": "O transporte de baterias de lítio sobressalentes é sempre permitido em compartimentos de carga de aeronaves de passageiros, desde que embaladas para evitar curto-circuito. ( )",
+      "a": "E"
     },
     {
       "n": 26,
-      "t": "No transporte aéreo de artigos perigosos, o expedidor é responsável por identificar, classificar, embalar, marcar, etiquetar e documentar corretamente o item. ( )",
-      "a": "C"
+      "t": "O operador deve informar apenas a tripulação sobre artigos perigosos, sendo dispensável orientar passageiros e funcionários sobre artigos proibidos em bagagem. ( )",
+      "a": "E"
     },
     {
       "n": 27,
-      "t": "Na etapa de identificação, o expedidor deve verificar se o artigo perigoso está listado na Tabela 3-1 do Doc. 9284 (OACI) ou na Tabela C-1 da IS 175-001 (ANAC), ou se atende aos critérios de classificação. ( )",
-      "a": "C"
+      "t": "A ANAC não certifica operadores para transporte de artigos perigosos; sua atuação limita-se a publicar orientações gerais. ( )",
+      "a": "E"
     },
     {
       "n": 28,
-      "t": "A classificação enquadra o artigo perigoso em uma das nove classes de perigo, conforme propriedades físicas e químicas. ( )",
-      "a": "C"
+      "t": "Uma vez aprovado o manual de artigos perigosos do operador, não há necessidade de programas de treinamento específicos para o pessoal envolvido. ( )",
+      "a": "E"
     },
     {
       "n": 29,
-      "t": "A embalagem deve seguir especificações do RBAC 175 e da IS 175-001, garantindo robustez e resistência compatíveis com o transporte aéreo. ( )",
+      "t": "O transporte de artigos perigosos envolve cadeia de responsabilidade, do expedidor ao operador e à tripulação, exigindo procedimentos claros de aceitação, manuseio e resposta a emergências. ( ) TEXTO BASE 4 Um grupo empresarial pretende administrar um programa de propriedade compartilhada de aeronaves e, em paralelo, operar serviços aéreos especializados. A equipe precisa distinguir operações regidas diretamente pelo RBAC 91, exceções que exigem maior estrutura regulatória e o conjunto de documentos aplicáveis ao administrador do programa.",
       "a": "C"
     },
     {
       "n": 30,
-      "t": "A marcação da embalagem deve identificar o artigo perigoso e também trazer informações do remetente e do destinatário, conforme exigências aplicáveis. ( )",
+      "t": "Serviço Aéreo Especializado é operação comercial na qual a aeronave é utilizada para serviços que não sejam transporte de passageiros ou de cargas. ( )",
       "a": "C"
     },
     {
       "n": 31,
-      "t": "A documentação inclui a Declaração do Expedidor para Artigos Perigosos, que atesta o cumprimento das regulamentações pertinentes. ( )",
-      "a": "C"
-    },
-    {
-      "n": 32,
-      "t": "Se o expedidor entregar uma declaração assinada, o operador pode aceitar artigos perigosos sem verificar mais nenhum requisito, pois a responsabilidade deixa de ser compartilhada. ( )",
+      "t": "Em geral, serviços aéreos especializados são regidos pelo RBAC 119 e exigem COA, por envolverem atividade comercial. ( )",
       "a": "E"
     },
     {
-      "n": 33,
-      "t": "Antes da aceitação, o operador deve verificar a documentação do expedidor com uso de checklists, para assegurar que os requisitos foram cumpridos. ( )",
+      "n": 32,
+      "t": "O uso de helicópteros para transporte de carga externa, voos panorâmicos e operações aeroagrícolas são exemplos de serviços aéreos especializados que fogem da regra geral e podem demandar requisitos regulatórios adicionais. ( )",
       "a": "C"
     },
     {
+      "n": 33,
+      "t": "Por definição, toda operação aeroagrícola é conduzida sob o RBAC 135, por envolver operação comercial e risco operacional elevado. ( )",
+      "a": "E"
+    },
+    {
       "n": 34,
-      "t": "No carregamento, os artigos perigosos devem respeitar tabela de segregação, evitando proximidade de itens incompatíveis que possam reagir. ( )",
+      "t": "O administrador de programa de propriedade compartilhada (Subparte K do RBAC 91) deve buscar a obtenção de EA, conforme processo descrito em instrução suplementar aplicável. ( )",
       "a": "C"
     },
     {
       "n": 35,
-      "t": "O operador deve inspecionar regularmente áreas de armazenamento para detectar danos, vazamentos ou derramamentos, e adotar medidas imediatas de descontaminação quando necessário. ( )",
+      "t": "As EA de um administrador de programa de propriedade compartilhada podem ser alteradas, quando necessário, mediante emenda às EA aprovadas e emitidas. ( )",
       "a": "C"
     },
     {
       "n": 36,
-      "t": "NOTOC (Notification to Captain) é o documento citado para informar a tripulação sobre a presença de artigos perigosos a bordo. ( )",
+      "t": "A Subparte K do RBAC 91 exige do administrador uma estrutura formalizada em manuais, que devem refletir sua capacidade operacional. ( )",
       "a": "C"
     },
     {
       "n": 37,
-      "t": "Além de informar a tripulação, o operador deve orientar funcionários e passageiros sobre procedimentos de manuseio e sobre itens proibidos na bagagem de mão ou despachada. ( )",
-      "a": "C"
+      "t": "Na estrutura do administrador, é incompatível a existência de Diretor de Manutenção, pois a manutenção é sempre terceirizada e não se submete à responsabilidade do administrador do programa. ( )",
+      "a": "E"
     },
     {
       "n": 38,
-      "t": "Qualquer incidente ou ocorrência envolvendo artigos perigosos deve ser relatado à ANAC. ( )",
-      "a": "C"
+      "t": "Operações sob Subparte K dispensam qualquer forma de supervisão documental, pois a propriedade compartilhada é considerada operação privada sem impacto regulatório. ( )",
+      "a": "E"
     },
     {
       "n": 39,
-      "t": "O material menciona a exigência de envio de fluxo mensal de artigos perigosos transportados. ( )",
+      "t": "É coerente exigir que a organização possua pessoas com formação, experiência e qualificações necessárias para garantir a segurança das operações. ( )",
       "a": "C"
     },
     {
       "n": 40,
-      "t": "Serviço Aéreo Especializado (SAE) é apresentado como operação comercial em que aeronaves são utilizadas para prestar serviços distintos do transporte de passageiros e carga como finalidade principal. ( )",
+      "t": "Operações aeroagrícolas se relacionam a aplicação, em voo, de insumos como fertilizantes, sementes e defensivos, visando proteger ou fomentar o desenvolvimento da agricultura. ( )",
       "a": "C"
     },
     {
       "n": 41,
-      "t": "A ANAC autoriza a realização de operações comerciais de SAE, segundo o RBAC 91, após processo administrativo baseado na IS 91-007, citada no material na revisão D. ( )",
-      "a": "C"
+      "t": "Por serem serviços aéreos especializados, operações aeroagrícolas são sempre dispensadas de qualquer requisito de certificação e de supervisão, independentemente do tipo de aeronave e do perfil de risco. ( ) TEXTO BASE 5 Um operador de aeródromo revisa seus procedimentos de pátio e de abastecimento/transferência de combustível. O objetivo é reduzir risco de incêndio e manter a segurança operacional durante a movimentação de aeronaves, veículos e pessoas na área operacional (lado ar), incluindo medidas de prevenção de incursão em pista.",
+      "a": "E"
     },
     {
       "n": 42,
-      "t": "No material, a autorização para SAE é descrita como decorrente de verificação mais simples do que a certificação exigida pelo RBAC 119. ( )",
-      "a": "C"
+      "t": "Área operacional, também denominada lado ar, inclui também as áreas públicas do terminal de passageiros, pois nelas há circulação de pessoas relacionadas ao voo. ( )",
+      "a": "E"
     },
     {
       "n": 43,
-      "t": "Segundo o material, a IS 91-007D requer, inicialmente, informações sobre a empresa, o pessoal de administração e as aeronaves envolvidas na operação. ( )",
+      "t": "Incursão em pista significa toda ocorrência em aeródromo envolvendo a presença incorreta de aeronave, veículo ou pessoa na área protegida de uma superfície designada para pouso e decolagem de aeronaves. ( )",
       "a": "C"
     },
     {
       "n": 44,
-      "t": "A Resolução 106/2009 é citada como exigindo, para SAE, a elaboração de um único manual, o Manual de Gerenciamento Operacional (MGSO), visando implementar um Sistema de Gerenciamento de Segurança Operacional. ( )",
-      "a": "C"
+      "t": "A presença incorreta de pessoa na área protegida de uma superfície designada para pouso e decolagem de aeronaves não caracteriza incursão em pista, pois somente aeronaves se enquadram nessa definição. ( )",
+      "a": "E"
     },
     {
       "n": 45,
-      "t": "Após inspeções e demonstrações satisfatórias, a ANAC emite COA e EO descrevendo atividades e aeronaves autorizadas ao operador SAE. ( )",
-      "a": "C"
+      "t": "Antes e durante abastecimento ou transferência de combustível, não é necessário prever trajetória livre de fuga imediata no solo, pois a evacuação ocorre pela ponte de embarque. ( )",
+      "a": "E"
     },
     {
       "n": 46,
-      "t": "Reboque de planadores, quando realizado no âmbito de associações e clubes por pessoal próprio e com divisão de custos entre praticantes, não é considerado SAE. ( )",
+      "t": "Procedimentos de abastecimento ou transferência de combustível devem ser realizados somente em áreas abertas e ventiladas, fora da vizinhança imediata de equipamentos de radar em teste ou em uso. ( )",
       "a": "C"
     },
     {
       "n": 47,
-      "t": "Lançamento de paraquedistas, quando realizado no âmbito de associações e clubes por pessoal próprio e com divisão de custos entre praticantes, não é considerado SAE. ( )",
+      "t": "É vedada a realização de procedimento de abastecimento ou transferência de combustível de aeronave dentro de hangares ou em áreas fechadas. ( )",
       "a": "C"
     },
     {
       "n": 48,
-      "t": "Atividade de ensino e adestramento é listada como SAE quando prestada por entidade certificada para formação de pessoal de aviação. ( )",
+      "t": "Durante abastecimento, é exigida a verificação da operacionalidade das ligações e aterramentos quanto à dissipação de energia elétrica estática antes de conectar as linhas. ( )",
       "a": "C"
     },
     {
       "n": 49,
-      "t": "Em SAE, a existência de COA e EO é incompatível com a ideia de autorização simplificada; por isso, o operador SAE não recebe nenhum documento equivalente a COA. ( )",
+      "t": "É permitido posicionar o motor do Carro Tanque Abastecedor (CTA) abaixo das asas da aeronave, desde que o operador mantenha extintor próximo à posição. ( )",
       "a": "E"
     },
     {
       "n": 50,
-      "t": "O MGSO é facultativo: o operador pode substituí-lo por qualquer manual de sua preferência, desde que possua um setor de qualidade. ( )",
-      "a": "E"
+      "t": "É vedado o uso de isqueiro, fósforo, lâmpada de flash fotográfico e qualquer ferramenta que possa produzir faíscas ou arcos voltaicos durante o abastecimento na área delimitada da posição de estacionamento. ( )",
+      "a": "C"
     },
     {
       "n": 51,
-      "t": "A autorização para SAE é mais complexa do que a certificação RBAC 119, pois exige sempre auditoria completa de todos os processos de manutenção do operador. ( )",
-      "a": "E"
+      "t": "É proibida a instalação ou remoção de baterias da aeronave durante a execução do procedimento de abastecimento ou transferência de combustível. ( )",
+      "a": "C"
     },
     {
       "n": 52,
-      "t": "O RBAC 133 trata de operação de aeronaves de asas rotativas com carga externa e prevê elaboração de manual específico denominado Manual de Voo da Combinação Aeronave-Carga Externa. ( )",
+      "t": "A unidade auxiliar de energia a bordo (APU) com exaustão na zona de abastecimento deve estar ligada antes da remoção das tampas dos tanques ou conexões das linhas de abastecimento. ( )",
       "a": "C"
     },
     {
       "n": 53,
-      "t": "No RBAC 133, \"Classe A\" é a combinação em que a carga externa fica fixa à aeronave, não pode ser alijada e não se prolonga abaixo do trem de pouso. ( )",
-      "a": "C"
+      "t": "Se a APU parar durante o abastecimento, ela pode ser religada imediatamente, desde que a tripulação declare que não há cheiro de combustível no pátio. ( )",
+      "a": "E"
     },
     {
       "n": 54,
-      "t": "No RBAC 133, \"Classe B\" é a combinação em que a carga externa é alijável e livra o solo ou a água durante a operação da aeronave. ( )",
+      "t": "O operador deve assegurar interrupção do abastecimento durante incidência de raios ou tempestades elétricas nas imediações do aeródromo. ( )",
       "a": "C"
     },
     {
       "n": 55,
-      "t": "No RBAC 133, \"Classe C\" é a combinação em que a carga externa é alijável e permanece em contato com o solo ou a água durante a operação da aeronave. ( )",
-      "a": "C"
+      "t": "Profissionais de abastecimento podem dispensar meios de comunicação para acionar a equipe contraincêndio, desde que haja pessoas de prontidão nas proximidades do pátio. ( )",
+      "a": "E"
     },
     {
       "n": 56,
-      "t": "No RBAC 133, \"Classe D\" é a combinação distinta das classes A, B ou C, aprovada especificamente pela autoridade para uma determinada operação. ( )",
+      "t": "Sempre que houver princípio de incêndio durante abastecimento, a equipe contraincêndio deve ser acionada, independentemente do sucesso obtido na intervenção inicial. ( )",
       "a": "C"
     },
     {
       "n": 57,
-      "t": "No Brasil, a operação de helicóptero com carga externa é regulamentada pelo RBAC 133 e depende de autorização formal da ANAC. ( )",
+      "t": "O procedimento de abastecimento deve ser suspenso quando qualquer parte do trem de pouso estiver superaquecida, devendo-se acionar imediatamente a equipe contraincêndio. ( )",
       "a": "C"
     },
     {
       "n": 58,
-      "t": "Operação aeroagrícola, segundo a seção 137.3 do RBAC 137, é a operação aérea que aplica em voo fertilizantes, sementes, inseticidas, herbicidas e outros defensivos, para proteger ou fomentar a agricultura. ( )",
+      "t": "Após acionamento da equipe contraincêndio, o abastecimento só deve ser reiniciado após liberação do local pelo responsável pelo atendimento à emergência. ( )",
       "a": "C"
     },
     {
       "n": 59,
-      "t": "O RBAC 137 inclui como aeroagrícola também atividades como povoamento de águas, combate a incêndios em campos e florestas, provocação artificial de chuvas e modificação artificial do clima. ( )",
+      "t": "O operador deve manter a diferença de nível entre áreas pavimentadas e não pavimentadas inferior a 8 cm e inclinação inferior a 30 graus. ( )",
       "a": "C"
     },
     {
       "n": 60,
-      "t": "O material aponta que o RBAC 136 foi concebido em 2020 para propiciar a certificação de operadores de voos panorâmicos. ( )",
-      "a": "C"
+      "t": "É aceitável manter diferença de nível de até 10 cm entre área pavimentada e não pavimentada, desde que a inclinação seja inferior a 30 graus. ( )",
+      "a": "E"
     },
     {
       "n": 61,
-      "t": "Na Subparte K do RBAC 91 (propriedade compartilhada), a assimetria de informação foi apontada como motivo para criar um arcabouço específico de regras, já que o cotista, sem especialização, não consegue exercer pleno controle operacional. ( )",
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes de cabeceira indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 62,
-      "t": "A Subparte K é descrita como menos restritiva que RBAC 135 e RBAC 119 em conjunto, não se justificando impor certificação RBAC 119 apenas para compartilhar aeronaves em um programa. ( )",
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes de borda de pista indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 63,
-      "t": "No programa de propriedade compartilhada, a cota mínima para aeronave subsônica de asa fixa (ou sustentação por potência) é igual ou maior que 1/16 (1/16) de pelo menos uma aeronave do programa. ( )",
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes de eixo de pista indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 64,
-      "t": "Para aeronave de asas rotativas em programa de propriedade compartilhada, a cota mínima é igual ou maior que 1/32 (1/32). ( )",
-      "a": "C"
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes de fim de pista indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
+      "a": "E"
     },
     {
       "n": 65,
-      "t": "O operador Subparte K recebe Especificações Administrativas (EA), citadas como documentos públicos disponíveis no site da ANAC enquanto o operador atende aos requisitos. ( )",
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 25% do total de luzes de fim de pista indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 66,
-      "t": "A Subparte K exige, como regra, que o operador seja certificado pelo RBAC 135, independentemente de haver transporte aéreo público. ( )",
+      "t": "Para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes de zona de toque indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "E"
     },
     {
       "n": 67,
-      "t": "A teoria econômica da regulação, conforme apresentada, enfatiza a criação de incentivos para alinhar o comportamento do regulado às metas públicas. ( )",
+      "t": "No sistema de luzes de aproximação (ALS), para aproximação de precisão Categoria II/III, admite-se, no máximo, 5% do total de luzes internas em 450 m indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 68,
-      "t": "O material associa a Anthony Ogus (2004) a ideia de que regulação eficaz deve equilibrar custos e benefícios ao calibrar incentivos. ( )",
+      "t": "No sistema de luzes de aproximação (ALS), para aproximação de precisão Categoria II/III, admite-se, no máximo, 15% das demais luzes do sistema indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 69,
-      "t": "Regulação por comando e controle é apresentada como modelo eficaz para conformidade básica, mas potencialmente inflexível e pouco indutor de inovação. ( )",
+      "t": "Para aproximação de precisão Categoria I, admite-se, no máximo, 15% do total de luzes de cabeceira indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
       "a": "C"
     },
     {
       "n": 70,
-      "t": "Incentivos baseados em performance estabelecem metas de desempenho a serem alcançadas, mas permitem que o regulado escolha como cumprir essas metas. ( )",
-      "a": "C"
+      "t": "Para aproximação de precisão Categoria I, admite-se, no máximo, 25% do total de luzes de borda de pista indisponíveis, desde que duas luzes inoperantes não sejam consecutivas. ( )",
+      "a": "E"
     },
     {
       "n": 71,
-      "t": "O material menciona incentivos via divulgação de informações e reputação, em que a pressão por boa imagem pode induzir melhora de desempenho. ( )",
+      "t": "Na ausência de órgãos de serviços de tráfego aéreo no aeródromo, a suspensão de operações deve ser comunicada, por comunicação gravada, ao APP ou ao ACC, conforme aplicável. ( )",
       "a": "C"
     },
     {
       "n": 72,
-      "t": "Autoregulação e coregulação são descritas como modelos em que as próprias entidades reguladas desenvolvem e implementam normas, com ou sem supervisão governamental. ( )",
+      "t": "Se houver Órgão de Informação de Voo (Estação Rádio) no aeródromo, o operador deve suspender a operação e comunicar imediatamente o referido órgão, por meio de comunicação gravada, a respeito da suspensão. ( )",
       "a": "C"
     },
     {
       "n": 73,
-      "t": "Tarifas aeroportuárias ajustadas conforme nível de ruído ou emissões são citadas como exemplo de incentivo regulatório aplicado à infraestrutura aeroportuária. ( )",
-      "a": "C"
-    },
-    {
-      "n": 74,
-      "t": "Incentivos regulatórios são irrelevantes para infraestrutura aeroportuária, pois segurança operacional depende apenas de fiscalização punitiva. ( )",
+      "t": "Em caso de indisponibilidade de luzes acima do limite permitido para a categoria de aproximação, é facultado ao operador manter a operação aérea, desde que emita NOTAM no dia seguinte. ( )",
       "a": "E"
     },
     {
-      "n": 75,
-      "t": "Como Estado signatário da Convenção de Aviação Civil Internacional de 1944, o Brasil segue diretrizes da OACI, e a fonte normativa primária de infraestrutura aeroportuária é indicada no Anexo 14. ( )",
+      "n": 74,
+      "t": "A prevenção de incursão em pista inclui medidas para manter fluxo ordenado e seguro de tráfego de aeronaves e veículos na área de movimento e para prevenir colisões envolvendo aeronaves, veículos, equipamentos, pessoas ou objetos. ( )",
       "a": "C"
     },
     {
+      "n": 75,
+      "t": "A simples presença de artigos perigosos na aeronave dispensa a necessidade de comunicação à tripulação, pois a responsabilidade é exclusiva do expedidor. ( ) TEXTO BASE 6 Na infraestrutura aeroportuária, o regulador busca alinhar incentivos econômicos do operador com objetivos de políticas públicas, assegurando segurança, eficiência operacional e interoperabilidade. Para isso, utiliza incentivos regulatórios financeiros e não financeiros, avaliando desafios de implementação e riscos de falhas de governo.",
+      "a": "E"
+    },
+    {
       "n": 76,
-      "t": "O principal documento nacional citado para infraestrutura aeroportuária é o RBAC 154 (Projeto de Aeródromos), mencionado como estando na Emenda 8. ( )",
+      "t": "A regulação da infraestrutura aeroportuária é essencial para garantir segurança, eficiência operacional e interoperabilidade, em razão da necessidade de coordenação e padronização entre múltiplos stakeholders e sistemas. ( )",
       "a": "C"
     },
     {
       "n": 77,
-      "t": "O material lista documentos OACI de apoio ao tema, como Doc 9157 (Airport Design Manual) e Doc 9184 (Airport Planning Manual). ( )",
+      "t": "Incentivos regulatórios são mecanismos estabelecidos por autoridades reguladoras para alinhar comportamentos dos regulados com objetivos de políticas públicas, podendo ser financeiros ou não financeiros. ( )",
       "a": "C"
     },
     {
       "n": 78,
-      "t": "O material indica o Doc 9870 como referência sobre prevenção de incursões em pista. ( )",
-      "a": "C"
-    },
-    {
-      "n": 79,
-      "t": "A lógica apresentada associa infraestrutura aeroportuária apenas a pistas; taxiways, pátios e auxílios visuais não fazem parte do escopo. ( )",
+      "t": "Subsídios, multas e tarifas diferenciadas são exemplos de incentivos regulatórios de natureza não financeira. ( )",
       "a": "E"
     },
     {
+      "n": 79,
+      "t": "Normas de desempenho, requisitos de conformidade e padrões operacionais são exemplos de incentivos regulatórios de natureza não financeira. ( )",
+      "a": "C"
+    },
+    {
       "n": 80,
-      "t": "Segundo o material, os requisitos de infraestrutura podem ser agrupados em características físicas, auxílios visuais e requisitos de sistemas elétricos e monitoramento. ( )",
+      "t": "A finalidade dos incentivos regulatórios é maximizar o bem-estar social, e não meramente o bem-estar do mercado entendido como interesse setorial do regulado. ( )",
       "a": "C"
     },
     {
       "n": 81,
-      "t": "IS e alertas aos operadores são citados como instrumentos complementares, incluindo orientações para método ACN-PCN e para critérios de prevenção de incursão em pista em projetos. ( )",
-      "a": "C"
+      "t": "A resistência dos regulados a mudanças impostas por novas regulações é irrelevante, pois regulados tendem a aderir espontaneamente sem necessidade de comunicação, treinamento ou engajamento. ( )",
+      "a": "E"
     },
     {
       "n": 82,
-      "t": "O material cita, como exemplo, a IS 153-109 sobre Sistema de Orientação e Controle da Movimentação no Solo (SOCMS). ( )",
-      "a": "C"
+      "t": "Ao desenhar incentivos regulatórios, é irrelevante considerar falhas de governo, pois apenas falhas de mercado justificam atenção do regulador. ( )",
+      "a": "E"
     },
     {
       "n": 83,
-      "t": "O RBAC 153 estabelece requisitos e parâmetros mínimos de segurança operacional para planejamento, execução, monitoramento e melhoria contínua das operações aeroportuárias, além de manutenção, resposta à emergência e gerenciamento do risco da fauna. ( )",
-      "a": "C"
+      "t": "Na infraestrutura do transporte aéreo, o conhecimento dos componentes aeroportuários dispensa a identificação de riscos operacionais em campo, pois a conformidade pode ser aferida apenas por documentos. ( )",
+      "a": "E"
     },
     {
       "n": 84,
-      "t": "Os requisitos do RBAC 153 são definidos por classe de aeródromo, com critérios de classificação na seção 153.7 e detalhamento de exigências no Apêndice A. ( )",
-      "a": "C"
+      "t": "A prevenção de incursão em pista é responsabilidade exclusiva dos pilotos e do controle de tráfego aéreo, sem relação com infraestrutura e procedimentos do operador do aeródromo. ( )",
+      "a": "E"
     },
     {
       "n": 85,
-      "t": "Todo aeródromo civil brasileiro, compartilhado ou não, é classificado para definir quais requisitos do RBAC 153 lhe são obrigatórios. ( )",
+      "t": "Distâncias declaradas e avaliação de capacidade de pavimento (por exemplo, PCN) são temas que dialogam com segurança operacional e com o gerenciamento da infraestrutura aeroportuária. ( )",
       "a": "C"
     },
     {
       "n": 86,
-      "t": "O RBAC 153 não se aplica a heliportos e helipontos. ( )",
-      "a": "C"
+      "t": "A interoperabilidade setorial na infraestrutura aeroportuária depende exclusivamente de decisões comerciais do operador e independe de padronização regulatória. ( )",
+      "a": "E"
     },
     {
       "n": 87,
-      "t": "Em aeródromos localizados em área de fronteira internacional, o material indica que podem existir restrições adicionais, impostas por acordos com países limítrofes, além do RBAC 153. ( )",
+      "t": "Em regulação de infraestrutura aeroportuária, pode haver maior grau de intervenção do regulador, em comparação a outros domínios, quando os incentivos intrínsecos do regulado não se alinham a investimentos pesados em segurança e qualidade. ( )",
       "a": "C"
     },
     {
       "n": 88,
-      "t": "Área operacional, também chamada de lado ar, é o conjunto formado pela área de movimento e áreas adjacentes cujo acesso é controlado. ( )",
+      "t": "Quando houver Órgão de Controle de Tráfego Aéreo (Torre de Controle) no aeródromo, a necessidade de suspensão de determinado tipo de operação aérea deve ser comunicada imediatamente ao referido órgão, por meio de comunicação gravada. ( )",
       "a": "C"
     },
     {
       "n": 89,
-      "t": "O operador de aeródromo deve implantar e manter sistema de proteção da área operacional, com infraestrutura e procedimentos adequados, para prevenir entrada de animais ou objetos perigosos e conter acesso não autorizado. ( )",
-      "a": "C"
+      "t": "A implementação de incentivos regulatórios tende a ser trivial em infraestrutura aeroportuária, pois regulados raramente resistem a mudanças e custos adicionais. ( )",
+      "a": "E"
     },
     {
       "n": 90,
-      "t": "A prevenção de incursão em pista depende exclusivamente do controle de tráfego aéreo; não há requisitos de conscientização, supervisão ou controle de acesso pelo operador do aeródromo. ( ) Gabarito",
-      "a": "E"
+      "t": "Ao desenhar incentivos, o regulador deve avaliar não só benefícios esperados, mas também custos e efeitos colaterais, para evitar falhas de governo. ( ) GABARITO",
+      "a": "C"
     }
   ],
   "extra modulo 1": [

@@ -2,1246 +2,1326 @@
   "extra 18-12": [
     {
       "n": 1,
-      "t": "O transporte aereo, como modalidade de transporte, destaca-se pela velocidade e pela capacidade de reduzir barreiras geograficas, mas costuma apresentar custo unitario maior do que modais terrestres para cargas de baixo valor. ( )",
+      "t": "O transporte aéreo é caracterizado, em geral, por maior velocidade e maior custo relativo quando comparado a modais terrestres, sendo preferido para cargas de alto valor agregado ou sensíveis ao tempo.",
       "a": "C"
     },
     {
       "n": 2,
-      "t": "No transporte aereo, o custo marginal de um assento vazio e praticamente nulo apos a decolagem, o que explica a relevancia de gestao de receita e de ocupacao para companhias aereas. ( )",
-      "a": "C"
+      "t": "O transporte aéreo é o modal mais eficiente para cargas de baixo valor e alto volume, pois maximiza a economia de escala com custos marginais decrescentes em qualquer distância.",
+      "a": "E"
     },
     {
       "n": 3,
-      "t": "O transporte aereo regular e aquele realizado com frequencia e horarios previamente publicados, enquanto o nao regular tende a ocorrer por demanda especifica, sem grade publica permanente. ( )",
+      "t": "Em redes do tipo hub-and-spoke, a concentração de voos em um hub pode aumentar conectividade, ainda que possa elevar dependência do aeroporto central e gerar gargalos.",
       "a": "C"
     },
     {
       "n": 4,
-      "t": "Em rotas aereas, o modelo hub-and-spoke concentra fluxos em aeroportos concentradores para aumentar conectividade, ao passo que o ponto-a-ponto prioriza ligacoes diretas, reduzindo conexoes. ( )",
-      "a": "C"
-    },
-    {
-      "n": 5,
-      "t": "No contexto economico do setor, aumento de taxa de ocupacao (load factor) sempre reduz a receita total, pois implica queda de tarifa media. ( )",
+      "t": "No modelo ponto-a-ponto, as empresas necessariamente operam apenas em aeroportos congestionados, o que reduz atrasos e elimina necessidade de coordenação de slots.",
       "a": "E"
     },
     {
+      "n": 5,
+      "t": "A demanda por transporte aéreo tende a ser derivada: depende de atividades econômicas, turismo e integração regional, e não apenas de preferências isoladas do consumidor.",
+      "a": "C"
+    },
+    {
       "n": 6,
-      "t": "A IATA e uma organizacao internacional intergovernamental com poder normativo equivalente ao da OACI, podendo impor obrigacoes diretamente aos Estados. ( )",
+      "t": "A elasticidade-preço da demanda é sempre baixa e idêntica para todos os passageiros, razão pela qual não há justificativa econômica para tarifas diferenciadas.",
       "a": "E"
     },
     {
       "n": 7,
-      "t": "A Convencao de Chicago (1944) estabeleceu bases para a aviacao civil internacional e originou o arranjo institucional que inclui a OACI como organizacao especializada do sistema ONU. ( )",
+      "t": "O gerenciamento de receitas pode levar passageiros a pagarem valores diferentes no mesmo voo, sem que isso, por si só, comprove infração regulatória ou concorrencial.",
       "a": "C"
     },
     {
       "n": 8,
-      "t": "Direitos de trafego (liberdades do ar) sao concedidos automaticamente a todas as empresas de todos os Estados signatarios da Convencao de Chicago, sem necessidade de acordos. ( )",
+      "t": "Se dois passageiros pagam preços distintos pelo mesmo voo, então ocorreu, necessariamente, prática abusiva ilícita, pois a isonomia tarifária é exigência universal do transporte aéreo.",
       "a": "E"
     },
     {
       "n": 9,
-      "t": "Primeira Liberdade corresponde ao direito de sobrevoar o territorio de outro Estado sem pousar. ( )",
+      "t": "A existência de custos fixos elevados e capacidade limitada tende a incentivar estratégias de maximização de receita por voo, incluindo segmentação tarifária.",
       "a": "C"
     },
     {
       "n": 10,
-      "t": "Segunda Liberdade corresponde ao direito de realizar escala tecnica (ex.: reabastecimento/manutencao) sem embarcar ou desembarcar passageiros ou carga. ( )",
-      "a": "C"
+      "t": "A aviação regular de passageiros não envolve restrições operacionais relevantes, pois a capacidade pode ser aumentada instantaneamente sem limitações de frota, tripulação e infraestrutura.",
+      "a": "E"
     },
     {
       "n": 11,
-      "t": "Terceira e Quarta Liberdades tratam, respectivamente, de transportar passageiros/carga do Estado que designa a empresa para o outro Estado e do outro Estado para o Estado que designa a empresa. ( )",
+      "t": "A Convenção de Chicago (1944) é frequentemente tratada como referência central do regime internacional de aviação civil, incluindo princípios sobre soberania do espaço aéreo.",
       "a": "C"
     },
     {
       "n": 12,
-      "t": "Quinta Liberdade envolve transportar passageiros/carga entre o territorio do outro Estado e o territorio de um terceiro Estado, no ambito de um servico destinado ou proveniente do Estado que designa a empresa. ( )",
-      "a": "C"
+      "t": "A Convenção de Chicago estabeleceu que a OACI é soberana sobre o espaço aéreo de cada Estado e pode autorizar voos domésticos sem anuência nacional.",
+      "a": "E"
     },
     {
       "n": 13,
-      "t": "Oitava e Nona Liberdades sao formas de cabotagem (entre pontos no territorio do outro Estado), e a legislacao brasileira atual nao permite o exercicio de cabotagem (8a e 9a liberdades). ( )",
+      "t": "A soberania do Estado sobre o espaço aéreo do seu território é princípio basilar, motivo pelo qual cabotagem, via de regra, depende de autorização específica.",
       "a": "C"
     },
     {
       "n": 14,
-      "t": "A Sexta Liberdade e, em geral, interpretada como combinacao pratica de direitos associados a Terceira e Quarta Liberdades, envolvendo trafego via Estado intermediario. ( )",
-      "a": "C"
+      "t": "Cabotagem é o transporte entre dois pontos no mesmo Estado por empresa de outro Estado e, por padrão, é um direito automaticamente concedido pelos acordos bilaterais.",
+      "a": "E"
     },
     {
       "n": 15,
-      "t": "Acordos sobre servicos aereos (ASA) costumam tratar de temas como rotas, capacidade (frequencias/voos), designacao de empresas, tarifas, e clausulas de propriedade e controle das empresas designadas. ( )",
+      "t": "Acordos sobre Serviços Aéreos (ASA) são instrumentos por meio dos quais Estados definem direitos de tráfego, capacidade, pontos, designação e outras condições de operação.",
       "a": "C"
     },
     {
       "n": 16,
-      "t": "Em ASA, a clausula de designacao define o numero de empresas que um Estado pode designar e, em regra, condiciona a autorizacao ao cumprimento de requisitos do acordo. ( )",
-      "a": "C"
-    },
-    {
-      "n": 17,
-      "t": "Acordos multilaterais sempre prevalecem sobre acordos bilaterais; por isso, os Estados, em regra, nao celebram ASA bilaterais. ( )",
+      "t": "Um ASA é sempre multilateral e uniformizado, não havendo acordos bilaterais no transporte aéreo internacional.",
       "a": "E"
     },
     {
-      "n": 18,
-      "t": "A negociacao de ASA tipicamente envolve intercambio de propostas, definicao de texto e anexos, e posterior assinatura, podendo incluir memorandos e atas de reuniao. ( )",
+      "n": 17,
+      "t": "Cláusulas de segurança operacional e de segurança da aviação contra atos de interferência ilícita podem aparecer em ASAs, refletindo compromissos e exigências entre as partes.",
       "a": "C"
     },
     {
+      "n": 18,
+      "t": "Em ASAs, a cláusula de segurança operacional trata exclusivamente de ameaça terrorista e de triagem de passageiros.",
+      "a": "E"
+    },
+    {
       "n": 19,
-      "t": "A OACI tem sede em Montreal (Canada) e, no sistema, a Assembleia e o orgao soberano, convocado ordinariamente a cada 3 anos. ( )",
+      "t": "A designação de empresa aérea pelo Estado é típica em ASAs, podendo haver exigências quanto a controle, propriedade e sede da empresa designada.",
       "a": "C"
     },
     {
       "n": 20,
-      "t": "O Conselho da OACI e o orgao executivo e, segundo o material, e composto por 36 Estados. ( )",
-      "a": "C"
+      "t": "Uma vez designada uma empresa, o outro Estado é obrigado a aceitar a designação sem qualquer verificação ou possibilidade de recusa, ainda que os requisitos do acordo não sejam atendidos.",
+      "a": "E"
     },
     {
       "n": 21,
-      "t": "O Conselho supervisiona o trabalho do Secretariado e conduz os trabalhos da instituicao, incluindo a conducao de emendas aos Anexos e o trato de SARPs. ( )",
+      "t": "As Liberdades do Ar tratam de direitos de tráfego entre Estados, como sobrevoo, escala técnica e transporte de passageiros/carga em diferentes combinações de origem e destino.",
       "a": "C"
     },
     {
       "n": 22,
-      "t": "A Assembleia da OACI e permanente e se reune semanalmente, enquanto o Conselho se reune a cada 3 anos. ( )",
+      "t": "A Primeira Liberdade corresponde ao direito de pousar para embarcar passageiros e carga em Estado estrangeiro, sem qualquer acordo.",
       "a": "E"
     },
     {
       "n": 23,
-      "t": "A estrutura organizacional da OACI inclui, entre outros, Conselho, Secretariado, Comites e Comissoes, alem de escritorios regionais. ( )",
+      "t": "A Segunda Liberdade, em termos gerais, relaciona-se a escala técnica (por exemplo, reabastecimento/manutenção) sem embarque ou desembarque comercial.",
       "a": "C"
     },
     {
       "n": 24,
-      "t": "Politicas publicas podem ser gerais (ex.: politica nacional de transportes) e politicas especificas (ex.: politica nacional de aviacao civil), e planos tendem a detalhar a implementacao e investimentos. ( )",
+      "t": "A Terceira Liberdade permite transportar tráfego do Estado que designa a empresa para o território do outro Estado.",
       "a": "C"
     },
     {
       "n": 25,
-      "t": "O CONAC e citado como orgao ligado a formulacao/ordenacao da aviacao civil no Brasil, com funcoes de assessoramento e acompanhamento de diretrizes do setor. ( )",
+      "t": "A Quarta Liberdade permite transportar tráfego do território do outro Estado para o território do Estado que designa a empresa.",
       "a": "C"
     },
     {
       "n": 26,
-      "t": "A PNAC e um exemplo de politica publica especifica do setor, enquanto a PNT e exemplo de politica generalista no campo dos transportes. ( )",
+      "t": "A Quinta Liberdade envolve transportar tráfego entre o outro Estado e um terceiro Estado, no contexto de um serviço que tem origem ou destino no Estado que designa a empresa.",
       "a": "C"
     },
     {
       "n": 27,
-      "t": "O Plano Aeroviario Nacional (PAN) e apresentado como instrumento de planejamento tatico da aviacao civil, e sua versao pode aparecer em consulta publica. ( )",
-      "a": "C"
-    },
-    {
-      "n": 28,
-      "t": "A PNAC e um plano de investimentos com cronograma de obras e fontes de financiamento, enquanto o PAN e apenas um conjunto de principios abstratos. ( )",
+      "t": "A Sexta Liberdade é a permissão de fazer cabotagem dentro de um Estado estrangeiro, sem restrições.",
       "a": "E"
     },
     {
-      "n": 29,
-      "t": "Externalidades, assimetria de informacao, poder de mercado e bens publicos sao exemplos de falhas de mercado que podem justificar intervencao regulatoria. ( )",
+      "n": 28,
+      "t": "Em geral, liberdades além das mais básicas dependem de negociação e concessão, não sendo automáticas por simples adesão à Convenção de Chicago.",
       "a": "C"
     },
     {
+      "n": 29,
+      "t": "Direitos de tráfego são definidos exclusivamente por decisão unilateral do operador aeroportuário, sem participação de Estados ou tratados.",
+      "a": "E"
+    },
+    {
       "n": 30,
-      "t": "Motivacoes juridicas para regular podem incluir protecao de direitos fundamentais como universalizacao, equidade, privacidade, redistribuicao e nao discriminacao. ( )",
+      "t": "Em muitos modelos de ASA, há disposições sobre capacidade e frequências, que podem ser pré-determinadas ou mais liberalizadas, conforme a política das partes.",
       "a": "C"
     },
     {
       "n": 31,
-      "t": "Pela definicao trabalhada no material, regulacao pode ocorrer por comandos restritivos, mas tambem por medidas indutivas e economicas; nao se limita a proibicoes. ( )",
+      "t": "A OACI possui órgãos como Assembleia e Conselho, associados à condução de temas e decisões no âmbito da aviação civil internacional.",
       "a": "C"
     },
     {
       "n": 32,
-      "t": "Teorias do interesse privado explicam a regulacao como sempre voltada ao interesse publico e imune a pressao de grupos organizados. ( )",
+      "t": "A Assembleia da OACI funciona como órgão permanente de gestão diária, reunindo-se semanalmente para deliberar sobre rotinas operacionais de cada Estado.",
       "a": "E"
     },
     {
       "n": 33,
-      "t": "A captura regulatoria descreve situacao em que o regulador passa a atuar por interesses privados especificos, afastando-se do interesse publico. ( )",
+      "t": "O Conselho da OACI possui papel relevante na condução de assuntos entre as sessões da Assembleia, com apoio do Secretariado.",
       "a": "C"
     },
     {
       "n": 34,
-      "t": "Abordagens institucionalistas enfatizam como desenho institucional, rotinas e interacoes influenciam decisoes regulatorias, alem de pressao social e economica. ( )",
+      "t": "Anexos à Convenção de Chicago tratam de padrões e práticas recomendadas, influenciando harmonização internacional e exigindo implementação nacional.",
       "a": "C"
     },
     {
       "n": 35,
-      "t": "No Estado regulador brasileiro, agencias reguladoras surgem como arranjo institucional para regular setores, com caracteristicas como autonomia administrativa, financeira e decisoria, dentro dos limites legais. ( )",
-      "a": "C"
+      "t": "Padrões e práticas recomendadas (SARPs) são aplicados automaticamente em todos os Estados, independentemente de incorporação nacional ou notificação de diferenças.",
+      "a": "E"
     },
     {
       "n": 36,
-      "t": "Em regra, agencias reguladoras no Brasil sao autarquias em regime especial, com dirigentes nomeados pelo chefe do Executivo e referendados pelo Legislativo, em modelo de diretoria colegiada. ( )",
+      "t": "A existência de SARPs não elimina a necessidade de regulamentação doméstica, pois a implementação ocorre via normas e estruturas nacionais.",
       "a": "C"
     },
     {
       "n": 37,
-      "t": "A independencia decisoria de uma agencia elimina qualquer forma de controle externo, inclusive controle judicial e controle por orgaos de fiscalizacao. ( )",
+      "t": "A OACI substitui as autoridades nacionais: logo, a certificação de operadores e licenças é emitida diretamente pela OACI.",
       "a": "E"
     },
     {
       "n": 38,
-      "t": "Instrumentos como transparencia, participacao social e mecanismos de prestacao de contas aparecem como elementos de boas praticas de governanca regulatoria. ( )",
+      "t": "A estrutura internacional depende de cooperação entre Estados signatários e de mecanismos de coordenação, o que não equivale a soberania supranacional.",
       "a": "C"
     },
     {
       "n": 39,
-      "t": "A liberalizacao de oferta (rotas) e a liberdade tarifaria influenciam a atuacao das empresas aereas, afetando estrategias comerciais e concorrencia. ( )",
-      "a": "C"
+      "t": "A OACI atua apenas em temas ambientais, não tendo relação com segurança operacional, navegação aérea ou padronização.",
+      "a": "E"
     },
     {
       "n": 40,
-      "t": "Companhias aereas low-cost carriers (LCC) se caracterizam, em geral, por estrutura de custos reduzida e simplificacao de servicos, enquanto full-service carriers (FSC/legacy) tendem a oferecer maior escopo de servicos. ( )",
+      "t": "A coordenação internacional busca reduzir riscos e inconsistências, mas não elimina divergências, que podem ser tratadas por notificações e arranjos nacionais.",
       "a": "C"
     },
     {
       "n": 41,
-      "t": "A classificacao de companhias (carga, regionais, nicho, hibridas) ajuda a compreender estrategias e posicionamentos, mas nao altera o fato de todas operarem em ambiente sem regulacao alguma. ( )",
-      "a": "E"
+      "t": "No âmbito de política pública, pode-se distinguir políticas setoriais específicas e políticas gerais, e confundir essas categorias pode tornar um item incorreto.",
+      "a": "C"
     },
     {
       "n": 42,
-      "t": "Fatores como combustivel, cambio, custos aeroportuarios, regulacao e demanda influenciam a atuacao das empresas aereas e o nivel de oferta de voos. ( )",
+      "t": "Externalidades e assimetria de informação são exemplos clássicos de falhas de mercado frequentemente usadas para justificar intervenção regulatória.",
       "a": "C"
     },
     {
       "n": 43,
-      "t": "No contexto medico-aeronautico, o hipobarismo (reduzida pressao atmosferica) esta associado a riscos como hipoxia e transtornos por variacao de pressao em cavidades, como barotite. ( )",
-      "a": "C"
+      "t": "Universalização de acesso e equidade são sempre falhas de mercado do tipo externalidade, razão pela qual são idênticas às motivações econômicas.",
+      "a": "E"
     },
     {
       "n": 44,
-      "t": "Barotite e um transtorno tipico de hipobarismo e pode ocorrer por dificuldade de equalizacao de pressao no ouvido medio. ( )",
+      "t": "Política de aviação civil pode envolver objetivos como conectividade, desenvolvimento econômico, integração regional, segurança e sustentabilidade, além de qualidade de serviço.",
       "a": "C"
     },
     {
       "n": 45,
-      "t": "A doenca descompressiva pode se manifestar com dor articular e sintomas neurologicos e esta associada a reducao de pressao, sobretudo quando ha nitrogenio dissolvido nos tecidos. ( )",
-      "a": "C"
+      "t": "A intervenção estatal no setor aéreo é injustificável em qualquer cenário, pois a concorrência perfeita é regra e sempre resolve todos os problemas.",
+      "a": "E"
     },
     {
       "n": 46,
-      "t": "O ruido e condicao ambiental comum na atividade aerea e pode afetar audicao e desempenho, motivo pelo qual limites e protecao sao relevantes. ( )",
+      "t": "A presença de poder de mercado pode justificar instrumentos que afetem barreiras à entrada e contestabilidade, mas isso não implica que ‘fixar preços’ seja a única alternativa.",
       "a": "C"
     },
     {
       "n": 47,
-      "t": "A variacao de aceleracao (G) pode afetar sistema circulatorio e nervoso, alterando irrigacao e podendo comprometer visao e consciencia, dependendo do eixo e intensidade. ( )",
-      "a": "C"
+      "t": "A regulação só existe quando o Estado impõe comandos imperativos; incentivos e mecanismos indutivos não podem ser considerados formas de regulação.",
+      "a": "E"
     },
     {
       "n": 48,
-      "t": "A desorientacao espacial e sempre resolvida apenas pela percepcao vestibular; por isso, instrumentos sao secundarios e pouco relevantes em voo por instrumentos. ( )",
-      "a": "E"
-    },
-    {
-      "n": 49,
-      "t": "O RBAC 67 trata de requisitos de certificacao medica aeronautica e busca harmonizacao com referencia internacional (ex.: Anexo 1 da OACI). ( )",
+      "t": "A avaliação regulatória costuma envolver diagnóstico do problema, objetivos, alternativas e análise de impactos, e não apenas a redação do texto normativo.",
       "a": "C"
     },
     {
-      "n": 50,
-      "t": "O exame medico aeronautico e unicamente um procedimento clinico geral, sem relacao com riscos especificos do voo, como hipoxia, aceleracao, fadiga e ruido. ( )",
+      "n": 49,
+      "t": "Se um setor é regulado, então a regulação necessariamente aumenta o bem-estar social, pois toda intervenção é superior ao mercado.",
       "a": "E"
     },
     {
+      "n": 50,
+      "t": "A captura regulatória pode ocorrer quando decisões passam a refletir interesses privados organizados em detrimento do interesse público.",
+      "a": "C"
+    },
+    {
       "n": 51,
-      "t": "Em acordos de servicos aereos, a clausula de propriedade e controle (substantial ownership and effective control) costuma exigir que a empresa designada seja de propriedade substancial e sob controle efetivo do Estado que a designa. ( )",
+      "t": "Teorias de interesse público e de interesse privado oferecem explicações distintas sobre por que a regulação surge e como o regulador decide.",
       "a": "C"
     },
     {
       "n": 52,
-      "t": "A existencia de clausula de propriedade e controle em um ASA impede, por definicao, qualquer forma de codeshare entre empresas de Estados distintos. ( )",
+      "t": "Na perspectiva de interesse privado, a regulação é sempre criada para beneficiar a sociedade como um todo, sendo impossível que favoreça grupos organizados.",
       "a": "E"
     },
     {
       "n": 53,
-      "t": "Em ASA, a clausula de capacidade pode adotar abordagem de capacidade predeterminada (controle) ou de livre determinacao pelo mercado (liberal), dependendo do modelo negociado. ( )",
+      "t": "A ideia de ‘mercado por regulação’ é compatível com explicações em que grupos organizados buscam obter benefícios por meio de normas e decisões regulatórias.",
       "a": "C"
     },
     {
       "n": 54,
-      "t": "A chamada liberdade tarifaria, quando prevista em acordo, significa que tarifas deixam de ser assunto do Estado e passam a ser definidas pelas empresas, com possiveis mecanismos de notificacao e intervencao excepcional. ( )",
+      "t": "A análise institucional pode enfatizar rotinas, incentivos internos e desenho organizacional como fatores que afetam decisões regulatórias, além de pressões externas.",
       "a": "C"
     },
     {
       "n": 55,
-      "t": "O open skies e sempre um tratado multilateral universal, com aplicacao automatica a todos os Estados signatarios da Convencao de Chicago. ( )",
+      "t": "Teorias institucionalistas negam qualquer influência de incentivos e, por isso, explicam decisões apenas por preferências individuais do regulador.",
       "a": "E"
     },
     {
       "n": 56,
-      "t": "O direito de trafego e uma permissao estatal: mesmo quando uma liberdade do ar esta prevista, a empresa so opera se houver designacao e autorizacao conforme o acordo e regras domesticas. ( )",
+      "t": "A noção de falha de governo reconhece que a intervenção pode gerar distorções, custos e efeitos não pretendidos.",
       "a": "C"
     },
     {
       "n": 57,
-      "t": "A Convencao de Chicago consagra a soberania completa e exclusiva do Estado sobre o espaco aereo acima de seu territorio. ( )",
-      "a": "C"
-    },
-    {
-      "n": 58,
-      "t": "A Convencao de Chicago proibe qualquer cobranca de taxas aeroportuarias e de navegacao aerea, por serem consideradas restricoes ao comercio. ( )",
+      "t": "Se há participação social, a captura é automaticamente eliminada, pois consultas públicas neutralizam assimetrias de poder e informação.",
       "a": "E"
     },
     {
+      "n": 58,
+      "t": "Regulação pode combinar instrumentos econômicos, jurídicos e técnicos, dependendo do problema e do desenho institucional.",
+      "a": "C"
+    },
+    {
       "n": 59,
-      "t": "Os Anexos a Convencao de Chicago contem SARPs (normas e praticas recomendadas) e, em geral, sao atualizados por processo tecnico e decisorio no ambito da OACI. ( )",
+      "t": "No contexto brasileiro, as agências reguladoras podem ter surgido em ondas e com ênfases diferentes ao longo do tempo, incluindo setores de infraestrutura.",
       "a": "C"
     },
     {
       "n": 60,
-      "t": "Diferentemente do texto da Convencao, os Anexos sao ratificados individualmente por cada Parlamento nacional antes de produzir qualquer efeito interno. ( )",
+      "t": "A existência de agência reguladora implica que o Estado abandonou qualquer preocupação com interesse público, atuando apenas em favor dos regulados.",
       "a": "E"
     },
     {
       "n": 61,
-      "t": "O Sistema de Aviacao Civil Internacional inclui, alem da OACI, atores como Estados, autoridades de aviacao civil, organismos regionais e entidades da industria, com diferentes papeis e niveis de influencia. ( )",
+      "t": "Governança regulatória envolve práticas e processos para aumentar qualidade, transparência, participação e responsabilização nas decisões.",
       "a": "C"
     },
     {
       "n": 62,
-      "t": "A OACI emite SARPs, mas nao fiscaliza diretamente todas as companhias aereas do mundo; a responsabilidade primaria de cumprimento e supervisao e dos Estados. ( )",
-      "a": "C"
+      "t": "Governança regulatória se resume a publicar normas, sendo desnecessário monitorar resultados ou revisar regras.",
+      "a": "E"
     },
     {
       "n": 63,
-      "t": "O uso de diferencas (differences) permite ao Estado comunicar a OACI divergencias entre sua regulamentacao/pratica e os SARPs, preservando transparencia e harmonizacao possivel. ( )",
+      "t": "Instrumentos de participação social podem reduzir assimetria de informação sem transferir a decisão final para quem participa.",
       "a": "C"
     },
     {
       "n": 64,
-      "t": "A existencia de uma difference comunicada a OACI torna automaticamente ilegal qualquer operacao internacional envolvendo o Estado que a comunicou. ( )",
+      "t": "Consulta pública e audiência pública são sempre idênticas em formato, momento e finalidade, não havendo diferenças práticas.",
       "a": "E"
     },
     {
       "n": 65,
-      "t": "A Politica Nacional de Aviacao Civil (PNAC) tende a orientar principios e diretrizes do setor, enquanto planos e programas costumam detalhar metas, medidas e implementacao. ( )",
+      "t": "A AIR (Análise de Impacto Regulatório) tende a ser ferramenta ex ante, estruturando problema, objetivos e alternativas antes da decisão final.",
       "a": "C"
     },
     {
       "n": 66,
-      "t": "Em politica publica setorial, e comum haver articulacao entre objetivos economicos (conectividade, competitividade) e objetivos sociais (acesso, integracao territorial). ( )",
+      "t": "A ARR (Avaliação de Resultado Regulatório) é, em regra, ferramenta ex post, podendo subsidiar revisão, simplificação ou substituição de normas.",
       "a": "C"
     },
     {
       "n": 67,
-      "t": "A PNAC, por ser politica setorial, exclui completamente temas ambientais e de sustentabilidade. ( )",
+      "t": "Uma AIR bem feita dispensa qualquer estimativa de custos, pois basta apontar o objetivo desejado e publicar a norma.",
       "a": "E"
     },
     {
       "n": 68,
-      "t": "O transporte aereo pode ser instrumento de integracao nacional e desenvolvimento regional, mas enfrenta limitacoes como infraestrutura aeroportuaria, custo e elasticidade de demanda. ( )",
+      "t": "Definir indicadores desde o início pode facilitar monitoramento e a ARR, evitando improviso na mensuração de resultados.",
       "a": "C"
     },
     {
       "n": 69,
-      "t": "Na teoria regulatoria de interesse publico, a regulacao e vista como resposta a falhas de mercado, visando maximizar bem-estar social, embora na pratica haja limitacoes de informacao e implementacao. ( )",
+      "t": "Em avaliação regulatória, confundir correlação com causalidade pode levar a conclusões apressadas sobre efeitos de uma norma.",
       "a": "C"
     },
     {
       "n": 70,
-      "t": "Na teoria do interesse privado, a regulacao pode ser entendida como resultado de pressao e barganha de grupos organizados, podendo gerar beneficios concentrados e custos difusos. ( )",
-      "a": "C"
-    },
-    {
-      "n": 71,
-      "t": "A afirmacao toda regulacao e necessariamente boa para o consumidor e compativel com a visao de captura regulatoria. ( )",
+      "t": "A ARR é inútil em normas técnicas, pois técnicos sempre preveem perfeitamente os impactos e não erram em diagnóstico.",
       "a": "E"
     },
     {
-      "n": 72,
-      "t": "O conceito de mercado por regulacao associa-se a ideia de que grupos competem por regras e beneficios, e grupos mais organizados tendem a obter vantagens. ( )",
+      "n": 71,
+      "t": "A medicina aeronáutica está ligada à avaliação de aptidão psicofísica e ao controle de fatores humanos que afetam segurança operacional.",
       "a": "C"
     },
     {
+      "n": 72,
+      "t": "O Certificado Médico Aeronáutico (CMA) é irrelevante para segurança, pois não há relação entre condições de saúde e desempenho em voo.",
+      "a": "E"
+    },
+    {
       "n": 73,
-      "t": "Abordagens institucionalistas ajudam a explicar por que a mesma falha de mercado pode produzir respostas regulatorias distintas, dependendo do arranjo institucional, incentivos e rotinas do regulador. ( )",
+      "t": "O hipobarismo está associado à redução da pressão atmosférica em altitude e pode contribuir para fenômenos como hipóxia e expansão de gases.",
       "a": "C"
     },
     {
       "n": 74,
-      "t": "Dizer que institucionalismo ignora completamente interesses privados e publicos e uma generalizacao correta. ( )",
-      "a": "E"
+      "t": "A hipóxia hipobárica ocorre quando a pressão parcial de oxigênio diminui com a altitude, reduzindo disponibilidade de oxigênio nos tecidos.",
+      "a": "C"
     },
     {
       "n": 75,
-      "t": "Governanca regulatoria pode ser entendida como o conjunto de mecanismos de direcao, controle e prestacao de contas da regulacao, incluindo transparencia, participacao e avaliacao. ( )",
+      "t": "Hipóxia por estagnação relaciona-se, em geral, à redução do fluxo sanguíneo, podendo ocorrer em situações como forças G elevadas.",
       "a": "C"
     },
     {
       "n": 76,
-      "t": "Demanda por regulacao pode surgir de crises, falhas de mercado, pressao social e politica, enquanto oferta de regulacao depende de capacidade estatal, desenho institucional e instrumentos disponiveis. ( )",
-      "a": "C"
-    },
-    {
-      "n": 77,
-      "t": "A existencia de consulta publica e audiencias elimina o risco de captura, pois garante que todos os grupos tenham o mesmo poder de influencia. ( )",
+      "t": "Hipóxia histotóxica ocorre quando o oxigênio não chega aos pulmões por baixa pressão atmosférica, sendo resolvida apenas com descida imediata.",
       "a": "E"
     },
     {
+      "n": 77,
+      "t": "A barossinusite pode causar dor na testa ou ao redor do nariz por expansão/contração de gás aprisionado em seios paranasais, frequentemente percebida na descida e aproximação.",
+      "a": "C"
+    },
+    {
       "n": 78,
-      "t": "Instrumentos como AIR (analise de impacto regulatorio) e avaliacao ex post tendem a melhorar qualidade regulatoria ao explicitar problema, alternativas, custos, beneficios e riscos. ( )",
+      "t": "A barotite média é incompatível com variações de pressão, e seu risco aumenta quando a tuba auditiva não equaliza adequadamente a pressão.",
       "a": "C"
     },
     {
       "n": 79,
-      "t": "O principal-agente e relevante na governanca regulatoria: sociedade e governo (principal) delegam a agencia (agente), o que cria desafios de alinhamento, monitoramento e accountability. ( )",
+      "t": "A doença descompressiva pode envolver formação de bolhas, com sintomas que variam conforme local afetado, incluindo dor articular.",
       "a": "C"
     },
     {
       "n": 80,
-      "t": "A autonomia das agencias reguladoras implica ausencia de coordenacao com politicas governamentais amplas, sob pena de violar independencia. ( )",
+      "t": "A doença descompressiva é impossível em aviação civil, pois só ocorre em mergulho, nunca em operações em altitude.",
       "a": "E"
     },
     {
       "n": 81,
-      "t": "Em medicina aeronautica, hipoxia hipobarica ocorre por reducao da pressao parcial de oxigenio em altitude, podendo afetar julgamento e desempenho antes de sinais evidentes. ( )",
+      "t": "O sistema vestibular está associado ao labirinto na orelha interna, envolvendo estruturas como canais semicirculares, utrículo e sáculo.",
       "a": "C"
     },
     {
       "n": 82,
-      "t": "A hiperventilacao pode simular ou agravar sintomas de hipoxia; diferenciar ambas e relevante no manejo em voo. ( )",
-      "a": "C"
+      "t": "O sistema vestibular fica na orelha externa e, por isso, não é afetado por movimentos de cabeça e acelerações.",
+      "a": "E"
     },
     {
       "n": 83,
-      "t": "Intoxicacao por monoxido de carbono tende a piorar a capacidade de transporte de oxigenio no sangue e pode ser confundida com fadiga ou hipoxia. ( )",
+      "t": "Canais semicirculares estão ligados à detecção de aceleração angular, ao passo que utrículo e sáculo se relacionam à aceleração linear.",
       "a": "C"
     },
     {
       "n": 84,
-      "t": "O tempo de consciencia util (TUC) aumenta quanto maior a altitude, pois o corpo acelera a compensacao ventilatoria. ( )",
-      "a": "E"
+      "t": "Ilusões vestibulares podem levar a desorientação espacial, exigindo confiança nos instrumentos quando referências visuais são inadequadas.",
+      "a": "C"
     },
     {
       "n": 85,
-      "t": "A descompressao rapida pode causar barotrauma e aumentar risco de doenca descompressiva, sendo a descida e oxigenio medidas classicas de resposta operacional. ( )",
+      "t": "A chamada ilusão de ‘buraco negro’ está associada a aproximação noturna sem referências visuais adequadas, podendo induzir trajetória inadequada.",
       "a": "C"
     },
     {
       "n": 86,
-      "t": "A visao noturna depende fortemente de bastonetes; por isso, hipoxia e fumo podem degradar significativamente desempenho noturno. ( )",
-      "a": "C"
+      "t": "Em ambiente com boa visibilidade e referências visuais abundantes, ilusões visuais são impossíveis e não precisam ser consideradas.",
+      "a": "E"
     },
     {
       "n": 87,
-      "t": "A ilusao somatogravica pode levar o piloto a perceber atitude diferente da real durante aceleracao, aumentando risco de comando inadequado, especialmente sem referencia visual externa. ( )",
+      "t": "A desorientação espacial pode ocorrer mesmo em pilotos experientes, especialmente em condições IMC (condições meteorológicas por instrumentos) ou em noite escura.",
       "a": "C"
     },
     {
       "n": 88,
-      "t": "A ilusao coriolis ocorre quando movimentos de cabeca durante curva prolongada geram sensacao intensa de giro, podendo causar vertigem e desorientacao. ( )",
-      "a": "C"
+      "t": "A visão noturna depende apenas de cones, razão pela qual luz forte na cabine melhora a adaptação noturna para pouso em pista não iluminada.",
+      "a": "E"
     },
     {
       "n": 89,
-      "t": "Em aceleracao positiva (+Gz), o sangue tende a descer para membros inferiores, reduzindo perfusao cerebral; isso pode causar visao cinzenta, blackout e G-LOC. ( )",
+      "t": "Forças G positivas podem reduzir perfusão cerebral e contribuir para perda de consciência (G-LOC) em situações extremas, especialmente sem técnicas de proteção.",
       "a": "C"
     },
     {
       "n": 90,
-      "t": "A tolerancia a +Gz independe de condicionamento fisico e de tecnicas como manobra anti-G, pois e puramente genetica. ( )",
+      "t": "A fadiga é irrelevante na aviação, pois pilotos conseguem manter desempenho constante por tempo indefinido desde que motivados.",
       "a": "E"
     },
     {
       "n": 91,
-      "t": "Fadiga e risco relevante para desempenho humano e pode ser agravada por horario biologico, longas jornadas, carga de trabalho e privacao de sono. ( )",
+      "t": "Um programa de segurança operacional deve considerar fatores humanos, incluindo limitações fisiológicas e percepção, como parte da prevenção de acidentes.",
       "a": "C"
     },
     {
       "n": 92,
-      "t": "O jet lag resulta apenas de privacao de sono; mudancas de fuso horario nao interferem no ritmo circadiano. ( )",
-      "a": "E"
-    },
-    {
-      "n": 93,
-      "t": "Cinetose (enjoo por movimento) pode ser precipitada por conflitos sensoriais e tende a piorar a capacidade de executar tarefas e manter atencao. ( )",
+      "t": "Na gestão de riscos, confundir ‘perigo’ (hazard) com ‘risco’ é erro comum: risco envolve probabilidade e severidade associadas ao perigo.",
       "a": "C"
     },
     {
+      "n": 93,
+      "t": "Se um operador reporta poucos eventos, isso prova, necessariamente, que ele é mais seguro do que outro que reporta mais.",
+      "a": "E"
+    },
+    {
       "n": 94,
-      "t": "O uso de alcool, mesmo em pequenas quantidades, pode degradar desempenho, julgamento e visao noturna; alem disso, pode piorar hipoxia em altitude. ( )",
+      "t": "Uma cultura de reporte pode aumentar registros de ocorrência sem significar piora real, exigindo interpretação cuidadosa de indicadores.",
       "a": "C"
     },
     {
       "n": 95,
-      "t": "Medicamentos com efeito sedativo podem comprometer seguranca operacional; por isso, avaliacao de efeitos colaterais e orientacao aeromedica sao relevantes. ( )",
-      "a": "C"
+      "t": "No contexto de regulação, a participação social obriga o regulador a aceitar todas as contribuições recebidas, sob pena de nulidade automática do ato.",
+      "a": "E"
     },
     {
       "n": 96,
-      "t": "A avaliacao medica aeronautica se relaciona a riscos especificos do voo e nao se limita a check-up geral, considerando fatores como visao, audicao, cardiovascular, neurologico e saude mental. ( )",
+      "t": "A motivação de atos administrativos pode ser relevante para controle e transparência, inclusive quando há discricionariedade.",
       "a": "C"
     },
     {
       "n": 97,
-      "t": "A perda auditiva induzida por ruido e irreversivel em muitos casos; a prevencao envolve protecao, controle de exposicao e monitoramento. ( )",
-      "a": "C"
+      "t": "Discricionariedade administrativa significa liberdade total sem limites, sendo desnecessário observar proporcionalidade ou finalidade pública.",
+      "a": "E"
     },
     {
       "n": 98,
-      "t": "A hipotermia e o calor excessivo sao irrelevantes na aviacao, pois aeronaves sempre mantem temperatura padrao e constante para todos os perfis de voo. ( )",
-      "a": "E"
-    },
-    {
-      "n": 99,
-      "t": "Stress, ansiedade e fatores psicossociais podem influenciar atencao e tomada de decisao, e por isso aspectos psicologicos aparecem como parte do enfoque de medicina aeronautica. ( )",
+      "t": "Em decisões regulatórias, a clareza procedimental e a justificativa de escolhas podem reduzir judicialização e aumentar legitimidade, ainda que não eliminem controvérsias.",
       "a": "C"
     },
     {
-      "n": 100,
-      "t": "Dizer que instrumentos nunca devem prevalecer sobre sensacoes corporais e uma regra segura para evitar desorientacao espacial em voo IMC. ( ) GABARITO",
+      "n": 99,
+      "t": "O fato de uma decisão favorecer um administrado dispensa motivação e afasta qualquer dever de transparência.",
       "a": "E"
+    },
+    {
+      "n": 100,
+      "t": "Em governança regulatória, separar instrumento (meio) de objetivo (fim) evita confusão: por exemplo, consulta pública é meio; melhoria regulatória é fim. GABARITO",
+      "a": "C"
     }
   ],
   "extra 19-12": [
     {
       "n": 1,
-      "t": "A presença de poder de mercado pode justificar intervenção regulatória voltada a reduzir barreiras à entrada e aumentar a contestabilidade, sem que isso signifique “fixar preços” como única solução possível. ( )",
+      "t": "Em economia da regulação, falhas de mercado como poder de mercado, externalidades e assimetria de informação são justificativas clássicas para intervenção estatal.",
       "a": "C"
     },
     {
       "n": 2,
-      "t": "Se há poucas empresas, então sempre existe monopólio natural, e a regulação econômica deve necessariamente impor tarifa administrada em todas as rotas. ( )",
+      "t": "A simples existência de falha de mercado prova que qualquer regulação será eficiente e aumentará o bem-estar social, independentemente do desenho institucional.",
       "a": "E"
     },
     {
       "n": 3,
-      "t": "A existência de slots escassos pode se tornar barreira à entrada, e a forma de alocação desses slots afeta competição e eficiência do mercado. ( )",
+      "t": "Falhas de governo podem ocorrer quando a intervenção gera incentivos ruins, aumenta custos de conformidade de forma desproporcional ou é capturada por interesses privados.",
       "a": "C"
     },
     {
       "n": 4,
-      "t": "Em mercados contestáveis, o simples fato de haver poucas empresas é suficiente para concluir, com certeza, que a competição é inexistente. ( )",
+      "t": "Captura regulatória é impossível em processos com consulta pública, pois a participação social elimina totalmente assimetrias de poder e informação.",
       "a": "E"
     },
     {
       "n": 5,
-      "t": "Uma política que aumente transparência de tarifas e regras de remarcação pode atuar sobre assimetrias informacionais, mesmo sem mexer diretamente na estrutura de mercado. ( )",
+      "t": "Em mercados com barreiras à entrada e slots escassos, o desenho de mecanismos de alocação pode afetar competição e contestabilidade.",
       "a": "C"
     },
     {
       "n": 6,
-      "t": "Se o regulador adotar qualquer intervenção, elimina-se por completo o risco de falha de governo. ( ) TEXTO BASE 2 Em determinada rota, uma empresa usa gerenciamento de receitas (yield management), ofertando diferentes tarifas para assentos equivalentes. Passageiros percebem que pagam valores diferentes pelo mesmo voo.",
+      "t": "Se um setor apresenta poucos ofertantes, então é necessariamente monopólio natural e a única solução é tarifa administrada em todos os serviços.",
       "a": "E"
     },
     {
       "n": 7,
-      "t": "A discriminação de preços por diferentes perfis de demanda pode ocorrer mesmo quando o serviço é essencialmente o mesmo, sem que isso seja, por si só, ilegal ou anticompetitivo. ( )",
+      "t": "A regulação econômica pode buscar eficiência e também objetivos distributivos, mas confundir bem-estar social com “bem-estar do mercado” pode distorcer o enunciado.",
       "a": "C"
     },
     {
       "n": 8,
-      "t": "Se dois passageiros pagam preços diferentes pelo mesmo assento, isso prova, necessariamente, que houve prática abusiva e ilícita. ( )",
+      "t": "A discriminação de preços é sempre ilegal e anticompetitiva, pois viola a isonomia do consumidor e reduz necessariamente o excedente total.",
       "a": "E"
     },
     {
       "n": 9,
-      "t": "A elasticidade-preço tende a diferir entre passageiros a lazer e a negócios, o que ajuda a explicar práticas de precificação diferenciada. ( )",
+      "t": "Em transporte aéreo, custos fixos relevantes e capacidade limitada podem incentivar estratégias de gerenciamento de receitas (yield management).",
       "a": "C"
     },
     {
       "n": 10,
-      "t": "A existência de custos fixos relevantes e capacidade limitada pode incentivar políticas de preço que busquem maximizar receita por voo. ( )",
-      "a": "C"
-    },
-    {
-      "n": 11,
-      "t": "A discriminação de preços é incompatível com qualquer noção de bem-estar social, pois sempre reduz o excedente do consumidor. ( )",
+      "t": "Se há gerenciamento de receita, então a empresa não tem custos e sempre reduz preço médio para todos os consumidores.",
       "a": "E"
     },
     {
-      "n": 12,
-      "t": "A regulação econômica pode avaliar efeitos concorrenciais e distributivos de práticas tarifárias sem confundir, automaticamente, preço alto com infração. ( ) TEXTO BASE 3 Uma autoridade pretende intervir em um setor alegando falhas de mercado, mas recebe críticas de que a intervenção pode gerar custos, distorções e incentivos ruins.",
+      "n": 11,
+      "t": "No direito administrativo, legalidade não se confunde com legitimidade: condutas formalmente legais podem ser questionadas por finalidade, proporcionalidade ou motivação.",
       "a": "C"
     },
     {
+      "n": 12,
+      "t": "Discricionariedade administrativa equivale a liberdade total para decidir sem critérios, bastando a vontade da autoridade competente.",
+      "a": "E"
+    },
+    {
       "n": 13,
-      "t": "Falhas de mercado incluem, entre outras, poder de mercado, externalidades e assimetrias informacionais, podendo justificar intervenção estatal. ( )",
+      "t": "Mesmo em decisões discricionárias, persistem limites como finalidade pública, razoabilidade e proporcionalidade, além de exigência de motivação em muitos casos.",
       "a": "C"
     },
     {
       "n": 14,
-      "t": "Falhas de governo podem ocorrer quando a intervenção cria incentivos inadequados, aumenta custos de conformidade ou é capturada por interesses privados. ( )",
-      "a": "C"
+      "t": "A motivação do ato é irrelevante porque o mérito administrativo nunca pode ser controlado, ainda que haja omissão total de razões.",
+      "a": "E"
     },
     {
       "n": 15,
-      "t": "A simples existência de falhas de mercado garante que toda intervenção será eficiente e superior ao arranjo anterior. ( )",
+      "t": "Devido processo, contraditório e ampla defesa são irrelevantes para a atuação regulatória, pois a agência decide com base exclusivamente técnica.",
       "a": "E"
     },
     {
       "n": 16,
-      "t": "A análise regulatória madura considera custos e benefícios esperados, incluindo riscos de efeitos não pretendidos. ( )",
+      "t": "A atuação regulatória pode envolver poder normativo, poder de polícia e poder sancionador, cada qual com controles e procedimentos próprios.",
       "a": "C"
     },
     {
       "n": 17,
-      "t": "Captura regulatória é impossível quando há participação social, pois a consulta pública elimina assimetrias de poder entre os atores. ( )",
+      "t": "O princípio da segurança jurídica se opõe à transparência; portanto, aumentar previsibilidade exige reduzir divulgação de critérios e decisões.",
       "a": "E"
     },
     {
       "n": 18,
-      "t": "A regulação pode buscar objetivos econômicos e jurídicos, e confundir “bem-estar social” com “bem-estar do mercado” pode distorcer o diagnóstico. ( ) TEXTO BASE 4 No processo de edição de um regulamento, a equipe técnica compara alternativas, estima custos, identifica riscos e define indicadores para acompanhar resultados ao longo do tempo.",
+      "t": "A padronização de critérios pode reduzir variabilidade na fiscalização e aumentar previsibilidade para regulados, sem eliminar julgamento técnico.",
       "a": "C"
     },
     {
       "n": 19,
-      "t": "A análise ex ante (AIR) tende a estruturar o problema, objetivos e alternativas, incluindo estimativas de impactos antes da decisão final. ( )",
-      "a": "C"
-    },
-    {
-      "n": 20,
-      "t": "A avaliação ex post (ARR) é, em regra, incompatível com gestão por desempenho, pois ocorre somente quando a norma já foi revogada. ( )",
+      "t": "Se há padronização, a atividade fiscalizatória vira automática e dispensa análise de evidências e contexto do regulado.",
       "a": "E"
     },
     {
+      "n": 20,
+      "t": "A proporcionalidade exige adequação do meio ao fim, necessidade (menor restrição) e proporcionalidade em sentido estrito (balanceamento).",
+      "a": "C"
+    },
+    {
       "n": 21,
-      "t": "Definir indicadores desde o início pode facilitar monitoramento e avaliação posterior, reduzindo improviso na ARR. ( )",
+      "t": "Ferramentas regulatórias podem incluir comando e controle, incentivos econômicos, informação/transparência, autorregulação supervisionada e mecanismos consensuais.",
       "a": "C"
     },
     {
       "n": 22,
-      "t": "Se uma alternativa é tecnicamente desejável, a AIR dispensa análise de custos e de viabilidade de implementação. ( )",
+      "t": "Comando e controle é sempre superior a instrumentos por incentivos, pois garante obediência perfeita mesmo quando a detecção é improvável.",
       "a": "E"
     },
     {
       "n": 23,
-      "t": "A ARR pode verificar se os objetivos foram atingidos e se efeitos colaterais superaram benefícios esperados. ( )",
+      "t": "A escolha de instrumento depende de fatores como comportamento do regulado, capacidade de monitoramento, custos de enforcement e natureza do risco.",
       "a": "C"
     },
     {
       "n": 24,
-      "t": "Uma ARR bem feita sempre conclui que a norma deve ser mantida, porque sua existência já prova necessidade regulatória. ( ) TEXTO BASE 5 Na construção da agenda regulatória, há pressão para “resolver rápido” um problema. Um gestor afirma que participação social atrasa e deve ser evitada, mantendo o processo apenas interno.",
-      "a": "E"
+      "t": "Um desenho apenas punitivo pode falhar quando a probabilidade de detecção é baixa e as sanções são tardias, reduzindo dissuasão.",
+      "a": "C"
     },
     {
       "n": 25,
-      "t": "Mecanismos de participação social podem aprimorar qualidade da decisão ao revelar informações práticas do setor e do usuário, sem transferir a competência decisória para os participantes. ( )",
-      "a": "C"
+      "t": "Autorregulação significa ausência do Estado e, portanto, elimina qualquer forma de accountability ou supervisão.",
+      "a": "E"
     },
     {
       "n": 26,
-      "t": "Consulta pública e audiência pública são instrumentos equivalentes em finalidade e formato, ocorrendo sempre da mesma maneira. ( )",
-      "a": "E"
+      "t": "Regulação responsiva combina persuasão, orientação e escalonamento de sanções, ajustando a resposta ao comportamento e à gravidade.",
+      "a": "C"
     },
     {
       "n": 27,
-      "t": "A participação social não elimina decisão técnica, mas pode reduzir assimetria de informação entre regulador e regulados. ( )",
-      "a": "C"
+      "t": "Ferramentas de compliance e orientação são incompatíveis com poder sancionador, pois um regulador deve escolher apenas um caminho.",
+      "a": "E"
     },
     {
       "n": 28,
-      "t": "Evitar participação social tende a reduzir risco de judicialização, porque decisões fechadas são menos contestadas. ( )",
-      "a": "E"
-    },
-    {
-      "n": 29,
-      "t": "Tomada de subsídios pode ser útil em fase inicial para mapear alternativas e impactos antes de uma minuta final. ( )",
+      "t": "Em regulação por desempenho, a definição de indicadores verificáveis é crítica para evitar cumprimento apenas formal.",
       "a": "C"
     },
     {
-      "n": 30,
-      "t": "O regulador deve aceitar todas as contribuições recebidas, sob pena de nulidade automática do ato. ( ) TEXTO BASE 6 Uma unidade reguladora discute instrumentos: comando e controle, incentivos econômicos, autorregulação, monitoramento, sanções graduais e acordos de conformidade.",
+      "n": 29,
+      "t": "A simples publicação de uma norma, por si só, garante conformidade, tornando desnecessária fiscalização e monitoramento.",
       "a": "E"
     },
     {
+      "n": 30,
+      "t": "Confundir instrumento (meio) com objetivo (fim) é pegadinha comum: consulta pública é meio; melhoria de resultados é fim.",
+      "a": "C"
+    },
+    {
       "n": 31,
-      "t": "A escolha de instrumento regulatório pode depender do comportamento esperado do regulado, capacidade de fiscalização e custos de monitoramento. ( )",
+      "t": "A AIR (Análise de Impacto Regulatório) é ferramenta ex ante que estrutura problema, objetivos, alternativas e impactos antes da decisão final.",
       "a": "C"
     },
     {
       "n": 32,
-      "t": "Comando e controle é sempre superior a instrumentos baseados em incentivos, pois garante obediência perfeita. ( )",
+      "t": "AIR serve apenas para justificar uma decisão já tomada; portanto, alternativas não precisam ser analisadas.",
       "a": "E"
     },
     {
       "n": 33,
-      "t": "Regulação responsiva busca combinar persuasão e escalonamento de sanções, ajustando o enforcement à conduta do regulado. ( )",
+      "t": "Uma AIR robusta tende a comparar alternativas, incluindo custos de conformidade, efeitos sobre diferentes tipos de regulados e viabilidade de implementação.",
       "a": "C"
     },
     {
       "n": 34,
-      "t": "Um desenho “puramente punitivo” pode falhar quando a probabilidade de detecção é baixa e a punição não é tempestiva. ( )",
-      "a": "C"
-    },
-    {
-      "n": 35,
-      "t": "Autorregulação nunca é admissível em setores complexos, pois necessariamente substitui o Estado e elimina accountability. ( )",
+      "t": "Se uma alternativa é tecnicamente desejável, a AIR dispensa avaliação de custos e de capacidade de fiscalização, pois segurança sempre justifica qualquer custo.",
       "a": "E"
     },
     {
-      "n": 36,
-      "t": "Confundir “meio” (instrumento) com “fim” (objetivo regulatório) é pegadinha comum e pode tornar um item incorreto. ( ) TEXTO BASE 7 Em um processo administrativo, um servidor afirma: “Se a decisão é discricionária, não precisa ser motivada; basta a assinatura da autoridade”.",
+      "n": 35,
+      "t": "A ARR (Avaliação de Resultado Regulatório) é ferramenta ex post que pode apoiar revisão, simplificação, manutenção ou substituição de normas.",
       "a": "C"
     },
     {
+      "n": 36,
+      "t": "ARR só faz sentido quando a norma foi revogada; logo, não pode ser usada para corrigir norma vigente.",
+      "a": "E"
+    },
+    {
       "n": 37,
-      "t": "A motivação é elemento relevante para controle e transparência, inclusive quando há margem de discricionariedade administrativa. ( )",
+      "t": "Definir indicadores e linha de base desde o início facilita monitoramento e ARR, reduzindo improviso e ambiguidades na avaliação.",
       "a": "C"
     },
     {
       "n": 38,
-      "t": "Discricionariedade significa liberdade total para decidir sem critérios, desde que a autoridade queira. ( )",
+      "t": "Em avaliação, correlação entre dois fenômenos prova causalidade e dispensa análise de fatores de confusão.",
       "a": "E"
     },
     {
       "n": 39,
-      "t": "Mesmo quando há discricionariedade, persistem limites como legalidade, finalidade e proporcionalidade. ( )",
+      "t": "A participação social pode ocorrer em fases distintas (por exemplo, tomada de subsídios e consulta pública), com finalidades diferentes.",
       "a": "C"
     },
     {
       "n": 40,
-      "t": "A ausência de motivação jamais gera problema jurídico, pois o mérito administrativo não pode ser controlado. ( )",
+      "t": "Toda contribuição recebida em participação social deve ser integralmente aceita, sob pena de nulidade automática do ato.",
       "a": "E"
     },
     {
       "n": 41,
-      "t": "No direito administrativo contemporâneo, cresce a exigência de justificar escolhas, inclusive por participação e racionalidade procedimental. ( )",
+      "t": "Participação social pode reduzir assimetria de informação entre regulador e regulados/usuários, sem transferir competência decisória.",
       "a": "C"
     },
     {
       "n": 42,
-      "t": "A motivação é dispensável sempre que a decisão favoreça o administrado. ( ) TEXTO BASE 8 Uma diretoria decide editar norma técnica de alto impacto. Parte do setor pede que a agência “negocie” a exigência, substituindo obrigação por compromisso de melhoria gradual.",
+      "t": "Audiência pública e consulta pública são sempre idênticas em formato e objetivo, sendo apenas nomes diferentes para o mesmo procedimento.",
       "a": "E"
     },
     {
       "n": 43,
-      "t": "Instrumentos consensuais podem existir, mas não podem suprimir competências nem afastar requisitos essenciais quando a segurança exigir padrão mínimo. ( )",
+      "t": "Transparência e prestação de contas são elementos de governança regulatória que tendem a aumentar legitimidade e reduzir arbitrariedade.",
       "a": "C"
     },
     {
       "n": 44,
-      "t": "Se a agência optar por compromisso voluntário, então não haverá mais dever de fiscalização, pois a autorregulação resolve o problema. ( )",
+      "t": "Governança regulatória se resume à publicação de normas; monitoramento, revisão e avaliação são dispensáveis.",
       "a": "E"
     },
     {
       "n": 45,
-      "t": "Exigências graduais podem ser compatíveis com gestão por risco, desde que metas e monitoramento sejam verificáveis. ( )",
+      "t": "A agenda regulatória pode ser instrumento de planejamento e previsibilidade, mas não substitui a necessidade de análise de impacto quando aplicável.",
       "a": "C"
     },
     {
       "n": 46,
-      "t": "A adoção de abordagem por desempenho pode exigir indicadores e mecanismos de verificação para evitar “cumprimento de fachada”. ( )",
-      "a": "C"
-    },
-    {
-      "n": 47,
-      "t": "Negociar requisitos significa necessariamente captura, pois qualquer diálogo com regulado é proibido em governança regulatória. ( )",
+      "t": "Se um tema é urgente, participação social deve ser sempre suprimida, pois nunca agrega informações úteis ao regulador.",
       "a": "E"
     },
     {
-      "n": 48,
-      "t": "Uma ARR pode reavaliar, após implantação, se a alternativa consensual atingiu o objetivo com menor custo e sem piora de segurança. ( ) TEXTO BASE 9 Na fiscalização baseada em risco, a equipe quer priorizar ações em operadores com pior histórico, maior exposição e menor maturidade de gestão da segurança.",
+      "n": 47,
+      "t": "A integração entre planejamento, processos, indicadores e revisão contínua é compatível com abordagem de melhoria regulatória.",
       "a": "C"
     },
     {
+      "n": 48,
+      "t": "Normas claras e estáveis eliminam completamente o risco de judicialização, tornando desnecessária motivação das decisões.",
+      "a": "E"
+    },
+    {
       "n": 49,
-      "t": "Fiscalização baseada em risco tende a usar informação para direcionar recursos escassos a onde o risco residual é maior. ( )",
+      "t": "A governança pode incluir gestão de estoques regulatórios (revisar, simplificar, revogar normas obsoletas) para reduzir custo regulatório.",
       "a": "C"
     },
     {
       "n": 50,
-      "t": "Uma fiscalização baseada em risco dispensa totalmente o cumprimento de requisitos prescritivos, pois só importa resultado final. ( )",
+      "t": "Revisão regulatória é incompatível com segurança operacional, pois revisar normas sempre reduz padrões de segurança.",
       "a": "E"
     },
     {
       "n": 51,
-      "t": "Indicadores de desempenho de segurança podem apoiar planejamento, mas precisam ser interpretados com cautela para evitar decisões enviesadas. ( )",
+      "t": "No modelo de gestão regulatória, o ciclo pode envolver planejamento, certificação/autorizações, fiscalização/supervisão, enforcement e melhoria contínua.",
       "a": "C"
     },
     {
       "n": 52,
-      "t": "A maturidade do SGSO (Sistema de Gerenciamento da Segurança Operacional) pode influenciar o nível de confiança e a intensidade de supervisão. ( )",
-      "a": "C"
-    },
-    {
-      "n": 53,
-      "t": "Se um operador tem poucos eventos reportados, isso prova, necessariamente, que ele é mais seguro. ( )",
+      "t": "Certificação e fiscalização são a mesma atividade: ambas se limitam a aplicar sanções quando há descumprimento.",
       "a": "E"
     },
     {
-      "n": 54,
-      "t": "Na gestão por risco, confundir “risco” com “perigo” (hazard) pode levar a itens incorretos: risco envolve probabilidade e severidade. ( ) TEXTO BASE 10 Um fiscal encontra evidências de não conformidade grave e avalia medidas imediatas para reduzir risco enquanto o processo sancionador ainda tramita.",
+      "n": 53,
+      "t": "A atuação baseada em risco busca priorizar recursos escassos onde o risco residual é maior, considerando exposição, severidade e histórico.",
       "a": "C"
     },
     {
+      "n": 54,
+      "t": "Fiscalização baseada em risco elimina a necessidade de verificar requisitos; basta observar se não houve acidentes no período.",
+      "a": "E"
+    },
+    {
       "n": 55,
-      "t": "Medidas acautelatórias podem ser usadas para mitigar risco imediato, independentemente da conclusão final do processo punitivo, desde que observados fundamentos e devido processo. ( )",
+      "t": "Indicadores de segurança podem ser úteis para priorização, mas exigem interpretação cuidadosa para evitar vieses e incentivos perversos.",
       "a": "C"
     },
     {
       "n": 56,
-      "t": "Se uma medida é cautelar, então ela é sempre punitiva e pressupõe decisão definitiva sobre culpa. ( )",
+      "t": "Poucos relatos de ocorrência provam, necessariamente, que um regulado é mais seguro, pois reportar é sinal de insegurança.",
       "a": "E"
     },
     {
       "n": 57,
-      "t": "A lógica de tempestividade sugere que punição tardia pode ter menor efeito dissuasório, mesmo que a multa seja alta. ( )",
+      "t": "Maturidade de sistemas de gestão (por exemplo, SGSO) pode influenciar nível de confiança e intensidade de supervisão, sem eliminar responsabilidade do regulador.",
       "a": "C"
     },
     {
       "n": 58,
-      "t": "A adoção de orientação e correção pode coexistir com enforcement, e não significa “renúncia” automática à responsabilização. ( )",
-      "a": "C"
-    },
-    {
-      "n": 59,
-      "t": "Ao aplicar medidas, o fiscal pode ignorar proporcionalidade, pois segurança operacional justifica qualquer meio. ( )",
+      "t": "Se um operador tem SGSO, o regulador deve suspender totalmente a fiscalização, pois a segurança já está garantida internamente.",
       "a": "E"
     },
     {
-      "n": 60,
-      "t": "A escolha entre orientação, correção, cautelar e sanção deve considerar gravidade, risco, recorrência e comportamento do regulado. ( ) TEXTO BASE 11 Em um aeroporto congestionado, há discussão sobre política de slots e sobre como ampliar eficiência sem degradar competição.",
+      "n": 59,
+      "t": "A fiscalização pode combinar verificação documental, inspeções in loco, entrevistas e amostragem, dependendo do tipo de risco e do requisito.",
       "a": "C"
     },
     {
+      "n": 60,
+      "t": "Fiscalização eficaz depende apenas de punição máxima; orientação e correção reduzem conformidade e devem ser evitadas.",
+      "a": "E"
+    },
+    {
       "n": 61,
-      "t": "Uma alocação de slots que favoreça incumbentes pode reforçar barreiras à entrada e reduzir contestabilidade. ( )",
+      "t": "Medidas acautelatórias podem ser usadas para mitigar risco imediato antes da conclusão do processo sancionador, desde que fundamentadas e observados ritos.",
       "a": "C"
     },
     {
       "n": 62,
-      "t": "Se a infraestrutura é escassa, a única solução possível é construir um novo aeroporto; políticas de gestão da capacidade não têm efeito. ( )",
+      "t": "Medida cautelar é sempre punitiva e pressupõe decisão definitiva sobre culpa, não podendo ser aplicada antes do julgamento.",
       "a": "E"
     },
     {
       "n": 63,
-      "t": "Medidas de eficiência operacional e coordenação podem aumentar capacidade efetiva sem expansão física imediata, dependendo do contexto. ( )",
+      "t": "Tempestividade pode importar tanto quanto severidade: sanção tardia tende a reduzir efeito dissuasório e aprendizado do sistema.",
       "a": "C"
     },
     {
       "n": 64,
-      "t": "Ao tratar de infraestrutura, confundir “capacidade declarada” com “capacidade efetivamente utilizada” pode gerar erro de interpretação. ( )",
-      "a": "C"
+      "t": "Proporcionalidade permite escolher qualquer meio para alcançar segurança, inclusive medidas desnecessárias, desde que bem-intencionadas.",
+      "a": "E"
     },
     {
       "n": 65,
-      "t": "Incentivos regulatórios podem ser desenhados para alinhar decisões do operador com objetivos públicos, evitando soluções puramente coercitivas. ( )",
+      "t": "A dosimetria de sanção pode considerar gravidade, risco, reincidência e cooperação, reduzindo arbitrariedade e aumentando coerência.",
       "a": "C"
     },
     {
       "n": 66,
-      "t": "Incentivos regulatórios jamais devem ser usados em infraestrutura, pois só cabem em mercados competitivos. ( ) TEXTO BASE 12 Um servidor afirma: “RBAC é sempre mais detalhado do que IS e, por isso, só o RBAC serve como base para fiscalização”.",
-      "a": "E"
-    },
-    {
-      "n": 67,
-      "t": "Regulamentos (RBAC) e instrumentos complementares podem ter papéis distintos, e confundir hierarquia/escopo pode ser pegadinha. ( )",
+      "t": "Coerência no enforcement tende a aumentar legitimidade percebida e induzir conformidade, pois reduz imprevisibilidade para regulados.",
       "a": "C"
     },
     {
-      "n": 68,
-      "t": "É correto afirmar que somente o RBAC, isoladamente, é suficiente para orientar toda a fiscalização, dispensando orientações e material suplementar. ( )",
+      "n": 67,
+      "t": "A existência de mecanismo de recurso e revisão administrativa é irrelevante, pois decisões regulatórias devem ser finais e irrecorríveis.",
       "a": "E"
     },
     {
+      "n": 68,
+      "t": "A combinação entre orientação, correção e sanção pode ser desenhada de modo escalonado, sem significar renúncia automática à responsabilização.",
+      "a": "C"
+    },
+    {
       "n": 69,
-      "t": "A fiscalização normalmente se baseia em requisitos aplicáveis e também em evidências objetivas do sistema do regulado (manuais, programas, registros). ( )",
+      "t": "Em gestão por risco, confundir perigo (hazard) com risco é erro: risco envolve probabilidade e severidade associadas ao perigo.",
       "a": "C"
     },
     {
       "n": 70,
-      "t": "Em processos de certificação, requisitos e meios de comprovação podem envolver demonstrações, inspeções, análises e testes, conforme a natureza do item. ( )",
-      "a": "C"
+      "t": "Se um risco é baixo, o regulador deve ignorá-lo totalmente e nunca monitorá-lo, pois apenas riscos altos merecem atenção.",
+      "a": "E"
     },
     {
       "n": 71,
-      "t": "A padronização de critérios pode reduzir variabilidade entre equipes e reforçar previsibilidade regulatória. ( )",
+      "t": "Em incentivos regulatórios, é possível alinhar comportamento do regulado a objetivos públicos por recompensas e sinalizações, sem depender apenas de sanção.",
       "a": "C"
     },
     {
       "n": 72,
-      "t": "Se há padronização, então não existe necessidade de julgamento técnico, pois a fiscalização vira atividade automática. ( ) TEXTO BASE 13 Uma proposta normativa é criticada por impor alto custo para pequeno ganho de segurança, enquanto outra alternativa tem menor custo e ganho semelhante.",
+      "t": "Incentivos regulatórios são sempre subsídios financeiros diretos; mecanismos reputacionais ou métricas de desempenho não são incentivos.",
       "a": "E"
     },
     {
       "n": 73,
-      "t": "Uma AIR bem estruturada tende a comparar alternativas e seus trade-offs, inclusive custos de conformidade e impactos sobre diferentes perfis de regulados. ( )",
+      "t": "Em AIR/ARR, a escolha de indicadores deve evitar métricas facilmente “gameáveis”, pois isso pode induzir cumprimento de fachada.",
       "a": "C"
     },
     {
       "n": 74,
-      "t": "Se uma alternativa é “mais barata”, ela é necessariamente melhor e deve ser escolhida, mesmo que reduza segurança. ( )",
-      "a": "E"
-    },
-    {
-      "n": 75,
-      "t": "Em economia da regulação, pode haver trade-off entre eficiência, equidade e objetivos de segurança, exigindo decisões justificadas. ( )",
+      "t": "Uma avaliação ex post pode concluir pela manutenção da norma, por ajustes pontuais ou por revogação, conforme evidências e objetivos. GABARITO",
       "a": "C"
-    },
-    {
-      "n": 76,
-      "t": "A análise pode considerar custos de implementação e de fiscalização; ignorá-los pode inviabilizar a política na prática. ( )",
-      "a": "C"
-    },
-    {
-      "n": 77,
-      "t": "Quando há incerteza, o uso de cenários e sensibilidade pode tornar a análise mais honesta e menos “certeira” do que a realidade permite. ( )",
-      "a": "C"
-    },
-    {
-      "n": 78,
-      "t": "Incerteza é irrelevante em regulação, pois o regulador sempre conhece o resultado final antes de implementar. ( ) TEXTO BASE 14 Após alguns anos, percebe-se que uma norma gerou efeitos colaterais: deslocou o problema para outro ponto do sistema e aumentou custos para usuários sem ganhos proporcionais.",
-      "a": "E"
-    },
-    {
-      "n": 79,
-      "t": "ARR pode identificar efeitos não pretendidos e subsidiar revisão, simplificação ou substituição da norma, mantendo o foco no objetivo público. ( )",
-      "a": "C"
-    },
-    {
-      "n": 80,
-      "t": "Se uma norma tem efeitos colaterais, então ela deve ser imediatamente anulada, pois qualquer efeito não previsto torna o ato inválido. ( )",
-      "a": "E"
-    },
-    {
-      "n": 81,
-      "t": "Revisão regulatória pode incluir ajustar requisitos, melhorar clareza, reduzir burocracia e aumentar efetividade do enforcement. ( )",
-      "a": "C"
-    },
-    {
-      "n": 82,
-      "t": "A existência de indicadores ruins pode refletir tanto piora real quanto melhoria de reporte; interpretar dados exige cuidado metodológico. ( )",
-      "a": "C"
-    },
-    {
-      "n": 83,
-      "t": "A ARR é inútil quando a norma é técnica, pois técnicos não erram em previsão de impactos. ( )",
-      "a": "E"
-    },
-    {
-      "n": 84,
-      "t": "Em avaliação, confundir “correlação” com “causalidade” pode gerar conclusões apressadas e itens incorretos. ( ) TEXTO BASE 15 Em uma auditoria interna, identifica-se que certas punições são aplicadas de forma tardia e desigual. O órgão quer fortalecer governança e coerência de atuação.",
-      "a": "C"
-    },
-    {
-      "n": 85,
-      "t": "Coerência e previsibilidade no enforcement tendem a aumentar percepção de legitimidade e a capacidade de induzir conformidade. ( )",
-      "a": "C"
-    },
-    {
-      "n": 86,
-      "t": "Tempestividade pode importar tanto quanto severidade, pois sanção tardia reduz capacidade de dissuasão e aprendizado do sistema. ( )",
-      "a": "C"
-    },
-    {
-      "n": 87,
-      "t": "A dosimetria da sanção pode considerar gravidade, risco, reincidência e cooperação, evitando tratamento arbitrário. ( )",
-      "a": "C"
-    },
-    {
-      "n": 88,
-      "t": "Se existe poder sancionador, então não há espaço para orientação ou medidas preventivas, sob pena de “fraqueza” regulatória. ( )",
-      "a": "E"
-    },
-    {
-      "n": 89,
-      "t": "Governança regulatória inclui planejamento, participação, monitoramento e melhoria contínua, e não apenas publicar normas. ( )",
-      "a": "C"
-    },
-    {
-      "n": 90,
-      "t": "Para reduzir variabilidade, basta elevar todas as multas ao máximo, pois isso automaticamente melhora segurança operacional. ( ) GABARITO",
-      "a": "E"
     }
   ],
   "extra 22-12": [
     {
       "n": 1,
-      "t": "Na Ação Fiscal, por se tratar de fiscalização mais rigorosa, geralmente iniciada por denúncias ou informações de inteligência, as providências preventivas não são, em regra, as mais adequadas, sendo a cautelar e a sancionatória as mais aplicáveis. ( )",
+      "t": "A produção sob Certificado de Tipo (Subparte F) pode ocorrer sem COP inicialmente, mas há exigência de obtenção do COP em prazo definido pelo regulamento aplicável.",
       "a": "C"
     },
     {
       "n": 2,
-      "t": "Em Ação Fiscal, a hierarquia de providências impõe que a ANAC aplique primeiro medidas preventivas, mesmo quando há infrações de maior gravidade, sob pena de nulidade do ato. ( )",
-      "a": "E"
-    },
-    {
-      "n": 3,
-      "t": "As medidas cautelares, como detenção, interdição, suspensão e apreensão, são aplicadas quando há risco iminente à segurança de voo, à integridade física de pessoas, à coletividade, à ordem pública, à continuidade dos serviços prestados ou ao interesse público. ( )",
+      "t": "O RAB também guarda documentos técnicos, como o Export Certificate of Airworthiness, além de emitir certificados nacionais correlatos.",
       "a": "C"
     },
     {
-      "n": 4,
-      "t": "Na aplicação de medida cautelar, como suspensão das atividades, o acautelado somente poderá voltar a exercer a atividade após o julgamento do processo administrativo sancionador pela autoridade competente. ( )",
+      "n": 3,
+      "t": "Em Ação Fiscal, basta a convicção do agente: a formalização em autos e relatórios é facultativa, desde que a medida seja proporcional.",
       "a": "E"
     },
     {
+      "n": 4,
+      "t": "O detentor de COP deve manter o sistema da qualidade conforme dados e procedimentos aprovados e fornecer atualizações quando requerido.",
+      "a": "C"
+    },
+    {
       "n": 5,
-      "t": "O procedimento para aplicação de medida cautelar inclui a emissão de Auto de Medida Acautelatória, sua geração no Sistema de Medidas Administrativas (SMA) e a autuação de processo no Sistema Eletrônico de Informações (SEI). ( )",
+      "t": "Se a vigilância continuada apontar queda de capacidade técnica do credenciado, o credenciamento pode ser revisto.",
       "a": "C"
     },
     {
       "n": 6,
-      "t": "Após a notificação do acautelado, a análise do cumprimento das condições resolutivas pode levar à revogação da medida cautelar, mesmo antes do julgamento de eventual processo sancionador. ( )",
-      "a": "C"
-    },
-    {
-      "n": 7,
-      "t": "O Termo de Cessação de Conduta (TCC) representa compromisso de cessar a prática irregular e não repeti-la, mas sua apresentação suspende a tramitação do processo administrativo em curso e implica confissão dos fatos. ( )",
+      "t": "O COP pode ser transferido para outra empresa por simples adendo, desde que o projeto aprovado permaneça o mesmo.",
       "a": "E"
     },
     {
+      "n": 7,
+      "t": "Aeronavegabilidade envolve conformidade com o projeto aprovado e condição segura para operação, sendo central tanto na certificação inicial quanto na continuada.",
+      "a": "C"
+    },
+    {
       "n": 8,
-      "t": "O descumprimento do TCC pode resultar em novas medidas acautelatórias e na abertura de Processo Administrativo Sancionador (PAS), com possibilidade de cassação ou suspensão punitiva. ( )",
+      "t": "O RAB exerce função cartorial sui generis ao constituir propriedade e garantias reais sobre aeronaves, além de emitir certificados técnicos.",
       "a": "C"
     },
     {
       "n": 9,
-      "t": "No processo sancionador, o Auto de Infração formaliza a constatação da infração, descrevendo fatos e normas infringidas, e serve para instaurar o PAS. ( )",
-      "a": "C"
+      "t": "Se a aeronave cumpre o projeto de tipo, a ANAC não pode exigir qualquer evidência adicional ou inspeção antes de emitir o CA, em nenhuma hipótese.",
+      "a": "E"
     },
     {
       "n": 10,
-      "t": "No âmbito das sanções administrativas aplicáveis pela ANAC, multa, suspensão punitiva e cassação são medidas previstas, sendo a cassação a mais severa. ( )",
+      "t": "O fato de haver credenciamento não elimina a necessidade de vigilância continuada e supervisão pela ANAC sobre o credenciado.",
       "a": "C"
     },
     {
       "n": 11,
-      "t": "A suspensão punitiva pode ser aplicada por até 180 dias, com possibilidade de prorrogação por igual período, consistindo na interrupção temporária do exercício de licença, habilitação, certificado, autorização, permissão ou concessão. ( )",
+      "t": "Alterações em aeronaves certificadas exigem, em regra, dados aprovados/aceitáveis e execução por entidade habilitada, sob requisitos de manutenção aplicáveis.",
       "a": "C"
     },
     {
       "n": 12,
-      "t": "A multa é a medida administrativa mais severa, pois afeta o patrimônio do infrator, enquanto a cassação possui caráter apenas educativo e não impede o exercício de atividades. ( )",
+      "t": "A ICAO é soberana sobre o registro de aeronaves de cada Estado, podendo impor e executar diretamente procedimentos de registro no território nacional.",
       "a": "E"
     },
     {
       "n": 13,
-      "t": "A Ação Fiscal busca, entre outros resultados, efetividade na repressão de ilícitos aeronáuticos, contribuição para melhoria dos índices de segurança operacional e aumento da confiança do público na aviação civil. ( )",
+      "t": "O RLP pode conter a validade do COP, a qual pode variar (por exemplo, de 12 a 36 meses) conforme criticidade e desempenho do fabricante.",
       "a": "C"
     },
     {
       "n": 14,
-      "t": "É incompatível com a Ação Fiscal a integração com instituições de segurança pública, pois a atuação fiscalizatória da ANAC é exclusivamente administrativa e não admite apoio externo. ( )",
-      "a": "E"
-    },
-    {
-      "n": 15,
-      "t": "Adulterar horas de voo em livro de registros de aeronave, por constituir fraude na aviação, pode acarretar pena de reclusão de 1 a 5 anos e multa, associada à falsidade ideológica. ( )",
+      "t": "A pirâmide regulatória é dinâmica: se o regulado melhora, o regulador pode reduzir a intensidade das intervenções e retornar à base.",
       "a": "C"
     },
     {
+      "n": 15,
+      "t": "A medida cautelar só pode ser aplicada após julgamento final do processo administrativo sancionador, pois depende de decisão definitiva sobre responsabilidade.",
+      "a": "E"
+    },
+    {
       "n": 16,
-      "t": "Expor a perigo a segurança da aviação, como pilotar sob efeito de álcool ou drogas ou realizar manobras perigosas, pode ser enquadrado no art. 261 do Código Penal, com pena de reclusão de 6 meses a 2 anos. ( )",
+      "t": "Providências administrativas podem ter naturezas distintas (por exemplo, cautelar e sancionatória), escolhidas conforme risco e gravidade do caso.",
       "a": "C"
     },
     {
       "n": 17,
-      "t": "Sequestrar aeronaves ou sabotar equipamentos aeronáuticos pode configurar, respectivamente, os arts. 129 e 315 do Código Penal, com pena de reclusão de 2 a 8 anos. ( )",
+      "t": "O Termo de Cessação de Conduta pode ser empregado para induzir retorno à conformidade e cessar a conduta, sem confundir-se com sanção definitiva.",
       "a": "C"
     },
     {
       "n": 18,
-      "t": "Homicídio culposo em acidentes aéreos causados por negligência ou imprudência na operação ou manutenção pode ser enquadrado no art. 121, §3º do Código Penal, com pena de detenção de 1 a 3 anos. ( )",
-      "a": "C"
+      "t": "A declaração de conformidade do detentor de COP impede qualquer inspeção da ANAC, pois substitui integralmente a verificação de conformidade com o projeto de tipo.",
+      "a": "E"
     },
     {
       "n": 19,
-      "t": "A abordagem de Responsividade na fiscalização busca equilibrar a aplicação de sanções com a conformidade voluntária, e, na normatização, procura incluir o regulado no processo decisório. ( )",
+      "t": "Em fiscalizações, a atuação integrada com órgãos de segurança pública pode ser relevante, especialmente em áreas remotas ou de difícil acesso.",
       "a": "C"
     },
     {
       "n": 20,
-      "t": "Em ambiente de Regulação Responsiva, técnicas de Comando e Controle devem ser abolidas, por serem incompatíveis com uma regulação adaptativa. ( )",
-      "a": "E"
+      "t": "Uma pirâmide responsiva bem desenhada pode incluir ‘portas de saída’: ao retomar conformidade, o regulado pode voltar a receber respostas menos intrusivas.",
+      "a": "C"
     },
     {
       "n": 21,
-      "t": "Na Regulação Responsiva, é vedada a aplicação de sanções punitivas pesadas, pois esse tipo de punição é exclusivo do regime de Comando e Controle. ( )",
+      "t": "A assinatura de um Termo de Cessação de Conduta impede a ANAC de apurar fatos pretéritos e extingue automaticamente qualquer possibilidade de responsabilização.",
       "a": "E"
     },
     {
       "n": 22,
-      "t": "Baseada em princípios comportamentais, a Regulação Responsiva busca conciliar punições e incentivos de acordo com o histórico de comportamento de cada regulado, adaptando-se a cada situação. ( )",
+      "t": "O credenciamento de profissionais pode ter base no Código Brasileiro de Aeronáutica, para emissão de relatórios, pareceres e laudos que subsidiem processos de certificação.",
       "a": "C"
     },
     {
       "n": 23,
-      "t": "Transparência e accountability, exigidas do regulador em modelo responsivo, remetem, respectivamente, à clareza e acessibilidade da informação e à responsabilidade do regulador na aplicação das normas. ( )",
+      "t": "Um certificado de tipo (TC) aprova o projeto de tipo, mas não dispensa a demonstração de conformidade e condição segura da aeronave específica para emissão de CA.",
       "a": "C"
     },
     {
       "n": 24,
-      "t": "Segundo os estudos do PPRR, o problema regulatório identificado envolveu elevado volume de processos sancionadores, baixa efetividade das sanções na mudança de comportamento e dosimetria com carência de proporcionalidade e razoabilidade. ( )",
-      "a": "C"
+      "t": "Medida cautelar aplicada em Ação Fiscal sempre inclui multa pecuniária imediata, pois sua natureza é essencialmente sancionatória.",
+      "a": "E"
     },
     {
       "n": 25,
-      "t": "Na revisão da Resolução ANAC 472/2018, busca-se aprimorar a pirâmide de enforcement e otimizar o fluxo do processo sancionador e do modelo de tomada de decisão, fortalecendo capacidade administrativa para lidar com falhas de risco significativo. ( )",
+      "t": "Na vigilância continuada de credenciados, é possível que servidor da ANAC acompanhe exames e a elaboração de laudos/pareceres/relatórios.",
       "a": "C"
     },
     {
       "n": 26,
-      "t": "A responsividade, no material, é tratada como algo restrito à etapa de implementação inicial de uma norma, não abrangendo avaliação contínua de resultados e revisão de instrumentos. ( )",
-      "a": "E"
-    },
-    {
-      "n": 27,
-      "t": "Ferramentas de qualidade regulatória, como AIR e diretrizes de qualidade, podem ser usadas para incorporar responsividade nos processos normativos da Agência. ( )",
+      "t": "O Auto de Medida Acautelatória é o documento que inicia formalmente a adoção da medida cautelar.",
       "a": "C"
     },
     {
+      "n": 27,
+      "t": "Uma Ação Fiscal prescinde de registro e documentação das providências, pois a urgência substitui a necessidade de instrução do processo administrativo.",
+      "a": "E"
+    },
+    {
       "n": 28,
-      "t": "Conforme o material, a implementação da Regulação Responsiva na ANAC foi fortalecida por parcerias estratégicas, incluindo cooperação com instituições acadêmicas, a exemplo da UnB. ( )",
+      "t": "É responsabilidade do detentor de COP assegurar que cada produto ou artigo completo apresentado está conforme o projeto aprovado e em condição segura para operação.",
       "a": "C"
     },
     {
       "n": 29,
-      "t": "O Código Brasileiro de Aeronáutica prevê o credenciamento de profissionais pela ANAC para emissão de relatórios, pareceres e laudos que subsidiam processos de certificação. ( )",
+      "t": "A Ação Fiscal tende a ser acionada por denúncia ou inteligência e costuma focar infrações de maior gravidade, exigindo atuação célere.",
       "a": "C"
     },
     {
       "n": 30,
-      "t": "Profissionais credenciados são necessariamente servidores integrantes do quadro da ANAC, alocados apenas em localidades com falta de pessoal para atividades de certificação. ( )",
+      "t": "A validade do COP é invariavelmente de 12 meses, independentemente da criticidade do produto e do desempenho do fabricante.",
       "a": "E"
     },
     {
       "n": 31,
-      "t": "O credenciamento de profissionais, por si só, transfere ao credenciado a competência regulatória da ANAC, permitindo que ele edite normas e aplique sanções em nome da Agência. ( )",
-      "a": "E"
+      "t": "Em fiscalizações, a escolha entre persuasão e punição pode variar conforme gravidade e resposta do regulado, não sendo uma decisão única para todos os casos.",
+      "a": "C"
     },
     {
       "n": 32,
-      "t": "Relatórios e laudos produzidos por profissionais credenciados podem subsidiar decisões técnicas em processos de certificação, mas não eliminam a responsabilidade da autoridade competente pela decisão final. ( )",
+      "t": "Se o regulado não responde às medidas iniciais, é coerente que o regulador escale na pirâmide, aumentando severidade ou restrição.",
       "a": "C"
     },
     {
       "n": 33,
-      "t": "Em regra, o credenciamento serve para ampliar capacidade de avaliação técnica, mas não substitui obrigações de conformidade do regulado nem o dever de supervisão da ANAC sobre o processo. ( )",
-      "a": "C"
-    },
-    {
-      "n": 34,
-      "t": "Se um profissional credenciado emitir laudo com inconsistências, o processo de certificação deve ser automaticamente indeferido, sem possibilidade de complementação, sob pena de violar a isonomia. ( )",
+      "t": "Uma organização de produção, após obter COP, fica dispensada de qualquer vigilância continuada, pois presume-se conformidade permanente do sistema da qualidade.",
       "a": "E"
     },
     {
+      "n": 34,
+      "t": "O Registro de Limitações de Produção (RLP) lista os produtos autorizados, o documento de aprovação do projeto e a data de aprovação de produção para cada produto.",
+      "a": "C"
+    },
+    {
       "n": 35,
-      "t": "Certificação de aeronavegabilidade, no caso de aeronave certificada, busca verificar se o produto está de acordo com o projeto aprovado e em condições de operação segura. ( )",
+      "t": "O detentor de COP pode marcar o produto/artigo para o qual tenha sido emitido certificado ou aprovação, conforme regras aplicáveis.",
       "a": "C"
     },
     {
       "n": 36,
-      "t": "As seções 21.175 e 21.183 do RBAC 21 refletem requisitos que sintetizam os conceitos de aeronavegabilidade discutidos no material. ( )",
-      "a": "C"
+      "t": "O credenciamento transfere ao profissional credenciado a competência regulatória da ANAC, que deixa de responder pelos atos praticados.",
+      "a": "E"
     },
     {
       "n": 37,
-      "t": "Aprovação de retorno ao serviço é o aval final após manutenção que reconhece conformidade com projeto aprovado e condições de operação segura, e nem toda pessoa pode concedê-la, sendo restrita a pessoas certificadas pela ANAC. ( )",
+      "t": "Cada Estado mantém seu registro aeronáutico segundo seu ordenamento, observando padrões internacionais, mas sem perda de soberania sobre o ato registral.",
       "a": "C"
     },
     {
       "n": 38,
-      "t": "Aeronavegabilidade continuada é o acompanhamento da “saúde” da frota de um determinado produto aeronáutico, e, quando ocorrências degradam o nível de segurança, pode-se emitir Diretriz de Aeronavegabilidade (DA) para tornar a ação corretiva obrigatória. ( )",
+      "t": "Orientação ou advertência podem ser respostas iniciais adequadas em infrações de menor gravidade, antes de escalar para medidas mais rigorosas.",
       "a": "C"
     },
     {
       "n": 39,
-      "t": "O RBAC 39 é referência para Diretriz de Aeronavegabilidade (DA), instrumento usado para tornar obrigatória ação corretiva quando necessário. ( )",
-      "a": "C"
+      "t": "A regulação responsiva rejeita incentivos e cooperação; seu núcleo é exclusivamente punitivo.",
+      "a": "E"
     },
     {
       "n": 40,
-      "t": "Para aeronave cujo modelo não tenha sido certificado, a certificação de aeronavegabilidade passa a focar apenas condições de operação segura, e não conformidade com projeto aprovado. ( )",
+      "t": "Relatórios e laudos emitidos por credenciados podem instruir decisões, mas não substituem, por si só, o juízo e a autoridade decisória do órgão competente.",
       "a": "C"
     },
     {
       "n": 41,
-      "t": "A Convenção de Chicago, especialmente seus Anexos 6 e 8, é citada no material como base relevante para certificação de organizações de manutenção e para manutenção da aeronavegabilidade continuada. ( )",
-      "a": "C"
+      "t": "Na pirâmide responsiva, uma vez aplicada uma medida severa, é vedado ao regulador reduzir a intensidade, mesmo que o regulado retorne à conformidade.",
+      "a": "E"
     },
     {
       "n": 42,
-      "t": "Ocorrências relevantes de falhas e mau funcionamento em produtos aeronáuticos não devem ser comunicadas à ANAC, para evitar viés de notificação, cabendo ao operador apenas arquivar internamente. ( )",
-      "a": "E"
+      "t": "Na regulação responsiva, escalonar resposta não significa ‘ser leniente’: significa ajustar a intervenção ao risco e ao comportamento observado.",
+      "a": "C"
     },
     {
       "n": 43,
-      "t": "O Registro Aeronáutico Brasileiro (RAB) possui função cartorial, emitindo certificados de Matrícula e de Aeronavegabilidade e constituindo propriedade e garantias reais sobre aeronaves. ( )",
-      "a": "C"
-    },
-    {
-      "n": 44,
-      "t": "A ICAO é o agente soberano sobre os procedimentos de registro de aeronaves, cabendo a cada Estado signatário apenas executar o que a ICAO determinar. ( )",
+      "t": "A emissão do Certificado de Aeronavegabilidade, por si só, constitui a propriedade da aeronave e as garantias reais sobre ela.",
       "a": "E"
     },
     {
-      "n": 45,
-      "t": "Cada Estado possui seu registro de aeronaves; a ICAO atua definindo padrões e práticas recomendadas, mas não substitui a soberania estatal sobre o registro nacional. ( )",
+      "n": 44,
+      "t": "O planejamento das atividades de Ação Fiscal pode usar informações de inteligência para selecionar alvos e maximizar efetividade do controle.",
       "a": "C"
     },
     {
+      "n": 45,
+      "t": "Antes de qualquer Ação Fiscal, a ANAC é obrigada a comunicar o regulado com antecedência mínima fixa, sob pena de nulidade automática de toda a fiscalização.",
+      "a": "E"
+    },
+    {
       "n": 46,
-      "t": "No contexto do RAB, o registro e a documentação associada têm relevância para atos de propriedade e garantias reais, aproximando-se de uma função de cartório público. ( )",
+      "t": "Na perspectiva responsiva, a eficácia depende de equilibrar confiança e controle, e não de escolher apenas um dos dois extremos.",
       "a": "C"
     },
     {
       "n": 47,
-      "t": "Certificados de matrícula e aeronavegabilidade são suficientes, por si só, para autorizar qualquer operação de manutenção em aeronave, dispensando certificação de organização de manutenção ou licenças individuais. ( )",
+      "t": "Aeronavegabilidade continuada depende apenas do fabricante; operador e proprietário não possuem responsabilidades de manutenção e registros.",
       "a": "E"
     },
     {
       "n": 48,
-      "t": "A emissão e gestão de certificados e registros, no âmbito do RAB, relaciona-se ao controle documental e registral; já o retorno ao serviço após manutenção decorre de regras específicas de manutenção e pessoas autorizadas, não do registro cartorial. ( )",
+      "t": "O Certificado de Organização de Produção (COP) está associado à capacidade de produzir artigos/produtos conforme projeto aprovado e sob sistema da qualidade aprovado.",
       "a": "C"
     },
     {
       "n": 49,
-      "t": "O objetivo da certificação de uma organização de produção é assegurar que a organização esteja apta a produzir produtos aeronáuticos em conformidade com o projeto aprovado e, assim, apoiar a emissão de certificados de aeronavegabilidade. ( )",
-      "a": "C"
+      "t": "O detentor de COP pode instalar livremente as peças que fabrica em qualquer aeronave, sem necessidade de aprovação e sem considerar aplicabilidade.",
+      "a": "E"
     },
     {
       "n": 50,
-      "t": "Detentores de Certificado de Organização de Produção (COP) podem solicitar à ANAC aprovação para instalar itens por eles fabricados em aeronaves em que a peça seja aplicável, conforme a estrutura normativa aplicável. ( )",
+      "t": "Em uma Ação Fiscal, o agente deve dominar não apenas RBAC, mas também atos internos e normativos aplicáveis, como regimento e resoluções que disciplinam providências administrativas.",
       "a": "C"
     },
     {
       "n": 51,
-      "t": "O detentor de COP que fabrica peças está automaticamente autorizado a instalar qualquer item por ele fabricado em qualquer aeronave, sem necessidade de aprovação específica da ANAC. ( )",
+      "t": "Uma vez credenciado, o profissional não pode ter suas atividades restringidas, pois o credenciamento é vitalício e irrevogável.",
       "a": "E"
     },
     {
       "n": 52,
-      "t": "Quando uma aeronave é produzida conforme certificado de tipo, em Subparte F do RBAC 21, é possível produzir sob esse arranjo, mas a organização deve obter COP em até 6 meses a partir da primeira emissão de certificado de aeronavegabilidade. ( )",
+      "t": "Confundir ‘bem-estar do mercado’ com bem-estar social é um erro conceitual: a regulação busca, em última instância, objetivos públicos associados ao bem-estar social.",
       "a": "C"
     },
     {
       "n": 53,
-      "t": "O COP é transferível para outra empresa mediante venda do parque fabril e notificação à ANAC, desde que o sistema de qualidade permaneça o mesmo. ( )",
+      "t": "O RLP lista apenas o nome do produto; não inclui documento de aprovação do projeto nem datas associadas.",
       "a": "E"
     },
     {
       "n": 54,
-      "t": "Em geral, fornecedores que produzem componentes apenas para um único fabricante de produto final não são obrigados a possuir COP próprio, desde que atendam requisitos de controle e aceitação do fabricante responsável. ( )",
+      "t": "A responsividade busca induzir conformidade com o menor nível de intervenção suficiente e necessário para alcançar o objetivo regulatório.",
       "a": "C"
     },
     {
       "n": 55,
-      "t": "Na vigilância continuada da organização de produção, auditorias podem ocorrer em intervalos variáveis, e auditorias não programadas podem ser motivadas por acidentes, incidentes ou eventos relevantes. ( )",
-      "a": "C"
+      "t": "Apenas sanções formais geram conformidade; ações persuasivas são sempre ineficazes e não devem ser usadas.",
+      "a": "E"
     },
     {
       "n": 56,
-      "t": "A Lista de Produtos (RLP) associada ao COP pode apresentar período de validade definido, podendo variar, por exemplo, entre 12 e 36 meses, conforme estabelecido. ( )",
+      "t": "A vigilância continuada sobre organizações de produção pode incluir auditorias e outras ações de supervisão para verificar manutenção do sistema e conformidade.",
       "a": "C"
     },
     {
       "n": 57,
-      "t": "Não conformidades identificadas em auditorias são tratadas de forma uniforme, sem distinção de criticidade, e sempre possuem o mesmo prazo de correção. ( )",
+      "t": "A ANAC, ao atuar por ação fiscal, deve escolher sempre a medida mais grave disponível, pois isso maximiza a dissuasão e reduz custos de fiscalização.",
       "a": "E"
     },
     {
       "n": 58,
-      "t": "Na lógica de conformidade de produção, a responsabilidade pela aeronavegabilidade inclui o controle sobre partes e processos, e não se resume à inspeção final do produto acabado. ( ) GABARITO",
+      "t": "Na Ação Fiscal, a medida cautelar pode ser aplicada para cessar risco iminente antes da conclusão do processo sancionador, desde que formalizada e motivada.",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "O registro por si só dispensa a necessidade de documentação técnica para aeronavegabilidade, pois o registro substitui a verificação de condição segura.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "O Certificado de Matrícula (CM) e o Certificado de Aeronavegabilidade (CA) são documentos distintos: o CM relaciona-se ao registro e o CA à condição de aeronavegabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "A aplicação de medidas cautelares na Ação Fiscal tem como finalidade principal punir o infrator, independentemente de risco atual e sem necessidade de fundamentação.",
+      "a": "E"
+    },
+    {
+      "n": 62,
+      "t": "Operações clandestinas tendem a degradar o nível de segurança e exigem prioridade na atuação fiscalizatória.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "O RAB se restringe ao registro de aeronaves militares, não se aplicando a aeronaves civis brasileiras.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Regulação responsiva propõe escalonamento de respostas em forma de pirâmide, começando por abordagens mais brandas e avançando conforme a resistência do regulado.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "Na abordagem responsiva, o regulador deve sempre presumir má-fé e iniciar pela sanção máxima para evitar reincidência.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "A vigilância continuada sobre organizações de produção pode acompanhar não conformidades e exigir ações corretivas para manter conformidade do sistema da qualidade.",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "A existência de credenciado elimina a necessidade de atos formais de certificação pela ANAC, pois o credenciado passa a emitir certificados em nome próprio.",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "Garantias reais sobre aeronaves são constituídas por averbações no registro, não pela simples posse do certificado de aeronavegabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 69,
+      "t": "A abordagem responsiva obriga o regulador a sempre aceitar justificativas do regulado e a nunca aplicar sanções, para preservar cooperação.",
+      "a": "E"
+    },
+    {
+      "n": 70,
+      "t": "Diretrizes de aeronavegabilidade (AD) são instrumentos típicos para corrigir condições inseguras e, quando aplicáveis, seu cumprimento é mandatário.",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "O Certificado de Matrícula comprova, por si só, que a aeronave está em condição segura para operar, dispensando qualquer verificação de aeronavegabilidade.",
+      "a": "E"
+    },
+    {
+      "n": 72,
+      "t": "Ao fabricar peças, o detentor de COP pode obter aprovação da ANAC para instalação em aeronaves certificadas, mas isso não equivale a autorização automática e irrestrita para instalar em qualquer aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Na Ação Fiscal, providências preventivas são, em regra, priorizadas mesmo quando há risco iminente, pois a cautelar só pode ocorrer após o processo sancionador transitado.",
+      "a": "E"
+    },
+    {
+      "n": 74,
+      "t": "O detentor de COP pode obter Certificado de Aeronavegabilidade de aeronave sem comprovações adicionais mediante declaração de conformidade, embora a ANAC possa inspecionar a conformidade antes da emissão.",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "A validade do COP é sempre de 60 meses, independentemente do produto fabricado e do desempenho do detentor.",
+      "a": "E"
+    },
+    {
+      "n": 76,
+      "t": "O RAB é órgão de registro que emite Certificado de Matrícula e Certificado de Aeronavegabilidade e mantém guarda de documentos técnicos correlatos.",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "Em regra, a aplicação de providência sancionatória é incompatível com coleta de provas: primeiro sanciona-se e depois se busca evidência complementar.",
+      "a": "E"
+    },
+    {
+      "n": 78,
+      "t": "O Auto de Infração é instrumento típico para instaurar a providência sancionatória e formalizar a responsabilização do infrator.",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "A função cartorial do RAB é apenas operacional; ele não realiza quaisquer registros relacionados a propriedade ou garantias reais.",
+      "a": "E"
+    },
+    {
+      "n": 80,
+      "t": "A coleta de evidências na Ação Fiscal pode envolver entrevistas, análise documental e outras técnicas de investigação para embasar o processo administrativo.",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "Na regulação responsiva, o regulador deve manter a intervenção no topo da pirâmide após a primeira infração, para evitar ‘sinalização de fraqueza’.",
+      "a": "E"
+    },
+    {
+      "n": 82,
+      "t": "Um COP não pode ser transferido de uma empresa para outra, pois o sistema da qualidade de cada organização é singular.",
+      "a": "C"
+    },
+    {
+      "n": 83,
+      "t": "O COP é livremente transferível entre empresas, bastando comunicação formal, pois o objeto é apenas o projeto aprovado.",
+      "a": "E"
+    },
+    {
+      "n": 84,
+      "t": "A emissão de marcas de nacionalidade e matrícula é função típica do registro aeronáutico e se relaciona ao vínculo do Estado com a aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "O credenciamento existe para substituir servidores e, por isso, elimina qualquer necessidade de acompanhamento por parte da ANAC sobre exames e laudos produzidos.",
+      "a": "E"
+    },
+    {
+      "n": 86,
+      "t": "A apreensão de documentos ou materiais pode ser utilizada como medida cautelar para cessar risco iminente ou garantir a coleta de provas.",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "A vigilância continuada tem caráter meramente estatístico e nunca influencia manutenção do credenciamento.",
+      "a": "E"
+    },
+    {
+      "n": 88,
+      "t": "Os requisitos técnicos para credenciamento de pessoas estão previstos em regulamento específico (por exemplo, RBAC 183).",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "Os documentos necessários para a Ação Fiscal se limitam aos RBAC e às Instruções Suplementares, sendo dispensáveis outros atos normativos e diretrizes internas.",
+      "a": "E"
+    },
+    {
+      "n": 90,
+      "t": "Detenção, interdição, suspensão e apreensão podem ser adotadas como medidas acautelatórias quando houver risco iminente à segurança, à coletividade ou à continuidade do serviço. GABARITO",
       "a": "C"
     }
   ],

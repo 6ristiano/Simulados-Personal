@@ -4660,5 +4660,482 @@
       "t": "Em caso de necessidade de execução de qualquer tipo de obra ou serviço de manutenção emergencial, a ANAC deve ser informada até o segundo dia útil após a data de início.",
       "a": "E"
     }
+  ],
+  "CF ANAC 29-12": [
+    {
+      "n": 1,
+      "t": "É possível dizer que a certificação do pessoal de aviação civil é mais antiga que a própria aviação, contudo, no início, as licenças eram emitidas por clubes de aviação e organizações privadas.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "A primeira licença de piloto foi emitida em 1909, pelo Aéro-Club de France a Louis Blériot e, no dia 8 de março de 1910, o mesmo Aeroclube concedeu a Élise Raymonde de Laroche a Licença de nº 36, e a primeira licença de piloto a uma mulher.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "A Convenção de Paris de 1919 foi o primeiro esforço para padronizar a aviação civil internacionalmente, estabelecendo regras básicas para a operação de aeronaves sobre territórios estrangeiros.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "A Air Commerce Act de 1926 (EUA) formalizou a emissão de licenças de piloto, estabelecendo a autoridade do governo federal para regular a aviação civil.",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "No Brasil, a responsabilidade do Estado em regular a aviação civil e certificar os tripulantes surgiu em 1925.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "A SPL é responsável por emitir, suspender, revogar ou cancelar certificados, declarações, aprovações e autorizações, relativos à licença e habilitação de pessoal, observados os padrões e normas estabelecidos.",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "A SPL define disposições normativas necessárias para a certificação de organizações de instrução e treinamento de pessoal, ficando a cargo das instituições de ensino e treinamento a definição do conteúdo programático mínimo e carga horária do treinamento.",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "Para que se possa exercer as atividades inerentes à aviação, o Pessoal da Aviação Civil deve seguir um conjunto de requisitos, os quais são idade mínima, idade máxima, grau de instrução, aptidão psicofísica, conhecimentos teóricos e práticos, instrução de voo, experiência de voo e exame de proficiência.",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "O Despachante Operacional de Voo segue as normas do RBAC 65 e deve ter concluído curso teórico; ser aprovado em exame teórico da ANAC; ter realizado estágio operacional de, no mínimo 90 dias; ter efetuado 40 despachos reais e ter sido aprovado em exame de proficiência, ou cheque.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O mecânico de manutenção aeronáutica não precisa comprovar experiência para poder obter a licença, desde que tenha sido aprovado em curso técnico, exame teórico e exame prático.",
+      "a": "E"
+    },
+    {
+      "n": 11,
+      "t": "Comissários de Voo são profissionais cuja missão principal é cuidar da tranquilidade e conforto dos passageiros do transporte aéreo, bem como do restante da tripulação.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "O Comissário de Voo deve ser titular de CMA válido e de segunda classe; possuir treinamento inicial aprovado pela ANAC; realizar um mínimo de cinco horas de voo, desempenhando as funções de comissário, sob supervisão de um instrutor e ser aprovado em um exame prático.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "As prerrogativas para pilotos variam de acordo com a categoria da licença específica, havendo basicamente três tipos, Piloto Privado (PP), Piloto Comercial (PC) e Piloto de Linha Aérea (PLA).",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "O Piloto Comercial (PC) pode exercer todas as prerrogativas de PP e atuar remuneradamente como piloto, podendo, inclusive, atuar como piloto em comando em voos de serviços de transporte aéreo público em uma aeronave certificada para operação com tripulação mínima de 2 dois pilotos.",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "O profissional AVSEC não precisa ser maior de idade para exercer atividade, desde que possua aptidão física para exercer o cargo, comprovada através de exame médico realizado a cada 24 meses.",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Para as atividades de aerodesporto, como paraquedismo, balonismo, operação de ultraleves motorizados e voo livre, os requisitos são mais flexíveis, conforme o RBAC 103, que foca na conscientização dos praticantes a não exporem a sociedade e o tráfego a risco iminente.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "A ANAC não exige e não emite habilitação para a operação de aeronaves ultraleves que tenham até 200kg, se motorizado, e velocidade máxima de até 100kt, sendo recomendado que qualquer interessado busque se habilitar por meio de associações aerodesportivas reconhecidas pelos praticantes.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "As licenças e certificações de pessoal são de responsabilidade compartilhada entre a ANAC e o DECEA.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "Os operadores de aeródromo civil e militar, que seja destinado a aeronaves nacionais ou estrangeiras na realização de serviços internacionais, regulares ou não regulares, devem cumprir a Certificação Operacional de Aeroportos, conforme disposto no RBAC 139.",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "O operador de aeródromo que não seja obrigado a ser detentor de Certificado Operacional de Aeroporto pode requerer a obtenção do Certificado para melhoria das condições operacionais ou para cumprimento de contratos, convênios ou outros instrumentos particulares.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "A Certificação Operacional de Aeródromos deve ser aplicada a aeroportos civis públicos, helipontos e heliportos.",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "A ICAO, no Anexo 14, exige dos Estados Contratantes que certifiquem tanto os aeródromos usados para tráfego internacional quanto a os aeródromos públicos domésticos.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Nos aeroportos já existentes, são adotadas medidas operacionais alternativas para mitigar os riscos, uma vez que é impossível ou inviável a adequação física da infraestrutura conforme exigido no Anexo 14, aplicando-se o Anexo mais apropriadamente às novas estruturas aeroportuárias.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "O RBAC 139 estabelece que os aeroportos que operem ou pretendam operar voos regulares domésticos sob o RBAC 121 e que não sejam obrigados a serem detentores do Certificado Operacional de Aeroporto devem cumprir os elementos mínimos de infraestrutura e de segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Um aeródromo deve possuir, como um dos elementos mínimos de segurança, um sistema visual de rampa de aproximação, obrigatoriamente, nas duas cabeceiras.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "O processo de certificação é o meio pelo qual é feita uma avaliação da infraestrutura do lado AR do aeródromo e da capacidade do operador de aeródromo de cumprir os regulamentos técnicos da ANAC, de maneira a preservar a segurança operacional no aeródromo.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "A certificação de um aeroporto define as especificações operativas (EO) do aeródromo, ou seja, os tipos de operações aéreas que o aeroporto está autorizado a receber e atesta a capacidade do operador de aeródromo de cumprir os regulamentos técnicos da ANAC relativos à segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "A Certificação Operacional de Aeroportos é um instrumento regulatório pelo qual se demonstra que o aeroporto opera de acordo com os regulamentos da ANAC e que, para aqueles requisitos cuja adequação não é possível, foram feitas análises de risco, que demonstram um nível aceitável de segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "No caso de sucessão de operador de aeródromo anteriormente certificado, a ANAC pode conceder o Certificado Operacional Provisório de Aeroporto à pessoa destinatária do direito de operar aeródromo civil, válido por 24 meses prorrogáveis por igual período uma única vez.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "O Requerimento Formal e a declaração de ratificação e cumprimento integral do MOPS do antigo operador de aeródromo são requisitos para a obtenção de um Certificado Operacional Provisório de Aeroporto.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "Conforme o RBAC 139, a Certificação Operacional de Aeroporto compreende 4 fases, que são o Requerimento Formal; a Avaliação do Requerimento; a Inspeção de Certificação; e a Certificação, sendo possível que o processo avance as fases seguintes com pendências, desde que estas não comprometam as avaliações a serem feitas nas fases posteriores.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "A capacidade técnico-operacional do operador de aeródromo e de sua organização e a compatibilidade entre a operação da aeronave crítica pretendida e as características físicas e operacionais do aeródromo são itens avaliados na etapa de Avaliação do Requerimento de Certificação Operacional de Aeródromo.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "A compatibilidade entre a operação da aeronave crítica pretendida e as características físicas e operacionais do aeródromo são uma das principais análises a serem feitas na avaliação do requerimento.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Os principais regulamentos utilizados como base para a Certificação Operacional de Aeroportos são o RBAC 153 e o RBAC 154.",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "O Certificado Operacional de Aeroporto somente será concedido após a apresentação de requerimento formal, o cadastro atualizado do aeródromo perante a ANAC, apresentação de MOPS em conformidade com o regulamento e obtenção de parecer favorável no processo de certificação.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "O Certificado Operacional de Aeroporto é concedido com prazo de validade de 24 meses, podendo ser prorrogado por 12 meses ou até que seja revalidado pelo operador.",
+      "a": "E"
+    },
+    {
+      "n": 37,
+      "t": "Na fase inicial do processo de Certificação Operacional de Aeródromo, o operador deverá oficializar as Especificações Operativas, entregar a planta de localização do aeródromo em relação à cidade, a planta geral do aeródromo e o MOPS.",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "Compromisso de Ações Corretivas (CAC) é um acordo formal firmado entre o operador de aeródromo e a ANAC, contendo as ações e prazos para implementação dos elementos mínimos de infraestrutura e de segurança operacional ou para correção de não conformidades identificadas no processo de certificação, junto com as medidas mitigadoras adicionais para eliminação ou mitigação dos riscos.",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "As áreas cadastradas perante a ANAC e destinadas ao pouso, decolagem e movimentação de aeronaves são denominadas aeródromos.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Pistas de pouso e decolagem e áreas de movimentação de helicópteros não cadastradas na ANAC que sejam utilizadas para operações particulares são denominadas aeródromos privados.",
+      "a": "E"
+    },
+    {
+      "n": 41,
+      "t": "Os aeródromos civis brasileiros podem ser classificados em públicos e privados, e quando de uso público e dotados de instalações e facilidades para apoio de operações de aeronaves, de embarque e desembarque de pessoas e cargas, são denominados Aeroportos.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "Quando os aeródromos são privados e dotados de instalações e facilidades de embarque e desembarque de pessoas e cargas para apoio exclusivo a operações de helicópteros, são denominados Heliportos.",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "Os aeródromos públicos e privados passam por processos distintos de abertura ao tráfego, necessitando os aeródromos públicos de homologação e os aeródromos privados de registro.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Os aeródromos privados somente podem receber operações de exploração comercial mediante a autorização homologada do operador.",
+      "a": "E"
+    },
+    {
+      "n": 45,
+      "t": "Independente de um aeródromo ser público ou privado, o operador deverá seguir os mesmos ritos e regras processuais da ANAC e deverá cumprir os regulamentos em mesmo nível de aplicabilidade, visando garantir a manutenção da segurança operacional.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "As principais etapas cadastrais pelas quais passam os aeródromos públicos são a Inscrição cadastral, Alteração cadastral, Exclusão cadastral e a Reavaliação de Medida Cautelar (Interdição) por Vencimento de Portaria.",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "É incontroverso afirmar que um aeródromo inscrito no CIAD MG8965 é uma estrutura privada para operação de aeronaves localizada na unidade federativa de Minas Gerais, podendo transferir o código de identificação a outra estrutura em caso de cancelamento da inscrição.",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "O CIAD é um identificador único de aeródromos, definido pela ANAC, quando do processamento da solicitação de Inscrição cadastrada de um aeródromo e utilizado somente pela Agência como referência nos processos de sua competência.",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "O Indicador de Localidade é atribuído pelo COMAER quando os dados do aeródromo são incluídos nas publicações aeronáuticas, sendo utilizado como referência em planos de voo.",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "O RBAC 155 é de cumprimento obrigatório para helipontos civis públicos, helipontos civis privados elevados e componentes aeroportuários para operação exclusiva de aeronaves de asa rotativa em Aeródromos Públicos, sendo seu cumprimento recomendado para Helipontos civis privados ao nível do solo.",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "Helipontos localizados em embarcações e plataformas, bem como áreas de aproximação final e decolagem sobre a água são regidos pelas subpartes A,C e D do RBAC 155.",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "Helipontos são estruturas privadas, enquanto heliportos são estruturas públicas dotadas de facilidades para embarque e desembarque de passageiros e cargas em helicópteros.",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "A FATO de um heliponto pode ser no formato quadrado, retangular, triangular ou ser do tipo pista de pouso e decolagem.",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "Não existe, no Brasil, atualmente, um regulamento que trate de operações em Helipontos ou Vertipontos.",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "Todo heliponto deve possuir um ponto de referência, que deve ser localizado em seu centro geométrico.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "As FATO tipo PPD são dimensionadas com base nas especificações do helicóptero a que se destinam e possuem critérios diferentes para definição das dimensões da área de segurança, conforme operação VFR ou IFR.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "Em um heliponto, o entorno da FATO deve ser protegido por uma superfície plana, inclinada em 45° descendente, iniciando-se na borda da área de segurança e prolongando-se a 10m da mesma. Esta superfície plana não pode ser penetrada por obstáculos, exceto quando localizados em apenas uma das laterais da FATO.",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "Somente nos helipontos elevados é obrigatório o uso de indicadores de direção do vento (biruta), devendo ser iluminados em casos de operação noturna.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "Os contornos, letras e números referentes à sinalização horizontal de um heliponto devem ser codificados de acordo com o padrão de cores vermelha, azul ou amarela, conforme disposto no RBAC 155.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "A sinalização de identificação de um heliponto pode ser feita com uma letra H dentro de um triângulo; com a letra H sobre o indicativo de direção (FATO tipo PPD) ou, em casos de helipontos hospitalares, a letra H dentro de uma cruz vermelha.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "Em FATO quadrada ou circular, a sinalização do triângulo compõe o ponto de visada do heliponto e possui seu vértice apontando para o norte magnético.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "Para helipontos que se localizem a menos de 400m de outros, é obrigatória a sinalização de indicador de localidade, composto de 4 letras ou números, atribuído pelo DECEA, após o deferimento e conclusão do processo de Inscrição no âmbito da ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "As luzes não embutidas, localizadas na área de segurança de heliponto, devem ser frangíveis e não ultrapassar uma altura de 50cm.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Para helipontos elevados, o sistema de iluminação de área de toque e elevação inicial deve possuir, no mínimo, dois componentes obrigatórios, sendo mandatória a instalação das Luzes da TLOF, facultando ao proprietário a escolha dos demais.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "O operador de heliponto deve estabelecer e manter uma planificação de emergência que descreva as ações a serem executadas em casos de emergência aeronáutica, bem como os acionamentos a serem efetuados, objetivando, prioritariamente, a continuidade das operações e, posteriormente, o salvamento de vidas.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "O PLEM-H deve ser atualizado a cada 2 anos e conter, dentre outros, a informação sobre os tipos de emergência aos quais se destina; sequência de acionamentos e responsabilidades para cada tipo de emergência; procedimentos para utilização dos recursos disponíveis e forma de acionamento dos auxílios externos.",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "O alerta emitido pela ANAC com as recomendações mínimas sobre a utilização de aeronaves EVTOL e vertiportos tem por finalidade regulamentar o uso desse tipo de aeronave, especialmente as que já foram certificadas para uso comercial.",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "Levando em consideração que os vertiportos possuem as mesmas características operacionais dos helipontos, os planos de emergência para ambas infraestruturas devem seguir exatamente os mesmos requisitos, não necessitando de adaptações.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "O Alerta aos Operadores nº 001/2023 é o documento atual que traz orientações quanto ao uso de infraestruturas para operação de aeronaves e-VTOL, seguindo as diretrizes da ICAO, que estão em aperfeiçoamento, levando em consideração a iminente operação desse tipo de aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "Uma atitude ilícita, como o tráfico de animais e o descaminho, praticados no âmbito de uma aeronave ou um aeroporto é considerada um ato de interferência ilícita contra a aviação civil.",
+      "a": "E"
+    },
+    {
+      "n": 71,
+      "t": "Os conceitos de facilitação e segurança no âmbito da segurança da aviação civil não possuem qualquer relação ou interferência entre si, uma vez que cada conceito busca atingir um objetivo distinto do outro.",
+      "a": "E"
+    },
+    {
+      "n": 72,
+      "t": "A facilitação do transporte aéreo tem, como objetivo, prover serviços aos usuários que sejam o mais ágil, confortável, fácil, flexível, desembaraçado e padronizado possível.",
+      "a": "C"
+    },
+    {
+      "n": 73,
+      "t": "Somente os investimentos em novas tecnologias e equipamentos modernos trazem melhorias significativas na facilitação e segurança, devendo-se abandonar os investimentos em questões consideradas mais simples por serem obsoletas.",
+      "a": "E"
+    },
+    {
+      "n": 74,
+      "t": "Um dos motivos pelo qual o correu a Convenção de Chicago, em 1944, era lidar com a crescente onda de ocorrências de interferência ilícita na aviação civil.",
+      "a": "E"
+    },
+    {
+      "n": 75,
+      "t": "Um dos primeiros atentados à aviação civil ocorreu em 1955, nos Estados Unidos, com a explosão do voo United Airlines 629.",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "O primeiro caso de sequestro de aeronave no Brasil ocorreu em 1969, conhecido como Revolta de Aragarças.",
+      "a": "E"
+    },
+    {
+      "n": 77,
+      "t": "As primeiras medidas de combate aos atos de interferência ilícita nas aeronaves foram utilizar policiais para acompanhar os voos considerados de maior risco.",
+      "a": "C"
+    },
+    {
+      "n": 78,
+      "t": "A Convenção de Tóquio foi uma das primeiras medidas adotadas a nível internacional para combater os atos de interferência ilícita, conferindo ao comandante da aeronave prerrogativas para tomar decisões e ações para conter ou desembarcar qualquer pessoa que esteja cometendo, ou possa cometer, atos ilícitos.",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "A primeira edição do Anexo 17, da ICAO, que trata sobre AVSEC foi aprovada no ano de 1974, época em que surgiram também as Convenções de Haia e de Montreal, que se complementaram em resposta à maior onda de ataques à aeronaves da história.",
+      "a": "C"
+    },
+    {
+      "n": 80,
+      "t": "Um caso emblemático de ato contra a segurança da aviação foi o sequestro do voo 375 da VASP, em que o sequestrador ameaçou jogar a aeronave no Palácio do Planalto, caso conhecido como prévia dos ataques de 11 de setembro.",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "Existem estudos que buscam quantificar o valor monetário de uma catástrofe, incluída a perda de vidas humanas, para julgar se os custos de medidas de segurança são proporcionais ao que se pretende evitar, com os estudos resultando em uma conclusão taxativa e definitiva sobre as medidas a serem implementadas.",
+      "a": "E"
+    },
+    {
+      "n": 82,
+      "t": "Os ataques cibernéticos realizados contra as aeronaves não são abordados no texto das convenções existentes atualmente sobre o tema AVSEC devido à falta de legislação específica acerca do tema.",
+      "a": "E"
+    },
+    {
+      "n": 83,
+      "t": "Aprovado em 2017, o GASeP trouxe conceitos e estratégias primordiais para o desenvolvimento da AVSEC, e inovou ao apresentar uma meta global de melhoria dos indicadores de implementação efetiva do Anexo 17, aferidos pelo Programa USAP.",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "O histórico de ocorrências de atos ilícitos mostra que as ocorrências mais comuns continuam sendo os sequestros de aeronaves, como o ocorrido em 11 de setembro de 2001, devido a impossibilidade de se realizar explosão e ataques em áreas públicas.",
+      "a": "E"
+    },
+    {
+      "n": 85,
+      "t": "Não há registros, na aviação, de vítima fatal devido a ataques cibernéticos, embora esse tipo de interferência ilícita venha se tornando cada vez mais comum, tendo a ICAO criado, em 2022, um painel para o tema da segurança cibernética.",
+      "a": "C"
+    },
+    {
+      "n": 86,
+      "t": "A Declaração do Contexto Global de Riscos para AVSEC é o resultado do trabalho do Painel AVSEC da ICAO, que vem se dedicando às avaliações de risco no âmbito da aviação internacional.",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "Enquanto gerenciado pelo DAC, o PNAVSEC possuía alto grau de prescritividade, bem como havia muitas informações nas IAC, de modo que não havia uma segregação clara entre normas, orientações técnicas e formas aceitáveis de cumprimento.",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "A Segurança da Aviação Civil, regulamentada pelo DAC, assim como os temas relacionados à Segurança Operacional, possuía regulamentos exclusivos de requisitos, como os Regulamentos Brasileiros de Aviação Civil (RBAC) ou Regulamentos Brasileiros de Homologação Aeronáutica (RBHA).",
+      "a": "E"
+    },
+    {
+      "n": 89,
+      "t": "O PNAVSEC e a maioria das IAC da ANAC são documentos sob classificação de sigilo, ou seja, somente pessoas e organizações com necessidade de conhecer, tem acesso a tais documentos.",
+      "a": "E"
+    },
+    {
+      "n": 90,
+      "t": "O maior marco da regulação da segurança da aviação civil no Brasil ocorreu em 2010, com a publicação de um novo PNAVSEC, que permitiu uma maior aproximação da indústria com os órgãos públicos.",
+      "a": "C"
+    },
+    {
+      "n": 91,
+      "t": "Os principais RBAC da ANAC sobre AVSEC são os RBAC 107, 108, 110 e 111, junto de suas IS, que tratam, respectivamente, de requisitos de AVSEC para operadores de aeródromos, requisitos AVSEC para operadores aéreos, instrução de AVSEC e, por fim, Controle de Qualidade AVSEC.",
+      "a": "C"
+    },
+    {
+      "n": 92,
+      "t": "Os RBAC 107 e 108 são ostensivos e tratam das obrigações normativas, enquanto as IS 107 e 108 possuem divulgação restrita às pessoas e aos operadores que, de forma justificada, precisam do seu acesso.",
+      "a": "C"
+    },
+    {
+      "n": 93,
+      "t": "O novo PNAVSEC (2022) trouxe novos temas e atualizações, como a segurança cibernética e a proteção de áreas públicas, atendendo as novas atualizações do Anexo 17.",
+      "a": "C"
+    },
+    {
+      "n": 94,
+      "t": "Em 2020, a ANAC instituiu o BASeT, composto por representantes de instituições públicas e privadas, para definir uma agenda de prioridades para o setor no país, levando em consideração a percepção de risco nacional, as necessidades locais, assim como o Plano Global de Segurança da Aviação Civil (GASeP).",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Atualmente, está em pauta o SeMS, que tem por objetivo implantar um sistema de gerenciamento da segurança da aviação civil por meio de métodos de avaliação de risco e desenvolvimento de uma cultura de segurança.",
+      "a": "C"
+    }
   ]
 }

@@ -2179,6 +2179,308 @@
       "a": "C"
     }
   ],
+  "extra 30-12": [
+    {
+      "n": 1,
+      "t": "PEL é o conjunto de normas, regulamentos e procedimentos que regem a formação, a qualificação, a certificação e o licenciamento do pessoal da aviação civil no Brasil.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "CIAC é a organização certificada para formar recursos humanos e conduzir alunos à obtenção de licenças, habilitações e certificados requeridos pela ANAC, com certificado em nome da entidade e Especificação de Instrução indicando os cursos aprovados.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "CTAC é a organização certificada para fornecer treinamentos e conduzir exames teóricos e verificações, abrangendo, entre outros, pilotos, mecânicos de voo, comissários e despachantes operacionais de voo.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Em regra, a lógica que mais aparece em prova é a distinção entre formação inicial (CIAC) e treinamento/qualificação avançada com checagens e verificações (CTAC).",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "Para pilotos, é correto afirmar que o CTAC tem como finalidade típica a obtenção de licenças, inclusive PLA, pois ele substitui o CIAC na formação básica.",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "É defeso ao CTAC, no contexto de pilotos, ofertar treinamento sem dispor, no mínimo, de simulador FFS nível D, pois esse é o patamar mínimo exigido para qualquer certificação de centro de treinamento.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "Um CIAC pode conduzir treinamento voltado à obtenção de licenças e habilitações iniciais e também à obtenção e/ou renovação de habilitações de classe e de operação, como voo por instrumentos e instrutor de voo.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "É correto afirmar que o CTAC se circunscreve ao treinamento de pilotos de linha aérea, sendo vedada a atuação com mecânicos de voo, comissários ou despachantes operacionais de voo.",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "A certificação inicial de CIAC e CTAC é estruturada em 5 fases e funciona como “portais”: uma fase só se encerra quando seus requisitos tiverem sido atendidos.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "Na fase de contato inicial, pode haver reunião de orientação prévia, e reuniões adicionais podem ocorrer ao longo do processo para alinhamento e esclarecimento de dúvidas.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Na fase de solicitação formal, a ANAC realiza triagem preliminar do pacote; havendo erros ou omissões, a análise detalhada prescinde de correção prévia e prossegue normalmente até a decisão final.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "A fase de demonstrações e inspeções busca constatar, na prática, que a organização cumpre requisitos e opera de forma segura conforme seus manuais, podendo incluir atividades a distância e presenciais.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "A certificação se formaliza com emissão dos documentos, e a regra é certificar apenas após conclusão satisfatória de todas as fases.",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "Após a certificação inicial, a organização passa a um ciclo contínuo de conformidade, com revisões, inclusão de cursos, aprovação de instrutores e alterações de bases de treinamento.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "É correto afirmar que a validação de CTAC estrangeiro tem efeitos inferiores à certificação brasileira, servindo apenas como referência, sem permitir treinamentos e exames para habilitações brasileiras. Página 1",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "A qualificação (ou validação de qualificação) de dispositivos de simulação de voo é tratada em processo próprio, regido pelo RBAC 60, e pode envolver CTAC e, em alguns casos, operadores que utilizem tais dispositivos em treinamentos e exames.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Para explorar transporte aéreo internacional, empresa estrangeira precisa de autorização de operação conforme regulamentação da autoridade de aviação civil, sendo dispensada a autorização prévia de funcionamento societário prevista no direito civil comum.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "No transporte internacional regular com origem e destino no Brasil, há uma etapa de “presença jurídica” no país, além da etapa interna de autorização operacional pela autoridade aeronáutica.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "No fluxo de acesso ao mercado, a porta de entrada do pedido, para empresa estrangeira, se concentra na área de acesso ao mercado, por envolver acordos e condições de exploração do serviço aéreo.",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "A autorização de empresa estrangeira para transporte internacional regular é, em geral, mais simples que a de não regular, pois não exige estruturação jurídica no Brasil.",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "No transporte internacional não regular, a caracterização envolve número limitado de frequências em um intervalo de tempo, com limites objetivos em janela de 12 meses.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "Em 12 meses, considera-se não regular até 4 frequências mensais por até 9 meses (consecutivos ou não) ou até 15 frequências mensais por até 3 meses (consecutivos ou não).",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "O transporte internacional não regular tende a ser mais célere e menos burocrático, em parte porque, em regra, não exige constituição da empresa no Brasil.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "A autorização para não regular é dada por portaria com prazo fixo anual, independentemente da validade dos documentos apresentados.",
+      "a": "E"
+    },
+    {
+      "n": 25,
+      "t": "Para operador privado estrangeiro, a comunicação de sobrevoo e, no máximo, um pouso técnico ocorre em sistema próprio e é compartilhada com o controle do espaço aéreo via órgão de coordenação pertinente.",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "A Autorização de Voo ANAC é instrumento usado quando há mais de um pouso ou permanência no território, com validade típica de 60 dias e possibilidade de prorrogação por 45 dias, respeitando a validade dos documentos.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "É defeso reduzir a validade da Autorização de Voo ANAC abaixo de 60 dias, ainda que documentos apresentados vençam antes desse prazo.",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "Para a permanência de aeronave civil estrangeira, a Autorização de Voo ANAC demanda validação pela Receita Federal por termo de admissão temporária de bens, e o registro posterior das operações alimenta a coordenação de tráfego dentro do país.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "O objetivo da coordenação de aeroportos nível 3 é otimizar uso de infraestrutura saturada e disciplinar o acesso, buscando eficiência e concorrência em aeroporto com restrição de capacidade.",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "Aeroporto coordenado (nível 3) é aquele cujo elevado nível de ocupação compromete componente crítico como pista, pátio ou terminal em certos horários, dias ou períodos do ano.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "Slot aeroportuário é a infraestrutura alocada para uma operação específica de pouso ou decolagem, em data e horário determinados, independentemente de o aeroporto ser coordenado (nível 3) ou não.",
+      "a": "E"
+    },
+    {
+      "n": 32,
+      "t": "Série de slots é um conjunto de slots para a mesma empresa, em semanas consecutivas e no mesmo aeroporto, podendo alternar o dia da semana, desde que mantido o mesmo horário. Página 2",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "A Base de Referência é usada para monitoramento e para determinar histórico de slots, sendo formada em data prevista no calendário de atividades.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "PDO é a publicação de dados de operações realizadas e canceladas, fornecida pelas empresas aéreas, e não pelo operador do aeroporto, para fins de monitoramento do uso de slots.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "Na alocação inicial de slots, a prioridade recai primeiro sobre novas solicitações de entrantes pelo banco de slots, depois sobre alterações de histórico e, por último, sobre histórico de slots.",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "Para alteração de histórico, a faixa aceitável de mudança de horário pode variar por aeroporto; como regra de prova, admite-se 120 minutos em alguns aeroportos coordenados, ao passo que, em Congonhas, a referência é de 0 minuto.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Uma empresa entrante pode ser definida por um teto de slots por dia; como referência, até 8 slots/dia em GRU, REC e SDU e até 20 slots/dia em Congonhas.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "O percentual do banco de slots reservado a entrantes é uniforme: 100% do banco em GRU, REC e SDU e 50% do banco em Congonhas.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "É correto afirmar que o slot integra o patrimônio da empresa e constitui direito adquirido permanente, podendo ser negociado livremente como ativo comercial.",
+      "a": "E"
+    },
+    {
+      "n": 40,
+      "t": "Swap é ajuste bilateral de slots entre empresas para acomodação de malha, enquanto cessão é mecanismo de mercado secundário, introduzindo transferência sob regras específicas.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Para cessão, pode ser exigido histórico reconhecido por 3 temporadas equivalentes consecutivas, de modo a evitar especulação e preservar estabilidade do sistema.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "Em certas hipóteses, a cessão de slots para empresa de grupo econômico diferente pode restringir o acesso ao banco de slots por 3 temporadas equivalentes, salvo exceção quando não houver outra interessada.",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "A meta de regularidade, usada para manutenção de histórico de slots, é de 80%, calculada por série como razão entre slots utilizados e slots alocados na Base de Referência.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "O desvio tolerado para avaliação de pontualidade pode ser de 15 minutos, e o foco regulatório recai sobre padrão repetitivo, não sobre episódio isolado.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Na comercialização, é suficiente informar o valor do serviço de transporte; tarifas aeroportuárias e valores governamentais podem ser omitidos, desde que apareçam apenas no comprovante final de compra.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "Serviços adicionais, como assento marcado e bagagem despachada, podem ser incluídos automaticamente no valor final, independentemente de contratação ativa do consumidor.",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "O passageiro pode desistir da passagem sem ônus em até 24 horas após receber o comprovante de compra, desde que a compra tenha sido feita com antecedência mínima de 7 dias em relação ao embarque.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "Alteração programada de horário ou itinerário deve ser comunicada com antecedência mínima de 72 horas; se a comunicação ocorrer com menos de 72 horas, e o passageiro não concordar, ele pode escolher reembolso integral ou reacomodação.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "Mesmo com comunicação adequada, apenas se a alteração do horário superar 1 hora em voo doméstico ou 2 horas em voo internacional, e o passageiro não concordar, ele poderá escolher reembolso integral ou reacomodação.",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "A franquia mínima de bagagem de mão é de 10 kg por passageiro, cabendo ao transportador definir dimensões e quantidade de volumes para cumprir essa franquia. Página 3",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "Em caso de avaria ou violação do conteúdo da bagagem despachada, o passageiro tem até 7 dias para formalizar protesto, e o transportador tem até 7 dias, após o protesto, para avaliar e adotar providências.",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "Em caso de extravio, o prazo de restituição no endereço indicado é de até 21 dias em voos domésticos e 7 dias em voos internacionais; ultrapassado o prazo, há dever de indenizar em até 10 dias.",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "A assistência material segue a escada 1 2 4: comunicação após 1 hora, alimentação após 2 horas, e hospedagem e traslado após 4 horas, quando aplicável.",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "Preterição ocorre quando o transportador deixa de transportar passageiro que se apresentou para embarque; quando configurada, há compensação fixa de 250 DES no doméstico e 500 DES no internacional.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "O voluntário que aceita alterar o voo por negociação mantém direito à compensação fixa em DES, cumulativamente ao que foi acordado com o transportador.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "A ANAC monitora tarifas a partir de valores efetivamente comercializados, enquanto índices de inflação podem usar tarifas ofertadas em buscas; por isso, é possível haver diferenças metodológicas sem contradição necessária.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "Dados estatísticos do transporte aéreo devem ser remetidos até o 15º dia do mês posterior à operação, abrangendo também operações de táxi aéreo, por se tratar de segmento relevante para a série histórica.",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "No sistema brasileiro, o controle do espaço aéreo é atribuição da ANAC, enquanto o DECEA se limita à segurança de voo; já a investigação de acidentes pelo CENIPA tem natureza sancionadora e visa apurar culpa.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "É correto afirmar que não há conflitos relevantes entre o Código Aeronáutico, o direito do consumidor e convenções internacionais, sendo tema pacificado e uniforme.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "Para envio de demonstrações contábeis à ANAC, basta que a empresa tenha qualquer operação comercial, pois o critério de relevância por participação de mercado não é utilizado para definir quem deve prestar essas informações. Página 4 GABARITO Marque C (certo) ou E (errado).",
+      "a": "E"
+    }
+  ],
   "extra modulo 1": [
     {
       "n": 1,

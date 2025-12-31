@@ -5439,5 +5439,612 @@
       "t": "Atualmente, está em pauta o SeMS, que tem por objetivo implantar um sistema de gerenciamento da segurança da aviação civil por meio de métodos de avaliação de risco e desenvolvimento de uma cultura de segurança.",
       "a": "C"
     }
+  ],
+  "CF ANAC 30-12": [
+    {
+      "n": 1,
+      "t": "A aviação no Brasil teve início com o voo do mecânico inglês Edmond Plauchut, em 22 de outubro de 1911.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "A aviação se consolidou como meio de transporte de passageiros no fim da década de 1920.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "A Primeira Guerra Mundial marcou um ponto importante no desenvolvimento de aeronaves, que antes eram frágeis, difíceis de controlar e com autonomia muito limitada.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "A Aerobrás foi uma empresa estatal criada em 1963 e englobou todo o transporte aéreo comercial, gerando uma solução para os problemas provocados pela concorrência.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "A VARIG e a Condor Syndicat foram as pioneiras no mercado de transporte aéreo civil brasileiro.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "O Marechal Casemiro Montenegro idealizou a criação de uma indústria aérea nacional e, em 1950, iniciou-se o curso de Engenharia Aeronáutica, resultado dos trabalhos sob a trilogia Ensino, Pesquisa e Indústria.",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "Durante a Segunda Guerra Mundial, as bases aéreas e aeroportos do litoral brasileiro foram de grande importância para o cenário bélico daquele momento, com destaque para as bases do norte e nordeste.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "O Aeroporto de Congonhas foi planejado em 1998, após uma enchente no Rio Tietê alagar e interditar o Aeroporto do Campo de Marte, único aeroporto da época na capital paulista.",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "O Aeroporto Santos Dumont foi o primeiro aeroporto criado para atender unicamente à aviação civil.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O setor de transporte aéreo doméstico no Brasil passou por duas grandes reformas, sendo a primeira delas entre as décadas de 1960 e 1970 e a segunda iniciada nos anos 2000.",
+      "a": "E"
+    },
+    {
+      "n": 11,
+      "t": "A Regulação com Política Industrial (1973-1986) foi o período mais representativo da era regulatória, cujo objetivo era adotar instrumentos de regulação econômica e mecanismos de política desenvolvimentista.",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "No período da Regulação com Política Industrial, operavam 5 empresas aéreas nacionais e 4 regionais, num regime de competição aberta, implantado através das Conferências Nacionais da Aviação Comercial (CONAC).",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "O SITAR fazia parte de um conjunto de políticas industriais que visavam fomentar o setor regional da aviação, dividindo o país em cinco grandes áreas, sob o controle de cinco empresas em regime de monopólio.",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "No período da Regulação com Política de Estabilização Ativa marcou-se a forte intervenção setorial, ocorrendo medidas de desvalorização da taxa de câmbio, que aumentavam a rentabilidade das atividades voltadas à importação, além do controle de preços em setores que desempenhavam atividades orientadas para o mercado interno.",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "A terceira fase da era regulatória, denominada Liberalização com Política de Estabilização Inativa (1992-1997) representa o início da flexibilização da aviação comercial, com a desregulamentação ocorrendo de forma gradual, implementada em três etapas, seguindo um modelo semelhante ao adotado no Reino Unido.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "A primeira etapa da desregulamentação da aviação civil foi marcada pela abolição dos monopólios regionais, pelo estímulo à entrada de novas empresas, não havendo mais qualquer forma de monopólio entre as empresas aéreas.",
+      "a": "E"
+    },
+    {
+      "n": 17,
+      "t": "O movimento de desregulamentação das tarifas aéreas se iniciou com um regime de bandas tarifárias, em que as tarifas podiam variar dentro de um intervalo calculado, com base em índices publicados pelo DAC.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "No período da Liberalização com Restrição de Política de Estabilização, foram removidos o regime de bandas tarifárias e o monopólio das regionais sobre as Linhas Aéreas Especiais, o que deu menos liberdade às empresas aéreas e desestimulou a competitividade e a guerra por preços e corridas por frequências.",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "A Quase-Desregulamentação foi marcada pela criação do CONAC (Conselho de Aviação Civil), pela total liberalização dos preços, além da flexibilização para entrada de novas empresas e pedidos de novas linhas, frequências e aeronaves, o que possibilitou a entrada da GOL no mercado aéreo nacional, em 2001.",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "A Re-regulação e Transição é a última fase da era regulatória, a partir de 2003, em que o DAC, exercendo uma função moderadora, voltou a utilizar alguns procedimentos de interferência econômica para controlar o “excesso de capacidade” e o acirramento da “competição ruinosa” no mercado.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "O Sistema de Aviação Civil Brasileiro foi instituído em 1969, com a finalidade de organizar as atividades de funcionamento e desenvolvimento da aviação civil, através de ações de regulação, controle, fiscalização, orientação e incentivo, executadas pela Administração Pública Direta e Indireta, além de instituições privadas.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "O Sistema de Aviação Civil Brasileiro tinha, no início, o DAC como órgão central e os outros órgãos estavam sujeitos à sua orientação normativa, supervisão técnica e fiscalização específica.",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "No início, a ANAC era vinculada ao Ministério da Defesa, no entanto, desde 2023 passou a ser vinculada ao Ministério dos Transportes.",
+      "a": "E"
+    },
+    {
+      "n": 24,
+      "t": "A política nacional de transportes aquaviário e aeroviário são de competência do MPOR, bem como a aviação civil e infraestruturas aeroportuária e de aeronáutica civil, em articulação, no que couber, com o Ministério da Defesa.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "O CENIPA é o órgão central do SIPAER e fica responsável por investigar e tratar dos inquéritos e apontar os culpados e as respectivas punições pelos incidentes e acidentes aeronáuticos.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA) surgiu com o intuito de promover a prevenção de acidentes aeronáuticos seguindo a filosofia baseada no trinômio “o homem, o meio e o avião”.",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "O CONAC (Conselho de Aviação Civil) é um órgão colegiado de assessoramento do Presidente da República para a formulação da política de ordenação da aviação civil e é componente da estrutura do MPOR.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "O Direito Aeronáutico consiste no conjunto de normas jurídicas que abrangem a navegação aérea, tráfego aéreo, infraestrutura aeronáutica e aeroportuária, atos e serviços, desde que ligados diretamente ao voo de aeronaves.",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "A principal fonte do Direito Aeronáutico é o CBA (1986), na esfera nacional e a Convenção de Otawa e seus anexos, na esfera internacional.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "O Código Brasileiro do Ar, tendo sua primeira edição em 1938, surgiu com a necessidade do governo dotar o país de uma legislação eficiente na regulação da aviação civil e comercial, acompanhando os progressos do setor mundial de aviação.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "O Código Brasileiro do Ar de 1966 apenas apresentou algumas mudanças, sem importância, como a instituição de licenças e certificados para tripulantes, criação das primeiras regras para a construção e exploração de aeródromos e o início da preocupação com a competição ruinosa.",
+      "a": "E"
+    },
+    {
+      "n": 32,
+      "t": "No Brasil, a responsabilidade civil pelos danos oriundos do transporte aéreo era regulada pelo Código Civil e, posteriormente, pelas edições do CBA, que seguiam a disciplina varsoviana.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "Quanto à responsabilização das empresas aéreas em relação aos danos civis, há divergências entre o CBA e o CDC, sendo este mais ameno e aquele mais rígido em relação à compensação devida aos passageiros por danos oriundos do transporte aéreo.",
+      "a": "E"
+    },
+    {
+      "n": 34,
+      "t": "Os RBAH e RBAC são regras gerais que abrangem as normas e procedimentos recomendados pela ICAO e podem ter efeitos externos ou externos e internos.",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "Para que se possa exercer as atividades inerentes à aviação, o Pessoal da Aviação Civil deve seguir um conjunto de requisitos, os quais são idade mínima, idade máxima, grau de instrução, aptidão psicofísica, conhecimentos teóricos e práticos, instrução de voo, experiência de voo e exame de proficiência.",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "O Piloto Comercial (PC) pode exercer todas as prerrogativas de PP e atuar remuneradamente como piloto, podendo, inclusive, atuar como piloto em comando em voos de serviços de transporte aéreo público em uma aeronave certificada para operação com tripulação mínima de 2 dois pilotos.",
+      "a": "E"
+    },
+    {
+      "n": 37,
+      "t": "Para as atividades de aerodesporto, como paraquedismo, balonismo, operação de ultraleves motorizados e voo livre, os requisitos são mais flexíveis, conforme o RBAC 103, que foca na conscientização dos praticantes a não exporem a sociedade e o tráfego a risco iminente.",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "Por se tratar de atividade com maior risco, a ANAC exige e emite habilitação para operações de voo livre, sendo recomendado que qualquer interessado em praticar esportes radicais se habilite por meio de associações aerodesportivas que sejam reconhecidas pela comunidade praticante.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "A ANAC não exige e não emite habilitação para a operação de aeronaves ultraleves regidas pelo RBAC 103, que tenham até 200kg, se motorizado, e velocidade máxima de até 100kt, sendo recomendado que qualquer interessado na prática de tal atividade busque se habilitar por meio de associações aerodesportivas reconhecidas pelos praticantes.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Tanto o CIAC, quanto o CTAC precisam de certificação, sendo emitido para eles um certificado com o nome da instituição e, em adição, um CIAC recebe uma Especificação de Instrução, enquanto que um CTAC recebe Especificação de Treinamento.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Um CTAC certificado deve possuir, ao menos, um Dispositivo de Treinamento de Simulação de Voo, podendo ministrar treinamentos para pilotos que operam em empresas RBAC 121 e 135.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "O processo de certificação inicial de um CIAC ou CTAC é estruturado em quatro fases que funcionam como portais, significando que uma fase só é considerada concluída quando todos os seus requisitos forem atendidos, as quais são o contato inicial, a solicitação formal, as demonstrações e inspeções e, por último, a emissão do certificado.",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "Conforme o RBAC 142, a SPL pode validar a certificação de um CTAC estrangeiro, baseado na similaridade entre a regulamentação brasileira e a regulamentação do país onde o CTAC estrangeiro foi originalmente certificado.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "A SPL pode realizar a qualificação ou validação de qualificação de dispositivos de treinamento para simulação de voo (FSTD), podendo ser na certificação de um CTAC ou para CTAC certificado, ou ainda, para uma empresa aérea que almeja utilizar um FTD ou FFS para treinamentos e/ou exames.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Economia da regulação é o campo da economia que estuda “como” e “por que” os governos intervêm em mercados e setores específicos para corrigir falhas de mercado, promover justiça e melhorar a eficiência econômica.",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "A Lei da Liberdade Econômica (Lei nº 13.874/2019) estabelece que, quando o mercado falha, é necessária a intervenção do Estado, de maneira subsidiária e excepcional.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "A regulação econômica é um mecanismo para corrigir falhas do governo, a fim de emular as condições de concorrência e, assim, propiciar aos consumidores produtos e serviços de qualidade a preços acessíveis.",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "A Lei da Oferta e Demanda estabelece que, em um mercado livre e competitivo, o preço de um bem tende a ser determinado pelo equilíbrio entre a oferta e a demanda.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "A rivalidade é um fator que ocorre exclusivamente entre produtores que desejam vender seus produtos ou serviços de mesma classe.",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "São exemplos de falhas de governo os monopólios; oligopólios; externalidades, que são efeitos colaterais das atividades econômicas que afetam terceiros; bens públicos e informação assimétrica.",
+      "a": "E"
+    },
+    {
+      "n": 51,
+      "t": "No que diz respeito a modelos de negócio, as empresas brasileiras predominantes apresentam características de modelos tradicionais (como o uso de hubs, programas de fidelidade, amenidades de voo) e de baixo custo (cobrança de serviços adicionais, como assentos e bagagem despachada, e em alguns casos específicos similaridade de frota e uso de aeroportos secundários).",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "Mesmo com suas peculiaridades, como grande necessidade de capital e economias de escala, é proibido haver oligopólios, duopólios ou monopólios atuando no setor aéreo.",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "É defeso à ANAC, por ausência de competência legal, julgar ou aplicar qualquer tipo de sanção em função de supostas condutas anticompetitivas ou infrações contra a ordem econômica. Caso identifique fato que configure ou possa configurar conduta anticompetitiva, deverá encaminhar o caso para análise do CADE.",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "São benefícios diretos trazidos pela concorrência a redução de preços, a melhoria na qualidade do serviço e a formação de monopólios regionais.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "Os maiores custos das companhias aéreas são relacionados a combustíveis e lubrificantes, que por sua vez, possuem preços sempre fixos devido às operações de hedge.",
+      "a": "E"
+    },
+    {
+      "n": 56,
+      "t": "Os combustíveis e lubrificantes são responsáveis por mais de um terço dos custos de uma empresa aérea, sendo uma estratégia para fazer frente a esse custo a busca por maior eficiência nas operações.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "Revenue Management pode ser definido como o processo pelo qual as tarifas com desconto são alocadas aos voos agendados, com o propósito de balancear a demanda e aumentar a receita, obedecendo sempre a lei da oferta e da procura.",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "São distintas as situações de overbooking e preterição de embarque, uma vez que esta ocorre por venda de bilhetes além da capacidade da aeronave e aquela por outros fatores, como troca de aeronave por modelo de menor capacidade.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "O Yield é uma variável que considera o preço pago da tarifa por km rodado.",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "São fatores que influenciam no preço da passagem aérea, a distância do voo, a densidade de demanda, a sazonalidade e a taxa de ocupação das aeronaves.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "De acordo com a teoria econômica da regulação, intervenções estatais somente devem ser aplicadas quando constatada uma falha de mercado e, em casos muito específicos, sob risco de representar uma falha de governo.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "As principais temáticas tratadas na ANAC são safety (segurança operacional), security (AVSEC), regulação econômica de aeroportos e acompanhamento do mercado de transporte aéreo, sendo os dois primeiros regulação econômica e os dois últimos são regulação técnica.",
+      "a": "E"
+    },
+    {
+      "n": 63,
+      "t": "No que tange à regulação econômica, cabe à ANAC monitorar e acompanhar o mercado, de forma a avaliar oportunidades de redução de entraves institucionais à promoção de mais concorrência, bem como punir eventuais desvios por parte dos operadores aéreos.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Toda empresa estrangeira que pretenda explorar serviço de transporte aéreo internacional regular, com origem e destino no Brasil, deve observar as regras da ANAC e se constituir no país, conforme as regras previstas no Código Civil.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "O processo de autorização para empresa aérea regular estrangeira no Brasil pode ser dividido em duas fases, uma fase externa, onde a empresa se constitui no país de origem; e a fase interna, que é a autorização de operação, prevista no CBA, onde a ANAC analisa se a empresa possui os requisitos operacionais necessários, sejam eles de “Safety” ou de “Security”.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "Assim como as empresas brasileiras, o pedido inicial de autorização das empresas estrangeiras é realizado perante à Gerência de Acesso ao Mercado da Superintendência de Acompanhamento de Serviços Aéreos GEAM/SAS.",
+      "a": "E"
+    },
+    {
+      "n": 67,
+      "t": "As empresas estrangeiras não regulares são aquelas que operam no máximo 4 frequências mensais por até 9 meses consecutivos ou não, ou, no máximo, 15 frequências mensais por até 3 meses consecutivos ou não, dentro de um período de 12 meses.",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "As empresas estrangeiras que pretendem realizar operação aérea não regular devem passar pelo processo de constituição de empresa no Brasil, sendo submetidas a um processo mais simples, uma vez que normalmente são contratadas para suprir uma demanda pontual e imediata, como trazer equipamentos para um show ou equipes de Fórmula 1.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "Enquanto as empresas estrangeiras regulares recebem uma Portaria de Autorização, com validade enquanto possuir condições de operação, as empresas não regulares são autorizadas por meio de ofício, com validade de acordo com a validade de seus documentos.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "A autorização AVANAC é utilizada para mais de um pouso ou permanência no território brasileiro, possui validade de 60 dias, podendo ser prorrogada por períodos de 45 dias.",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "A regulação da utilização de Slots no Brasil começou no ano 2000, ainda sob a gerência do DAC.",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "A primeira norma de slots publicada pela ANAC tratava de slots destinados, exclusivamente, a voos regulares domésticos, aplicada somente ao aeroporto de Guarulhos.",
+      "a": "E"
+    },
+    {
+      "n": 73,
+      "t": "Embora a gestão dos slots seja feita pela ANAC desde sua criação, apenas em 2014 o Brasil trouxe uma regulamentação de slots mais alinhada aos padrões internacionais, ao se comparar com as diretrizes estabelecidas pelo WASG.",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "O principal objetivo do processo de coordenação e alocação de slots é otimizar o uso de uma infraestrutura aeroportuária saturada, disciplinando o acesso pelas empresas aéreas, de forma a promover, da melhor forma possível, a ampliação da concorrência no aeroporto.",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "O foco da regulação de slots é proceder com a alocação e monitoramento dos slots em aeroportos declarados pelo COMAER como coordenados, também conhecidos como aeroportos nível 3, que no Brasil, são os aeroportos de Congonhas (CGH), Guarulhos (GRU), Recife (REC) e Santos Dumont (SDU).",
+      "a": "E"
+    },
+    {
+      "n": 76,
+      "t": "Banco de slots refere-se ao conjunto de slots disponíveis para alocação de novas solicitações de slots para empresas de transporte aéreo e operadores aéreos na temporada.",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "Base de referência (BDR) é a base de dados de séries de slots utilizada como referência para monitorar as séries de slots de cada empresa de transporte aéreo, visando à determinação do histórico de slots.",
+      "a": "E"
+    },
+    {
+      "n": 78,
+      "t": "Base de slots vigentes é o conjunto de slots alocados em um dado mês de operação da temporada.",
+      "a": "E"
+    },
+    {
+      "n": 79,
+      "t": "Declaração de aeroporto coordenado é o documento emitido pelo operador aéreo, que declara um aeroporto como coordenado (nível 3).",
+      "a": "E"
+    },
+    {
+      "n": 80,
+      "t": "Declaração de capacidade aeroportuária é o documento emitido pelo operador do aeroporto, em acordo com o responsável pelo controle do espaço aéreo, que informa à ANAC os parâmetros de coordenação relacionados à capacidade aeroportuária para cada temporada.",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "Slot aeroportuário (slot) é a infraestrutura aeroportuária, alocada pelo coordenador à empresa de transporte aéreo ou ao operador aéreo, para realizar uma operação aérea de pouso ou decolagem em um aeroporto coordenado, em data e horário específicos.",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "A Resolução 682 prevê as principais regras sobre a coordenação e alocação de slots, mas os principais parâmetros de coordenação estão em regulamentos próprios de cada aeroporto coordenado, utilizando-se dos valores do WASG, com exceção do aeroporto Santos Dumont.",
+      "a": "E"
+    },
+    {
+      "n": 83,
+      "t": "O slot integra o patrimônio da empresa de transporte aéreo ou do operador aéreo e representa o uso temporário da infraestrutura aeroportuária, cuja manutenção dos históricos de slots depende do cumprimento de critérios estabelecidos pela Resolução nº 682.",
+      "a": "E"
+    },
+    {
+      "n": 84,
+      "t": "Uma das maiores inovações trazidas pela Resolução 682 foi a possibilidade de realização de cessão de slots entre as empresas, o que anteriormente era proibido.",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "A Resolução 682 prevê algumas facilidades ou flexibilidades quanto ao gerenciamento dos slots, como as alterações realizadas por meio de trocas (swap) de slots entre os operadores aéreos ou através da cessão de slots.",
+      "a": "C"
+    },
+    {
+      "n": 86,
+      "t": "A empresa de transporte aéreo que ceder slots para empresas de diferentes grupos econômicos não receberá slots, do banco de slots, por 3 (três) temporadas subsequentes, mesmo que não haja outra empresa interessada.",
+      "a": "E"
+    },
+    {
+      "n": 87,
+      "t": "A Declaração de Capacidade Aeroportuária é emitida e publicada pela ANAC, enquanto o operador do aeródromo emite e publica a Declaração de Aeroporto Coordenado.",
+      "a": "E"
+    },
+    {
+      "n": 88,
+      "t": "Na alocação inicial, a ANAC procede com a alocação de todas as séries de slots submetidas pelas empresas, seguindo os critérios de alocação, os parâmetros de coordenação e os parâmetros de capacidade aeroportuária.",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "A alocação inicial de slots é uma das etapas mais importantes do processo de coordenação de aeroportos, pois é nessa etapa que se define quais empresas aéreas estariam entrando naquele aeroporto, bem como os horários de pousos e decolagens estabelecidos a cada interessado.",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "Os critérios secundários são utilizados para composição de conflito na escolha dos slots que serão alocados, caso não haja capacidade de alocar todos os pedidos de slots em uma determinada faixa horária, devido à restrição de infraestrutura aeroportuária.",
+      "a": "C"
+    },
+    {
+      "n": 91,
+      "t": "Os critérios de Melhor desempenho ambiental, Maior série de slots, Maior aeronave, Maior promoção de concorrência no aeroporto e Maior eficiência operacional são critérios secundários aplicados no processo de alocação de slots.",
+      "a": "C"
+    },
+    {
+      "n": 92,
+      "t": "Para a alocação de slots no aeroporto de Congonhas, além dos critérios comuns, também aplicados a outros aeroportos, existem critérios específicos para que uma empresa possa atuar nesse aeroporto.",
+      "a": "C"
+    },
+    {
+      "n": 93,
+      "t": "Para se obter o melhor uso de uma infraestrutura aeroportuária saturada, é realizado o monitoramento do uso de slots, em que são avaliadas as ocorrências que envolvam operação aéreas realizadas sem prévia alocação do slot, operações em desacordo com as características do slot, operações canceladas e slots cancelados.",
+      "a": "C"
+    },
+    {
+      "n": 94,
+      "t": "Caso a empresa aérea opere seus slots abaixo da meta de regularidade de 80% e/ou caso se verifique mau uso intencional dos slots alocados, ela pode perder o histórico de slots para a próxima temporada.",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Para verificação de adiantamentos ou atrasos em relação ao uso de slots, são verificadas todas as operações aéreas realizadas, havendo uma tolerância de 15 minutos, sendo as empresas notificadas por qualquer atraso, esporádico ou sistêmico, para que tome as medidas corretivas.",
+      "a": "E"
+    },
+    {
+      "n": 96,
+      "t": "A ANAC não pode aplicar sanções administrativas em casos de mau uso intencional de slots, devendo encaminhar o caso ao CADE, que irá realizar a análise e julgamento do caso.",
+      "a": "E"
+    },
+    {
+      "n": 97,
+      "t": "As regras da Resolução 400 se aplicam ao transporte aéreo regular de passageiros, doméstico e internacional, bem como aos voos não regulares, em que houver assentos comercializados individualmente e oferecidos ao público.",
+      "a": "C"
+    },
+    {
+      "n": 98,
+      "t": "O valor da passagem aérea é composto pela soma do valor dos serviços de transporte aéreo, das tarifas aeroportuárias e de valores devidos a entes governamentais.",
+      "a": "C"
+    },
+    {
+      "n": 99,
+      "t": "O valor final do serviço de transporte aéreo inclui o valor da passagem mais o valor pago por serviços adicionais, como marcação de assentos e despacho de bagagens, que devem ser cobrados automaticamente no processo de comercialização.",
+      "a": "E"
+    },
+    {
+      "n": 100,
+      "t": "O passageiro pode desistir da passagem aérea adquirida, sem qualquer ônus, desde que o faça no prazo de até 24 horas, a contar do recebimento do seu comprovante de aquisição, independente da antecedência da data do voo.",
+      "a": "E"
+    },
+    {
+      "n": 101,
+      "t": "Em caso de remarcação, o passageiro estará sujeito a recebimento ou pagamento de valor diferencial referente à taxa de embarque, mas sempre deverá pagar uma taxa sobre o valor do serviço de transporte aéreo.",
+      "a": "E"
+    },
+    {
+      "n": 102,
+      "t": "O transportador tem obrigação de comunicar ao passageiro, com pelo menos 72 horas de antecedência, mudança de horário ou itinerário, originalmente, contratado, garantindo ao passageiro, caso descumpra esse prazo, o direito de escolher entre reembolso integral ou reacomodação.",
+      "a": "C"
+    },
+    {
+      "n": 103,
+      "t": "Alteração do horário de partida ou de chegada, superior a 30 minutos, nos voos domésticos, e a 1 hora, nos voos internacionais, em relação ao horário originalmente contratado garantem ao passageiro que não concordar com as alterações, optar por reembolso integral ou reacomodação, à sua escolha.",
+      "a": "C"
+    },
+    {
+      "n": 104,
+      "t": "Após o recebimento de sua bagagem despachada, o passageiro tem até 7 dias para formalizar o protesto, junto ao transportador, caso constate avaria ou violação do conteúdo da bagagem.",
+      "a": "C"
+    },
+    {
+      "n": 105,
+      "t": "Caso a bagagem não seja entregue ao passageiro em seu destino final, a Resolução 400 prevê um prazo de 7 dias, em viagens domésticas, e de 14 dias, em viagens internacionais, para que o transportador restitua a bagagem extraviada ao consumidor, no endereço que o cliente informar.",
+      "a": "E"
+    },
+    {
+      "n": 106,
+      "t": "Em caso de preterição de passageiro, ele tem o direito de escolher como será realizada a compensação, dentre as opções de reacomodação, reembolso e execução do serviço por outra modalidade de transporte.",
+      "a": "C"
+    },
+    {
+      "n": 107,
+      "t": "A preterição está definida na Resolução 400 e se configura quando o transportador deixa de transportar passageiro que se apresentou para embarque no voo, originalmente contratado, inclusive no caso de passageiro voluntário para ser realocado em outro voo.",
+      "a": "E"
+    },
+    {
+      "n": 108,
+      "t": "Quando configurada a preterição, o transportador deve efetuar o pagamento de compensação financeira ao passageiro, podendo ser por transferência bancária, voucher ou em espécie, no valor pré-estabelecido de 250 DES, no caso de voo doméstico ou 500 DES, no caso de voo internacional.",
+      "a": "C"
+    },
+    {
+      "n": 109,
+      "t": "A Resolução 400 prevê que o transportador ofereça assistência material ao passageiro nos casos de atraso do voo, cancelamento do voo, interrupção de serviço ou preterição do passageiro.",
+      "a": "C"
+    },
+    {
+      "n": 110,
+      "t": "Todo transportador submetido à Resolução 400, operando voos no País, deve dispor de, pelo menos, um canal de atendimento eletrônico para o recebimento de reclamações, solicitação de informações, alteração contratual, resilição e reembolso por seus clientes.",
+      "a": "C"
+    },
+    {
+      "n": 111,
+      "t": "A plataforma “Consumidor.gov.br” é o sistema eletrônico através do qual os transportadores de passageiros sujeitos à Resolução 400 são monitorados quanto ao desempenho de seu atendimento ao consumidor.",
+      "a": "C"
+    },
+    {
+      "n": 112,
+      "t": "A regulação econômica eficaz e o monitoramento do mercado são essenciais para minimizar os benefícios da liberdade de oferta e da liberdade tarifária, garantindo um ambiente de transporte aéreo saudável, acessível e competitivo.",
+      "a": "E"
+    },
+    {
+      "n": 113,
+      "t": "A ANAC recebe dados referentes ao preço da tarifa comercializada, de demanda e oferta, demonstrações contábeis e de pontualidade e regularidade, disponibilizando esses dados para o uso da sociedade.",
+      "a": "C"
+    },
+    {
+      "n": 114,
+      "t": "A ANAC recebe os dados de todas as tarifas domésticas comercializadas até o fim do mês subsequente ao mês em que foi comercializada, além do total de assentos vendidos em cada tarifa, excluídas apenas as tarifas com condições diferenciadas, não disponíveis ao público em geral.",
+      "a": "C"
+    },
+    {
+      "n": 115,
+      "t": "Os dados recebidos pela ANAC para o monitoramento contábil, circunscrevem- se ao balanço patrimonial, a demonstração de resultado e a demonstração de fluxo de caixa.",
+      "a": "E"
+    },
+    {
+      "n": 116,
+      "t": "Os dados contábeis permitem verificar a composição de custos e receitas e os fatores que afetaram o desempenho econômico-financeiro das empresas.",
+      "a": "C"
+    },
+    {
+      "n": 117,
+      "t": "Os dados operacionais são remetidos pelas empresas aéreas até o décimo dia do mês posterior à sua operação, incluindo voos regulares e não regulares de empresas brasileiras e estrangeiras, exceto operações de táxi aéreo.",
+      "a": "C"
+    },
+    {
+      "n": 118,
+      "t": "Cruzando-se os dados estatísticos dos voos com os dados de operações planejadas, é possível obter os dados de regularidade e pontualidade das empresas aéreas, computadas voo a voo e consolidadas na forma de percentuais de atrasos e cancelamentos.",
+      "a": "C"
+    },
+    {
+      "n": 119,
+      "t": "Qualquer pessoa pode acessar a página da ANAC e obter os dados operacionais das empresas de transporte aéreo, exceto os relatórios digitais, que são de acesso exclusivo pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 120,
+      "t": "A base regulatória e fiscalizatória da ANAC em relação à prestação dos serviços aéreos é o monitoramento e divulgação dos dados, com o objetivo de promover a inovação e geração de conhecimentos, importantes para o desenvolvimento do setor.",
+      "a": "C"
+    },
+    {
+      "n": 121,
+      "t": "O Anuário do Transporte Aéreo apresenta a evolução do setor aéreo no Brasil, consolidando dados sobre a estrutura das empresas aéreas brasileiras, demanda e oferta, atrasos e cancelamentos, tarifas aéreas domésticas e desempenho econômico-financeiro das empresas brasileiras.",
+      "a": "C"
+    }
   ]
 }

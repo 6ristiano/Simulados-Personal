@@ -4067,6 +4067,308 @@
       "a": "C"
     }
   ],
+  "CF ANAC 05-01": [
+    {
+      "n": 1,
+      "t": "A Ética no âmbito do serviço público brasileiro tem consolidadas as definições e distinções de Ética e Moral.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "O Código de Ética é um regulamento desenvolvido a nível internacional e suas regras se aplicam universalmente a diversos recortes da sociedade.",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "Servidor público é uma pessoa que é investida de uma função pela qual realiza um serviço, em nome do poder público, destinado a atender a alguma necessidade de um ou mais cidadãos.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Quando alguém age em nome do Estado, essa pessoa passa a envergar sobre si alguns atributos do Estado, que não são dados a outros cidadãos.",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "Os Códigos de ética surgem a partir da definição de atos que são aceitáveis ou inaceitáveis dentro de determinados grupos sociais, evidenciando as condutas que são esperadas e exigidas de seus componentes.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "A base da Ética própria do Servidor Público está na capacidade de enxergar e distinguir que toda reação provocada no mundo que o cerca, devida ao exercício de seu poder especial, é dirigida a ele como pessoa.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "É defeso aos servidores da ANAC receber presentes, tais como brindes e hospitalidades, oferecidos por quem tenha interesse em decisão sua ou de colegiado do qual participe.",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "O Código de Ética do Servidor Público Federal é uma carta legal na qual são explicitadas algumas regras fundamentais para o exercício do Serviço Público, alguns deveres dos Servidores e algumas vedações à atuação do Servidor.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "É obrigatória a existência das Comissões de Ética em todos os órgãos e entidades da Administração Pública Federal direta, indireta, autárquica e fundacional, ou em qualquer órgão ou entidade que exerça atribuições delegadas pelo poder público.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O Servidor pode exercer sua função, poder ou autoridade com finalidade estranha ao interesse público, desde que observando as formalidades legais e não cometendo qualquer violação expressa à lei.",
+      "a": "E"
+    },
+    {
+      "n": 11,
+      "t": "A Corregedoria da ANAC é dividida em duas categorias, a Coordenadoria de Procedimentos Preliminares e a Coordenadoria de Apuração Disciplinar e Correcional.",
+      "a": "C"
+    },
+    {
+      "n": 12,
+      "t": "É defeso ao servidor público participar de gerência ou administração de sociedade privada, personificada ou não personificada, exercer o comércio, exceto na qualidade de acionista, cotista ou comanditário.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "Qualquer ato de conotação sexual, independente do grau de reprovabilidade, será apenada com demissão do servidor e pagamento de indenização à vítima.",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "É permitido ao servidor participar em sociedades que conferirem ao sócio poderes, direitos e responsabilidades limitados, como sócio acionista, cotista ou comanditário. Também é permitido ao servidor participar de associações e fundações.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "A ANAC atua ativamente no CAEP, juntamente com outros órgãos do governo, para promover a sustentabilidade da aviação civil internacional.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "Um dos objetivos ambientais da ICAO, ao qual o Brasil aderiu, é o crescimento neutro de carbono, que passará a ser monitorado e realizado a partir de 2027.",
+      "a": "E"
+    },
+    {
+      "n": 17,
+      "t": "Atualmente, é inviável investir na compra de créditos de carbono devido às limitações tecnológicas encontradas na aviação civil internacional.",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "18- O Brasil possui a responsabilidade de concentrar esforços apenas na descarbonização da aviação civil internacional.",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "O Brasil foi pioneiro na produção de SAF e hoje é o maior produtor de SAF do mundo, atendendo ao mercado nacional e internacional.",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "A ANAC atua em 5 áreas, a regulação econômica, fiscalização de segurança operacional, certificação de aeronaves e aeroportos, formação e licenciamento de profissionais e proteção ao consumidor.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "O aumento da concorrência no setor aeronáutico não teve influência da liberdade tarifária e da liberdade de oferta, iniciadas no início dos anos 2010.",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "Até o início dos anos 2000, a maioria dos aeroportos já tinham alcançado a terceira rodada de concessões aeroportuárias.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "De acordo com o CBAer, o sistema aeroportuário é composto pelo conjunto de aeródromos brasileiros, com pistas de pouso, pistas de táxi, pátio de estacionamento de aeronaves, terminal de cargas, terminal de passageiros e as respectivas facilidades.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Por aeródromo compreende-se toda área destinada a pouso, decolagem e movimentação de aeronaves e passageiros.",
+      "a": "E"
+    },
+    {
+      "n": 25,
+      "t": "Para ser utilizado, todo aeródromo deve estar cadastrado junto à ANAC, sendo ele público ou privado, sendo esse último utilizado mediante permissão do proprietário e autorizada a exploração comercial.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "O DECEA tem como missão a defesa do espaço aéreo brasileiro, ficando a cargo do CENIPA a função de prover a segurança e a fluidez do tráfego aéreo.",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "A ANAC e o DECEA atuam em coordenação e há relação hierárquica entre eles, uma vez que o DECEA é uma entidade militar subordinada ao COMAER.",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "A ANAC tem por atribuição institucional o trato dos diversos aspectos da segurança de voo, inclusive os níveis relativos à formação, ao aperfeiçoamento e à especialização do pessoal aeronavegante.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "O ASA advém de negociações entre dois ou mais Estados que visam estabelecer, emendar ou ampliar as relações aerocomerciais entre eles.",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "A negociação de um ASA se dá apenas em consultas de modo convencional ou formal e geralmente decorrem de interesse de empresa aérea de alguma das partes, política externa do Governo, pressão comercial, ou de correntes turísticas.",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "Os documentos básicos de uma consulta são o ASA, vinculante a nível governamental e o Memorando de Entendimento, celebrado entre autoridades do Governo e posto em vigor administrativamente.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "Os Templates da ICAO para os ASA (TASA) abrangem artigos e anexos sugeridos para uso opcional pelos Estados, nas modalidades Bilateral, Regional ou Multilateral e possuem três tipos de abordagem: Tradicional, Liberal ou de Transição.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "O Brasil adota um modelo próprio de ASA, utilizando 36 dos mais de 40 artigos do template da ICAO.",
+      "a": "E"
+    },
+    {
+      "n": 34,
+      "t": "No Brasil, é defeso às companhias aéreas estrangeiras o direito à cabotagem e à cabotagem pura no transporte de passageiros.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "As diretrizes atuais do Brasil quanto aos ASA contemplam, entre outros, quadro de rotas aberto, capacidade livre, código compartilhado amplo, cláusulas sem limite para capital estrangeiro e direitos de tráfego de até a sexta liberdade para serviços mistos e até a sétima liberdade para serviços exclusivamente cargueiros.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "O mandato da OACI é auxiliar os países a alcançarem o maior grau possível de harmonização e uniformidade nas regulações e procedimentos de aviação civil e o Brasil é um dos seus membros fundadores.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "A estrutura organizacional da ICAO é formada por Assembleia, Conselho, Comissões e Painéis, sendo este último o grau de maior importância.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "O órgão executivo da ICAO, responsável por adotar as SARP, supervisionar o Secretariado e conduzir os trabalhos da instituição é a Assembleia.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "Os Painéis, compostos por técnicos indicados pelos países membros, são responsáveis por propor os regulamentos, manuais, procedimentos e normas feitas pela ICAO.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "A ANAC possui duas figuras de relevante representação na ICAO, sendo eles o Assessor de Transporte Aéreo, que ocupa o cargo da DELBRASMONT no Conselho da ICAO; e o Secondee, que atua no Secretariado.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Austrália, Brasil, Canadá e Argentina fazem parte do Grupo I do Conselho da ICAO.",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "A elaboração das SARP é uma das atividades mais importantes da ICAO, as quais se apresentam através dos 19 anexos da Convenção de Montreal.",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "A Regulação com Política Industrial foi o período mais representativo da era regulatória, cujo objetivo era adotar instrumentos de regulação econômica e mecanismos de política desenvolvimentista.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "O SITAR fazia parte de um conjunto de políticas industriais que visavam fomentar o setor regional da aviação, dividindo o país em cinco grandes áreas, com operação de cinco empresas sob o regime de monopólio.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Durante a Regulação com Política Industrial, as tarifas e frequências eram rigidamente controladas e o acesso de novas empresas não era permitido, mas havia competição entre as empresas nacionais e regionais pelas mesmas rotas.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "Durante a Regulação com Política de Estabilização Ativa, as companhias aéreas sofreram pressão para manter suas tarifas artificialmente baixas, o que as fez sofrer com a alta de insumos que estavam diretamente ligados à desvalorização da taxa de câmbio, afetando sua rentabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "A desregulamentação gradual da aviação foi uma opção que visava conter os efeitos danosos de curto prazo que poderiam ser causados pelo forte acirramento da competição no mercado.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "A primeira etapa da desregulamentação foi marcada pela abolição dos monopólios regionais, pelo estímulo à entrada de novas empresas, não havendo mais qualquer forma de monopólio entre as empresas aéreas.",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "Mesmo nessa fase de desregulamentação, ainda havia um certo monopólio das regionais em aeroportos ligando as cidades de São Paulo, Rio de Janeiro, Belo Horizonte e Brasília, conhecidos como “voos direto ao centro” ou Linhas Aéreas Especiais.",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "O Sistema de Aviação Civil Brasileiro tinha, no início, o DAC como órgão central e os outros órgãos estavam sujeitos à orientação normativa, supervisão técnica e fiscalização específica por parte do DAC.",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "No início, a ANAC era vinculada ao Ministério da Defesa, no entanto, desde 2023 passou a ser vinculada ao Ministério de Portos e Aeroportos.",
+      "a": "C"
+    },
+    {
+      "n": 52,
+      "t": "A política nacional de transportes aquaviário e aeroviário são de competência do MPOR, bem como a aviação civil e infraestruturas aeroportuária e de aeronáutica civil, em articulação, no que couber, com o Ministério da Defesa.",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "Ao DECEA competem as funções de planejar, gerenciar e controlar as atividades relacionadas ao controle do espaço aéreo, à proteção ao voo, ao serviço de busca e salvamento, às telecomunicações do Comando da Aeronáutica, bem como auxiliar na investigação e prevenção de acidentes.",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "O CENIPA é o órgão central do SIPAER e fica responsável por investigar e tratar dos inquéritos e apontar os culpados e as respectivas punições pelos incidentes e acidentes aeronáuticos.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "O CONAC (Conselho de Aviação Civil) é um órgão colegiado de assessoramento do Presidente da República para a formulação da política de ordenação da aviação civil e é componente da estrutura do MPOR.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "O Direito Aeronáutico consiste no conjunto de normas jurídicas que abrangem a navegação aérea, tráfego aéreo, infraestrutura aeronáutica e aeroportuária, atos e serviços, diretamente e indiretamente, ligados ao voo de aeronaves.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "O Código Brasileiro do Ar, tendo sua primeira edição em 1938, surgiu com a necessidade do governo dotar o país de uma legislação eficiente na regulação da aviação civil e comercial, acompanhando os progressos do setor mundial de aviação.",
+      "a": "C"
+    },
+    {
+      "n": 58,
+      "t": "A principal fonte do Direito Aeronáutico é o CBA (1986), na esfera nacional e a Convenção de Otawa e seus anexos, na esfera internacional.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "Os RBAH e RBAC são regras gerais que abrangem as normas e procedimentos recomendados pela ICAO e podem ter efeitos externos ou externos e internos.",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "As Diretrizes de Aeronavegabilidade são emitidas pela ANAC e contém ações de segurança operacional que servem para restaurar o nível de segurança operacional quando há evidências de que esse quesito está comprometido.",
+      "a": "C"
+    }
+  ],
   "CF ANAC 18-12": [
     {
       "n": 1,

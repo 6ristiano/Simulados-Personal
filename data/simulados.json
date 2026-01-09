@@ -3888,12 +3888,12 @@
   "prova primeira turma": [
     {
       "n": 1,
-      "t": "A base da ética própria do servidor público é dirigida precipuamente a ele como pessoa, de modo que não é considerado impróprio que ele receba para si algo que só lhe seja ofertado por causa da sua condição de servidor público. subsequente.",
+      "t": "A base da ética própria do servidor público é dirigida precipuamente a ele como pessoa, de modo que não é considerado impróprio que ele receba para si algo que só lhe seja ofertado por causa da sua condição de servidor público.",
       "a": "E"
     },
     {
       "n": 2,
-      "t": "É defeso aos servidores da ANAC receber presentes, tais como brindes e hospitalidades, oferecidos por quem tenha interesse em decisão sua ou de colegiado do qual participe. .",
+      "t": "É defeso aos servidores da ANAC receber presentes, tais como brindes e hospitalidades, oferecidos por quem tenha interesse em decisão sua ou de colegiado do qual participe.",
       "a": "E"
     },
     {
@@ -5517,6 +5517,258 @@
     {
       "n": 55,
       "t": "A Resolução 472 traz, como medidas administrativas sancionatórias, a suspensão, parcial ou total, de certificados, licenças, habilitações ou autorizações.",
+      "a": "E"
+    }
+  ],
+  "CF ANAC 08-01": [
+    {
+      "n": 1,
+      "t": "O principal objetivo da fiscalização é contribuir para o alcance do mais alto nível de segurança possível.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "O planejamento da fiscalização baseada em risco é direcionado conforme o perfil de risco e o desempenho econômico do regulado.",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "O fator determinante para a customização das atividades de fiscalização, como o escopo das atividades e a duração do ciclo avaliativo, é exclusivamente o desempenho de segurança.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "O perfil de risco de um regulado não poderá mudar, devido às características das atividades desempenhadas.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "Uma das formas de se avaliar o nível de desempenho de segurança de um regulado é por avaliar a maturidade de seu SGSO.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "As UDVD devem realizar o processo de fiscalização e manter a sua visão de risco do regulado em sigilo, não podendo divulgar dados a outras UDVD e nem aos regulados.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "As áreas do Lado Ar de um aeródromo que sejam classificadas como risco prioritário devem adotar as medidas de segurança previstas para as Áreas Controladas.",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "As áreas de segurança de um aeródromo podem ser classificadas em Áreas Controladas e Áreas Restritas de Segurança.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "As medidas de segurança para ARS somente serão aplicadas a determinadas áreas de aeródromos que realizem atividade direcionada à aviação comercial regular.",
+      "a": "E"
+    },
+    {
+      "n": 10,
+      "t": "Para acessar uma AC, o servidor da ANAC, em exercício da função, deve se apresentar a um APAC e realizar o procedimento de identificação e autorização.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "O servidor da ANAC possui prerrogativa indissociável de acesso à ARS sem precisar passar por inspeção de segurança.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "Os servidores federais e os militares da aeronáutica que portarem a credencial aeroportuária permanente poderão acessar à ARS, podendo ser inspecionados de forma randômica.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "Qualquer agente público que tenha prerrogativa para o porte de arma de fogo poderá acessar à ARS sem necessidade de inspeção de segurança.",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "Com a necessidade de tornar a aplicação de requisitos normativos mais adaptável, surgiu a regulação por comando e controle.",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "A Regulação Responsiva busca aplicar aos regulados uma abordagem flexível, adaptativa e participativa.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "A Responsividade relaciona-se aos princípios de proporcionalidade, razoabilidade, transparência e accountability.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "Tal qual na regulação por comando e controle, a Regulação Responsiva prevê que o regulador aplique medidas de hard regulation ao regulado que apresentar determinados desvios às normas.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "Um dos desafios da Regulação Responsiva é a escolha sobre quando se deve usar incentivos ou quando se deve aplicar punições.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "A eficácia da Regulação Responsiva se relaciona com o equilíbrio entre confiança e controle.",
+      "a": "C"
+    },
+    {
+      "n": 20,
+      "t": "As medidas sancionatórias, conforme a Regulação Responsiva, devem ser usadas sempre como última medida.",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "A accountability refere-se à responsabilização dos regulados pela aplicação das normas.",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "O principal objetivo da Regulação Responsiva é estimular os regulados a cumprirem as normas, utilizando-se de ferramentas de hard regulation.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "O PPRR da ANAC tem seguido um processo estruturado em quatro etapas.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "O profissional credenciado é incumbido pela ANAC da responsabilidade de emitir licenças e certificados para os entes regulados que estiverem previstos em seu credenciamento.",
+      "a": "E"
+    },
+    {
+      "n": 25,
+      "t": "O CBA prevê que a ANAC poderá credenciar profissionais para atuarem no suporte aos processos de certificação.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "Em determinados casos, a ANAC deverá cobrar do profissional credenciado que registre o procedimento de verificação in loco em arquivo de vídeo que será usado para a realização da vigilância continuada do credenciado.",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "Aeronavegabilidade é um conceito relacionado ao equipamento aeronáutico e sua capacidade de voar com um nível mínimo de segurança.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "Aeronave que não possua certificado de tipo aprovado pela autoridade aeronáutica não poderá ser considerada como segura para a navegação aérea.",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "Tanto o certificado de projeto de tipo, quanto o certificado de organização de produção são exclusivos de seu detentor e em hipótese alguma podem ser transferidos à outra organização.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "Em termos de legislação, a certificação de projeto de tipo é recomendada pela Convenção de Montreal, a nível internacional, e exigida, pelo CBA, a nível nacional.",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "Para aeronaves que não possuam certificado de projeto aprovado, a segurança da operação será estabelecida com a verificação das condições da aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "A certificação de projeto de tipo pode ocorrer tanto para uma nova aeronave quanto para a modificação de um projeto já certificado previamente.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "A certificação do projeto de uma aeronave visa garantir que o produto a ser fabricado possua um grau mínimo de segurança e que alcance um nível adequado de desempenho.",
+      "a": "E"
+    },
+    {
+      "n": 34,
+      "t": "A fabricação de peças padronizadas, como porcas, arruelas e parafusos não precisam de aprovação por parte da autoridade aeronáutica, desde que as normas de engenharia aplicadas na fabricação sejam reconhecidas.",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "Determinados artigos usados em aeronaves podem ter o seu desempenho mínimo definido em uma OTP.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "O regulamento de aviação civil que estabelece limites para os níveis de ruído no processo de certificação de aeronaves é o RBAC 36.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "O processo de certificação de aeronave pode ser tipicamente dividido nas fases de projeto conceitual ou pré-requerimento; definição dos requisitos aplicáveis e planejamento do programa; e execução.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "O nível de envolvimento da ANAC no processo de certificação de um projeto de tipo somente será definido na fase de Autorização para Inspeção de Tipo.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "A ANAC poderá solicitar a reabertura do processo de certificação caso ocorra circunstância que demande essa atitude, como a ocorrência de um acidente fatal com causas relacionadas ao projeto.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "O regulado deverá comprovar à autoridade aeronáutica que o projeto satisfaz os requisitos de engenharia propostos para aquele projeto, podendo utilizar-se de evidências de projeto, cálculos, simulações e ensaios em voo.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Um fabricante que queira realizar mudanças no projeto de tipo do qual é detentor, devera solicitar à ANAC a aprovação da modificação por meio de um Certificado Suplementar de Tipo.",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "A ANAC poderá realizar a validação de um projeto de tipo aprovado pela autoridade aeronáutica de outro Estado, aplicando o princípio da reciprocidade, mas não haverá a necessidade de conhecer a base de certificação do projeto, desde que o Estado seja membro da ICAO.",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "A certificação de uma organização de produção pode ser realizada através de um processo composto por 4 fases.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Um produto aeronáutico está associado a 3 tipos de certificação: projeto, produção e aeronavegabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Qualquer empresa que seja fornecedora de componentes para fabricantes de produtos aeronáuticos deverá obter um certificado de organização de produção.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "O requerimento de certificação de organização de produção é, normalmente, realizado em conjunto com o certificado de projeto.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "Para a emissão de qualquer certificado de projeto é obrigatório que a empresa tenha evidências de implementação de um Sistema de Qualidade.",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "Em conjunto com um COP, a ANAC sempre irá emitir um RLP, que especificará os produtos que o detentor poderá produzir.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "Somente será permitido que o fabricante produza um item aeronáutico sem o certificado de tipo para a finalidade de comprovar sua capacidade de produção de acordo com os requisitos estabelecidos, devendo obter o certificado em até 6 meses.",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "O processo de certificação pode levar de 1 a 5 anos, enquanto a validade do certificado varia de 12 a 36 meses.",
       "a": "E"
     }
   ],

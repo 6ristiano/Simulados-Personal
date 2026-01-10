@@ -1,4 +1,526 @@
 {
+  "Banco 1 TURMA CF": [
+    {
+      "n": 1,
+      "t": "A OACI possui escritórios regionais em diferentes partes do mundo para apoiar suas atividades, sendo o Brasil parte do escritório da América do Sul, com sede no Peru.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "Área de manobras significa a parte do aeródromo utilizada para decolagem, pouso, táxi de aeronaves e o pátio de aeronaves.",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "A subparte K do RBAC 91 prevê, como pessoal de administração, os cargos de: Gestor Responsável, Diretor de Operações, Diretor de Manutenção e Diretor de Segurança Operacional.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "Uma empresa de SAE-panorâmico deve obter um COA e uma especificação operativa junto à ANAC, após submeter-se a um processo de certificação, tal qual uma empresa SAE regida pelo RBAC nº 135.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "O voo de pulverização aeroagrícola possui a possibilidade de pouso, decolagens e uso rotineiro em pistas não homologadas.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "Serviços especializados de publicidade, aerocinematografia, aerolevantamento, aeroagrícola e panorâmicos seguem RBAC 91 por operarem com aeronaves pequenas.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "Os operadores aéreos devem desenvolver o Programa de Prevenção do Risco Associado ao Uso Indevido de Substâncias Psicoativas na Aviação Civil (PPSP), o qual deve conter três subprogramas: educação, exame toxicológico e o de retorno de serviço.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "Há três grandes conjuntos de substâncias psicoativas (SPA), conforme o tipo de efeito primário no cérebro: depressoras, animadoras e hipnóticas.",
+      "a": "E"
+    },
+    {
+      "n": 9,
+      "t": "O gerenciamento de Recursos de Equipes (CRM) visa facilitar a comunicação das equipes e garantir operações seguras que resultam no uso eficiente dos recursos humanos, especificamente.",
+      "a": "E"
+    },
+    {
+      "n": 10,
+      "t": "Atualmente, a ANAC participa de reuniões da ONU, OACI e do Sistema Regional para a Coordenação da Vigilância da Segurança Operacional (SRVSOP)",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "Substâncias tóxicas são definidas como \"qualquer substância ou objeto que, quando transportado por via aérea, possa constituir um risco à saúde, à segurança, à propriedade ou ao meio ambiente\".",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "O Programa de Manutenção de Aeronavegabilidade Continuada (PMAC) é aplicável aos operadores aéreos RBAC 121 e aos operadores aéreos RBAC 135, exceto os que operam aeronaves com configuração para passageiros de até 9 assentos.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "O processo de certificação inicial de um requerente a um COM é composto de 4 fases, que são: 1) Reunião Inicial; 2) Análise de documentação; 3) Demonstrações e auditorias; 4) Certificação",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "Uma Organização de Manutenção Certificada é uma organização que obteve da ANAC um Certificado de Organização de Manutenção (COM). O certificado possui um prazo de validade de 2 anos.",
+      "a": "E"
+    },
+    {
+      "n": 15,
+      "t": "O titular de uma licença de piloto ou de Certificado de Piloto Aerodesportivo (CPA), exceto de licença de aluno piloto, pode aprovar o retorno ao serviço, seguindo critérios da ANAC, da aeronave que teve manutenção preventiva executada por ele.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "Sobre produtos produzidos no exterior, as Diretrizes de Aeronavegabilidade emitidas pela autoridade de aviação civil do Estado de Projeto do produto são considerados como Brasileiros e, desta forma, são também de cumprimento obrigatório.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "O Certificado de Verificação de Aeronavegabilidade (CVA) deve ser apresentado à ANAC anualmente para aeronaves em operações regidas pelo RBAC nº 121 ou regidas pelo RBAC nº 135. As demais aeronaves deverão apresentar um CVA a cada três anos.",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "Manutenção significa qualquer atividade de inspeção, revisão, reparo, limpeza, conservação ou substituição de partes de uma aeronave e seus componentes, e manutenção preventiva",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "O processo de validação consiste na verificação total de que o produto/aeronave está em conformidade com os requisitos de aeronavegabilidade aplicáveis, por meio de análises, inspeções e ensaios, visando garantir um nível mínimo de segurança",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "Pequenas modificações podem ser aprovadas segundo um método aceitável pela ANAC, sem a apresentação prévia de quaisquer dados comprobatórios. Por isso isenta o requerente de desenvolver um processo interno, aceitável pela ANAC",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "A fiscalização da ANAC é dividida em duas vertentes: vigilância continuada e ação fiscal. Ambas podem culminar em providências preventivas, cautelares e sancionatórias",
+      "a": "E"
+    },
+    {
+      "n": 22,
+      "t": "Organizações que fornecem componentes apenas para um fabricante (e não diretamente ao mercado), não necessitam de um Certificado de Organização de Produção (COP)",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "No âmbito da aviação experimental, o Certificado de Autorização de Voo Experimental emitido pela ANAC tem validade condicionada à conformidade contínua com as condições de operação segura, podendo ser revogado se essas condições não forem mantidas.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "O sistema de qualidade exigido para a certificação de produção sob a Subparte K do RBAC 21 é obrigatório para todos os fabricantes, garantindo que o produto ou artigo fabricado esteja em conformidade com o projeto aprovado",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "A cooperação técnica entre ANAC e o CNJ no uso da plataforma ANACJUD facilita a inserção direta de restrições judiciais sobre aeronaves, e essas restrições podem afetar o status de aeronavegabilidade, conforme a situação judicial vigente",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "Examinadores credenciados pela ANAC são responsáveis por emitir pareceres técnicos sobre a conformidade de pilotos e mecânicos com os requisitos estabelecidos, mas a decisão final sobre a concessão de licenças é tomada exclusivamente pela própria ANAC",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "A certificação de aeronavegabilidade de aeronaves não certificadas segue o mesmo rigor de inspeção que as aeronaves certificadas, mas é baseada exclusivamente na conformidade com os padrões de operação segura",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "Em relação à vigilância continuada de organizações de produção, auditorias não programadas pela ANAC são mormente realizadas quando há indicação de não conformidade menores, como desvios de conformidade",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "No processo de certificação de produção, o Certificado de Organização de Produção (COP) deverá ser emitido para organizações que fabricam componentes destinados a um detentor de certificado de tipo sob a Subparte F do RBAC 21",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "No contexto do Registro Aeronáutico Brasileiro (RAB), uma aeronave que teve sua matrícula cancelada devido à exportação pode ser novamente registrada com a mesma matrícula caso retorne ao Brasil após modificações substanciais",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "Em relação à Regulação Responsiva aplicada pela ANAC, é correto afirmar que a principal diferença entre este modelo e o de Comando e Controle é que o primeiro se concentra exclusivamente em medidas preventivas, sem a aplicação de sanções punitivas",
+      "a": "E"
+    },
+    {
+      "n": 32,
+      "t": "A Fiscalização Baseada em Risco busca constantemente verificar conformidades, mas prioriza mais a avaliação dos processos de mitigação de risco e melhorias implementadas pelos regulados em resposta a desafios de segurança operacional",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "No processo de Certificação, a ANAC avalia um conjunto amplo de critérios, onde questões de segurança operacional frequentemente predominam sobre considerações ambientais e sociais",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Em situações de infração grave, a ANAC tem a prerrogativa de aplicar medidas sancionatórias diretamente, ainda que considerando o histórico de conformidade do regulado e a gravidade potencial das ações irregulares",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "As consultas públicas promovidas pela ANAC servem como uma ferramenta para coletar opiniões que podem ajustar as propostas normativas antes de serem finalizadas, mas têm impacto limitado sobre decisões estratégicas já tomadas",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "No modelo de fiscalização descentralizado, a ANAC atribui exclusivamente à Superintendência de Inteligência e Ação Fiscal (SFI) a responsabilidade por todas as ações de fiscalização, incluindo a vigilância continuada",
+      "a": "E"
+    },
+    {
+      "n": 37,
+      "t": "A Fiscalização Baseada em Risco permite que a ANAC ajuste a quantidade e o escopo das atividades de fiscalização, mas não o intervalo entre essas atividades, que é fixo",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "A regulação técnica abrange aspectos de safety, que inclui a segurança operacional das aeronaves, mas não se aplica à proeficiência técnica dos pilotos e à integridade da infraestrutura aeroportuária",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "A Análise de Impacto Regulatório (AIR) é opcional para atos normativos de interesse geral, e sua realização depende da disponibilidade de recursos e tempo por parte da ANAC",
+      "a": "E"
+    },
+    {
+      "n": 40,
+      "t": "No modelo de regulação econômica adotado pela ANAC, o foco principal é estabelecer tarifas fixas e rígidas para todas as companhias aéreas, de modo a garantir a estabilidade do mercado",
+      "a": "E"
+    },
+    {
+      "n": 41,
+      "t": "Costumeiramente, a demanda no setor aéreo é medida pelo RPK (passageiros-quilômetros transportados) ao passo que a oferta no setor aéreo é medida pelo ASK (assentos-quilômetros disponíveis)",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "Os serviços aéreos são considerados atividades econômicas de interesse público, constituindo um negócio de natureza pública",
+      "a": "E"
+    },
+    {
+      "n": 43,
+      "t": "O conselho é o órgão soberano da OACI, convocado de forma ordinária a cada 3 anos e responsável pelas decisões mais importantes e estratégicas, por aprovar o orçamento e as emendas (alterações) aos Anexos da Convenção de Chicago",
+      "a": "E"
+    },
+    {
+      "n": 44,
+      "t": "As diretrizes atuais contemplam, entre outros: quadro de rotas aberto, capacidade livre, código compartilhado amplo e direitos de tráfego de até a 6ª liberdade para serviços mistos e até a 7ª liberdade para serviços exclusivamente cargueiros",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "O Brasil busca a adoção de Quadro de Rotas aberto em suas negociações, assim como adota a capacidade pré-determinada",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "O Brasil estabeleceu modelo próprio de ASA e, no que tange os aspectos comerciais, é concedido às autoridades do país, que recebe a designação, o direito de negar, revogar ou limitar a autorização de operação da empresa",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "Os Acordos sobre Serviços Aéreos normalmente entram em vigor administrativamente, entre as autoridades de aviação civil, imediatamente após a assinatura",
+      "a": "E"
+    },
+    {
+      "n": 48,
+      "t": "Conforme as liberdades do ar e as diretrizes atuais ASA, uma empresa aérea Argentina pode transportar passageiros embarcados no Brasil com destino à Bolívia, sem que o serviço tenha início ou fim no território nacional da aeronave",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "O acordo sobre Serviços Aéreos (ASA) é a materialização do resultado de negociações entre duas ou mais empresas que visam estabelecer, emendar ou ampliar o relacionamento aerocomercial entre elas",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "O fenômeno de captura do regulador ocorre quando o órgão regulador atua em prol de grupos privados organizados, sendo frequentemente uma consequência inevitável da interação entre interesses públicos e privados na formulação de políticas",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "A aceleração durante o voo afeta o sistema vestibular, responsável pelo equilíbrio, mas seus efeitos são facilmente mitigados pela experiência e treinamento dos pilotos, que rapidamente se adaptam às condições de força G",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "O modelo de regulação setorial no Brasil, que adota práticas recomendadas pela OCDE, foca principalmente na redução de custos para as empresas, mesmo que isso implique comprometer os padrões de segurança e qualidade dos serviços públicos",
+      "a": "E"
+    },
+    {
+      "n": 53,
+      "t": "As ilusões visuais, como a aproximação em buraco negro e a autocinesi, são minimizadas pelo uso de instrumentos de voo, mas ainda representam um risco significativo para pilotos experientes que dependem de referências visuais externas",
+      "a": "C"
+    },
+    {
+      "n": 54,
+      "t": "A Lei nº 13.848, de 2019, que rege as agências reguladoras no Brasil, garante total autonomia a essas entidades, permitindo-lhes estabelecer diretrizes operacionais sem a necessidade de alinhamento com políticas governamentais ou consultas públicas",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "Durante o voo, a hipoxia, ou baixa tensão de oxigênio, pode ser agravada por fatores como anemia e doenças respiratórias, mas não afeta diretamente as funções cognitivas, já que o cérebro é menos sensível a essas condições do que outros órgãos",
+      "a": "E"
+    },
+    {
+      "n": 56,
+      "t": "A função das agências reguladoras no Brasil é garantir a concorrência leal e a proteção ao consumidor, mas elas não possuem autoridade para intervir diretamente em disputas comerciais entre empresas do setor regulado",
+      "a": "E"
+    },
+    {
+      "n": 57,
+      "t": "Na teoria regulatória, as teorias do interesse público pressupõem que as regulações são sempre implementadas visando o bem comum e a eficiência do mercado, sem considerar a possibilidade de interesses privados influenciarem o processo regulatório",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "A Política Nacional de Aviação Civil (PNAC) foca exclusivamente em aspectos operacionais e de segurança, não englobando diretrizes relacionadas ao desenvolvimento sustentável e à inovação tecnológica no setor aéreo brasileiro",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "A Organização de Aviação Civil Internacional (OACI) estabelece Normas e Práticas Recomendadas (SARPs), que são obrigatórias para os Estados membros implementarem em suas regulamentações nacionais de aviação, a fim de assegurar a padronização global",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "Tanto a certificação de tipo quanto a de aeronavegabilidade avaliam que um produto individual está em conformidade com o projeto aprovado e está em condição segura para voar",
+      "a": "E"
+    },
+    {
+      "n": 61,
+      "t": "Todas as alterações no projeto precisam ser aprovadas previamente pela ANAC, conforme estabelecido no RBAC 21",
+      "a": "E"
+    },
+    {
+      "n": 62,
+      "t": "Após a emissão do certificado de tipo, a ANAC pode emitir uma Diretriz de Aeronavegabilidade, a partir da experiência em serviço ou uma análise circunstanciada que existe uma condição insegura em um produto aeronáutico aprovado",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "Considerando a padronização do Sistema de Qualidade prevista na regulamentação, um certificado de organização de produção pode ser transferido para outra empresa, mediante comprovação dos requisitos estabelecidos pela nova organização",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Conforme RBAC 163, a ANAC é a autoridade aeronáutica responsável pela emissão de habilitação para a prática de esportes radicais e vôo livre",
+      "a": "E"
+    },
+    {
+      "n": 65,
+      "t": "São exemplos de \"atos de interferência ilícita contra a Aviação Civil\": apoderamento de aeronaves, ataques cibernéticos e tráfico de drogas",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "A RBAC 155 não é de cumprimento obrigatório para todos os helipontos civis localizados fora de plataformas ou embarcações",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "Revenue Management é definido como o processo pelo qual as tarifas com desconto são alocadas aos voos agendados, com o propósito de aumentar a demanda e a receita, obedecendo sempre a lei da oferta e demanda.",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "As Diretrizes de Aeronavegabilidade são os documentos que contêm ações de segurança operacional a serem executadas em um produto aeronáutico, com o objetivo de restaurar o nível aceitável de segurança operacional, após a ocorrência de acidentes.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "A partir de 2003, o DAC voltou a empregar alguns procedimentos de interferência econômica no mercado, com a finalidade de controlar o que foi chamado de \"excesso de capacidade\" e o acirramento da \"competição ruinosa\" no mercado.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "Iniciado na década de 1990, com um conjunto de portarias expedidas pelo Departamento de Aviação Civil - DAC, a liberalização do setor aéreo aconteceu de forma gradual e nas linhas do Programa Federal de Desregulamentação do Governo Collor.",
+      "a": "C"
+    },
+    {
+      "n": 71,
+      "t": "O SITAR fazia parte de um conjunto de políticas industriais, que visava o fomento da aviação como meio de transporte nas diversas regiões do País, com a finalidade de ampliar a cobertura do transporte aéreo pelo território nacional.",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "O Brasil, ao aderir aos objetivos ambientais da OACI, compromete-se a reduzir 5% das emissões de carbono na aviação doméstica através do uso de combustíveis sustentáveis de aviação (SAF)",
+      "a": "E"
+    },
+    {
+      "n": 73,
+      "t": "As empresas não regulares são aquelas que operam, no máximo, 4 frequências mensais por até 9 meses consecutivos ou não, ou, no máximo, 15 frequências mensais por até 3 meses consecutivos ou não, dentro de um período de 12 meses.",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "Além da ANAC ser obrigada a seguir os parâmetros de coordenação de cada aeroporto coordenado (nível 3), também está obrigada a proceder com a alocação dos slots, em conformidade com a declaração de capacidade aeroportuária.",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "Na operação aeroagrícola incluem-se as operações de povoamento de águas, combate a incêndios em campos e florestas, provocação artificial de chuvas, modificação artificial de clima, combate a insetos, combate a vetores de doenças ou outros empregos",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "O Certificado Operacional Provisório de Aeroporto se assemelha, durante sua vigência, ao Certificado definitivo e imputa, ao seu detentor, todas as obrigações e deveres decorrentes do RBAC 153, inclusive à obtenção de Certificado Operacional de Aeroporto",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "O período mais representativo da era regulatória do setor de aviação civil foi de 1969 a 1986. Nesse período, chamado de Regulação com Política Comercial, as autoridades governamentais tinham, como objetivo, adotar instrumentos de regulação econômica e mecanismos de política desenvolvimentista.",
+      "a": "E"
+    },
+    {
+      "n": 78,
+      "t": "A criação da ANAC representou o surgimento de uma nova filosofia a ser difundida no país: a palavra inquérito foi substituída e as investigações passaram a ser realizadas com o único objetivo de promover a prevenção de acidentes aeronáuticos, em concordância com normas internacionais",
+      "a": "E"
+    },
+    {
+      "n": 79,
+      "t": "Criada pela Lei nº 11.182, de 27 de setembro de 2005, a ANAC é uma autarquia de natureza especial, vinculada ao Ministério de Portos e Aeroportos, caracterizada por independência administrativa, autonomia financeira, ausência de subordinação hierárquica a outros órgãos da estrutura de Governo e mandato fixo de seus dirigentes.",
+      "a": "C"
+    },
+    {
+      "n": 80,
+      "t": "No Brasil, a medicina ocupacional da atividade aérea se relaciona com o Ministério do Trabalho e Emprego (MTE), que elabora as normas regulamentadoras, conhecidas como NRs, que regulamentam vários aspectos da vida laboral dos trabalhadores brasileiros.",
+      "a": "E"
+    },
+    {
+      "n": 81,
+      "t": "A medicina de aviação estuda elementos críticos próprios do ambiente aéreo, sendo os mais relevantes: 1. A baixa pressão atmosférica ou hipobarismo; 2. A baixa tensão de oxigênio ou hipoxia; 3. A aceleração; 4. As ilusões visuais; e 5. O ruído.",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "Um mergulhador descuidado pode morrer em voo por consequência de doença descompressiva",
+      "a": "C"
+    },
+    {
+      "n": 83,
+      "t": "O pedido inicial de autorização para realização de serviço de transporte aéreo regular das empresas estrangeiras é realizado perante à Superintendência de Padrões Operacionais – SPO",
+      "a": "E"
+    },
+    {
+      "n": 84,
+      "t": "Com a extinção do antigo DAC e a criação da Agência Nacional de Aviação Civil (ANAC), por meio da Lei nº 11.182, de 27 de setembro de 2005, algumas competências foram atribuídas à Agência, entre elas: regular as autorizações de horários de pouso e decolagem de aeronaves civis, observadas as condicionantes do sistema de controle do espaço aéreo e da infraestrutura aeroportuária disponível (inciso XIX, art. 8º da Lei 11.182/2005).",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "A primeira norma de slots publicada pela ANAC estabelecia mecanismos administrativos similares a um processo licitatório para alocação de pares de slots disponíveis em regime de sistema de rodízio. Estabelecia, também, que os slots disponíveis seriam distribuídos na proporção de 50% para as empresas que já atuavam no aeroporto e 50% para empresas entrantes.",
+      "a": "E"
+    },
+    {
+      "n": 86,
+      "t": "Ao passageiro, é previsto o direito de resilição, podendo, ele, desistir da passagem aérea adquirida, sem qualquer ônus, desde que o faça no prazo de até 24 horas, a contar do recebimento do seu comprovante de aquisição, e que haja antecedência de, pelo menos, 7 dias em relação à data de embarque. Fora desse prazo, podem se aplicar multas, de acordo com as regras do produto adquirido, observada a restrição do Art. 9º, que estabelece que multas contratuais não poderão ultrapassar do valor dos serviços de transporte aéreo.",
+      "a": "C"
+    },
+    {
+      "n": 87,
+      "t": "Caso a bagagem não seja entregue ao passageio em seu destino final, a Resolução 400 prevê um prazo de 7 dias, em viagens domésticas, e de 21 dias, em viagens internacionais, para que o transportador restitua a bagagem extraviada ao consumidor, no endereço que o cliente informar",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "A Resolução 400 prevê que o transportador ofereça assistência ao passageiro afetado, nos casos de atraso do voo, cancelamento do voo ou interrupção de serviço. De acordo com o Art. 27, a assistência consiste em satisfazer as necessidades do passageiro e deverá ser oferecida, gratuitamente, pelo transportador, conforme o tempo de espera, excetuando condição em que os passageiros já estejam a bordo da aeronave nos seguintes termos: I - superior a 1 hora: facilidades de comunicação; II - superior a 2 horas: alimentação, de acordo com o horário, por meio do fornecimento de refeição; e III - superior a 4 horas: serviço de hospedagem e traslado de ida e volta.",
+      "a": "E"
+    },
+    {
+      "n": 89,
+      "t": "Até 1969, as tarifas aéreas eram fixadas pelo Estado. Nesse ano, iniciou-se um processo de flexibilização, mediante a implantação de um regime de bandas tarifárias pela Secretaria de Aviação Civil (SAC) do Comando da Aeronáutica",
+      "a": "E"
+    },
+    {
+      "n": 90,
+      "t": "As empresas aéreas possuem a capacidade de determinar suas rotas, frequências e tipos de serviço com autorização governamental, baseando-se também nas forças de mercado e na demanda dos passageiros. Assim, são possíveis ajustes em suas operações para atender às necessidades dos consumidores de maneira eficiente, promovendo a inovação e a competitividade no setor",
+      "a": "E"
+    },
+    {
+      "n": 91,
+      "t": "São recebidos pela ANAC dados de voos regulares e não regulares de empresas brasileiras e estrangeiras, exceto operações de táxi aéreo, com o registro de informações detalhadas de cada voo realizado, como datas e horários de realização, aeroportos de origem e destino, passageiros, cargas e bagagem despachada transportados, modelo e capacidade de assentos e de quilogramas da aeronave, combustível consumido, etc",
+      "a": "C"
+    },
+    {
+      "n": 92,
+      "t": "Com dados monitorados de forma contínua pela agência e restritos ao público por questão de segurança, base da atuação regulatória e fiscalizatória da ANAC, busca-se a promoção da inovação e da geração de conhecimentos importantes para o desenvolvimento do setor, tendo sempre em vista o bem-estar da sociedade brasileira.",
+      "a": "E"
+    },
+    {
+      "n": 93,
+      "t": "Com relação aos direitos decorrentes do processo de concessão, o ente federativo titular do serviço - usualmente conhecido como poder concedente, celebrará, junto ao interessado vencedor do certame, o Contrato de Concessão, por meio do qual o poder público transfere apenas a execução e a titularidade do serviço público ao novo concessionário",
+      "a": "E"
+    },
+    {
+      "n": 94,
+      "t": "O início formal do processo de concessão de aeroporto federal ocorre com a publicação de Resolução do Conselho do Programa de Parcerias de Investimentos (PPI), a qual propõe ao Exmo. Sr. Presidente da República a edição do decreto autorizando a inclusão no Programa Nacional de Desestatização (PND) dos aeroportos de interesse",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Após a publicação do Decreto Presidencial, que inclui um determinado aeroporto no PND, deverá ser publicada Resolução para definir a modalidade operacional e as condições aplicáveis à desestatização. Destaca-se que é opcional que a Resolução seja publicada após o Edital de licitação.",
+      "a": "E"
+    },
+    {
+      "n": 96,
+      "t": "A elaboração da minuta de edital e dos contratos de concessão é a etapa na qual são estabelecidas as regras do edital (termos licitatórios) e as cláusulas contratuais a serem aplicadas durante todo o período da concessão, e é a etapa que mais demanda das áreas técnicas da ANAC",
+      "a": "C"
+    },
+    {
+      "n": 97,
+      "t": "No contexto das concessões de aeroportos, o processo de elaboração/revisão dos documentos jurídicos é conduzido exclusivamente pela Superintendência de Regulação Econômica de Aeroportos – SRA, a qual age de forma independente às demais áreas da ANAC, mas relata à diretoria sobre as discussões de toda empreitada licitatória",
+      "a": "E"
+    },
+    {
+      "n": 98,
+      "t": "No processo de concessão de infraestrutura aeroportuária, optou-se pela realização de licitação na modalidade “leilão” com inversão de fases, assim como já mencionado. Tal modalidade encontra respaldo legal no Decreto Federal nº 7.624/2011; Lei nº 9.491/1997 e Lei nº 8.987/1995",
+      "a": "C"
+    },
+    {
+      "n": 99,
+      "t": "A Convenção de Tóquio define, entre outras coisas, certas obrigações aos Estados, diante de casos de sequestro e de suporte ao comandante da aeronave, diante de casos de desembarque compulsório de passageiros, a jurisdição dos crimes cometidos em voos internacionais ao Estado da matrícula da aeronave, além de prever outras hipóteses específicas de jurisdição",
+      "a": "C"
+    },
+    {
+      "n": 100,
+      "t": "O Painel AVSEC está produzindo avaliações de riscos frequentemente, os quais são refletidos em um documento, chamado Declaração do Contexto Global de Riscos para AVSEC",
+      "a": "C"
+    },
+    {
+      "n": 101,
+      "t": "Sempre que houver alterações no PSA de um aeródromo, o operador deverá providenciar, em até 40 dias, sua revisão e apresentá-lo à ANAC, sempre que determinado pela Agência",
+      "a": "E"
+    },
+    {
+      "n": 102,
+      "t": "O PSOA deverá possuir, como parte integrante, os seguintes planos e programas: - Plano de Contingência AVSEC do Operador Aéreo; - Programa de Instrução AVSEC do Operador Aéreo; e - Programa de Controle de Qualidade AVSEC do Operador Aéreo",
+      "a": "C"
+    },
+    {
+      "n": 103,
+      "t": "São atividades do controle de qualidade AVSEC, aquelas que objetivam a avaliação de procedimentos e medidas de segurança da aviação civil contra atos de interferência ilícita, sendo elas, as fiscalizações, as auditorias, os testes e a vigilância.",
+      "a": "E"
+    },
+    {
+      "n": 104,
+      "t": "A inspeção AVSEC corresponde à avaliação de um ou mais aspectos das medidas e procedimentos de segurança das organizações envolvidas nas atividades AVSEC, com o objetivo de avaliar o grau de performance frente à regulamentação vigente. O escopo de cada inspeção é definido pela ANAC GABARITO (C/E)",
+      "a": "E"
+    }
+  ],
   "extra 18-12": [
     {
       "n": 1,

@@ -4183,17 +4183,17 @@
     },
     {
       "n": 60,
-      "t": "Com base no Regulamento Brasileiro de Aviao Civil (RBAC)ÿÿ n. 91, regulamento brasileiro que estabelece regras gerais deÿÿoperao para aeronaves civis no pais. O referido regulamento cobre uma ampla gama de aspectos operacionais — como a condução de voos, a manutenção e a inspeção de aeronaves —, mas não aborda requisitos de equipamentos e procedimentos de emergência, que são regulados por outra norma.",
+      "t": "Com base no Regulamento Brasileiro de Aviao Civil (RBAC) n. 91, regulamento brasileiro que estabelece regras gerais de aeronaves civis no pais. O referido regulamento cobre uma ampla gama de aspectos operacionais — como a condução de voos, a manutenção e a inspeção de aeronaves —, mas não aborda requisitos de equipamentos e procedimentos de emergência, que são regulados por outra norma.",
       "a": "E"
     },
     {
       "n": 61,
-      "t": "Com base no Regulamento Brasileiro de Aviao Civil (RBAC)ÿÿn. 91, regulamento brasileiro que estabelece regras gerais deÿÿoperao para aeronaves civis no pais. Além do transporte de passageiros com perfil executivo, empresas regidas pelo regulamento em questão podem realizar voos panorâmicos, atender deslocamentos em eventos e, se autorizadas e devidamente equipadas, realizar transporte aeromédico.",
+      "t": "Com base no Regulamento Brasileiro de Aviao Civil (RBAC) 91, regulamento brasileiro que estabelece regras gerais de aeronaves civis no pais. Além do transporte de passageiros com perfil executivo, empresas regidas pelo regulamento em questão podem realizar voos panorâmicos, atender deslocamentos em eventos e, se autorizadas e devidamente equipadas, realizar transporte aeromédico.",
       "a": "C"
     },
     {
       "n": 62,
-      "t": "Acerca do RBAC n. 135, que rege as empresas interessadas emÿÿrealizar operaes comerciais de transporte de passageiros ouÿÿcarga. O referido regulamento é direcionado para operações com aeronaves que apresentem capacidade para até 9 passageiros no caso dos helicópteros e 19 passageiros no caso dos aviões.",
+      "t": "Acerca do RBAC n. 135, que rege as empresas interessadas em realizar operacoes comerciais de transporte de passageiros ou carga. O referido regulamento é direcionado para operações com aeronaves que apresentem capacidade para até 9 passageiros no caso dos helicópteros e 19 passageiros no caso dos aviões.",
       "a": "E"
     },
     {
@@ -4478,7 +4478,7 @@
     },
     {
       "n": 120,
-      "t": "A criação de planos detalhados que abordem tanto os cenários de emergência quanto as ações a serem tomadas está entre os elementos do planejamento de resposta a emergências. GABARITO (C/E)",
+      "t": "A criação de planos detalhados que abordem tanto os cenários de emergência quanto as ações a serem tomadas está entre os elementos do planejamento de resposta a emergências.",
       "a": "C"
     }
   ],
@@ -5770,6 +5770,258 @@
       "n": 50,
       "t": "O processo de certificação pode levar de 1 a 5 anos, enquanto a validade do certificado varia de 12 a 36 meses.",
       "a": "E"
+    }
+  ],
+  "CF ANAC 09-01": [
+    {
+      "n": 1,
+      "t": "Somente é permitido operar uma aeronave que tenha um certificado de aeronavegabilidade de acordo com um projeto de tipo.",
+      "a": "E"
+    },
+    {
+      "n": 2,
+      "t": "A manutenção visa manter a aeronave conforme o projeto de tipo aprovado, nos casos em que este exista, e em condições seguras de voo.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "Às atividades de manutenção devem ser executadas de tal maneira e com materiais de tal qualidade que a as condições do artigo fiquem melhores que as condições originais.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "As limitações de aeronavegabilidade definem os parâmetros operacionais que o operador deve observar durante o voo da aeronave.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "O fabricante é responsável por definir e aprovar as limitações de aeronavegabilidade, que devem constar no manual de manutenção.",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "Grandes alterações ou grandes reparos em produtos aeronáuticos podem resultar em ações adicionais de manutenção, que são as denominadas Instruções de Aeronavegabilidade Continuada.",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "Diretrizes de Aeronavegabilidade emitidas por autoridades estrangeiras podem ser cumpridas pelos operadores brasileiros.",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "Os Maintenance Steering Groups são grupos formados por fabricantes de aeronaves e participantes da indústria para determinar o tempo recomendado para a realização de manutenção em componentes e sistemas de aeronaves.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "O MSG-3 era voltado à tarefas, a fim de reconhecer a confiabilidade de sistemas e componentes, evitando práticas desnecessárias de manutenção.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O MRB é um grupo formado por representantes dos fabricantes, futuros operadores e autoridades da aviação civil no início do processo de certificação de uma aeronave.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "As aeronaves que operam sob o RBAC 121 devem apresentar o CVA anualmente, enquanto as demais aeronaves devem apresentar a cada 3 anos.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "Aeronaves certificadas com CAVE devem apresentar o CVA à ANAC através do e-CVA, mas não precisam portar o documento à bordo.",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "Os anos que se passaram entre a primeira e a segunda guerra mundial foram considerados a era de ouro da aviação, devido aos avanços tecnológicos surgidos nessa época.",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "O CBA estabelece que a autoridade aeronáutica deverá certificar as organizações de manutenção.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "De modo geral, um operador aeronáutico pode ser classificado dentre quatro categorias.",
+      "a": "C"
+    },
+    {
+      "n": 16,
+      "t": "A manutenção preventiva significa uma operação de preservação mais simples ou de pequena monta, como a instalação de um pneu, a substituição de cintos de segurança ou a revisão geral de um motor.",
+      "a": "E"
+    },
+    {
+      "n": 17,
+      "t": "O piloto de uma aeronave certificada com mais de 9 assentos poderá realizar a instalação e remoção de assentos, de maçãs acopladas à cabine e, se nenhuma ferramenta for necessária, de garrafas de oxigênio medicinal.",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "Para aprovar o retorno ao serviço uma aeronave que tenha sido submetida a grande reparo ou grande alteração, as limitações correspondentes devem ter sido devidamente revisadas e listadas.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "Um mecânico habilitado pode aprovar o retorno ao serviço de uma aeronave que seja vinculada a um operador segundo o RBAC 135.",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "O COM é emitido pela ANAC para empresas brasileiras e estrangeiras e possui para ambas, validade de 2 anos.",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "Se uma empresa de manutenção possui mais de uma base de operação, o COM é o mesmo para ambas, mas cada base deverá ter uma EO.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "Além da EO, o COM também pode ter uma Lista de Capacidade vinculada a ele, que trará a relação de modelos de produtos nos quais a empresa poderá realizar manutenção.",
+      "a": "C"
+    },
+    {
+      "n": 23,
+      "t": "O processo de certificação de organizações de manutenção geralmente ocorre em 4 fases distintas.",
+      "a": "E"
+    },
+    {
+      "n": 24,
+      "t": "No processo de certificação de uma OM, devem participar na reunião inicial, minimamente, o Gestor Responsável e o Responsável Técnico.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "Uma OM somente poderá realizar atividades de manutenção em localidade diversa em caráter excepcional e se houver procedimentos estabelecidos em seus manuais.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "Para obter um COM, uma organização deverá cumprir requisitos quanto à instalações, ferramental, publicações e dados técnicos, pessoal técnico e sistema de qualidade.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "A OM não poderá realizar atividades de manutenção em áreas externas às suas edificações por questões de segurança operacional.",
+      "a": "E"
+    },
+    {
+      "n": 28,
+      "t": "O Responsável Técnico é o profissional responsável pelas decisões da OM que tem o poder legal ou hierárquico para estabelecer e assegurar a política de segurança operacional da organização.",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "A OM pode subcontratar uma função de manutenção, desde que a ANAC aceite a função a ser subcontratada.",
+      "a": "C"
+    },
+    {
+      "n": 30,
+      "t": "A OM poderá fornecer apenas a aprovação de retorno ao serviço de um produto completo com certificado de tipo, desde que esteja especificado na sua EO as aeronaves que poderão ser atendidas.",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "O ELT e o PLB destinam-se a fornecer a localização da aeronave para as equipes de busca e salvamento em casos de acidente, podendo ser acionados automaticamente pela desaceleração da aeronave ou manualmente pelos pilotos.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "A MMEL é um documento elaborado pelo fabricante da aeronave, o qual especifica quais equipamentos podem estar inoperantes para a operação por um determinado período de tempo.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "Um operador/proprietário é o responsável primário por garantir a aeronavegabilidade de sua aeronave, ainda que tenha contratado serviços de manutenção de um outro provedor.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Caso o fabricante não tenha determinado um programa de manutenção, a aeronave deverá passar por uma inspeção anual ou a cada 50 horas de operação.",
+      "a": "E"
+    },
+    {
+      "n": 35,
+      "t": "O processo de certificação de um operador aéreo envolve as áreas de Operações e Aeronavegabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 36,
+      "t": "O RBAC 135 divide os operadores aéreos em dois grupos, operadores de aeronaves com 9 assentos ou menos e operadores de aeronaves com 10 ou mais assentos.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "O PMAC é um programa abrangente de manutenção de aeronaves composto por 10 elementos, aplicável aos operadores RBAC 121 e RBAC 135 com 19 ou mais assentos.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "Políticas Públicas são atos informais do poder público constituído (governo das três esferas) para solução de algum problema, geralmente de caráter social, econômico ou cultural, que visa corrigir algum desbalanceamento, sempre em prol do bem-estar do próprio governo.",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "Políticas Públicas geralmente são expedidas por decreto ou resolução, podendo se transformar em Medida Provisória e virar Lei.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "Atualmente, a formulação de políticas públicas no setor aéreo é responsabilidade do MPOR, por meio da SAC, e do Ministério da Defesa, por meio do COMAER.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "A SAC propõe, implementa, monitora e avalia a política nacional de transportes, no âmbito da aviação civil, e as ações governamentais a ela relacionadas, no que couber, com o Ministério da Defesa.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "A PNT orienta as ações da SAC e a PNAC orienta as ações de toda a aviação civil brasileira.",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "O CONAC é o órgão que orienta o chefe do Executivo para a formulação da política pública no âmbito da aviação civil.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Compete à SAC propor, apoiar e acompanhar as parcerias com a iniciativa pública relativas às infraestruturas aeroportuária e aeronáutica civil.",
+      "a": "E"
+    },
+    {
+      "n": 45,
+      "t": "A Política Nacional de Transportes (PNT) é um exemplo de política generalista, enquanto a Política Nacional de Aviação Civil (PNAC) é a política específica para a aviação civil.",
+      "a": "C"
+    },
+    {
+      "n": 46,
+      "t": "O Registro Aeronáutico Brasileiro (RAB) é um cartório de aeronaves instituído por lei, sob administração da ANAC por meio da Superintendência de Padrões Operacionais, o qual atua no cenário nacional e internacional.",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "O RAB possui a função cartorial de constituir a propriedade e garantias reais sobre aeronaves, além da função operacional de emissão dos Certificados de Matrícula e de Aeronavegabilidade, bem como a guarda de documentos técnicos.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "Cada Estado possui um registro de aeronaves, sendo a ICAO o agente soberano sobre os procedimentos de registro de aeronaves para cada um dos Estados signatários.",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "O Registro Aeronáutico Brasileiro mantém os registros de todas as aeronaves em livro próprio, desde que elas ainda estejam ativas.",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "O RAB atua internacionalmente como o ponto de entrada autorizador para a transmissão de informações ao Registro Internacional, que foi criado através da Convenção da Cidade do Cabo.",
+      "a": "C"
     }
   ],
   "CF ANAC 18-12": [

@@ -7008,6 +7008,348 @@
       "a": "C"
     }
   ],
+  "CF ANAC 13-16--01": [
+    {
+      "n": 1,
+      "t": "O Anexo 17 da ICAO é o documento, no âmbito internacional, que trata do tema da Segurança da Aviação Contra Atos de Interferência Ilícita, enquanto o Anexo 9 aborda as questões de Facilitação.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "A documentação nacional que trata do tema AVSEC circunscreve-se ao PNAVSEC e aos atos normativos da ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 3,
+      "t": "Os requisitos do RBAC 107 aplicam-se de maneira distinta aos operadores de aeródromos, conforme sua classe, que é dividida conforme o tipo de serviço aéreo operado e da quantidade de passageiros processados.",
+      "a": "C"
+    },
+    {
+      "n": 4,
+      "t": "A apresentação do PSA para aprovação da ANAC é obrigatória para aeródromos classes AP-2 e AP-3, para classe AP 1 que atenda voo de aeronave com capacidade superior a 30 assentos, e dispensada para classe AP-0.",
+      "a": "E"
+    },
+    {
+      "n": 5,
+      "t": "O RBAC 107 aplica-se exclusivamente ao operador de aeródromo civil de uso público compartilhado, cujas responsabilidades relacionadas à AVSEC estão previstas no PNAVSEC.",
+      "a": "E"
+    },
+    {
+      "n": 6,
+      "t": "O operador poderá implementar inclusão de medida de segurança ou procedimento alternativo de segurança em relação ao disposto na IS, desde que informe previamente à ANAC as alterações pretendidas para aprovação, através da Listagem de Inclusão de Medidas de Segurança e Procedimentos Alternativos.",
+      "a": "C"
+    },
+    {
+      "n": 7,
+      "t": "O operador de aeródromo deverá apresentar seu Programa de Segurança Aeroportuária (PSA) para a análise e aprovação da ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 8,
+      "t": "O PSA do aeródromo deverá conter, dentre outros, um Programa de Controle de Qualidade AVSEC do aeródromo.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "Sempre que houver alterações no PSA de um aeródromo, o operador deverá providenciar sua revisão em até 90 dias e apresentá-lo à ANAC.",
+      "a": "C"
+    },
+    {
+      "n": 10,
+      "t": "O operador de aeródromo deverá conhecer as partes pertinentes do Programa de Segurança do Operador Aéreo (PSOA) dos operadores aéreos em operação no aeródromo e garantir a compatibilidade com as medidas do aeródromo.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "O Programa de Segurança de Operador Aéreo (PSOA) deverá ser desenvolvido pelo operador aéreo e apresentado à ANAC para aprovação, através de Instrução Suplementar, se não houver PSA estabelecido nos aeródromos em que ele opera.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "O ciclo de controle de qualidade AVSEC da ANAC é composto por três etapas, que são o planejamento das atividades, a execução das atividades e a realização da avaliação de risco.",
+      "a": "E"
+    },
+    {
+      "n": 13,
+      "t": "As atividades do controle de qualidade AVSEC, que objetivam a avaliação de procedimentos e medidas de segurança da aviação civil contra atos de interferência ilícita, circunscrevem-se às inspeções, auditorias e testes.",
+      "a": "E"
+    },
+    {
+      "n": 14,
+      "t": "O PACQ/AVSEC deve conter, no mínimo, a programação das atividades de Inspeção, Auditorias e Testes AVSEC, que serão desempenhadas conforme o planejamento.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "O DSAC é um documento com informações a respeito de ocorrências, de incidentes e de anormalidades referentes à AVSEC, podendo ser gerado por servidores da ANAC, através de um sistema informatizado, ou por regulados e pela sociedade em geral, por meio de ofício.",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Casos de Evidência de vulnerabilidade no sistema de proteção da aviação civil, Recebimento ou identificação de ameaça à segurança da aviação civil e Ocorrência de tentativa ou consumação de ato de interferência ilícita serão tratados, pela ANAC, como DSAC.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "O regulado que será submetido ao teste AVSEC deverá ter conhecimento da data exata em que a atividade será realizada, para que se programe e reúna todas as barreiras e demonstre seu potencial de garantir a segurança da aviação civil.",
+      "a": "E"
+    },
+    {
+      "n": 18,
+      "t": "O ciclo de controle de qualidade AVSEC da ANAC inclui a etapa de realização de avaliação de risco AVSEC, por meio da análise de dados de vulnerabilidade e de nível de ameaça.",
+      "a": "C"
+    },
+    {
+      "n": 19,
+      "t": "A inspeção AVSEC corresponde a uma avaliação detalhada de todos os aspectos previstos no PNAVSEC e na regulamentação da ANAC dentro das organizações envolvidas na aviação civil. 14/01",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "A abordagem da ANAC na regulação econômica do transporte aéreo possui duas frentes, uma voltada a garantir um ambiente de negócios favorável ao desenvolvimento do setor e outra dedicada a garantir que esse desenvolvimento do setor não deixe de lado o respeito aos direitos do consumidor.",
+      "a": "C"
+    },
+    {
+      "n": 21,
+      "t": "A modernização regulatória é uma importante estratégia para estimular a concorrência no setor aéreo, sendo a própria criação da ANAC uma iniciativa favorável à atração de novas empresas para o setor.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "A flexibilização de restrições à participação do capital estrangeiro em empresas aéreas não faz parte das medidas adotadas no âmbito da modernização regulatória.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "O Programa “Voo Simples” é uma das ações tomadas pela ANAC para promover a simplificação regulatória e a desburocratização, focando na agilidade na certificação de empresas e a redução de custos para o setor.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "A modernização regulatória implementada pela ANAC inclui a diminuição das concessões de aeroportos ao setor privado a partir de 2011.",
+      "a": "E"
+    },
+    {
+      "n": 25,
+      "t": "O programa de concessões possui o objetivo de atrair investimentos públicos para melhorar a infraestrutura dos aeroportos e, consequentemente, promover melhorias no atendimento aos usuários.",
+      "a": "E"
+    },
+    {
+      "n": 26,
+      "t": "No âmbito da modernização regulatória, a better regulation vem sendo adotada pelos países membros da OCDE e da União Europeia, com o objetivo de alcançar uma regulação mais transparente e baseada em menos evidências.",
+      "a": "E"
+    },
+    {
+      "n": 27,
+      "t": "A Resolução ANAC nº 400/2016, tem o papel de estabelecer regras gerais sobre os direitos e deveres dos passageiros do transporte aéreo, além de trazer também flexibilidades regulatórias para viabilizar o desenvolvimento de um mercado propício à vinda de novas empresas.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "Além de estabelecer regras gerais sobre os direitos e deveres dos passageiros do transporte aéreo, a Resolução 400 ainda trata sobre a regulação econômica do mercado de aviação civil.",
+      "a": "E"
+    },
+    {
+      "n": 29,
+      "t": "A adoção de medidas de soft regulation é uma forma de buscar um ambiente de negócios favorável, que pode ser apoiada em incentivos, mas que exige comando e controle para garantir a aderência dos regulados.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "Um dos desafios na regulação econômica do transporte aéreo é equilibrar a defesa direta dos passageiros com sua defesa indireta, a qual significa a flexibilização da regulação para a atração de novas empresas.",
+      "a": "C"
+    },
+    {
+      "n": 31,
+      "t": "A atração de mais concorrência é uma forma de defesa indireta dos passageiros, pois isso atrai mais empresas que irão competir por preços e qualidade de serviços, beneficiando os passageiros com serviços mais baratos e com mais qualidade.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "Em pesquisas realizadas, os passageiros revelaram ser mais importante o histórico de atrasos e cancelamentos de uma empresa aérea do que o valor pago pela passagem.",
+      "a": "E"
+    },
+    {
+      "n": 33,
+      "t": "Para proteger o interesse direto dos passageiros em pagar menos pela passagem aérea, deve-se fortalecer sua proteção indireta, por meio da atração de mais concorrência.",
+      "a": "C"
+    },
+    {
+      "n": 34,
+      "t": "Comparativamente com outros países, o Brasil possui uma regulação considerada como protetiva do consumidor.",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "Os níveis de judicialização no Brasil superam significativamente aqueles verificados em outros países, o que é algo positivo, uma vez que isso demonstra que os passageiros sempre têm razão nas suas reivindicações.",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "A ANAC adotou a plataforma Consumidor.gov.br como sistema eletrônico oficial para o registro de reclamações de passageiros, obrigando apenas as empresas brasileiras de transporte aéreo público regular de passageiros a estarem ativas na plataforma e a responderem às reclamações dos usuários no prazo de até 10 dias.",
+      "a": "E"
+    },
+    {
+      "n": 37,
+      "t": "Para proteger os passageiros do transporte aéreo, é necessário estabelecer, em norma, o máximo de direitos possíveis.",
+      "a": "E"
+    },
+    {
+      "n": 38,
+      "t": "Para a efetiva proteção do consumidor e para o estímulo de um mercado onde prevalece a concorrência, é essencial que se faça, primariamente, o uso de mecanismos extrajudiciais para resolução de quaisquer conflitos. 15/01",
+      "a": "E"
+    },
+    {
+      "n": 39,
+      "t": "Tanto o operador de aeródromo, quanto o operador aéreo devem identificar as informações, dados e sistemas de tecnologia da comunicação, julgados como críticos para sua operação, e implementar medidas para protegê-los, por meio de uma avaliação de risco.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "A ANAC instituiu o Comitê de Segurança Cibernética, voltado para os assuntos externos à Agência, que possui três subcomitês; e o Comitê de Segurança da Informação e Proteção de Dados Pessoais, para tratar dos assuntos internos da Agência.",
+      "a": "C"
+    },
+    {
+      "n": 41,
+      "t": "Os subcomitês do CSC são destinados a estabelecer os critérios e procedimentos de notificação de incidentes cibernéticos na Aviação Civil, definir o Plano Setorial de Segurança Cibernética e propor ações de fomento à Segurança Cibernética.",
+      "a": "C"
+    },
+    {
+      "n": 42,
+      "t": "As concessões de aeroportos no Brasil se iniciaram em 2011, com o contrato do Aeroporto de São Gonçalo do Amarante/RN",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "Dos maiores aeroportos em movimentação de passageiros no Brasil, apenas o Aeroporto do Galeão continua sob operação da Infraero, após ter sido excluído da 7ª rodada na fase de estudos de viabilidade.",
+      "a": "E"
+    },
+    {
+      "n": 44,
+      "t": "A partir da 5ª rodada de concessões, com a dificuldade de aplicar o FNAC em aeroportos regionais deficitários, passou-se a definir blocos de aeroportos superavitários e deficitários nos contratos de concessão.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "A evolução dos IQS dos aeroportos sob concessão mostram que o regime de concessões não obteve sucesso, uma vez que não houve melhoria dos índices de qualidade e nível de serviço.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "O aeroporto de Viracopos é o responsável por 90% das multas relacionadas ao cumprimento dos contratos de concessão.",
+      "a": "C"
+    },
+    {
+      "n": 47,
+      "t": "O sucesso dos programas de concessão está diretamente relacionado com o fiel cumprimentos dos contratos de concessão.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "A pandemia foi reconhecida como um evento de força maior e não segurável, sendo o risco alocado ao Poder Concedente, sendo adotadas diversas medidas para compensar seus efeitos.",
+      "a": "C"
+    },
+    {
+      "n": 49,
+      "t": "As relicitações são previstas nos casos em que as concessionárias não atingem seus objetivos contratuais, embora não exista amparo legal para esse tipo de solução. 16/01",
+      "a": "E"
+    },
+    {
+      "n": 50,
+      "t": "A regulação é um instrumento de intervenção estatal nas atividades econômicas, que restringe as possibilidades de escolhas dos agentes a ela submetidos, cuja delimitação do objeto e escopo advém do processo político, característico de cada país em cada momento social, econômico e político.",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "Somente existe regulação econômica em mercados em que há monopólio, não cabendo em mercados em que há concorrência e naqueles em transição para a concorrência.",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "Nos mercados em que há monopólio, ou elevado poder de mercado de um agente, a regulação é normalmente vista como um substituto da concorrência, com o objetivo de induzir os aeroportos a fornecer infraestrutura, nível de serviço e preços próximos ao que se esperaria observar em mercados competitivos.",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "Em mercados em transição para a concorrência, normalmente a regulação tem o objetivo de promover a concorrência, aumentando as barreiras à entrada.",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "Em mercado em que há concorrência estabelecida, não é necessário haver intervenção regulatória, uma vez que a transparência e as relações entre fornecedores e usuários já são efetivamente estabelecidas.",
+      "a": "E"
+    },
+    {
+      "n": 55,
+      "t": "A estrutura de propriedade e de exploração dos aeroportos em cada país é relevante na definição e evolução do modelo regulatório, visto que os objetivos e a forma de se regular de uma entidade estatal são iguais aos de uma empresa privada.",
+      "a": "E"
+    },
+    {
+      "n": 56,
+      "t": "A regulação econômica de aeroportos é o processo por meio do qual o Estado intervém nas decisões de oferta de infraestrutura aeroportuária, nível de serviço e sua remuneração.",
+      "a": "C"
+    },
+    {
+      "n": 57,
+      "t": "A Conferência de Economia de Aeroportos e Serviços de Navegação Aérea recomendou 10 princípios-chave para a definição dos preços por serviços aeroportuários, sendo os principais a não discriminação, a relação com custos, a transparência e a consulta aos usuários.",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "Os principais objetivos da regulação econômica devem ser minimizar o risco de práticas anticompetitivas ou abuso de posição dominante, garantir a não discriminação e a transparência na precificação e promover investimentos eficientes que atendam à demanda atual e futura e gerar receita tributária para a União.",
+      "a": "E"
+    },
+    {
+      "n": 59,
+      "t": "As atividades econômicas nos aeroportos podem ser classificadas em atividades aeronáuticas e atividades não-aeronáuticas.",
+      "a": "C"
+    },
+    {
+      "n": 60,
+      "t": "As atividades econômicas aeronáuticas são aquelas realizadas à bordo de aeronave, enquanto que as atividades não-aeronáuticas são aquelas realizadas por colaboradores em solo.",
+      "a": "E"
+    },
+    {
+      "n": 61,
+      "t": "Os modelos de regulação econômica adotadas em aeroportos em diversos países são a Regulação por custos, Regulação por preços-tetos, Regulação por requisitos institucionais e Regulação por regras de defesa de concorrência.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "O modelo de Regulação por custos é tradicionalmente utilizado na regulação de setores considerados como monopólios naturais, no qual os preços são definidos de forma a remunerar os custos totais e proporcionar uma taxa de retorno atrativa ao investidor.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "Modelos de Regulação por requisitos institucionais envolvem a indicação de representantes dos usuários no conselho diretor dos aeroportos, ou a participação acionária de empresas aéreas nos aeroportos, mas o princípio mais relevante é o estabelecimento de consultas facultativas do aeroporto aos seus usuários.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "Os modelos de regulação light-handed foram adotados para incluir os usuários nas decisões referentes aos aeroportos, considerando-se que eles também tenham capacidade técnica para contribuir e participar das decisões.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "Na regulação light-handed, em vez de o regulador atuar diretamente na prescrição de investimentos, nível de serviço e preços, são estabelecidos requisitos institucionais para promover e assegurar a participação dos usuários nestas decisões.",
+      "a": "C"
+    },
+    {
+      "n": 66,
+      "t": "O modelo de Regulação por regras de defesa da concorrência é aplicado em mercados em que não se justifica uma regulação setorial específica, mas no qual apenas a aplicação de regras de defesa da concorrência já é suficiente, como o monitoramento do desempenho do mercado e da conduta dos aeroportos.",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "No modelo de Regulação por regras de defesa da concorrência, não poderá ocorrer a introdução de regulação direta, ou fallback regulation, mesmo quando houver desvios de comportamento do regulado.",
+      "a": "E"
+    },
+    {
+      "n": 68,
+      "t": "Os modelo de regulação baseados em Custos e por Preços-tetos são tradicionais e mais interventivos, enquanto os modelos baseados em Requisitos Institucionais e em Regras de defesa da concorrência são menos interventivos.",
+      "a": "C"
+    }
+  ],
   "CF ANAC 18-12": [
     {
       "n": 1,
@@ -7734,6 +8076,723 @@
     {
       "n": 83,
       "t": "A execução e coleta de dados da atividade de fiscalização deve ser padronizada com base nos Elementos de Fiscalização, e as condutas observadas devem ser orientadas e corrigidas utilizando as providências administrativas previstas.",
+      "a": "C"
+    }
+  ],
+  "CF ANAC 19-21--01": [
+    {
+      "n": 1,
+      "t": "Os contratos de concessão estabelecem o conjunto de direitos e deveres das partes, além dos riscos a que estão sujeitas.",
+      "a": "C"
+    },
+    {
+      "n": 2,
+      "t": "O objeto dos contratos de concessão de aeroportos é a concessão dos serviços públicos para a ampliação, manutenção e exploração da infraestrutura aeroportuária do complexo aeroportuário.",
+      "a": "C"
+    },
+    {
+      "n": 3,
+      "t": "A data de eficácia dos contratos coincide com a sua data de assinatura.",
+      "a": "E"
+    },
+    {
+      "n": 4,
+      "t": "A data de eficácia do contrato ocorre quando houver a publicação do extrato do contrato no Diário Oficial da União e a ciência, pelas concessionárias, da emissão da ordem de serviço da Fase I.",
+      "a": "C"
+    },
+    {
+      "n": 5,
+      "t": "O contrato de concessão poderá ser prorrogado por período de até 5 anos, para fins de recomposição do equilíbrio econômico-financeiro, em decorrência de Revisão Extraordinária.",
+      "a": "C"
+    },
+    {
+      "n": 6,
+      "t": "De maneira geral, a realização do objeto das concessões está dividida em 3 fases.",
+      "a": "E"
+    },
+    {
+      "n": 7,
+      "t": "A vigência dos contratos de concessão varia de aeroporto para aeroporto, sendo sempre contado a partir da sua data de assinatura.",
+      "a": "E"
+    },
+    {
+      "n": 8,
+      "t": "As Fases I-A e I-B das concessões iniciam-se na data de eficácia do contrato e são, respectivamente, a fase de transferência das operações da Infraero para a Concessionária, e a fase de ampliação e melhoria do nível de serviço do aeroporto.",
+      "a": "C"
+    },
+    {
+      "n": 9,
+      "t": "As fases da concessão representam marcos temporais, ou seja, o término de uma fase independe do cumprimento das obrigações previstas, não havendo acréscimo de tempo por qualquer motivo.",
+      "a": "E"
+    },
+    {
+      "n": 10,
+      "t": "A Fase I-A se inicia na data de eficácia do Contrato de Concessão e está dividida em estágios, que envolvem a contratação e treinamento de equipes, aquisição de equipamentos, materiais e sistemas necessários à operação, entre outros.",
+      "a": "C"
+    },
+    {
+      "n": 11,
+      "t": "A Fase I-C da concessão é aquela em que ocorre a ampliação e melhoria da infraestrutura para recomposição parcial do nível de serviço do aeroporto, podendo esta fase ser incorporada à Fase I-B em determinados casos.",
+      "a": "E"
+    },
+    {
+      "n": 12,
+      "t": "A Fase I-A do processo de concessão é uma fase de transição e, após seu término, são transferidas, integralmente, à concessionária, as atividades de manutenção e exploração do aeroporto.",
+      "a": "C"
+    },
+    {
+      "n": 13,
+      "t": "A Fase I-B representa o primeiro ciclo de investimentos dos contratos de concessão de aeroportos.",
+      "a": "C"
+    },
+    {
+      "n": 14,
+      "t": "Atualmente, os requisitos de investimentos a serem realizados na Fase I-B passaram a ser menos prescritivos que em contratos anteriores, sendo mais associados à efetiva movimentação de aeronaves e passageiros.",
+      "a": "C"
+    },
+    {
+      "n": 15,
+      "t": "Quando a necessidade de realização de investimentos pode ser realizada em um prazo mais reduzido, as obrigações “típicas” da Fase I-C são incorporadas à Fase II.",
+      "a": "E"
+    },
+    {
+      "n": 16,
+      "t": "Os Parâmetros Mínimos de Dimensionamento estabelecem o nível de serviço, a ser oferecido pelas concessionárias, e os IQS estabelecem a qualidade de serviço esperada.",
+      "a": "C"
+    },
+    {
+      "n": 17,
+      "t": "O Plano de Gestão de Infraestrutura (PGI) tem como objetivo proporcionar a melhoria contínua das instalações e sistemas do aeroporto, avaliando suas condições e planejando sua manutenção e modernização, devendo ser apresentado pela concessionária e mantido atualizado por meio de revisões periódicas.",
+      "a": "C"
+    },
+    {
+      "n": 18,
+      "t": "A partir da Fase I-C, a concessionária deve realizar os investimentos de acordo com a demanda, com o disparo de Gatilhos de Investimento.",
+      "a": "E"
+    },
+    {
+      "n": 19,
+      "t": "As Fases I-A, I-B e I-C iniciam-se juntas, na data de eficácia do contrato.",
+      "a": "E"
+    },
+    {
+      "n": 20,
+      "t": "O atendimento ao nível de serviço dos terminais de passageiros dar-se-á pela disponibilização de capacidade de processamento de passageiros igual ou inferior à demanda de passageiros na Hora Pico, de cada um dos componentes operacionais que compõem o terminal de passageiros, em percentual igual ou superior ao mínimo estabelecido no PEA.",
+      "a": "E"
+    },
+    {
+      "n": 21,
+      "t": "Os Parâmetros Mínimos de Dimensionamento estabelecem o tempo médio de ocupação e a área mínima a ser disponibilizada na Hora Pico para os passageiros em cada componente operacional do Terminal de Passageiros, conforme o PEA.",
+      "a": "C"
+    },
+    {
+      "n": 22,
+      "t": "Serviços diretos e Instalações do Lado Ar são alguns dos Indicadores de Qualidade dos Serviços exigidos dos aeroportos da Faixa 1, que são os aeroportos com maior quantidade de passageiros transportados.",
+      "a": "E"
+    },
+    {
+      "n": 23,
+      "t": "Os aeroportos da Faixa 1 e 1A são submetidos apenas ao Sistema de Registro e Tratamento de demandas, ficando os aeroportos das Faixas 2 e 3 submetidos aos Indicadores de Qualidade do Serviço.",
+      "a": "C"
+    },
+    {
+      "n": 24,
+      "t": "Apenas para os aeroportos das Faixas 2 e 3, o monitoramento dos IQS pode ser utilizado para a aplicação do Fator Q.",
+      "a": "C"
+    },
+    {
+      "n": 25,
+      "t": "O Fator Q é calculado com base em valores de referência (padrão, superiores e inferiores), estabelecidos pelo PEA para cada IQS.",
+      "a": "C"
+    },
+    {
+      "n": 26,
+      "t": "As concessionárias pagam à União, mediante depósito no FNAC, a parcela anual da Contribuição Fixa e a Contribuição Variável.",
+      "a": "C"
+    },
+    {
+      "n": 27,
+      "t": "O padrão de exigência de contribuições fixas e variáveis ao longo das rodadas de concessão foi um dos fatores que mais evoluiu e amadureceu a partir de lições aprendidas das primeiras rodadas.",
+      "a": "C"
+    },
+    {
+      "n": 28,
+      "t": "A remuneração das concessionárias é composta por Receitas Tarifárias e Receitas Não Tarifárias.",
+      "a": "C"
+    },
+    {
+      "n": 29,
+      "t": "São exemplos de Tarifas Aeroportuárias, a Tarifa de Embarque, a Tarifa de Pouso, a Tarifa de Capatazia e a Tarifa de Marcação de Assentos.",
+      "a": "E"
+    },
+    {
+      "n": 30,
+      "t": "Atividades como despacho de aeronaves, passageiros e bagagens, serviços auxiliares de rampa e abastecimento de combustível são relacionadas à obtenção de Receitas Tarifárias.",
+      "a": "E"
+    },
+    {
+      "n": 31,
+      "t": "A Tarifa de Capatazia é o valor que remunera os serviços de movimentação e manuseio das mercadorias nos terminais de carga do aeroporto, aplicado sobre o peso, em quilogramas, da carga movimentada no terminal de cargas, sendo aplicado uma única vez em cada carga.",
+      "a": "C"
+    },
+    {
+      "n": 32,
+      "t": "As Receitas não-tarifárias geralmente advém das atividades de manuseio de solo, varejo e alimentação, hotelaria, entre outros.",
+      "a": "C"
+    },
+    {
+      "n": 33,
+      "t": "Os riscos decorrentes da execução do objeto da concessão são alocados exclusivamente às concessionárias.",
+      "a": "E"
+    },
+    {
+      "n": 34,
+      "t": "É um risco assumido pelo poder concedente a criação, extinção e alterações, não contratualmente previstas, de Tarifas Aeroportuárias.",
+      "a": "C"
+    },
+    {
+      "n": 35,
+      "t": "um risco assumido pela concessionária a ocorrência de eventos de força maior ou caso fortuito, exceto quando a sua cobertura puder ser contratada junto a instituições seguradoras, no mercado brasileiro, na data da ocorrência ou quando houver apólices vigentes que cubram o evento.",
+      "a": "E"
+    },
+    {
+      "n": 36,
+      "t": "É um risco suportado pela concessionária o aumento de preço nos insumos para a execução das obras, salvo aqueles que decorram diretamente de mudanças tributárias.",
+      "a": "C"
+    },
+    {
+      "n": 37,
+      "t": "Mudanças dos projetos apresentados pela Concessionária que não tenham sido solicitadas pela ANAC são riscos assumidos exclusivamente pela concessionária.",
+      "a": "C"
+    },
+    {
+      "n": 38,
+      "t": "Sempre que atendidas as condições previstas nos contratos e respeitada a alocação de riscos nelas estabelecidas, considera-se mantido o equilíbrio econômico- financeiro dos contratos de concessão, que será preservado por meio de mecanismos de reajuste e de revisão.",
+      "a": "C"
+    },
+    {
+      "n": 39,
+      "t": "A Revisão Extraordinária objetiva a recomposição do equilíbrio econômico- financeiro dos contratos, a fim de compensar as perdas ou ganhos das concessionárias, devidamente comprovados, em virtude da ocorrência de eventos (riscos) suportados exclusivamente pelo poder concedente, desde que impliquem alteração relevante dos custos ou da receita das concessionárias.",
+      "a": "C"
+    },
+    {
+      "n": 40,
+      "t": "A concessionária decide qual a medida utilizada, individual ou em conjunto, para realizar a recomposição do equilíbrio econômico-financeiro.",
+      "a": "E"
+    },
+    {
+      "n": 41,
+      "t": "A recomposição do equilíbrio econômico-financeiro pode ser feita utilizando-se da alteração do valor das Tarifas, alteração do prazo da concessão, alteração das obrigações contratuais da Concessionária, relicitação do contrato ou outra forma definida pela ANAC.",
+      "a": "E"
+    },
+    {
+      "n": 42,
+      "t": "A recomposição do equilíbrio econômico-financeiro pode ser feita através de alteração do valor das Tarifas, alteração do prazo da concessão, cancelamento das obrigações contratuais da Concessionária, ou outra forma pactuada entre a ANAC e a concessionária. 14.4",
+      "a": "C"
+    },
+    {
+      "n": 43,
+      "t": "O Programa Nacional de Desestatização - PND, em 2011, visava a inclusão dos aeroportos de Brasília, Guarulhos e Viracopos nos programas de concessão de aeroportos.",
+      "a": "C"
+    },
+    {
+      "n": 44,
+      "t": "Nas primeiras rodadas de concessão, foram prescritos investimentos para os primeiros meses das concessões e foram definidos investimentos obrigatórios a serem executados no curso da concessão.",
+      "a": "C"
+    },
+    {
+      "n": 45,
+      "t": "Sob o ponto de vista da obtenção de receitas, a gestão pública é mais eficiente que a empresa privada, pois as novas concessionárias, em curto prazo, conseguiram incremento de receitas comerciais importantes, superior ao dobro da Infraero.",
+      "a": "E"
+    },
+    {
+      "n": 46,
+      "t": "As diretrizes públicas para as primeiras concessões focaram nas concessões coletivas dos grandes aeroportos internacionais.",
+      "a": "E"
+    },
+    {
+      "n": 47,
+      "t": "Nas primeiras concessões de aeroportos, o objetivo inicial era implementar investimentos obrigatórios em curto prazo para atender à alta demanda esperada.",
+      "a": "C"
+    },
+    {
+      "n": 48,
+      "t": "A Infraero participa até hoje dos processos de concessão com o objetivo de obter experiência com os operadores privados.",
+      "a": "E"
+    },
+    {
+      "n": 49,
+      "t": "A partir da 5ª rodada, como forma de expandir a política de concessões à malha aeroportuária federal, os leilões passaram a ser organizados em blocos de aeroportos, com infraestruturas rentáveis e outras não rentáveis.",
+      "a": "C"
+    },
+    {
+      "n": 50,
+      "t": "Os investimentos prescritivos nas concessões aos poucos foram sendo remodelados e deram lugar a obrigações voltadas ao desempenho, à performance que a Concessionária deve ser capaz de prover.",
+      "a": "C"
+    },
+    {
+      "n": 51,
+      "t": "Obra pública é toda construção, reforma, fabricação, recuperação ou ampliação de bem público, realizada exclusivamente de forma direta, quando a obra é feita pelo próprio órgão ou entidade da Administração, por seus próprios meios, através de licitação.",
+      "a": "E"
+    },
+    {
+      "n": 52,
+      "t": "De acordo com o CBAer, os aeroportos constituem universalidades, equiparadas a bens públicos federais, enquanto mantida a sua destinação específica, embora não tenha a União a propriedade de todos os imóveis em que se situam.",
+      "a": "C"
+    },
+    {
+      "n": 53,
+      "t": "As obras de construção, reforma, recuperação ou ampliação de aeroportos, em geral, são obras públicas, em sentido amplo e, na maioria das vezes, realizadas de forma direta, geralmente contratadas pelo órgão público responsável pela construção e operação do aeródromo.",
+      "a": "E"
+    },
+    {
+      "n": 54,
+      "t": "As leis prevêem que as obras públicas sejam realizadas via licitação pública e trazem diversos regimes em que as obras podem ser contratadas, desde a empreitada por preço unitário, contratação por tarefa ou a contratação integrada.",
+      "a": "C"
+    },
+    {
+      "n": 55,
+      "t": "Independente da modalidade de contratação da obra pública, o contratante deve acompanhar, fiscalizar e atestar o objeto contratado, como forma de garantir que o empreendimento foi executado conforme o contratado.",
+      "a": "C"
+    },
+    {
+      "n": 56,
+      "t": "É previsto na legislação de concessões que hajam contratos de concessão apenas para a execução de obras aeroportuárias.",
+      "a": "E"
+    },
+    {
+      "n": 57,
+      "t": "Obra pública realizada de maneira indireta é aquela em que o órgão contrata o serviço de terceiros através de concessão.",
+      "a": "E"
+    },
+    {
+      "n": 58,
+      "t": "As obras realizadas nos aeroportos podem ser classificadas em três grupos distintos, aquelas relacionadas às infraestruturas destinadas à prestação do serviço público, às infraestruturas voltadas às atividades de apoio e às infraestruturas destinadas às atividades comerciais aeroportuárias.",
+      "a": "C"
+    },
+    {
+      "n": 59,
+      "t": "Assim como em uma obra pública de sentido clássico, o objeto da concessão de um aeroporto é uma infraestrutura completa, operacional, segura e que atenda a demanda com eficiência e conforto.",
+      "a": "E"
+    },
+    {
+      "n": 60,
+      "t": "Na Fase I-A da concessão, temos dois estágios, a apresentação do PTO e o acompanhamento das operações.",
+      "a": "C"
+    },
+    {
+      "n": 61,
+      "t": "As obras nas infraestruturas destinadas à prestação do serviço público são executadas, mantidas e exploradas sob a responsabilidade direta dos operadores aeroportuários e são os principias pontos de atenção do Poder Concedente.",
+      "a": "C"
+    },
+    {
+      "n": 62,
+      "t": "São deveres da concessionária, dentre outros, assegurar a adequada prestação dos serviços, atender às Especificações Mínimas da Infraestrutura Aeroportuária e executar os investimentos e serviços de sua responsabilidade.",
+      "a": "C"
+    },
+    {
+      "n": 63,
+      "t": "A concessionária não precisa solicitar prévia autorização da ANAC para a realização de adequações na infraestrutura aeroportuária que reduzam, de forma significativa, a oferta da infraestrutura.",
+      "a": "E"
+    },
+    {
+      "n": 64,
+      "t": "É um direito do poder concedente analisar os projetos, planos e programas relativos à implementação do aeroporto, bem como exigir as modificações que se revelarem necessárias para atendimento ao PEA.",
+      "a": "C"
+    },
+    {
+      "n": 65,
+      "t": "Investimentos não previstos em equipamentos ou obras de infraestrutura, decorrentes de nova exigência da ANAC, ou regulamentação pública e legislação brasileiras supervenientes são riscos suportados pela concessionária.",
+      "a": "E"
+    },
+    {
+      "n": 66,
+      "t": "O PEA detalha o objeto da concessão e determina as obrigações e condições de exploração do aeroporto pela concessionária.",
+      "a": "C"
+    },
+    {
+      "n": 67,
+      "t": "O nível de serviço dos terminais de passageiros corresponde à disponibilização adequada de capacidade de processamento de passageiros e processamento de passageiros em ponte de embarque de acordo com parâmetros definidos.",
+      "a": "C"
+    },
+    {
+      "n": 68,
+      "t": "O processamento de passageiros em pontes de embarque em percentual igual ou superior ao mínimo estabelecido aplica-se apenas a aeroportos que processam mais de 5 milhões de passageiros por ano.",
+      "a": "E"
+    },
+    {
+      "n": 69,
+      "t": "As Revisões dos Parâmetros da Concessão serão realizadas a cada período de 5 anos do período da Concessão e têm, como objetivo, permitir a determinação dos Indicadores de Qualidade de Serviços (IQS), da metodologia de cálculo do Fator Q e outros.",
+      "a": "C"
+    },
+    {
+      "n": 70,
+      "t": "A Hora Pico corresponde à 30ª hora rodada mais movimentada no ano civil, ou seja, a hora rodada mais movimentada, que apresenta a 36ª maior razão entre a demanda e capacidade de processamento de passageiros.",
+      "a": "E"
+    },
+    {
+      "n": 71,
+      "t": "A capacidade de processamento de passageiros dos componentes operacionais é calculada de acordo com os Parâmetros Mínimos de Dimensionamento.",
+      "a": "C"
+    },
+    {
+      "n": 72,
+      "t": "A partir da Fase II, para aeroportos que processem entre 1 e 5 milhões de passageiros, o percentual mínimo de passageiros processados em pontes de embarque não deve ser inferior a 80% da movimentação total.",
+      "a": "E"
+    },
+    {
+      "n": 73,
+      "t": "O anteprojeto é definido no contrato de concessão como a representação técnica do investimento pretendido e deve ser encaminhado à ANAC em até 180 dias da eficácia do contrato.",
+      "a": "C"
+    },
+    {
+      "n": 74,
+      "t": "O PGI tem por objetivo assegurar à ANAC e demais partes interessadas que a concessionária possui um planejamento adequado de ações para atender às especificações mínimas da infraestrutura aeroportuária.",
+      "a": "C"
+    },
+    {
+      "n": 75,
+      "t": "O primeiro PGI deve ser entregue pela concessionária em até 24 meses da data de eficácia do contrato para cada aeroporto do bloco.",
+      "a": "C"
+    },
+    {
+      "n": 76,
+      "t": "O PGI deve apresentar a Avaliação das Condições das Instalações (ACI), Programa de Melhorias de Infraestrutura (PMI) e Caderno de Plantas.",
+      "a": "C"
+    },
+    {
+      "n": 77,
+      "t": "No PMI, a concessionária deverá avaliar a capacidade futura da infraestrutura, apresentar a previsão de demanda e os investimentos, padrões operacionais ou melhorias programadas para assegurar a qualidade e o nível dos serviços.",
+      "a": "E"
+    },
+    {
+      "n": 78,
+      "t": "O PMI deverá identificar os momentos em que as demandas de aeronaves, veículos e passageiros passarão a constituir os gatilhos de investimentos.",
+      "a": "C"
+    },
+    {
+      "n": 79,
+      "t": "Gatilho de Investimento em Terminais de Passageiros é o momento, durante a Fase II da Concessão, em que a demanda de passageiros na Hora Pico atinge 80% da capacidade do componente operacional, de acordo com o nível de serviço estabelecido no PEA.",
+      "a": "E"
+    },
+    {
+      "n": 80,
+      "t": "A cada evento de Gatilho de Investimento de Terminais de Passageiros, de sistema de pistas e de pátios de aeronaves, a Concessionária deverá apresentar à ANAC, em até 90 dias, um plano contendo as ações a serem realizadas para manter o nível de serviço estabelecido e o atendimento aos requisitos de infraestrutura, conforme previsto no PEA. 15.1",
+      "a": "C"
+    },
+    {
+      "n": 81,
+      "t": "O Painel de Gestão da Segurança Operacional foi estabelecido pela Comissão de Navegação Aérea para fornecer orientações para a elaboração do Anexo 19, que visa auxiliar os Estados na gestão do risco à segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 82,
+      "t": "A Garantia da Segurança Operacional, que inclui a supervisão intermitente das atividades de segurança operacional e a implementação de melhorias, baseadas em auditorias e análises de desempenho, é um dos itens abordados no Anexo 19 da ICAO.",
+      "a": "E"
+    },
+    {
+      "n": 83,
+      "t": "O Anexo 19 da ICAO exige que todos os Estados membros estabeleçam um Programa de Segurança Operacional do Estado (PSO) e que as organizações de aviação desenvolvam Sistemas de Gerenciamento da Segurança Operacional (SGSO).",
+      "a": "C"
+    },
+    {
+      "n": 84,
+      "t": "O Manual de Gerenciamento da Segurança Operacional - Doc. 9859 fornece orientações detalhadas sobre a implementação e a gestão eficaz da segurança operacional na aviação civil.",
+      "a": "C"
+    },
+    {
+      "n": 85,
+      "t": "Enquanto o PSO é implementado a nível organizacional, o SGSO possui uma perspectiva mais abrangente, a nível estatal.",
+      "a": "E"
+    },
+    {
+      "n": 86,
+      "t": "O SGSO é uma abordagem macro, implementada por organizações individuais, que se concentra na identificação e mitigação de riscos dentro das operações específicas da organização, permitindo que as organizações gerenciem sua própria segurança operacional de maneira proativa e eficiente.",
+      "a": "E"
+    },
+    {
+      "n": 87,
+      "t": "O PSO estabelece a base regulatória e supervisiona a conformidade, o SGSO garante que as práticas de segurança sejam implementadas e mantidas no nível operacional.",
+      "a": "C"
+    },
+    {
+      "n": 88,
+      "t": "A segurança é definida como a condição em que os riscos associados às atividades de aviação são reduzidos e controlados a um nível aceitável.",
+      "a": "C"
+    },
+    {
+      "n": 89,
+      "t": "A segurança da aviação iniciou com foco na abordagem técnica, passou a abordar fatores humanos, questões organizacionais e, a partir do início do século XXI, passou a focar na abordagem sistêmica total, reconhecendo a complexidade da aviação e a importância da interação entre organizações, processos e tecnologias.",
+      "a": "C"
+    },
+    {
+      "n": 90,
+      "t": "Na abordagem sistêmica total, o foco da segurança passa a ser o gerenciamento dos riscos que atravessam múltiplas atividades da aviação, bem como a consideração das interações entre organizações, pessoas, processos e tecnologias.",
+      "a": "C"
+    },
+    {
+      "n": 91,
+      "t": "A história dos modelos de acidentes pode ser dividida em duas fases distintas, a de modelos lineares simples e a de modelos não-lineares complexos.",
+      "a": "E"
+    },
+    {
+      "n": 92,
+      "t": "Os modelos lineares complexos consideram que os acidentes resultam de uma combinação de atos inseguros e condições latentes de perigo dentro do sistema, seguindo um caminho linear.",
+      "a": "C"
+    },
+    {
+      "n": 93,
+      "t": "Na abordagem de modelos não-lineares de acidentes, estes são resultado de combinações de variáveis não-interativas que ocorrem em ambientes do mundo real.",
+      "a": "E"
+    },
+    {
+      "n": 94,
+      "t": "A primeira teoria sequencial de acidentes foi a \"Teoria do Dominó\", a qual propõe que a ocorrência de uma lesão evitável é o resultado natural de uma série de eventos ou circunstâncias que ocorrem invariavelmente em uma ordem lógica.",
+      "a": "C"
+    },
+    {
+      "n": 95,
+      "t": "Heinrich propõe que um acidente é um, dentre cinco fatores, que são o ambiente social, a falha da pessoa, atos inseguros, perigos mecânicos e físicos, acidente e lesão.",
+      "a": "C"
+    },
+    {
+      "n": 96,
+      "t": "Heinrich denomina a falha mecânica como a principal causa de acidentes, tendo como fator central atos inseguros e perigos mecânicos.",
+      "a": "E"
+    },
+    {
+      "n": 97,
+      "t": "Na Teoria do Queijo Suíço de Reason, cada fatia de queijo representa uma barreira ou defesa contra falhas de segurança, enquanto os buracos nas fatias representam as falhas ou vulnerabilidades em cada camada de defesa.",
+      "a": "C"
+    },
+    {
+      "n": 98,
+      "t": "Para Reason, erros humanos são inevitáveis, mas muitos acidentes podem ser prevenidos através do fortalecimento das defesas organizacionais e do gerenciamento eficaz dos riscos.",
+      "a": "C"
+    },
+    {
+      "n": 99,
+      "t": "O Modelo de Acidente Sistêmico-Teórico e Processo (STAMP) propõe que os acidentes são meramente o resultado de falhas de componentes individuais em interações inadequadas com os componentes do sistema.",
+      "a": "E"
+    },
+    {
+      "n": 100,
+      "t": "O Modelo de Acidente por Ressonância Funcional (FRAM) aborda a segurança a partir da perspectiva de que as funções de um sistema são variáveis e interdependentes, e que os acidentes ocorrem devido à variabilidade normal no desempenho das funções.",
+      "a": "C"
+    },
+    {
+      "n": 101,
+      "t": "O FRAM sugere que devemos tentar eliminar a variabilidade e entender como ela pode levar a resultados inesperados e indesejáveis através da ressonância funcional, onde pequenas variações em diferentes funções podem se combinar e amplificar, resultando em um acidente. 15.3",
+      "a": "E"
+    },
+    {
+      "n": 102,
+      "t": "Como signatário da Convenção sobre Aviação Civil Internacional, O Brasil assumiu o compromisso de promulgar e editar regulamentos, como o State Safety Program (SSP), que é um conjunto integrado de regulamentações e atividades que objetivam aprimorar a segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 103,
+      "t": "O Brasil implementou o SSP através do Programa Brasileiro para a Segurança Operacional da Aviação Civil (PSO-BR), aprovada por uma Portaria Conjunta ANAC/COMAER.",
+      "a": "C"
+    },
+    {
+      "n": 104,
+      "t": "O PSO-BR adotou um modelo de segurança compartilhada entre a ANAC e a Presidência da República.",
+      "a": "E"
+    },
+    {
+      "n": 105,
+      "t": "O PSO-BR adotou um modelo de governança compartilhada entre a ANAC e o COMAER, em que a função de executivo responsável do SSP é compartilhada entre o Diretor Presidente da ANAC e o Diretor Geral do CENIPA.",
+      "a": "E"
+    },
+    {
+      "n": 106,
+      "t": "O PSO-BR é complementado pelo PSOE-ANAC e pelo PSOE-COMAER, que são programas específicos da ANAC e do COMAER.",
+      "a": "C"
+    },
+    {
+      "n": 107,
+      "t": "A Assessoria de Segurança Operacional (ASSOP) é a unidade responsável por coordenar e integrar a atuação das unidades da ANAC, no que tange ao gerenciamento da segurança operacional e por assessorar o Diretor-Presidente e a Diretoria Colegiada em relação à supervisão e ao gerenciamento da segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 108,
+      "t": "O CSO-BR exerce a coordenação do PSO-BR e realiza a coordenação entre a ANAC e o COMAER, estabelecendo e monitorando o Nível Aceitável de Desempenho de Segurança Operacional (NADSO) do país, além de deliberar sobre os indicadores de segurança operacional da aviação civil brasileira.",
+      "a": "C"
+    },
+    {
+      "n": 109,
+      "t": "O CSO-BR é composto pelos executivos responsáveis do PSO-BR (o Diretor- Presidente da ANAC e o Diretor-Geral do DECEA), e por um Grupo Técnico Permanente (GTP), responsável por realizar estudos em assuntos relacionados com a segurança operacional, formado por 5 representantes da Agência e outros 5 representantes do COMAER.",
+      "a": "E"
+    },
+    {
+      "n": 110,
+      "t": "Além dos executivos responsáveis pelo PSO-BR e do GTP, o CSO-BR ainda conta com a participação dos Chefes do Cenipa e da ASOCEA como convidados permanentes.",
+      "a": "C"
+    },
+    {
+      "n": 111,
+      "t": "A coordenação do CSO-BR é alternada entre ANAC e COMAER a cada 2 anos, e a periodicidade em que se reúne é anual para o CSO-BR como um todo, e anual para o GTP.",
+      "a": "E"
+    },
+    {
+      "n": 112,
+      "t": "Uma das principais entregas do CSO-BR é o Plano Nacional de Segurança Operacional (PNSO), que estabelece objetivos, metas e indicadores de segurança operacional para o Estado brasileiro em alinhamento com o South America Safety Plan (SAMSP) e com o Global Aviation Safety Plan (GASP), os quais estabelecem objetivos, metas e indicadores, à nível regional e global, respectivamente.",
+      "a": "C"
+    },
+    {
+      "n": 113,
+      "t": "Entre os objetivos do PNSO está a redução do número de acidentes nas operações de transporte aéreo, regidas pelo RBAC 135, e nas operações de aviação privada. 15.5",
+      "a": "C"
+    },
+    {
+      "n": 114,
+      "t": "O propósito de um Sistema de Gerenciamento da Segurança Operacional (SGSO) é fornecer aos prestadores de serviço uma abordagem sistemática para gerenciar a segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 115,
+      "t": "O SGSO é projetado para melhorar continuamente o desempenho de segurança operacional por meio da identificação de perigos; coleta e análise de dados e informações de segurança; e avaliação contínua dos riscos de segurança, buscando mitigar proativamente os riscos de segurança antes que resultem em acidentes e incidentes de aviação.",
+      "a": "C"
+    },
+    {
+      "n": 116,
+      "t": "Apenas alguns elementos da estrutura do SGSO serão escolhidos de acordo com o tamanho e complexidade do prestador de serviço, sendo a implementação adaptada à organização e suas atividades.",
+      "a": "E"
+    },
+    {
+      "n": 117,
+      "t": "A estrutura do SGSO é composta por quatro componentes e doze elementos, que são aplicáveis a todos os prestadores de serviços, independente de seu tamanho ou complexidade.",
+      "a": "C"
+    },
+    {
+      "n": 118,
+      "t": "O componente Política e Objetivos de Segurança do SGSO estabelece a base para a cultura de segurança de uma organização, definindo o compromisso da alta administração, as responsabilidades e as diretrizes para a promoção de um ambiente seguro.",
+      "a": "C"
+    },
+    {
+      "n": 119,
+      "t": "O compromisso da alta gestão com a segurança é fundamental, sendo demonstrado, por exemplo, através de declarações de política de segurança, alocação de recursos e participação ativa.",
+      "a": "C"
+    },
+    {
+      "n": 120,
+      "t": "Somente os funcionários da alta direção devem possuir responsabilidades específicas em relação à segurança e precisam saber como elas se conectam aos objetivos globais de segurança da organização.",
+      "a": "E"
+    },
+    {
+      "n": 121,
+      "t": "Designar pessoal-chave de segurança é um dos tópicos abordados dentro do componente Política e Objetivos da Segurança Operacional.",
+      "a": "C"
+    },
+    {
+      "n": 122,
+      "t": "A criação de planos detalhados que abordem tanto os cenários de emergência quanto as ações a serem tomadas está entre os elementos do planejamento de resposta a emergências.",
+      "a": "C"
+    },
+    {
+      "n": 123,
+      "t": "Risco de segurança operacional é a combinação da probabilidade de ocorrência de um evento indesejado e da gravidade das consequências desse evento, o qual serve de base para a identificação e a avaliação de ameaças potenciais que podem afetar a segurança operacional de uma organização.",
+      "a": "C"
+    },
+    {
+      "n": 124,
+      "t": "Um perigo é qualquer coisa que possa causar danos às pessoas ou danificar aeronaves, equipamentos ou estruturas, como mau tempo, terreno montanhoso ou a fadiga.",
+      "a": "C"
+    },
+    {
+      "n": 125,
+      "t": "O risco existe no presente, enquanto o perigo associado a esse risco pode ocorrer no futuro.",
+      "a": "E"
+    },
+    {
+      "n": 126,
+      "t": "O perigo é a probabilidade ou a chance de que alguém possa ser prejudicado por diversos riscos, juntamente com uma indicação de quão grave pode ser a consequência ou o dano.",
+      "a": "C"
+    },
+    {
+      "n": 127,
+      "t": "O processo de gerenciamento de riscos começa com a mitigação de perigos.",
+      "a": "E"
+    },
+    {
+      "n": 128,
+      "t": "Durante a fase de identificação de perigos, é essencial envolver apenas a alta direção da organização, que possui conhecimento específico para identificar qualquer perigo presente.",
+      "a": "E"
+    },
+    {
+      "n": 129,
+      "t": "A introdução de controles adicionais de segurança, revisões de procedimentos operacionais, aprimoramento da formação e capacitação de pessoal são exemplos de medidas de mitigação de riscos.",
+      "a": "C"
+    },
+    {
+      "n": 130,
+      "t": "O gerenciamento de riscos à segurança operacional opera isoladamente, garantindo uma abordagem coerente e holística para a gestão da segurança operacional, alinhando objetivos estratégicos com práticas operacionais diárias.",
+      "a": "E"
+    },
+    {
+      "n": 131,
+      "t": "Após implementar as medidas de mitigação de riscos, é crucial monitorar continuamente sua eficácia e revisar periodicamente o sistema de gestão de segurança, o que envolve a coleta de dados operacionais, análise de tendências de segurança, revisões de desempenho e feedback dos stakeholders.",
+      "a": "C"
+    },
+    {
+      "n": 132,
+      "t": "Um SGSO robusto e eficaz é capaz de se adaptar às mudanças nas condições operacionais e às novas ameaças.",
+      "a": "C"
+    },
+    {
+      "n": 133,
+      "t": "Auditorias internas, investigações de segurança operacional e gestão de mudanças são exemplos de atividades para a eliminação da segurança operacional.",
+      "a": "E"
+    },
+    {
+      "n": 134,
+      "t": "Os Indicadores de Desempenho de Segurança (SPI) são um componente essencial da tomada de decisões baseada em dados e medem o alcance dos seus objetivos de segurança, além de fornecerem uma medida da integridade e eficácia dos processos e atividades do SGSO.",
+      "a": "C"
+    },
+    {
+      "n": 135,
+      "t": "O processo de Garantia de Segurança não necessita do desenvolvimento de um plano detalhado que define as atividades de verificação e revisão a serem realizadas.",
+      "a": "E"
+    },
+    {
+      "n": 136,
+      "t": "A realização de auditorias, revisões e avaliação são necessárias para garantir a conformidade e eficácia do SGSO.",
+      "a": "C"
+    },
+    {
+      "n": 137,
+      "t": "O principal objetivo da Garantia da Segurança é garantir que o SGSO implementado pela organização esteja funcionando conforme projetado, cumprindo os requisitos regulatórios e melhorando continuamente a segurança operacional.",
+      "a": "C"
+    },
+    {
+      "n": 138,
+      "t": "O processo de mudanças em uma organização deve ser gerenciado, embora não traga riscos diretos à manutenção da segurança.",
+      "a": "E"
+    },
+    {
+      "n": 139,
+      "t": "Uma das atividades do processo de melhoria contínua do SGSO é a revisão gerencial, realizada periodicamente para avaliar o desempenho do SGSO, revisar as ações implementadas e garantir que as estratégias de segurança estejam alinhadas com os objetivos organizacionais.",
+      "a": "C"
+    },
+    {
+      "n": 140,
+      "t": "Os principais objetivos da promoção da segurança incluem sensibilizar todos os membros da organização para a importância da segurança, incentivar a participação ativa em programas de segurança e promover a comunicação aberta e eficaz sobre questões de segurança.",
+      "a": "C"
+    },
+    {
+      "n": 141,
+      "t": "O programa de treinamento deve ser uniforme para todos, independente do envolvimento no SGSO, visando a mesma profundidade e nível de treinamento.",
+      "a": "E"
+    },
+    {
+      "n": 142,
+      "t": "A promoção da segurança se limita às fronteiras organizacionais, devendo haver confidencialidade de informações entre stakeholders externos, como autoridades reguladoras, fornecedores, passageiros e comunidade local.",
+      "a": "E"
+    },
+    {
+      "n": 143,
+      "t": "A implementação bem-sucedida de um SGSO requer compromisso da alta administração, recursos adequados e uma cultura organizacional que valorize a segurança em todas as operações.",
       "a": "C"
     }
   ],
